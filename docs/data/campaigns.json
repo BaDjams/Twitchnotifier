@@ -1,119 +1,11 @@
 {
- "updatedAt": "2026-10-19T19:22:04Z",
+ "updatedAt": "2026-10-19T22:17:10Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "538008dd-97f3-4a4e-8144-e6648396299b",
-   "name": "PMCFQ Coloring Stream",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T18:00:00Z",
-   "endAt": "2026-10-19T20:14:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our bonus fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "warframe"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture ",
-     "minutes": 15,
-     "startAt": "2026-10-19T18:00:00Z",
-     "endAt": "2026-10-19T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-19T18:00:00Z",
-     "endAt": "2026-10-19T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Furniture",
-     "minutes": 60,
-     "startAt": "2026-10-19T18:00:00Z",
-     "endAt": "2026-10-19T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Furniture",
-     "minutes": 90,
-     "startAt": "2026-10-19T18:00:00Z",
-     "endAt": "2026-10-19T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645",
-   "name": "MSF | Oct Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-12T21:00:00Z",
-   "endAt": "2026-10-19T20:59:59.999Z",
-   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/725d2087-12aa-4a78-8d46-e0c576db33e3.png",
-   "detailsURL": "https://marvelstrikeforce.com/twitch",
-   "linkURL": "https://marvelstrikeforce.com/twitch",
-   "owner": "Scopely",
-   "game": {
-    "id": "504651",
-    "name": "MARVEL Strike Force",
-    "slug": "marvel-strike-force",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-10-12T21:00:00Z",
-     "endAt": "2026-10-19T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1M Gold",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cddf9bc7-2d79-4a9a-ab71-c05847a7503e.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b",
    "name": "Bloodtide Drops 🩸",
@@ -266,6 +158,43 @@
       {
        "name": "Valmont Pink Skin Variant",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1f4bddc1-6ce8-47db-8272-28433f29abea.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7deb1001-f6b8-488f-a1f5-f028574b6082",
+   "name": "PMCFQ - theragingterror",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T22:00:00Z",
+   "endAt": "2026-10-19T23:59:59.999Z",
+   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch theragingterror's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/359c0e57-1327-4e6d-a81d-e5c87e255c97.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
+   "game": {
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
+   },
+   "channels": [
+    "theragingterror"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Random Furniture",
+     "minutes": 30,
+     "startAt": "2026-10-19T22:00:00Z",
+     "endAt": "2026-10-19T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Random Furniture PMCFQ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
       }
      ]
     }
@@ -1401,6 +1330,52 @@
       {
        "name": "Regalia of Awakening",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f73bcbfb-770f-4993-a1de-e3ffcae0e46f",
+   "name": "Edgerunners Series 2 ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T22:01:00Z",
+   "endAt": "2026-10-20T22:00:59.999Z",
+   "description": "Come join the release of Cyberpunk: Edgerunners 2: Twitch Co-Streaming!!!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf707f66-9658-48fe-9658-70b908c8ee22.png",
+   "detailsURL": "https://www.twitch.tv/drops/campaigns",
+   "linkURL": "https://www.twitch.tv",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "65876",
+    "name": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/65876-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-cyberpunk-2077"
+   },
+   "channels": [
+    "cdprojektred",
+    "cdprojektredjapan"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "Edgerunners 2",
+     "minutes": 15,
+     "startAt": "2026-10-19T22:01:00Z",
+     "endAt": "2026-10-20T22:00:59.999Z",
+     "rewards": [
+      {
+       "name": "Weak",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26f43fde-864a-4e28-982e-50d616d8feb4.png"
+      },
+      {
+       "name": "Talia",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a4ca8fe8-ef9e-49e1-8b34-73f3ffd132d7.png"
+      },
+      {
+       "name": "D",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ff8a19a-d5d2-440d-a9c8-df4a2dd0043b.png"
       }
      ]
     }
@@ -4554,6 +4529,41 @@
    ]
   },
   {
+   "id": "1a53baae-6638-43b5-817a-f3f95768c994",
+   "name": "MSF | Oct Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T21:00:00Z",
+   "endAt": "2026-10-26T20:59:59.999Z",
+   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6129bf0c-3466-4505-a726-360f285375b6.png",
+   "detailsURL": "https://marvelstrikeforce.com/twitch",
+   "linkURL": "https://marvelstrikeforce.com/twitch",
+   "owner": "Scopely",
+   "game": {
+    "id": "504651",
+    "name": "MARVEL Strike Force",
+    "slug": "marvel-strike-force",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 60,
+     "startAt": "2026-10-19T21:00:00Z",
+     "endAt": "2026-10-26T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "100 L4 Training Modules",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36c551ac-7fad-428d-9a0e-3a63458d7ba9.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "c7b62569-3b75-4f72-9700-957479fe3460",
    "name": "The Witcher 3 Remaster",
    "status": "ACTIVE",
@@ -5386,6 +5396,65 @@
       {
        "name": "Heartsteel Fan",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fc567c90-1e66-40f4-9f55-9e9b94c0231d.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "01c50678-d65a-4286-b229-35ad458af3d8",
+   "name": "Haunted Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-19T19:05:00Z",
+   "endAt": "2026-10-27T18:59:59.999Z",
+   "description": "Watch your favorite creators play Draft and claim great rewards",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7d698a3b-2892-45df-acc4-ef64325c1fcf.png",
+   "detailsURL": "https://www.marvelsnap.com/twitchdrops",
+   "linkURL": "https://www.marvelsnap.com/twitchdrops",
+   "owner": "Second Dinner",
+   "game": {
+    "id": "1743359147",
+    "name": "MARVEL SNAP",
+    "slug": "marvel-snap",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1743359147_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marvel-snap"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "155 Boosters",
+     "minutes": 120,
+     "startAt": "2026-10-19T19:05:00Z",
+     "endAt": "2026-10-27T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "155 Boosters",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/80c547ce-4c02-403e-881b-0185a1fe4131.png"
+      }
+     ]
+    },
+    {
+     "name": "Premium Mystery Border",
+     "minutes": 240,
+     "startAt": "2026-10-19T19:05:00Z",
+     "endAt": "2026-10-27T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PMB",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7afff8e4-2fc8-43f6-b0ac-ad682ab974f7.png"
+      }
+     ]
+    },
+    {
+     "name": "Premium Mystery Variant",
+     "minutes": 360,
+     "startAt": "2026-10-19T19:05:00Z",
+     "endAt": "2026-10-27T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PMV",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d43ba6de-39c5-4bfb-a19d-4d7e10ae0c7c.png"
       }
      ]
     }
