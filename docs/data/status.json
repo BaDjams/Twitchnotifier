@@ -1,1 +1,6 @@
-{}
+{
+ "checkedAt": "2026-10-19T17:59:25Z",
+ "ok": false,
+ "error": "Aucun jeton Twitch (secret TWITCH_TOKEN vide). — Relance « python scripts/login.py » puis mets à jour le secret TWITCH_TOKEN.",
+ "lastSuccess": null
+}
