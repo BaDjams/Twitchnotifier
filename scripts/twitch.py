@@ -11,12 +11,13 @@ import secrets
 import urllib.error
 import urllib.request
 
-# Client « appli Android Twitch » : c'est celui qu'utilise TwitchDropsMiner,
-# il accepte la connexion par code (device flow) sans mot de passe.
-DEFAULT_CLIENT_ID = "kd1unb4b3q4t58fwlpcbzcbnm76a8fp"
+# Client « Twitch Smart TV » : le seul qui accepte encore la connexion par code
+# (device flow) sans mot de passe ; l'ID de l'appli Android renvoie « invalid client ».
+# Le jeton est lié à ce client : il faut utiliser le même pour les appels GQL.
+DEFAULT_CLIENT_ID = "ue6666qo983tsx6so1t0vnawi233wa"
 DEFAULT_USER_AGENT = (
-    "Dalvik/2.1.0 (Linux; U; Android 16; SM-S911B Build/TP1A.220624.014) "
-    "tv.twitch.android.app/25.3.0/2503006"
+    "Mozilla/5.0 (Linux; Android 7.1; Smart Box C1) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 )
 DEFAULT_HASHES = {
     "ViewerDropsDashboard": "c16bb890cc8ce7647a96ee69cd313d423a378a3dedadf630a1017cde18975feb",

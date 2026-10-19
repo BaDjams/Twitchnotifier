@@ -110,7 +110,7 @@ Tu reçois au plus une alerte d'erreur toutes les 12 h.
 
 ## Bon à savoir
 
-- Les données viennent de l'**API interne de Twitch** (la même que l'appli Android et TwitchDropsMiner), en lecture seule, deux requêtes groupées toutes les 30 min. Ce n'est pas une API officielle : Twitch peut la modifier, et son usage automatisé est toléré mais pas garanti par les conditions d'utilisation.
+- Les données viennent de l'**API interne de Twitch** (la même que l'appli Twitch Smart TV et TwitchDropsMiner), en lecture seule, deux requêtes groupées toutes les 30 min. Ce n'est pas une API officielle : Twitch peut la modifier, et son usage automatisé est toléré mais pas garanti par les conditions d'utilisation.
 - Le rythme de 30 min est un compromis ; GitHub peut retarder les tâches planifiées de quelques minutes aux heures chargées.
 - Pour l'héberger chez toi plutôt que sur GitHub : `python scripts/check_drops.py` dans un cron + n'importe quel serveur web statique sur `docs/`.
 
