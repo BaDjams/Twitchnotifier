@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-10-19T18:44:36Z",
- "ok": false,
- "error": "Jeton Twitch refusé (401) : relance scripts/login.py. — Relance « python scripts/login.py » puis mets à jour le secret TWITCH_TOKEN.",
- "lastSuccess": null
+ "checkedAt": "2026-10-19T18:53:38Z",
+ "ok": true,
+ "error": null,
+ "lastSuccess": "2026-10-19T18:53:38Z"
 }
