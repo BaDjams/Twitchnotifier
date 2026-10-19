@@ -24,6 +24,7 @@ DEFAULT_HASHES = {
     "DropCampaignDetails": "039277bf98f3130929262cc7c6efd9c141ca3749cb6dca442fc8ead9a53f77c1",
 }
 GQL_URL = "https://gql.twitch.tv/gql"
+CLIENT_URL = "https://android.tv.twitch.tv"  # site du client Smart TV
 
 
 class TwitchError(Exception):
@@ -85,6 +86,8 @@ class TwitchClient:
             "Authorization": f"OAuth {self.token}",
             "User-Agent": self.user_agent,
             "X-Device-Id": self.device_id,
+            "Origin": CLIENT_URL,
+            "Referer": CLIENT_URL,
             "Content-Type": "application/json",
             "Accept": "application/json",
         }
@@ -127,6 +130,7 @@ class TwitchClient:
         if not everything:
             print(f"Attention : Twitch ne renvoie aucune campagne pour {self.login} "
                   f"(client {self.client_id}, droits du jeton : {self.scopes or 'aucun'}).")
+            print("Réponse brute :", json.dumps(dash)[:1500])
         summary = [c for c in everything if c.get("status") in ("ACTIVE", "UPCOMING")]
         expired = [c for c in everything if c.get("status") == "EXPIRED" and c.get("game")]
 
