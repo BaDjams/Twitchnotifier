@@ -25,6 +25,10 @@ DEFAULT_HASHES = {
 }
 GQL_URL = "https://gql.twitch.tv/gql"
 CLIENT_URL = "https://android.tv.twitch.tv"  # site du client Smart TV
+# Liste publique des campagnes actives, au format de l'API Twitch, sans jeton.
+# Depuis octobre 2026, Twitch ne donne plus la liste complète aux clients connectés
+# par code (dropCampaigns: null) : c'est la source par défaut.
+PUBLIC_URL = "https://twitch-drops-api.sunkwi.com/drops"
 
 
 class TwitchError(Exception):
@@ -155,6 +159,24 @@ class TwitchClient:
         # Les campagnes terminées servent seulement à connaître les jeux « en pause ».
         out += [normalize(c) for c in expired]
         return out
+
+
+def public_campaigns(url: str = PUBLIC_URL) -> list[dict]:
+    """Campagnes actives depuis la liste publique (pas d'annonces ni de campagnes finies)."""
+    status, data = _http("GET", url, {"User-Agent": "Twitchnotifier", "Accept": "application/json"})
+    if status != 200 or not isinstance(data, list):
+        raise TwitchError(f"Liste publique des drops indisponible ({status}) : {str(data)[:300]}")
+    out = []
+    for g in data:
+        for c in g.get("rewards") or []:
+            game = {**(c.get("game") or {}), "id": g.get("gameId") or (c.get("game") or {}).get("id")}
+            game.setdefault("displayName", g.get("gameDisplayName"))
+            game["boxArtURL"] = game.get("boxArtURL") or g.get("gameBoxArtURL")
+            if c.get("id") and game.get("id"):
+                out.append(normalize({**c, "game": game}))
+    if not out:
+        raise TwitchError("La liste publique des drops est vide.")
+    return out
 
 
 def normalize(c: dict) -> dict:

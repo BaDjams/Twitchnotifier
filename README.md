@@ -28,7 +28,9 @@ Dépôt : `badjams/twitchnotifier` — site : https://badjams.github.io/twitchno
 
 > **Public ou privé ?** En public, Actions et Pages sont gratuits et illimités. En privé, Pages demande un abonnement GitHub Pro et Actions est limité à 2 000 min/mois (ce projet en consomme ~1 500). Le contenu public se limite aux campagnes Twitch et à ta liste de jeux suivis ; aucun secret n'est dans le dépôt.
 
-### 2. Jeton Twitch
+### 2. Jeton Twitch (facultatif)
+
+Par défaut, les campagnes viennent d'une **liste publique** (`twitch-drops-api.sunkwi.com`), sans jeton : depuis octobre 2026, Twitch renvoie une liste vide aux jetons obtenus par code. Le jeton reste utilisé s'il est présent et que Twitch renvoie à nouveau des campagnes (il apporte en plus les campagnes **annoncées**). Tu peux sauter cette étape.
 
 Sur ton PC :
 
@@ -110,7 +112,8 @@ Tu reçois au plus une alerte d'erreur toutes les 12 h.
 
 ## Bon à savoir
 
-- Les données viennent de l'**API interne de Twitch** (la même que l'appli Twitch Smart TV et TwitchDropsMiner), en lecture seule, deux requêtes groupées toutes les 30 min. Ce n'est pas une API officielle : Twitch peut la modifier, et son usage automatisé est toléré mais pas garanti par les conditions d'utilisation.
+- Les données viennent d'une **liste publique tierce** (`twitch-drops-api.sunkwi.com`), une requête toutes les 30 min. Elle ne contient que les campagnes **en cours** : pas d'alertes « annoncée », et un jeu passe « En pause » quand ses campagnes disparaissent. Ce service n'est ni officiel ni garanti ; s'il tombe, tu reçois une alerte d'erreur. Autre adresse au même format : `docs/config.json` → `api.public_url`.
+- Si `TWITCH_TOKEN` est défini et que l'**API interne de Twitch** (celle de TwitchDropsMiner) renvoie des campagnes, elle est utilisée en priorité. Ce n'est pas une API officielle : Twitch peut la modifier, et son usage automatisé est toléré mais pas garanti par les conditions d'utilisation.
 - Le rythme de 30 min est un compromis ; GitHub peut retarder les tâches planifiées de quelques minutes aux heures chargées.
 - Pour l'héberger chez toi plutôt que sur GitHub : `python scripts/check_drops.py` dans un cron + n'importe quel serveur web statique sur `docs/`.
 

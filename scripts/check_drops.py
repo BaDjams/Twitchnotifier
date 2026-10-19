@@ -23,7 +23,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from notify import Event, dispatch, send_public, topic_for  # noqa: E402
-from twitch import ApiChanged, AuthError, TwitchClient, TwitchError  # noqa: E402
+from twitch import ApiChanged, AuthError, TwitchClient, TwitchError, PUBLIC_URL, public_campaigns  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "docs" / "config.json"
@@ -100,6 +100,22 @@ def campaign_url(c: dict) -> str:
     return f"https://www.twitch.tv/drops/campaigns?dropID={c['id']}"
 
 
+def fetch_campaigns(cfg: dict) -> list[dict]:
+    """API Twitch si le jeton y donne accès (inclut les annonces), sinon liste publique."""
+    api = cfg.get("api") or {}
+    token = os.environ.get("TWITCH_TOKEN", "").strip()
+    if token:
+        try:
+            client = TwitchClient(token, api)
+            client.validate()
+            campaigns = client.campaigns()
+            if campaigns:
+                return campaigns
+        except TwitchError as exc:
+            print(f"API Twitch indisponible ({exc}), repli sur la liste publique.")
+    return public_campaigns(api.get("public_url") or PUBLIC_URL)
+
+
 def prefix_of(cfg: dict) -> str:
     return ((cfg.get("public") or {}).get("ntfy_prefix") or "").strip()
 
@@ -133,7 +149,7 @@ def build_events(campaigns, cfg, state, games, now, tz):
     prefix = (pub_cfg.get("ntfy_prefix") or "").strip()
     notify = {**DEFAULT_CONFIG["notify"], **(cfg.get("notify") or {})}
     followed = cfg.get("followed_games") or {}
-    first_run = not state.get("initialized")
+    first_run = not state.get("initialized") or not games  # catalogue vide : relevés vides jusqu'ici
     notified = state.setdefault("notified", {})
 
     # 1. Jeux détectés automatiquement
@@ -249,9 +265,7 @@ def main() -> int:
         if args.fixture:
             campaigns = load(Path(args.fixture), [])
         else:
-            client = TwitchClient(os.environ.get("TWITCH_TOKEN", ""), cfg.get("api"))
-            client.validate()
-            campaigns = client.campaigns()
+            campaigns = fetch_campaigns(cfg)
     except (AuthError, ApiChanged, TwitchError, OSError) as exc:
         hint = {
             AuthError: "Relance « python scripts/login.py » puis mets à jour le secret TWITCH_TOKEN.",
