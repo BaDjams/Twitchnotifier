@@ -1,0 +1,21 @@
+{
+ "timezone": "Europe/Paris",
+ "followed_games": {},
+ "notify": {
+  "new_game": true,
+  "announced": true,
+  "started": true,
+  "ending_soon_hours": 24
+ },
+ "channels": {
+  "ntfy": true,
+  "discord": true,
+  "email": true
+ },
+ "public": {
+  "ntfy_prefix": "twitchnotifier-dz7n7k",
+  "ntfy_server": "https://ntfy.sh",
+  "announced": true
+ },
+ "api": {}
+}

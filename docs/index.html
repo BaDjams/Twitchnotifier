@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Drops Twitch</title>
+<meta name="description" content="Toutes les campagnes de drops Twitch, vos jeux favoris et des alertes quand une campagne démarre.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%239146ff'/><path d='M16 6l3 7 7 .6-5.4 4.6 1.7 7.3L16 21.6 9.7 25.5l1.7-7.3L6 13.6l7-.6z' fill='white'/></svg>">
+<style>
+:root{
+  --bg:#0e0e12; --surface:#18181f; --surface-2:#22222b; --line:#2e2e3a;
+  --text:#efeff1; --muted:#a3a3b2; --faint:#6c6c7c;
+  --accent:#9146ff; --accent-2:#b48aff; --accent-soft:rgba(145,70,255,.16);
+  --ok:#2fbf71; --warn:#f5a524; --danger:#ef4444;
+  --radius:14px; --shadow:0 8px 30px rgba(0,0,0,.35);
+  color-scheme:dark;
+}
+@media (prefers-color-scheme:light){
+  :root:not([data-theme="dark"]){
+    --bg:#f6f5fa; --surface:#ffffff; --surface-2:#f0eef7; --line:#e3e0ee;
+    --text:#17141f; --muted:#5f5a70; --faint:#9a95ab;
+    --accent:#7a3cf0; --accent-2:#6a2fe0; --accent-soft:rgba(122,60,240,.1);
+    --shadow:0 8px 30px rgba(40,20,90,.10); color-scheme:light;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text)}
+body{font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent-2)}
+code{background:var(--surface-2);padding:1px 6px;border-radius:6px;font-size:.92em}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+
+header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:10px;height:60px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:750;letter-spacing:-.01em;font-size:17px}
+.logo i{width:28px;height:28px;border-radius:8px;background:var(--accent);display:grid;place-items:center;font-style:normal;color:#fff;font-size:15px}
+.spacer{flex:1}
+.icon-btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;height:38px;min-width:38px;padding:0 10px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px}
+.icon-btn:hover{border-color:var(--accent)}
+.status-dot{width:8px;height:8px;border-radius:50%;background:var(--ok);display:inline-block}
+.status-dot.bad{background:var(--danger)}
+.updated{color:var(--muted);font-size:13px;display:flex;align-items:center;gap:7px}
+
+.hero{padding:22px 0 8px}
+.hero h1{margin:0 0 4px;font-size:clamp(24px,4vw,34px);letter-spacing:-.02em}
+.hero p{margin:0;color:var(--muted)}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 14px;min-width:110px}
+.stat b{display:block;font-size:22px;letter-spacing:-.02em}
+.stat span{color:var(--muted);font-size:12.5px}
+.alert{margin-top:14px;border-radius:12px;padding:12px 14px;font-size:14px;border:1px solid}
+.alert.err{border-color:color-mix(in srgb,var(--danger) 50%,transparent);background:color-mix(in srgb,var(--danger) 10%,transparent)}
+.alert.news{border-color:color-mix(in srgb,var(--ok) 50%,transparent);background:color-mix(in srgb,var(--ok) 10%,transparent)}
+
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:18px 0 6px;position:sticky;top:60px;z-index:10;background:var(--bg)}
+.search{flex:1 1 240px;display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:0 12px;height:40px}
+.search input{border:0;background:none;outline:none;flex:1;min-width:0}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 13px;cursor:pointer;font-size:13.5px;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+select.sort{height:40px;border-radius:10px;border:1px solid var(--line);background:var(--surface);padding:0 10px}
+
+section.group{margin:22px 0 8px}
+.group h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 12px;display:flex;align-items:center;gap:8px}
+.group h2 .n{background:var(--surface-2);color:var(--text);border-radius:999px;padding:1px 8px;font-size:12px;letter-spacing:0}
+.group .hint{color:var(--faint);font-size:13px;margin:-6px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:14px}
+.card{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;cursor:pointer;transition:transform .15s,border-color .15s;display:flex;flex-direction:column}
+.card:hover{transform:translateY(-2px);border-color:var(--accent)}
+.card.fav{border-color:color-mix(in srgb,var(--accent) 60%,var(--line))}
+.card.paused .art{filter:grayscale(.85);opacity:.6}
+.art{aspect-ratio:3/4;background:linear-gradient(135deg,var(--surface-2),var(--accent-soft));display:grid;place-items:center;font-size:40px;font-weight:800;color:var(--faint);overflow:hidden;position:relative}
+.art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.card .body{padding:10px 11px 12px}
+.card .name{font-weight:650;line-height:1.25;margin:0 0 5px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{font-size:12.5px;color:var(--muted)}
+.time{font-size:12.5px;margin-top:6px;font-weight:600}
+.time.urgent{color:var(--danger)} .time.soon{color:var(--warn)} .time.later{color:var(--accent-2)} .time.off{color:var(--faint);font-weight:500}
+.star{position:absolute;top:8px;right:8px;width:34px;height:34px;border-radius:50%;border:0;background:rgba(10,10,14,.6);color:#fff;font-size:17px;cursor:pointer;display:grid;place-items:center;backdrop-filter:blur(4px);z-index:1}
+.star[aria-pressed="true"]{background:var(--accent)}
+.badge{position:absolute;top:10px;left:10px;font-size:11px;font-weight:700;padding:3px 7px;border-radius:6px;background:var(--ok);color:#06210f;letter-spacing:.03em;z-index:1}
+.badge.up{background:var(--warn);color:#2a1a00}
+
+/* Liste compacte des jeux en pause */
+.rows{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
+.rowg{display:flex;align-items:center;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:8px 10px;cursor:pointer}
+.rowg:hover{border-color:var(--accent)}
+.rowg .mini{width:36px;height:48px;border-radius:6px;background:var(--surface-2);overflow:hidden;flex:none;position:relative;display:grid;place-items:center;color:var(--faint);font-weight:800}
+.rowg .mini img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(.6)}
+.rowg .t{flex:1;min-width:0}
+.rowg .t div:first-child{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rowg .star{position:static;background:var(--surface-2);color:var(--text);flex:none}
+.rowg .star[aria-pressed="true"]{background:var(--accent);color:#fff}
+.more{margin-top:12px}
+.empty{color:var(--muted);padding:30px 0;text-align:center}
+.addname{margin:16px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:12px 14px}
+.addname span{flex:1;min-width:200px;color:var(--muted);font-size:14px}
+
+dialog{border:0;padding:0;background:var(--surface);color:var(--text);border-radius:18px;width:min(720px,calc(100vw - 24px));max-height:calc(100vh - 40px);box-shadow:var(--shadow)}
+dialog::backdrop{background:rgba(5,5,10,.6);backdrop-filter:blur(3px)}
+.dhead{display:flex;gap:14px;align-items:center;padding:18px 18px 14px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--surface);z-index:2}
+.dhead img{width:54px;border-radius:8px}
+.dhead h3{margin:0;font-size:20px;letter-spacing:-.01em}
+.dbody{padding:6px 18px 20px}
+.close{margin-left:auto}
+.camp{border:1px solid var(--line);border-radius:12px;padding:14px;margin-top:14px}
+.camp h4{margin:0 0 3px;font-size:16px}
+.progress{height:6px;border-radius:99px;background:var(--surface-2);overflow:hidden;margin:10px 0 4px}
+.progress i{display:block;height:100%;background:var(--accent)}
+.drops{list-style:none;margin:12px 0 0;padding:0;display:grid;gap:8px}
+.drops li{display:flex;gap:10px;align-items:center;background:var(--surface-2);border-radius:10px;padding:8px 10px}
+.drops img,.drops .ph{width:40px;height:40px;border-radius:8px;object-fit:cover;background:var(--line);flex:none}
+.drops .min{margin-left:auto;font-size:12.5px;color:var(--muted);white-space:nowrap}
+.channels{font-size:13px;color:var(--muted);margin-top:10px}
+.btn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:10px;padding:10px 14px;background:var(--accent);color:#fff;font-weight:600;cursor:pointer;text-decoration:none;font-size:14px}
+.btn.ghost{background:var(--surface-2);color:var(--text)}
+.btn.sm{padding:7px 11px;font-size:13px}
+.row{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.paused-box{margin-top:14px;padding:14px;border-radius:12px;background:var(--surface-2);color:var(--muted);font-size:14px}
+
+.set h4{margin:20px 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.opt{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:11px 0;border-bottom:1px solid var(--line)}
+.opt small{display:block;color:var(--muted)}
+.switch{appearance:none;width:44px;height:26px;border-radius:99px;background:var(--line);position:relative;cursor:pointer;flex:none;transition:background .15s}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:#fff;transition:left .15s}
+.switch:checked{background:var(--accent)} .switch:checked::after{left:21px}
+.field{width:100%;height:40px;border-radius:10px;border:1px solid var(--line);background:var(--surface-2);padding:0 12px}
+.note{font-size:13px;color:var(--muted);margin-top:6px}
+details.owner{margin-top:22px;border:1px solid var(--line);border-radius:12px;padding:0 14px}
+details.owner summary{cursor:pointer;padding:12px 0;font-weight:600}
+.steps{margin:10px 0 0;padding-left:20px;color:var(--muted);font-size:14px}
+.steps li{margin:4px 0}
+.sub{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+.sub .t{flex:1;min-width:0}
+.sub .t div:first-child{font-weight:600}
+.sub code{font-size:12px;word-break:break-all}
+
+.toast{position:fixed;top:72px;left:50%;transform:translateX(-50%);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 16px;box-shadow:var(--shadow);z-index:40;display:none;max-width:calc(100vw - 24px)}
+footer{color:var(--faint);font-size:12.5px;padding:40px 0 60px;text-align:center}
+@media (max-width:560px){
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .updated .txt,.icon-btn .lbl{display:none}
+  .tools{position:static;padding-top:14px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin:0 -16px;padding:0 16px;width:calc(100% + 32px)}
+  select.sort{width:100%}
+  .stats{display:grid;grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="logo"><i>★</i>Drops Twitch</div>
+    <div class="spacer"></div>
+    <div class="updated" id="updated"><span class="status-dot" id="dot"></span><span class="txt">…</span></div>
+    <button class="icon-btn" id="openAlerts" aria-label="Alertes">🔔<span class="lbl">Alertes</span></button>
+    <button class="icon-btn" id="openSettings" aria-label="Réglages">⚙︎</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="hero">
+    <h1>Drops Twitch</h1>
+    <p>Mets une ★ aux jeux qui t'intéressent, même sans campagne en cours, et abonne-toi pour être alerté dès que la suivante démarre.</p>
+    <div class="stats" id="stats"></div>
+    <div class="alert news" id="newsBox" hidden></div>
+    <div class="alert err" id="errorBox" hidden></div>
+  </div>
+
+  <div class="tools">
+    <label class="search"><span aria-hidden="true">⌕</span><input id="q" type="search" placeholder="Rechercher un jeu, un éditeur…" autocomplete="off"></label>
+    <div class="chips" id="filters">
+      <button class="chip" data-f="all" aria-pressed="true">Tous</button>
+      <button class="chip" data-f="fav" aria-pressed="false">★ Mes jeux</button>
+      <button class="chip" data-f="ending" aria-pressed="false">Fin &lt; 24 h</button>
+      <button class="chip" data-f="new" aria-pressed="false">Nouveaux</button>
+      <button class="chip" data-f="upcoming" aria-pressed="false">À venir</button>
+      <button class="chip" data-f="paused" aria-pressed="false">En pause</button>
+    </div>
+    <select class="sort" id="sort" aria-label="Trier">
+      <option value="ending">Fin la plus proche</option>
+      <option value="drops">Plus de drops</option>
+      <option value="newest">Plus récents</option>
+      <option value="az">A → Z</option>
+    </select>
+  </div>
+
+  <div id="list"></div>
+  <footer>Projet indépendant, non affilié à Twitch ni à Amazon. Données relevées toutes les 30 min.<br>Tes favoris restent dans ton navigateur : rien n'est envoyé nulle part.</footer>
+</main>
+
+<dialog id="detail"></dialog>
+
+<dialog id="alerts" class="set">
+  <div class="dhead"><h3>🔔 Alertes</h3><button class="icon-btn close" data-close>✕</button></div>
+  <div class="dbody" id="alertsBody"></div>
+</dialog>
+
+<dialog id="settings" class="set">
+  <div class="dhead"><h3>Réglages</h3><button class="icon-btn close" data-close>✕</button></div>
+  <div class="dbody">
+    <h4>Mes favoris</h4>
+    <p class="note" style="margin-top:0" id="favCount"></p>
+    <div class="row">
+      <button class="btn ghost" id="shareFav">Copier un lien pour les transférer</button>
+      <button class="btn ghost" id="clearFav">Tout effacer</button>
+    </div>
+    <p class="note">Le lien ouvre ce site sur un autre appareil ou navigateur et y ajoute tes favoris.</p>
+
+    <details class="owner" id="ownerBox">
+      <summary>Propriétaire du site</summary>
+      <p class="note" style="margin-top:0">Réservé à la personne qui héberge ce site : ses alertes privées (Discord, email, ntfy perso) suivent les favoris de ce navigateur, envoyés dans <code>docs/config.json</code> du dépôt.</p>
+      <h4>M'alerter quand…</h4>
+      <label class="opt"><span>Une campagne démarre</span><input type="checkbox" class="switch" data-n="started"></label>
+      <label class="opt"><span>Une campagne est annoncée</span><input type="checkbox" class="switch" data-n="announced"></label>
+      <label class="opt"><span>Un nouveau jeu propose des drops<small>Tous jeux confondus</small></span><input type="checkbox" class="switch" data-n="new_game"></label>
+      <label class="opt"><span>Une campagne se termine bientôt</span>
+        <select class="sort" id="ending"><option value="0">Jamais</option><option value="6">6 h avant</option><option value="12">12 h avant</option><option value="24">24 h avant</option><option value="48">48 h avant</option></select></label>
+      <h4>Canaux privés</h4>
+      <label class="opt"><span>ntfy</span><input type="checkbox" class="switch" data-c="ntfy"></label>
+      <label class="opt"><span>Discord</span><input type="checkbox" class="switch" data-c="discord"></label>
+      <label class="opt"><span>Email</span><input type="checkbox" class="switch" data-c="email"></label>
+      <h4>Accès au dépôt</h4>
+      <p class="note" style="margin-top:0">Jeton GitHub limité à ce dépôt, droit « Contents : read and write ». Il reste dans ce navigateur.</p>
+      <div style="display:grid;gap:8px;margin-top:10px">
+        <input class="field" id="repo" placeholder="propriétaire/dépôt">
+        <input class="field" id="pat" type="password" placeholder="github_pat_…" autocomplete="off">
+      </div>
+      <div class="row" style="margin-bottom:14px">
+        <button class="btn" id="saveBtn">Enregistrer dans le dépôt</button>
+        <button class="btn ghost" id="pullBtn">Reprendre les jeux du dépôt</button>
+        <button class="btn ghost" id="forgetBtn">Oublier le jeton</button>
+      </div>
+    </details>
+  </div>
+</dialog>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(() => {
+"use strict";
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const H = 3600e3, D = 24 * H, NOW = () => Date.now();
+
+// ---- Stockage local : IndexedDB, avec repli en mémoire -------------------------
+const kv = (() => {
+  const mem = new Map();
+  let dbp = null;
+  try {
+    dbp = new Promise((res, rej) => {
+      const r = indexedDB.open("drops-twitch", 1);
+      r.onupgradeneeded = () => r.result.createObjectStore("kv");
+      r.onsuccess = () => res(r.result);
+      r.onerror = () => rej(r.error);
+    }).catch(() => null);
+  } catch { dbp = Promise.resolve(null); }
+  const tx = async (mode, fn) => {
+    const db = await dbp;
+    if (!db) return null;
+    return new Promise((res, rej) => {
+      const t = db.transaction("kv", mode), req = fn(t.objectStore("kv"));
+      t.oncomplete = () => res(req.result); t.onerror = () => rej(t.error);
+    }).catch(() => null);
+  };
+  return {
+    async get(k){ const v = await tx("readonly", s => s.get(k)); return v ?? mem.get(k) ?? null; },
+    async set(k, v){ mem.set(k, v); await tx("readwrite", s => s.put(v, k)); },
+  };
+})();
+const ls = {
+  get(k){ try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v){ try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch {} },
+};
+
+// ---- État --------------------------------------------------------------------
+let campaigns = [], games = {}, status = {}, ntfy = null, updatedAt = null;
+let favs = {};               // { idTwitch | "nom:xxx" : nom affiché }
+let prevSeen = null;         // campagnes déjà vues à la visite précédente
+let ownerCfg = null;         // config.json du dépôt
+let filter = "all", sort = ls.get("sort") || "ending", query = "", showAllPaused = false;
+
+// ---- Formats -------------------------------------------------------------------
+function boxArt(url, w = 285, h = 380){
+  if (!url) return null;
+  return url.replace("{width}", w).replace("{height}", h).replace(/-\d+x\d+(\.\w+)$/, `-${w}x${h}$1`);
+}
+function dur(ms){
+  ms = Math.abs(ms);
+  const d = Math.floor(ms / D), h = Math.floor(ms % D / H), m = Math.floor(ms % H / 60e3);
+  if (d >= 2) return `${d} j`;
+  if (d === 1) return `1 j ${h} h`;
+  if (h) return `${h} h ${String(m).padStart(2, "0")}`;
+  return `${m} min`;
+}
+const ago = ts => { const ms = NOW() - new Date(ts); return ms < 90e3 ? "à l'instant" : "il y a " + dur(ms); };
+const dateFmt = new Intl.DateTimeFormat("fr-FR", {weekday:"short", day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"});
+const fmtDate = ts => dateFmt.format(new Date(ts));
+const mins = m => { const h = Math.floor(m / 60), r = m % 60; return h ? (r ? `${h} h ${r}` : `${h} h`) : `${r} min`; };
+const norm = s => String(s || "").trim().toLowerCase();
+// Même règle que topic_for() côté Python
+function topicFor(key){
+  if (!ntfy) return null;
+  const clean = norm(key).replace(/[^a-z0-9_-]+/g, "-").replace(/^-+|-+$/g, "") || "jeu";
+  return `${ntfy.prefix}-${clean}`.slice(0, 64).replace(/-+$/, "");
+}
+
+// ---- Favoris -------------------------------------------------------------------
+const favNames = () => new Set(Object.values(favs).map(norm));
+const isFav = g => !!favs[g.id] || favNames().has(norm(g.name));
+async function saveFavs(){ await kv.set("favorites", favs); }
+async function toggleFav(id, name){
+  const g = allGames().find(x => x.id === id) || {id, name};
+  if (isFav(g)){
+    delete favs[g.id];
+    for (const [k, v] of Object.entries(favs)) if (norm(v) === norm(g.name)) delete favs[k];
+  } else {
+    favs[g.id] = g.name;
+    if (ntfy) toast(`★ ${g.name} ajouté. Pour être prévenu, abonne-toi dans 🔔 Alertes.`, 4500);
+  }
+  await saveFavs(); render();
+  if ($("#detail").open) openDetail(g.id);
+  if ($("#alerts").open) renderAlerts();
+}
+
+// ---- Catalogue : jeux avec ou sans campagne ------------------------------------
+function allGames(){
+  const map = new Map();
+  for (const [id, g] of Object.entries(games)) map.set(id, {...g, id, campaigns: []});
+  for (const c of campaigns){
+    const g = c.game; if (!g) continue;
+    if (!map.has(g.id)) map.set(g.id, {...g, campaigns: []});
+    map.get(g.id).campaigns.push(c);
+  }
+  // Favoris ajoutés par nom, pas encore vus sur Twitch
+  const names = new Set([...map.values()].map(g => norm(g.name)));
+  for (const [k, v] of Object.entries(favs))
+    if (!map.has(k) && !names.has(norm(v))) map.set(k, {id: k, name: v, manual: true, campaigns: []});
+
+  const now = NOW();
+  for (const g of map.values()){
+    const active = g.campaigns.filter(c => new Date(c.startAt) <= now);
+    const upcoming = g.campaigns.filter(c => new Date(c.startAt) > now);
+    g.active = active.length > 0;
+    g.paused = g.campaigns.length === 0;
+    g.endsAt = active.length ? Math.min(...active.map(c => +new Date(c.endAt))) : null;
+    g.startsAt = upcoming.length ? Math.min(...upcoming.map(c => +new Date(c.startAt))) : null;
+    g.dropCount = g.campaigns.reduce((n, c) => n + (c.drops?.length || 0), 0);
+    g.rewardCount = g.campaigns.reduce((n, c) => n + c.drops.reduce((k, d) => k + d.rewards.length, 0), 0);
+    g.isNew = !g.paused && g.firstSeen && now - new Date(g.firstSeen) < 7 * D;
+    g.unseen = prevSeen && g.campaigns.some(c => !prevSeen.has(c.id));
+    g.owners = [...new Set(g.campaigns.map(c => c.owner).filter(Boolean))];
+    g.fav = isFav(g);
+    g.topic = g.topic || topicFor(g.slug || g.name);
+  }
+  return [...map.values()];
+}
+function sorter(a, b){
+  if (sort === "az") return a.name.localeCompare(b.name, "fr");
+  if (sort === "drops") return b.dropCount - a.dropCount;
+  if (sort === "newest") return new Date(b.firstSeen || 0) - new Date(a.firstSeen || 0);
+  const k = g => g.endsAt ?? (g.startsAt ? g.startsAt + 1e13 : 9e15 - new Date(g.lastCampaignEnd || 0));
+  return k(a) - k(b);
+}
+
+// ---- Rendu -------------------------------------------------------------------
+function timeLine(g){
+  const now = NOW();
+  if (g.active){ const left = g.endsAt - now; return [`Fin dans ${dur(left)}`, left < D ? "urgent" : left < 3 * D ? "soon" : "later"]; }
+  if (g.startsAt) return [`Début dans ${dur(g.startsAt - now)}`, "later"];
+  if (g.manual) return ["Pas encore de drops", "off"];
+  return [g.lastCampaignEnd ? `En pause depuis ${dur(now - new Date(g.lastCampaignEnd))}` : "En pause", "off"];
+}
+function card(g){
+  const [time, cls] = timeLine(g);
+  const img = boxArt(g.boxArt);
+  const badge = g.paused ? "" : !g.active ? `<span class="badge up">BIENTÔT</span>` : (g.unseen || g.isNew) ? `<span class="badge">NOUVEAU</span>` : "";
+  return `<article class="card ${g.fav ? "fav" : ""} ${g.paused ? "paused" : ""}" data-id="${esc(g.id)}" tabindex="0">
+    <div class="art">${esc((g.name || "?")[0])}${img ? `<img loading="lazy" src="${esc(img)}" alt="" onerror="this.remove()">` : ""}</div>
+    ${badge}
+    <button class="star" data-star="${esc(g.id)}" aria-pressed="${g.fav}" aria-label="${g.fav ? "Retirer des favoris" : "Ajouter aux favoris"} : ${esc(g.name)}">${g.fav ? "★" : "☆"}</button>
+    <div class="body">
+      <div class="name">${esc(g.name)}</div>
+      <div class="meta">${g.paused ? "Aucune campagne" : (g.campaigns.length > 1 ? g.campaigns.length + " campagnes · " : "") + g.dropCount + " drop" + (g.dropCount > 1 ? "s" : "")}</div>
+      <div class="time ${cls}">${time}</div>
+    </div>
+  </article>`;
+}
+function row(g){
+  const [time] = timeLine(g);
+  const img = boxArt(g.boxArt, 72, 96);
+  return `<div class="rowg" data-id="${esc(g.id)}" tabindex="0">
+    <div class="mini">${esc((g.name || "?")[0])}${img ? `<img loading="lazy" src="${esc(img)}" alt="" onerror="this.remove()">` : ""}</div>
+    <div class="t"><div>${esc(g.name)}</div><div class="meta">${time}</div></div>
+    <button class="star" data-star="${esc(g.id)}" aria-pressed="${g.fav}" aria-label="${g.fav ? "Retirer des favoris" : "Ajouter aux favoris"} : ${esc(g.name)}">${g.fav ? "★" : "☆"}</button>
+  </div>`;
+}
+const section = (title, list, hint = "", asRows = false) => !list.length ? "" :
+  `<section class="group"><h2>${title} <span class="n">${list.length}</span></h2>${hint ? `<p class="hint">${hint}</p>` : ""}
+   <div class="${asRows ? "rows" : "grid"}">${list.map(asRows ? row : card).join("")}</div></section>`;
+
+function render(){
+  const all = allGames(), now = NOW();
+  const q = norm(query);
+  let list = all.filter(g => !q || norm(g.name).includes(q) || g.owners.some(o => norm(o).includes(q)));
+  if (filter === "fav") list = list.filter(g => g.fav);
+  if (filter === "ending") list = list.filter(g => g.active && g.endsAt - now < D);
+  if (filter === "new") list = list.filter(g => g.isNew || g.unseen);
+  if (filter === "upcoming") list = list.filter(g => !g.active && !g.paused);
+  if (filter === "paused") list = list.filter(g => g.paused);
+  list.sort(sorter);
+
+  const live = all.filter(g => !g.paused), favList = all.filter(g => g.fav);
+  $("#stats").innerHTML = [
+    [live.filter(g => g.active).length, "jeux avec drops"],
+    [campaigns.length, "campagnes"],
+    [live.reduce((n, g) => n + g.rewardCount, 0), "récompenses"],
+    [`${favList.filter(g => !g.paused).length} / ${favList.length}`, "favoris actifs"],
+  ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join("");
+
+  let html = "";
+  if (filter === "all" && !q){
+    const rest = list.filter(g => !g.fav);
+    html += section("★ Mes jeux", list.filter(g => g.fav), ntfy ? "Les jeux en pause restent ici : abonne-toi dans 🔔 Alertes pour ne pas rater leur prochaine campagne." : "");
+    html += section("Se termine dans les 24 h", rest.filter(g => g.active && g.endsAt - now < D));
+    html += section("En cours", rest.filter(g => g.active && g.endsAt - now >= D));
+    html += section("Bientôt", rest.filter(g => !g.active && !g.paused));
+    const paused = rest.filter(g => g.paused).sort((a, b) => a.name.localeCompare(b.name, "fr"));
+    if (paused.length){
+      const shown = showAllPaused ? paused : paused.slice(0, 12);
+      html += section("En pause", shown, "Ces jeux ont déjà eu des drops. Mets une ★ pour être prévenu de la prochaine campagne.", true)
+        .replace(/<span class="n">\d+<\/span>/, `<span class="n">${paused.length}</span>`);
+      if (paused.length > shown.length) html += `<button class="btn ghost more" id="morePaused">Voir les ${paused.length} jeux en pause</button>`;
+    }
+  } else {
+    html += section("Résultats", list.filter(g => !g.paused));
+    html += section("En pause", list.filter(g => g.paused), "", true);
+  }
+  // Suivre un jeu jamais vu (ex. sortie à venir)
+  if (q.length >= 2 && !all.some(g => norm(g.name) === q)){
+    html += `<div class="addname"><span>« ${esc(query.trim())} » n'a jamais eu de drops ici. Tu peux le mettre en favori quand même : il sera reconnu par son nom dès sa première campagne.</span>
+      <button class="btn sm" id="addByName">☆ Suivre « ${esc(query.trim())} »</button></div>`;
+  }
+  $("#list").innerHTML = html || `<div class="empty">${filter === "fav" ? "Aucun favori pour l'instant. Mets une ★ sur un jeu, même en pause." : "Rien à afficher."}</div>`;
+
+  $("#dot").classList.toggle("bad", status.ok === false);
+  $("#updated .txt").textContent = updatedAt ? "Mis à jour " + ago(updatedAt) : "Pas encore de données";
+  const eb = $("#errorBox");
+  eb.hidden = status.ok !== false;
+  if (status.ok === false) eb.textContent = "⚠️ Le dernier relevé a échoué, les données peuvent dater. " + (status.lastSuccess ? "Dernier relevé réussi " + ago(status.lastSuccess) + "." : "");
+}
+
+function renderNews(){
+  if (!prevSeen) return;
+  const fresh = campaigns.filter(c => !prevSeen.has(c.id) && isFav(c.game));
+  const box = $("#newsBox");
+  if (!fresh.length){ box.hidden = true; return; }
+  const names = [...new Set(fresh.map(c => c.game.name))];
+  box.hidden = false;
+  box.innerHTML = `✨ Depuis ta dernière visite : ${fresh.length} nouvelle${fresh.length > 1 ? "s" : ""} campagne${fresh.length > 1 ? "s" : ""} pour <b>${names.map(esc).join(", ")}</b>.`;
+}
+
+function subLink(topic){
+  return `${(ntfy.server || "https://ntfy.sh").replace(/\/$/, "")}/${encodeURIComponent(topic)}`;
+}
+function openDetail(id){
+  const g = allGames().find(x => x.id === id); if (!g) return;
+  const now = NOW();
+  const camps = [...g.campaigns].sort((a, b) => new Date(a.startAt) - new Date(b.startAt));
+  const img = boxArt(g.boxArt, 108, 144);
+  $("#detail").innerHTML = `
+    <div class="dhead">
+      ${img ? `<img src="${esc(img)}" alt="" onerror="this.remove()">` : ""}
+      <div><h3>${esc(g.name)}</h3><div class="meta">${esc(g.owners.join(", "))}</div></div>
+      <button class="icon-btn close" data-close>✕</button>
+    </div>
+    <div class="dbody">
+      <div class="row">
+        <button class="btn ${g.fav ? "ghost" : ""}" data-star="${esc(g.id)}">${g.fav ? "★ Dans mes jeux" : "☆ Ajouter à mes jeux"}</button>
+        ${ntfy && g.topic ? `<a class="btn ghost" href="${esc(subLink(g.topic))}" target="_blank" rel="noopener">🔔 S'abonner aux alertes</a>` : ""}
+        ${g.slug ? `<a class="btn ghost" href="https://www.twitch.tv/directory/category/${esc(g.slug)}?tl=DropsEnabled" target="_blank" rel="noopener">Streams avec drops ↗</a>` : ""}
+      </div>
+      ${g.paused ? `<div class="paused-box">${g.manual
+          ? "Ce jeu n'a encore jamais eu de drops ici. Il sera reconnu par son nom dès sa première campagne."
+          : `Aucune campagne en cours.${g.lastCampaignEnd ? " La dernière s'est terminée le " + fmtDate(g.lastCampaignEnd) + "." : ""}`}
+          ${ntfy ? " Abonne-toi pour être prévenu de la prochaine." : ""}</div>` : ""}
+      ${camps.map(c => {
+        const s = +new Date(c.startAt), e = +new Date(c.endAt), started = s <= now;
+        const pct = started ? Math.min(100, Math.max(0, (now - s) / (e - s) * 100)) : 0;
+        return `<div class="camp">
+          <h4>${esc(c.name)}</h4>
+          <div class="meta">${fmtDate(c.startAt)} → ${fmtDate(c.endAt)}</div>
+          <div class="progress"><i style="width:${pct.toFixed(1)}%"></i></div>
+          <div class="meta">${started ? "Fin dans " + dur(e - now) : "Commence dans " + dur(s - now)}</div>
+          <ul class="drops">${c.drops.map(d => {
+            const r = d.rewards[0] || {};
+            return `<li>${r.image ? `<img loading="lazy" src="${esc(r.image)}" alt="">` : `<span class="ph"></span>`}
+              <div>${esc(d.rewards.map(x => x.name).join(", ") || d.name)}</div><span class="min">${mins(d.minutes)}</span></li>`;
+          }).join("")}</ul>
+          <div class="channels">${c.channelCount ? "Chaînes : " + esc(c.channels.slice(0, 12).join(", ")) + (c.channelCount > 12 ? ` et ${c.channelCount - 12} autres` : "") : "Toutes les chaînes ayant activé les drops"}</div>
+          <div class="row">
+            <a class="btn ghost" href="https://www.twitch.tv/drops/campaigns?dropID=${esc(c.id)}" target="_blank" rel="noopener">Voir sur Twitch ↗</a>
+            ${c.linkURL ? `<a class="btn ghost" href="${esc(c.linkURL)}" target="_blank" rel="noopener">Lier mon compte ↗</a>` : ""}
+          </div>
+        </div>`;
+      }).join("")}
+    </div>`;
+  if (!$("#detail").open) $("#detail").showModal();
+}
+
+function renderAlerts(){
+  const body = $("#alertsBody");
+  if (!ntfy){
+    body.innerHTML = `<p class="note">Les alertes publiques ne sont pas activées sur ce site. Tes favoris restent en tête de liste, et un bandeau t'indique les nouvelles campagnes depuis ta dernière visite.</p>`;
+    return;
+  }
+  const favList = allGames().filter(g => g.fav).sort((a, b) => a.name.localeCompare(b.name, "fr"));
+  const item = (title, sub, topic) => `<div class="sub"><div class="t"><div>${esc(title)}</div><div class="meta">${sub} · <code>${esc(topic)}</code></div></div>
+    <a class="btn sm" href="${esc(subLink(topic))}" target="_blank" rel="noopener">S'abonner</a></div>`;
+  body.innerHTML = `
+    <p class="note" style="margin-top:0">Les alertes passent par <b>ntfy</b>, une appli de notifications gratuite et open source, sans compte. Chaque jeu a son propre sujet : abonne-toi à ceux de tes favoris, même en pause.</p>
+    <ol class="steps">
+      <li>Installe ntfy : <a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android</a>, <a href="https://f-droid.org/packages/io.heckel.ntfy/" target="_blank" rel="noopener">F-Droid</a>, <a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">iPhone</a> ou <a href="${esc((ntfy.server || "https://ntfy.sh").replace(/\/$/, ""))}/app" target="_blank" rel="noopener">navigateur</a>.</li>
+      <li>Dans l'appli, touche <b>+</b> et entre le nom du sujet affiché sous chaque jeu (ou ouvre le lien « S'abonner »).</li>
+    </ol>
+    <h4>Tous les jeux</h4>
+    ${item("Nouveaux jeux avec drops", "un message par jeu qui lance ses premiers drops", ntfy.newGames)}
+    <h4>Mes jeux (${favList.length})</h4>
+    ${favList.length ? favList.map(g => item(g.name, g.paused ? (g.manual ? "pas encore de drops" : "en pause") : g.active ? "campagne en cours" : "campagne à venir", g.topic)).join("")
+      : `<p class="note">Aucun favori. Mets une ★ sur des jeux pour voir leurs sujets ici.</p>`}
+    ${favList.length ? `<div class="row"><button class="btn ghost" id="copyTopics">Copier tous les sujets</button></div>` : ""}
+    <p class="note">Tu reçois un message quand une campagne est annoncée et quand elle démarre. Un abonnement se gère dans ntfy : retirer une ★ ici ne te désabonne pas.</p>`;
+}
+
+// ---- Transfert de favoris (lien) -------------------------------------------------
+const stdB64 = s => btoa(String.fromCharCode(...new TextEncoder().encode(s)));
+const toB64 = s => btoa(String.fromCharCode(...new TextEncoder().encode(s))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+const fromB64 = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/-/g, "+").replace(/_/g, "/")), c => c.charCodeAt(0)));
+async function importFromHash(){
+  const m = location.hash.match(/fav=([\w-]+)/);
+  if (!m) return;
+  history.replaceState(null, "", location.pathname + location.search);
+  try {
+    const incoming = JSON.parse(fromB64(m[1]));
+    const n = Object.keys(incoming).filter(k => !favs[k]).length;
+    if (n && confirm(`Ajouter ${n} jeu${n > 1 ? "x" : ""} à tes favoris ?`)){
+      Object.assign(favs, incoming); await saveFavs(); toast("Favoris importés.");
+    }
+  } catch { toast("Lien de favoris invalide."); }
+}
+
+// ---- Mode propriétaire : enregistrement dans le dépôt ---------------------------
+function guessRepo(){
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  const seg = location.pathname.split("/").filter(Boolean)[0];
+  return m && seg ? `${m[1]}/${seg}` : null;
+}
+function syncOwnerForm(){
+  const c = ownerCfg || {};
+  document.querySelectorAll("[data-n]").forEach(el => el.checked = !!(c.notify || {})[el.dataset.n]);
+  document.querySelectorAll("[data-c]").forEach(el => el.checked = (c.channels || {})[el.dataset.c] !== false);
+  $("#ending").value = String((c.notify || {}).ending_soon_hours || 0);
+  $("#repo").value = ls.get("repo") || guessRepo() || "";
+  $("#pat").value = ls.get("pat") || "";
+  $("#favCount").textContent = `${Object.keys(favs).length} jeu(x) en favori, enregistrés dans ce navigateur uniquement.`;
+}
+async function ghFetchConfig(){
+  const repo = $("#repo").value.trim(), pat = $("#pat").value.trim();
+  if (!repo || !pat) throw new Error("renseigne le dépôt et le jeton");
+  ls.set("repo", repo); ls.set("pat", pat);
+  const api = `https://api.github.com/repos/${repo}/contents/docs/config.json`;
+  const headers = {Authorization: `Bearer ${pat}`, Accept: "application/vnd.github+json"};
+  const r = await fetch(api, {headers, cache: "no-store"});
+  if (!r.ok) throw new Error(r.status === 404 ? "dépôt ou fichier introuvable" : r.status === 401 ? "jeton refusé" : "erreur " + r.status);
+  const j = await r.json();
+  return {api, headers, sha: j.sha, cfg: JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(j.content.replace(/\n/g, "")), c => c.charCodeAt(0))))};
+}
+async function saveOwner(){
+  try {
+    const {api, headers, sha, cfg} = await ghFetchConfig();
+    const notify = {...cfg.notify}, channels = {...cfg.channels};
+    document.querySelectorAll("[data-n]").forEach(el => notify[el.dataset.n] = el.checked);
+    notify.ending_soon_hours = +$("#ending").value;
+    document.querySelectorAll("[data-c]").forEach(el => channels[el.dataset.c] = el.checked);
+    const next = {...cfg, followed_games: {...favs}, notify, channels};
+    const res = await fetch(api, {method: "PUT", headers, body: JSON.stringify({
+      message: `Réglages : ${Object.keys(favs).length} jeux suivis`,
+      content: stdB64(JSON.stringify(next, null, 1) + "\n"), sha
+    })});
+    if (!res.ok) throw new Error(res.status === 403 ? "jeton sans droit d'écriture" : "erreur " + res.status);
+    ownerCfg = next;
+    toast("✅ Enregistré. Pris en compte au prochain relevé.");
+  } catch (e){ toast("❌ " + e.message, 5000); }
+}
+async function pullOwner(){
+  try {
+    const {cfg} = await ghFetchConfig();
+    const n = Object.keys(cfg.followed_games || {}).filter(k => !favs[k]).length;
+    Object.assign(favs, cfg.followed_games || {}); ownerCfg = cfg;
+    await saveFavs(); syncOwnerForm(); render();
+    toast(`${n} jeu(x) repris du dépôt.`);
+  } catch (e){ toast("❌ " + e.message, 5000); }
+}
+
+function toast(msg, ms = 3200){
+  const t = $("#toast"); t.textContent = msg; t.style.display = "block";
+  clearTimeout(toast.t); toast.t = setTimeout(() => t.style.display = "none", ms);
+}
+
+// ---- Événements ----------------------------------------------------------------
+document.addEventListener("click", async e => {
+  const star = e.target.closest("[data-star]");
+  if (star){ e.stopPropagation(); toggleFav(star.dataset.star); return; }
+  if (e.target.closest("[data-close]")){ e.target.closest("dialog").close(); return; }
+  if (e.target.id === "morePaused"){ showAllPaused = true; render(); return; }
+  if (e.target.id === "addByName"){
+    const name = query.trim(); favs["nom:" + norm(name)] = name; await saveFavs();
+    $("#q").value = query = ""; render(); toast(`★ ${name} suivi.${ntfy ? " Abonne-toi dans 🔔 Alertes." : ""}`, 4500); return;
+  }
+  if (e.target.id === "copyTopics"){
+    const topics = allGames().filter(g => g.fav).map(g => g.topic).join("\n");
+    try { await navigator.clipboard.writeText(topics); toast("Sujets copiés."); } catch { toast("Copie impossible."); }
+    return;
+  }
+  const c = e.target.closest(".card,.rowg");
+  if (c) openDetail(c.dataset.id);
+  const f = e.target.closest("[data-f]");
+  if (f){ filter = f.dataset.f; document.querySelectorAll("[data-f]").forEach(x => x.setAttribute("aria-pressed", x === f)); render(); }
+});
+document.addEventListener("keydown", e => { if (e.key === "Enter" && e.target.matches?.(".card,.rowg")) openDetail(e.target.dataset.id); });
+document.querySelectorAll("dialog").forEach(d => d.addEventListener("click", e => { if (e.target === d) d.close(); }));
+$("#q").addEventListener("input", e => { query = e.target.value; render(); });
+$("#sort").value = sort;
+$("#sort").addEventListener("change", e => { sort = e.target.value; ls.set("sort", sort); render(); });
+$("#openSettings").addEventListener("click", () => { syncOwnerForm(); $("#settings").showModal(); });
+$("#openAlerts").addEventListener("click", () => { renderAlerts(); $("#alerts").showModal(); });
+$("#saveBtn").addEventListener("click", saveOwner);
+$("#pullBtn").addEventListener("click", pullOwner);
+$("#forgetBtn").addEventListener("click", () => { ls.set("pat", null); $("#pat").value = ""; toast("Jeton oublié."); });
+$("#shareFav").addEventListener("click", async () => {
+  const url = location.origin + location.pathname + "#fav=" + toB64(JSON.stringify(favs));
+  try { await navigator.clipboard.writeText(url); toast("Lien copié : ouvre-le sur l'autre appareil."); } catch { prompt("Copie ce lien :", url); }
+});
+$("#clearFav").addEventListener("click", async () => {
+  if (!confirm("Retirer tous tes favoris ?")) return;
+  favs = {}; await saveFavs(); syncOwnerForm(); render();
+});
+
+// ---- Chargement ------------------------------------------------------------------
+async function getJSON(path, fallback){
+  try { const r = await fetch(path + "?t=" + Date.now(), {cache: "no-store"}); return r.ok ? await r.json() : fallback; }
+  catch { return fallback; }
+}
+(async () => {
+  const [c, g, s, conf, storedFavs, seen] = await Promise.all([
+    getJSON("data/campaigns.json", {campaigns: []}), getJSON("data/games.json", {}),
+    getJSON("data/status.json", {}), getJSON("config.json", {}),
+    kv.get("favorites"), kv.get("seen"),
+  ]);
+  campaigns = c.campaigns || []; updatedAt = c.updatedAt; ntfy = c.ntfy || null;
+  games = g; status = s; ownerCfg = conf;
+  favs = storedFavs || {};
+  prevSeen = Array.isArray(seen) ? new Set(seen) : null;
+  await importFromHash();
+  render(); renderNews();
+  // Mémorise les campagnes vues (les anciennes restent 30 j pour éviter les faux « nouveau »)
+  if (campaigns.length) await kv.set("seen", [...new Set([...(seen || []).slice(-2000), ...campaigns.map(x => x.id)])]);
+  setInterval(render, 60e3);
+})();
+})();
+</script>
+</body>
+</html>
