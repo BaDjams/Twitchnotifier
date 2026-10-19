@@ -18,6 +18,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from twitch import DEFAULT_CLIENT_ID, DEFAULT_USER_AGENT  # noqa: E402
 
+# Mêmes droits que TwitchDropsMiner : avec un jeton sans droits, Twitch répond
+# sans erreur mais avec une liste de campagnes vide.
+SCOPES = "channel_read chat:read user_blocks_edit user_blocks_read user_follows_edit user_read"
+
 HEADERS = {
     "Client-Id": DEFAULT_CLIENT_ID,
     "User-Agent": DEFAULT_USER_AGENT,
@@ -37,7 +41,7 @@ def post(url, data):
 
 
 def main():
-    status, dev = post("https://id.twitch.tv/oauth2/device", {"client_id": DEFAULT_CLIENT_ID, "scopes": ""})
+    status, dev = post("https://id.twitch.tv/oauth2/device", {"client_id": DEFAULT_CLIENT_ID, "scopes": SCOPES})
     if status != 200:
         sys.exit(f"Impossible d'obtenir un code ({status}) : {dev}")
     print("\n1. Ouvre :", dev["verification_uri"])

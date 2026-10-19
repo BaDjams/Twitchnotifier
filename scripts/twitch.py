@@ -61,6 +61,7 @@ class TwitchClient:
         self.device_id = secrets.token_hex(16)
         self.user_id: str | None = None
         self.login: str | None = None
+        self.scopes: list[str] = []
 
     # -- authentification -------------------------------------------------
     def validate(self) -> None:
@@ -75,6 +76,7 @@ class TwitchClient:
             raise AuthError(f"Jeton Twitch refusé ({status}) : relance scripts/login.py.")
         self.user_id = str(data.get("user_id"))
         self.login = data.get("login")
+        self.scopes = data.get("scopes") or []
 
     # -- GraphQL ------------------------------------------------------------
     def _headers(self) -> dict:
@@ -122,6 +124,9 @@ class TwitchClient:
         if user is None:
             raise AuthError("Pas d'utilisateur courant : jeton invalide ?")
         everything = user.get("dropCampaigns") or []
+        if not everything:
+            print(f"Attention : Twitch ne renvoie aucune campagne pour {self.login} "
+                  f"(client {self.client_id}, droits du jeton : {self.scopes or 'aucun'}).")
         summary = [c for c in everything if c.get("status") in ("ACTIVE", "UPCOMING")]
         expired = [c for c in everything if c.get("status") == "EXPIRED" and c.get("game")]
 
