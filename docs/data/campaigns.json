@@ -1,295 +1,11 @@
 {
- "updatedAt": "2026-10-20T06:31:54Z",
+ "updatedAt": "2026-10-20T12:03:18Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "947db2a5-a39e-4327-9b31-8a0bf44b9a48",
-   "name": "Scape Day 1: Lurker",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T17:00:00Z",
-   "endAt": "2026-10-20T06:59:59.999Z",
-   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Lurker companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d442a4da-fd95-4fd3-a330-d59a3b424e14.png",
-   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
-   "linkURL": "https://portal.scapethegame.com/connect/twitch",
-   "owner": "ScapeWorld Entertainment AB",
-   "game": {
-    "id": "354447144",
-    "name": "Scape",
-    "slug": "scape-1",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-scape-1"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Lurker",
-     "minutes": 30,
-     "startAt": "2026-10-19T17:00:00Z",
-     "endAt": "2026-10-20T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Lurker",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/12098e24-d188-41a7-9d17-cb439b3b4d8c.png"
-      }
-     ]
-    },
-    {
-     "name": "Flex",
-     "minutes": 60,
-     "startAt": "2026-10-19T17:00:00Z",
-     "endAt": "2026-10-20T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Flex",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
-      }
-     ]
-    },
-    {
-     "name": "Came For The Clip",
-     "minutes": 90,
-     "startAt": "2026-10-19T17:00:00Z",
-     "endAt": "2026-10-20T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Came For The Clip",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e04776d-9b10-42b8-9850-fadfe3ac4e50",
-   "name": "Dragonfire 8 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T10:00:00Z",
-   "endAt": "2026-10-20T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f488c80-45e0-4322-b3e0-156010b0fcc5.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-10-19T10:00:00Z",
-     "endAt": "2026-10-20T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "343883d1-7915-4b51-b821-9dd8d9b7a857",
-   "name": "Quantum Blitz",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T12:00:00Z",
-   "endAt": "2026-10-20T11:59:59.999Z",
-   "description": "From October 13 (12:00 UTC) to 20 (12:00 UTC), tune in to select Drop-enabled War Robots: Frontiers Twitch streams and claim exclusive Twitch Drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/82738fd1-fb76-4646-abe2-adf865de5a67.png",
-   "detailsURL": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
-   "linkURL": "https://warrobotsfrontiers.com/en/twitchdrops",
-   "owner": "MY.GAMES",
-   "game": {
-    "id": "1671346441",
-    "name": "War Robots: Frontiers",
-    "slug": "war-robots-frontiers",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1671346441_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-war-robots-frontiers"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "3,000 Credits",
-     "minutes": 30,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "3000 Credits",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a93b2c5d-416f-48cc-a7bd-cfe95d72af12.png"
-      }
-     ]
-    },
-    {
-     "name": "3-Day Premium Account",
-     "minutes": 60,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "3-Day Premium Account",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/393b39ba-2f73-4b13-b19e-3a79a5114618.png"
-      }
-     ]
-    },
-    {
-     "name": "15,000 Salvage",
-     "minutes": 90,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "15,000 Salvage",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/91355954-7dd8-4b6c-9524-eca412d248ab.png"
-      }
-     ]
-    },
-    {
-     "name": "Kinetic Pulse",
-     "minutes": 120,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Kinetic Pulse",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/beb5c3c0-36f2-4a1f-bbcd-495ef87df517.png"
-      }
-     ]
-    },
-    {
-     "name": "50 Intel",
-     "minutes": 150,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "50 Intel",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ca0085a7-5927-447e-a865-adef730f6cd5.png"
-      }
-     ]
-    },
-    {
-     "name": "Helios Chassis",
-     "minutes": 180,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Helios Chassis",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/38f79f3a-af0d-44f6-8f1b-ba3a32019b98.png"
-      }
-     ]
-    },
-    {
-     "name": "Noricum Weapon",
-     "minutes": 210,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Noricum Weapon",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2a5afd47-f5c9-46e8-a88b-4b0d252c2992.png"
-      }
-     ]
-    },
-    {
-     "name": "100 Intel",
-     "minutes": 240,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "100 Intel",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/546ca5bd-2bff-46d4-bb1d-4d27d6d0489d.png"
-      }
-     ]
-    },
-    {
-     "name": "2x Tusk Weapon",
-     "minutes": 270,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2x Tusk Weapon",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d6797e28-663b-4eb4-ad9d-bd69cff71893.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "059756db-88a3-474c-9575-9afefcb3cd90",
-   "name": "AOS Drops Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T12:00:00Z",
-   "endAt": "2026-10-20T11:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3bd65213-93ce-4bf5-828d-cec198ac76f6.png",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "AOS Day 2 (1 Hour)",
-     "minutes": 60,
-     "startAt": "2026-10-19T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "AOS Drops 1 Hour",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5b6281fc-1d67-4c29-b22e-1beeb6a79d1e.png"
-      }
-     ]
-    },
-    {
-     "name": "AOS Day 2 (2 Hours)",
-     "minutes": 120,
-     "startAt": "2026-10-19T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "AOS Drops 2 Hours",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1d1db70f-aab9-4086-93e8-5945946e1928.png"
-      }
-     ]
-    },
-    {
-     "name": "AOS Day 2 (3 Hours)",
-     "minutes": 180,
-     "startAt": "2026-10-19T12:00:00Z",
-     "endAt": "2026-10-20T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "AOS Drops 3 Hours",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4b47b6a1-3281-4d0a-ad82-bd0cba5d41eb.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "f95bbd93-1611-42e7-9acc-240c106fe683",
    "name": "Affiliate10/19/26",
@@ -1212,6 +928,159 @@
       {
        "name": "Viper Charge",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/81baf533-86fe-4894-9430-370b100826d3.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e7d3d988-85f7-4f53-afb9-5652da7d416e",
+   "name": "Scape Day 2: Campfire",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T07:00:00Z",
+   "endAt": "2026-10-21T06:59:59.999Z",
+   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Campfire companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2d9032d-e126-436c-b851-1a09bb5a7d31.png",
+   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
+   "linkURL": "https://portal.scapethegame.com/connect/twitch",
+   "owner": "ScapeWorld Entertainment AB",
+   "game": {
+    "id": "354447144",
+    "name": "Scape",
+    "slug": "scape-1",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-scape-1"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Campfire",
+     "minutes": 30,
+     "startAt": "2026-10-20T07:00:00Z",
+     "endAt": "2026-10-21T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Campfire",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/92a3d1b5-0016-4e96-bac1-74a815aa87b8.png"
+      }
+     ]
+    },
+    {
+     "name": "Flex",
+     "minutes": 60,
+     "startAt": "2026-10-20T07:00:00Z",
+     "endAt": "2026-10-21T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Flex",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
+      }
+     ]
+    },
+    {
+     "name": "Came For The Clip",
+     "minutes": 90,
+     "startAt": "2026-10-20T07:00:00Z",
+     "endAt": "2026-10-21T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Came For The Clip",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b8e1caff-25b0-4891-ba01-f39939b5bdb2",
+   "name": "Dragonfire 8 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T10:00:00Z",
+   "endAt": "2026-10-21T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/312634d8-fde3-40f4-8fc1-1648bedb02de.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-10-20T10:00:00Z",
+     "endAt": "2026-10-21T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "61665910-2ccb-495b-8e40-c08eefbe4a27",
+   "name": "AOS Drops Day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T12:00:00Z",
+   "endAt": "2026-10-21T11:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/09c0dc43-c495-43ec-bd95-7a4f898367f9.png",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "AOS Day 3 (1 Hour)",
+     "minutes": 60,
+     "startAt": "2026-10-20T12:00:00Z",
+     "endAt": "2026-10-21T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "AOS Drops 1 Hour",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5b6281fc-1d67-4c29-b22e-1beeb6a79d1e.png"
+      }
+     ]
+    },
+    {
+     "name": "AOS Day 3 (2 Hours)",
+     "minutes": 120,
+     "startAt": "2026-10-20T12:00:00Z",
+     "endAt": "2026-10-21T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "AOS Drops 2 Hours",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1d1db70f-aab9-4086-93e8-5945946e1928.png"
+      }
+     ]
+    },
+    {
+     "name": "AOS Day 3 (3 Hours)",
+     "minutes": 180,
+     "startAt": "2026-10-20T12:00:00Z",
+     "endAt": "2026-10-21T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "AOS Drops 3 Hours",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4b47b6a1-3281-4d0a-ad82-bd0cba5d41eb.png"
       }
      ]
     }
@@ -2818,9 +2687,12 @@
     "topic": "twitchnotifier-dz7n7k-mir-korabley"
    },
    "channels": [
-    "lestakorabli"
+    "lestakorabli",
+    "zakvielchannel",
+    "ilame",
+    "welovegames"
    ],
-   "channelCount": 1,
+   "channelCount": 4,
    "drops": [
     {
      "name": "«Малый набор» — Lestakorabli",
@@ -2944,9 +2816,10 @@
     "caponecryptonft",
     "sfalcon_",
     "vivsalmada",
-    "darkniano"
+    "darkniano",
+    "sacrificeguardian"
    ],
-   "channelCount": 90,
+   "channelCount": 91,
    "drops": [
     {
      "name": "Exalted Munk Song",
@@ -3734,9 +3607,41 @@
    },
    "channels": [
     "ow_esports",
-    "ow_esports_jp"
+    "ow_esports_jp",
+    "unter",
+    "commanderx",
+    "emongg",
+    "warn",
+    "august",
+    "poko",
+    "rakattack",
+    "karq",
+    "ml7support",
+    "angrodtralari",
+    "teetawatv3",
+    "ta1yo_tv",
+    "meltonff",
+    "iddqd",
+    "6cyx",
+    "nitrao",
+    "avrl",
+    "amaui0915",
+    "hoshimi0000",
+    "gappo3",
+    "zbra",
+    "hadi_ow",
+    "owbrain",
+    "tommathan",
+    "hammerkick",
+    "franciscoow",
+    "profoundrice",
+    "chosen_ow",
+    "aojiru2581",
+    "oyatsu",
+    "kn_itoma",
+    "mimoza_ow"
    ],
-   "channelCount": 2,
+   "channelCount": 34,
    "drops": [
     {
      "name": "Prost Spray",
@@ -7275,6 +7180,97 @@
       {
        "name": "Monster Bride Dress",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6793c368-ca34-41d0-b16a-07699e337416.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1b0b6519-5cfb-4894-816c-0bf6bd29cd26",
+   "name": "Stella Sora 1st Anniv",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T09:00:00Z",
+   "endAt": "2026-11-09T14:59:59.999Z",
+   "description": "Watch stream to earn in-game rewards. More detailed information about Twitch Drops and rules can be found on this website.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/09989824-9c06-4d0d-8269-235edccc95a5.png",
+   "detailsURL": "https://stellasora.stargazer-games.com/twitch-drops",
+   "linkURL": "https://stellasora.stargazer-games.com/twitch-drops",
+   "owner": "Yostar Games",
+   "game": {
+    "id": "411135266",
+    "name": "Stella Sora",
+    "slug": "stella-sora",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/411135266_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-stella-sora"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "15 min",
+     "minutes": 15,
+     "startAt": "2026-10-20T09:00:00Z",
+     "endAt": "2026-11-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Dorra*5000",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6a953f66-09b6-466a-9742-c1fd924a2db0.png"
+      }
+     ]
+    },
+    {
+     "name": "30min",
+     "minutes": 30,
+     "startAt": "2026-10-20T09:00:00Z",
+     "endAt": "2026-11-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Common Choice Box *1",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/edb61d83-e1e9-4ad3-942b-60ea3a13d604.png"
+      }
+     ]
+    },
+    {
+     "name": "45min",
+     "minutes": 45,
+     "startAt": "2026-10-20T09:00:00Z",
+     "endAt": "2026-11-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Trekker's Guide*10",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb7777eb-15aa-42b0-915d-75ff2a310af7.png"
+      },
+      {
+       "name": "Cracked Disc*10",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d6f9e0a4-b120-4db4-b6ca-fe0b430deb57.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min",
+     "minutes": 60,
+     "startAt": "2026-10-20T09:00:00Z",
+     "endAt": "2026-11-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Stellanite Dust*150",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c1e0f8b9-6b46-4f3d-b353-f8009b78ef64.png"
+      },
+      {
+       "name": "Beginner Cartridge Box*20",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a75761c5-2f2a-4b9b-8864-9f38618245bc.png"
+      }
+     ]
+    },
+    {
+     "name": "120 min",
+     "minutes": 120,
+     "startAt": "2026-10-20T09:00:00Z",
+     "endAt": "2026-11-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Stellanite Dust*450",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7aaddfc8-9bc8-4f27-93be-0fe8387e7c1c.png"
       }
      ]
     }
