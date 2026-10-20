@@ -1,424 +1,11 @@
 {
- "updatedAt": "2026-10-19T22:17:10Z",
+ "updatedAt": "2026-10-20T01:13:11Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b",
-   "name": "Bloodtide Drops 🩸",
-   "status": "ACTIVE",
-   "startAt": "2026-09-22T13:00:00Z",
-   "endAt": "2026-10-19T23:29:59.999Z",
-   "description": "Celebrate the launch of Update 1.17 Bloodtide with new drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ca8bb880-6b63-4264-b724-0bf3f66e1b6d.png",
-   "detailsURL": "https://predecessorgame.com/twitch-drops",
-   "linkURL": "https://predecessorgame.com/link-accounts",
-   "owner": "Omeda Studios",
-   "game": {
-    "id": "511295",
-    "name": "Predecessor",
-    "slug": "predecessor",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/511295_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-predecessor"
-   },
-   "channels": [
-    "kevkaioken",
-    "muddx_",
-    "astronorimical",
-    "secretsalsa",
-    "grizzzly_gaming",
-    "electric__boogie",
-    "bearbok",
-    "bigcat188",
-    "cloudie_xo",
-    "efsixx",
-    "eldudikoff",
-    "itsempti",
-    "gratty",
-    "imneft",
-    "itsmike_tv",
-    "mercyy",
-    "mmessias",
-    "moroselive",
-    "pap3rrrr",
-    "pinzo",
-    "ritterriffic",
-    "rosemary",
-    "siimba",
-    "son1c_ttv",
-    "survivortv",
-    "thecozmicexpansionshow",
-    "thebeardedwolverine",
-    "twitchor",
-    "xbryry",
-    "mrbuffaloe_",
-    "choiceplays",
-    "deviatingg",
-    "funderburgar",
-    "g3ral2",
-    "jaybloescobar",
-    "litagames",
-    "omglookkitty",
-    "rancher1to",
-    "thablazingjalapeno",
-    "cenryofhavill",
-    "cherrytemper",
-    "stsbutters",
-    "the_ogier",
-    "waleader626",
-    "bengalmac",
-    "rebekiiful",
-    "rurounishogun",
-    "datguy_kill",
-    "embodiedrevenant",
-    "empresstiramisu",
-    "hiweigh",
-    "oxpeachxo",
-    "indocomplex",
-    "kalikokolori",
-    "lancececil",
-    "maddogema",
-    "newring7",
-    "egofromesports",
-    "properclean",
-    "unicod10",
-    "lesugamez",
-    "elojoninja",
-    "lourlo",
-    "weak3n",
-    "crazzyfool",
-    "bluemonsster",
-    "predecessorgame",
-    "purpleswan22",
-    "jcwolf__",
-    "nietzsche_te_ocurra",
-    "pubbies_give_me_sniffles",
-    "soulre4p3r",
-    "imwangle"
-   ],
-   "channelCount": 73,
-   "drops": [
-    {
-     "name": "Ion Core",
-     "minutes": 60,
-     "startAt": "2026-09-22T13:00:00Z",
-     "endAt": "2026-10-19T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Ion Loot Core",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3d23d56e-1719-4fff-a001-c16c7e9f923f.png"
-      }
-     ]
-    },
-    {
-     "name": "Ion Core",
-     "minutes": 120,
-     "startAt": "2026-09-22T13:00:00Z",
-     "endAt": "2026-10-19T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Ion Loot Core",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3d23d56e-1719-4fff-a001-c16c7e9f923f.png"
-      }
-     ]
-    },
-    {
-     "name": "Ion Core",
-     "minutes": 180,
-     "startAt": "2026-09-22T13:00:00Z",
-     "endAt": "2026-10-19T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Ion Loot Core",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3d23d56e-1719-4fff-a001-c16c7e9f923f.png"
-      }
-     ]
-    },
-    {
-     "name": "Quantum Core",
-     "minutes": 360,
-     "startAt": "2026-09-22T13:00:00Z",
-     "endAt": "2026-10-19T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Quantum Loot Core",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/524953d6-ade9-4ad3-8f65-2120682a44f3.png"
-      }
-     ]
-    },
-    {
-     "name": "Pink Valmont Variant",
-     "minutes": 600,
-     "startAt": "2026-09-22T13:00:00Z",
-     "endAt": "2026-10-19T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Valmont Pink Skin Variant",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1f4bddc1-6ce8-47db-8272-28433f29abea.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7deb1001-f6b8-488f-a1f5-f028574b6082",
-   "name": "PMCFQ - theragingterror",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T22:00:00Z",
-   "endAt": "2026-10-19T23:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch theragingterror's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/359c0e57-1327-4e6d-a81d-e5c87e255c97.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "theragingterror"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-19T22:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "84290f61-e8fb-4502-9cef-cb61712dcce7",
-   "name": "DF RISE S2 Grand Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T00:00:00Z",
-   "endAt": "2026-10-19T23:59:59.999Z",
-   "description": "Watch the matches live on Twitch and earn exclusive Drops, including Gear Tickets, Packs, Calling Card, Avatar and a Weapon Skin!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/607a608d-a44e-4368-b8a8-1ae4da4e9471.png",
-   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "1282866981",
-    "name": "Delta Force",
-    "slug": "delta-force-hawk-ops",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
-   },
-   "channels": [
-    "jest_pia",
-    "deltaforcegameofficial",
-    "leissik",
-    "attursson",
-    "cyqop",
-    "zapokk",
-    "thejdevise",
-    "gorilla",
-    "siingsong",
-    "roguepringle",
-    "terasite",
-    "equalplays",
-    "geekseh",
-    "b0ii",
-    "drewd0g",
-    "tj_sk1per",
-    "lildjeyy1",
-    "redpandash",
-    "stikinson",
-    "hesoyamof1974",
-    "delta_fix",
-    "balyklek",
-    "rxckstar",
-    "reidboyy",
-    "wa77en",
-    "aznboi",
-    "nemereth",
-    "cneytas",
-    "jimmyboiyo",
-    "voet",
-    "kongstyle101",
-    "minda999",
-    "chelb",
-    "precision",
-    "deathwingua",
-    "chaoskingtru",
-    "imow",
-    "gl40labsrat",
-    "silowa",
-    "qkobyy",
-    "farmerlucas",
-    "redduch",
-    "tenkedzu",
-    "off_kuka358",
-    "f4tr4t_",
-    "hodsic",
-    "zyxerp",
-    "erverks",
-    "winghaven",
-    "summit1g",
-    "hutchmf",
-    "sammymedows",
-    "poach",
-    "mendo",
-    "immarksman",
-    "jessekazam",
-    "dfyellow",
-    "shomaru7",
-    "yukikamiya6",
-    "kureido",
-    "marmot_1124",
-    "ponsukech",
-    "honemaro_vt",
-    "yasokichi49",
-    "hiki0115",
-    "maruti_seat",
-    "nemuimurime",
-    "purana0527",
-    "fps_arin",
-    "enmstr7",
-    "kilv37",
-    "xhazmathuman",
-    "bbreadman",
-    "cook_playing",
-    "grindrr",
-    "thz_tv",
-    "kyborgtv",
-    "theburntpeanut",
-    "nickmercs",
-    "cloakzy",
-    "nadeshot",
-    "shroud",
-    "lirik",
-    "gingy",
-    "recrent",
-    "taxi2g",
-    "promoz",
-    "swizzmb",
-    "saltyysavage",
-    "nokss68",
-    "somekindadog",
-    "roguemonkeyjr",
-    "thebeardguys",
-    "celestiayukihime",
-    "rlaw",
-    "heromikttv",
-    "mrdiogod",
-    "timthetatman",
-    "xqc",
-    "drac"
-   ],
-   "channelCount": 811,
-   "drops": [
-    {
-     "name": "Adv Weapon Selection Pack",
-     "minutes": 15,
-     "startAt": "2026-10-18T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Adv Weapon Selection Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f630ccb7-e1ac-4d3c-b19f-55a49f21bac0.png"
-      }
-     ]
-    },
-    {
-     "name": "C Card - Sunny Day Invitation",
-     "minutes": 30,
-     "startAt": "2026-10-18T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "CCard-SunnyDay Invitation",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/02e8954c-2a31-4925-aca0-61604de2ca49.png"
-      }
-     ]
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 45,
-     "startAt": "2026-10-18T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Standard Gear Ticket",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eef72e27-85ca-431f-b9c3-0b8fe8337cbc.png"
-      }
-     ]
-    },
-    {
-     "name": "Avatar - Redland",
-     "minutes": 60,
-     "startAt": "2026-10-18T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Avatar - Redland",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/12c6a191-047f-4f19-9c0d-6d8d64039b73.png"
-      }
-     ]
-    },
-    {
-     "name": "QBZ95 - Golden Age",
-     "minutes": 90,
-     "startAt": "2026-10-18T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "QBZ95 - Golden Age",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/72b66399-d477-42b4-8864-041771f064d1.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2afd39d8-0acc-458f-a3fb-c87240d88b83",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T00:00:00Z",
-   "endAt": "2026-10-19T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d24dfee-5dd0-4915-9098-73242f863aa7.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-19T00:00:00Z",
-     "endAt": "2026-10-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "947db2a5-a39e-4327-9b31-8a0bf44b9a48",
    "name": "Scape Day 1: Lurker",
@@ -1411,6 +998,41 @@
       {
        "name": "💰 500 C-Coins ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c90241b3-b1ce-4d1d-8718-04a6b540d7d1",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T00:00:00Z",
+   "endAt": "2026-10-20T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b2d6e2e-4909-426b-947c-24146462ef19.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-20T00:00:00Z",
+     "endAt": "2026-10-20T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
