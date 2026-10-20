@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T01:13:11Z",
+ "updatedAt": "2026-10-20T06:31:54Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -3963,6 +3963,65 @@
       {
        "name": "ACE COMBAT 8 Nugget",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb962c81-126e-43a5-a66f-0bf113e35f0a.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fbc7d728-f353-4c97-87d7-b7974e7a2563",
+   "name": "Lenin Street Geek Shop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T06:05:46Z",
+   "endAt": "2026-10-26T07:59:59.999Z",
+   "description": "Watch streams and earn rewards for the full game!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3abc2abb-1c95-4971-b7cf-3246667a16e1.png",
+   "detailsURL": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
+   "linkURL": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
+   "owner": "perelesoq",
+   "game": {
+    "id": "149188061",
+    "name": "Lenin Street Geek Shop",
+    "slug": "snow-town-geek-store",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/149188061_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-snow-town-geek-store"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Bucket of Fish",
+     "minutes": 30,
+     "startAt": "2026-10-20T06:05:46Z",
+     "endAt": "2026-10-26T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "A Bucket of Fish",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3a4454e5-363c-49fb-bb4d-a6c88a23b7d2.png"
+      }
+     ]
+    },
+    {
+     "name": "Tesla Lamp",
+     "minutes": 60,
+     "startAt": "2026-10-20T06:05:46Z",
+     "endAt": "2026-10-26T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Tesla Lamp",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f15c1ca0-cef1-4eb7-8b3d-751651d82b0c.png"
+      }
+     ]
+    },
+    {
+     "name": "Signboard",
+     "minutes": 90,
+     "startAt": "2026-10-20T06:05:46Z",
+     "endAt": "2026-10-26T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Signboard",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/56d100af-aaa2-4a90-9831-addaa93eb4dc.png"
       }
      ]
     }
