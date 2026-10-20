@@ -1,94 +1,11 @@
 {
- "updatedAt": "2026-10-20T20:29:40Z",
+ "updatedAt": "2026-10-20T23:21:17Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "854d14a7-9c65-42b3-ab7c-027b390d2cb6",
-   "name": "PMCFQ - Disfusional",
-   "status": "ACTIVE",
-   "startAt": "2026-10-20T19:00:00Z",
-   "endAt": "2026-10-20T20:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch Disfusional's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/055d892f-8a5f-469a-a1e7-c2779e138b96.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "disfusional"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-20T19:00:00Z",
-     "endAt": "2026-10-20T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f73bcbfb-770f-4993-a1de-e3ffcae0e46f",
-   "name": "Edgerunners Series 2 ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T22:01:00Z",
-   "endAt": "2026-10-20T22:00:59.999Z",
-   "description": "Come join the release of Cyberpunk: Edgerunners 2: Twitch Co-Streaming!!!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf707f66-9658-48fe-9658-70b908c8ee22.png",
-   "detailsURL": "https://www.twitch.tv/drops/campaigns",
-   "linkURL": "https://www.twitch.tv",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "65876",
-    "name": "Cyberpunk 2077",
-    "slug": "cyberpunk-2077",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/65876-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-cyberpunk-2077"
-   },
-   "channels": [
-    "cdprojektred",
-    "cdprojektredjapan"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "Edgerunners 2",
-     "minutes": 15,
-     "startAt": "2026-10-19T22:01:00Z",
-     "endAt": "2026-10-20T22:00:59.999Z",
-     "rewards": [
-      {
-       "name": "Weak",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26f43fde-864a-4e28-982e-50d616d8feb4.png"
-      },
-      {
-       "name": "Talia",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a4ca8fe8-ef9e-49e1-8b34-73f3ffd132d7.png"
-      },
-      {
-       "name": "D",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ff8a19a-d5d2-440d-a9c8-df4a2dd0043b.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "8f711635-030d-449b-b5ad-a9b4454fc1a4",
    "name": "Fall Drops ",
@@ -154,6 +71,43 @@
       {
        "name": "Twitch Reward Chest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2eef2bd4-17a7-4937-874c-f46d0a7d7337",
+   "name": "PMCFQ - viceroycyndr",
+   "status": "ACTIVE",
+   "startAt": "2026-10-20T23:00:00Z",
+   "endAt": "2026-10-21T00:59:59.999Z",
+   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch viceroycyndr's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fece3217-8d30-454e-b0e2-663e8fbf6c36.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
+   "game": {
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
+   },
+   "channels": [
+    "viceroycyndr"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Random Furniture",
+     "minutes": 30,
+     "startAt": "2026-10-20T23:00:00Z",
+     "endAt": "2026-10-21T00:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Random Furniture PMCFQ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
       }
      ]
     }
