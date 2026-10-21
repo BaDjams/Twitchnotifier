@@ -1,310 +1,11 @@
 {
- "updatedAt": "2026-10-21T01:57:44Z",
+ "updatedAt": "2026-10-21T07:29:02Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "ed5b7226-eec3-44d5-81bb-4dc5eb250ebe",
-   "name": "In The Huddle",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T00:00:00Z",
-   "endAt": "2026-10-21T02:59:59.999Z",
-   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/577482c0-f6b7-4586-b357-c9f988c8e05f.png",
-   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "670138298",
-    "name": "Madden NFL 27",
-    "slug": "madden-nfl-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
-   },
-   "channels": [
-    "huddlegg"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 30,
-     "startAt": "2026-10-21T00:00:00Z",
-     "endAt": "2026-10-21T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52a078e6-e545-496f-8631-fca23df49346.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60,
-     "startAt": "2026-10-21T00:00:00Z",
-     "endAt": "2026-10-21T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fee7ba9b-9b97-4cb6-b661-f057d17bf954.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 90,
-     "startAt": "2026-10-21T00:00:00Z",
-     "endAt": "2026-10-21T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4447388e-b279-4214-8958-491613de181a.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0",
-   "name": "/dnd d20 Badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T01:15:00Z",
-   "endAt": "2026-10-21T06:58:59.999Z",
-   "description": "Watch 30 minutes of Dungeon Masters on /dnd in the Dungeons & Dragons category to unlock the d20 chat badge!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04f05477-d5b5-41d6-999b-ad902f0fe883.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "509577",
-    "name": "Dungeons & Dragons",
-    "slug": "dungeons-and-dragons",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509577-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-dungeons-and-dragons"
-   },
-   "channels": [
-    "dnd"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "/dnd d20 Badge",
-     "minutes": 30,
-     "startAt": "2026-09-24T01:15:00Z",
-     "endAt": "2026-10-21T06:58:59.999Z",
-     "rewards": [
-      {
-       "name": "/dnd d20 Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/527636cc-f3f1-4e9a-a2d2-77cd81dffc35.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "69e7d15e-b1e0-40d8-9c4b-a71446896005",
-   "name": "D&D Ampersand Badge",
-   "status": "ACTIVE",
-   "startAt": "2026-09-24T01:15:00Z",
-   "endAt": "2026-10-21T06:58:59.999Z",
-   "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/391381f9-7af8-4c26-b7a0-8e5e54af3a53.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "509577",
-    "name": "Dungeons & Dragons",
-    "slug": "dungeons-and-dragons",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509577-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-dungeons-and-dragons"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "D&D Ampersand Badge",
-     "minutes": 0,
-     "startAt": "2026-09-24T01:15:00Z",
-     "endAt": "2026-10-21T06:58:59.999Z",
-     "rewards": [
-      {
-       "name": "D&D Ampersand Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e0c91b7-0f40-40a7-b7f7-173b645c79e6.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "106c338b-98ad-4ae9-b594-97f1593ff96e",
-   "name": "Battlefield 6 Season 5",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T12:00:00Z",
-   "endAt": "2026-10-21T06:59:59.999Z",
-   "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d62d4c93-02e9-4c6b-9a63-c0c88b706dc8.png",
-   "detailsURL": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-   "linkURL": "https://ea.com/twitchlinking",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "168648543",
-    "name": "Battlefield 6",
-    "slug": "battlefield-6",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/168648543_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-battlefield-6"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "United Code",
-     "minutes": 60,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "United Code",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/88575ecf-f808-4fa3-b230-340de8758dc9.png"
-      }
-     ]
-    },
-    {
-     "name": "15 min Hardware XP Boost",
-     "minutes": 90,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "15 min Hardware XP Boost",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bcda14b1-a9a2-4719-8418-edfe28415698.png"
-      }
-     ]
-    },
-    {
-     "name": "Enemy From Within",
-     "minutes": 120,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Enemy From Within",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f05b060f-d43e-4e72-8ecf-321dd941e5fb.png"
-      }
-     ]
-    },
-    {
-     "name": "30 min Hardware XP Boost",
-     "minutes": 150,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "30 min Hardware XP Boost",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d8934a55-e25c-44e2-abe9-9327f18052fe.png"
-      }
-     ]
-    },
-    {
-     "name": "Incendiary Infiltration",
-     "minutes": 180,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Incendiary Infiltration",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/22a153df-784b-4cb2-9909-b35a36f3d659.png"
-      }
-     ]
-    },
-    {
-     "name": "60 min Hardware XP Boost",
-     "minutes": 210,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "60 min Hardware XP Boost",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a210fc57-fda9-4da4-b652-600eb38feb00.png"
-      }
-     ]
-    },
-    {
-     "name": "Viper Charge",
-     "minutes": 240,
-     "startAt": "2026-10-13T12:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Viper Charge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/81baf533-86fe-4894-9430-370b100826d3.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e7d3d988-85f7-4f53-afb9-5652da7d416e",
-   "name": "Scape Day 2: Campfire",
-   "status": "ACTIVE",
-   "startAt": "2026-10-20T07:00:00Z",
-   "endAt": "2026-10-21T06:59:59.999Z",
-   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Campfire companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c2d9032d-e126-436c-b851-1a09bb5a7d31.png",
-   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
-   "linkURL": "https://portal.scapethegame.com/connect/twitch",
-   "owner": "ScapeWorld Entertainment AB",
-   "game": {
-    "id": "354447144",
-    "name": "Scape",
-    "slug": "scape-1",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-scape-1"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Campfire",
-     "minutes": 30,
-     "startAt": "2026-10-20T07:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Campfire",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/92a3d1b5-0016-4e96-bac1-74a815aa87b8.png"
-      }
-     ]
-    },
-    {
-     "name": "Flex",
-     "minutes": 60,
-     "startAt": "2026-10-20T07:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Flex",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
-      }
-     ]
-    },
-    {
-     "name": "Came For The Clip",
-     "minutes": 90,
-     "startAt": "2026-10-20T07:00:00Z",
-     "endAt": "2026-10-21T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Came For The Clip",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "b8e1caff-25b0-4891-ba01-f39939b5bdb2",
    "name": "Dragonfire 8 - #2/7",
@@ -1296,6 +997,65 @@
       {
        "name": "Sparkwing Purple Chroma",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1608f064-f25c-4522-9f5d-d898aeb6f2c2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08d247ba-5972-4e69-b72f-0874b01b5ebb",
+   "name": "Scape Day 3: Happy Tears",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T07:00:00Z",
+   "endAt": "2026-10-22T06:59:59.999Z",
+   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Happy Tears companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/df07af01-9056-435f-b3a8-8624e32e5667.png",
+   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
+   "linkURL": "https://portal.scapethegame.com/connect/twitch",
+   "owner": "ScapeWorld Entertainment AB",
+   "game": {
+    "id": "354447144",
+    "name": "Scape",
+    "slug": "scape-1",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-scape-1"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Happy Tears",
+     "minutes": 30,
+     "startAt": "2026-10-21T07:00:00Z",
+     "endAt": "2026-10-22T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Happy Tears",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/69e93e6c-aafa-4ff3-b545-bd6f7eaa0442.png"
+      }
+     ]
+    },
+    {
+     "name": "Flex",
+     "minutes": 60,
+     "startAt": "2026-10-21T07:00:00Z",
+     "endAt": "2026-10-22T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Flex",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
+      }
+     ]
+    },
+    {
+     "name": "Came For The Clip",
+     "minutes": 90,
+     "startAt": "2026-10-21T07:00:00Z",
+     "endAt": "2026-10-22T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Came For The Clip",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
       }
      ]
     }
@@ -5310,6 +5070,71 @@
    ]
   },
   {
+   "id": "6dc1348a-7a4c-4c7b-8f05-fed95e8ba449",
+   "name": "Lineage 2 Forged Drops RU",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T07:00:00Z",
+   "endAt": "2026-10-28T06:59:59.999Z",
+   "description": "Награда за просмотр прямых трансляций Lineage 2.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cdd25c45-1425-423b-87e9-3efcf3c51a95.png",
+   "detailsURL": "https://l2central.info/essence/events_and_promos/4221.html",
+   "linkURL": "https://ru.4game.ru/drops/twitch/",
+   "owner": "Innova",
+   "game": {
+    "id": "515349",
+    "name": "Lineage II",
+    "slug": "lineage-ii",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515349_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-lineage-ii"
+   },
+   "channels": [
+    "lineage2russia",
+    "pashavvp",
+    "gorezones",
+    "razrpro",
+    "ahillesl2",
+    "qrazh_",
+    "solant_xd",
+    "solverl2",
+    "pvefun",
+    "pick_niktv",
+    "merlan2015",
+    "i888jambo888",
+    "archi_l2",
+    "rammerttv",
+    "chixpix8",
+    "iredp3",
+    "adekvatik666",
+    "leg1onway196",
+    "xnrka",
+    "greenwiittch",
+    "ildsubi",
+    "legalfarm",
+    "dushoymolodoy",
+    "natalie_play",
+    "sfdays"
+   ],
+   "channelCount": 25,
+   "drops": [
+    {
+     "name": "Lineage 2 Fordeg Drops RU",
+     "minutes": 600,
+     "startAt": "2026-10-21T07:00:00Z",
+     "endAt": "2026-10-28T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Сокровище Десяти Гномов",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/02124664-cc79-4193-8b08-ddf1ce64050a.png"
+      },
+      {
+       "name": "Сокровище Горна",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b19bce1e-72ef-4f87-bb59-a4a98333fb36.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "673c33e7-e55d-44e3-aee2-abdf03d17e10",
    "name": "Lineage 2 Replica RU",
    "status": "ACTIVE",
@@ -5384,6 +5209,55 @@
       {
        "name": "L2 Replica Drops RU",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2db1ea40-c9d1-4123-9b9e-49c95102bb79.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4c72010b-6f8d-4539-8f8d-5f440e86788a",
+   "name": "Lineage 2 Forged Drops EU",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T07:00:00Z",
+   "endAt": "2026-10-28T06:59:59.999Z",
+   "description": "Reward for watching live streams of Lineage 2.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9dadd6b2-0de6-4bd7-a662-1eb51b182af7.png",
+   "detailsURL": "https://l2wiki.com/essence/events_and_promos/3719.html",
+   "linkURL": "https://eu.4game.com/drops/twitch/",
+   "owner": "Innova",
+   "game": {
+    "id": "515349",
+    "name": "Lineage II",
+    "slug": "lineage-ii",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515349_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-lineage-ii"
+   },
+   "channels": [
+    "wynnas",
+    "notbeppler",
+    "blednykh",
+    "defnotflaming",
+    "jichang25",
+    "moncixas",
+    "keepn",
+    "gilvandark",
+    "jabiraca_tv"
+   ],
+   "channelCount": 9,
+   "drops": [
+    {
+     "name": "Lineage 2 Forged Drops EU",
+     "minutes": 120,
+     "startAt": "2026-10-21T07:00:00Z",
+     "endAt": "2026-10-28T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Treasure of Ten Dwarves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/278ca1c6-5ddf-405a-ace4-087dd497571a.png"
+      },
+      {
+       "name": "Treasure of Forge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4fa6d332-d827-47ef-9a4f-41b65d70ef48.png"
       }
      ]
     }
@@ -7331,6 +7205,89 @@
       {
        "name": "Launch Clothing Bundle",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb5ead5e-d268-42b6-8f8e-8208b62e8dbf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e4f567f2-4eab-4dae-9995-c46e769b0c7a",
+   "name": "V3.3 Zenless Zone Zero",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T02:00:00Z",
+   "endAt": "2026-11-11T15:59:59.999Z",
+   "description": "V3.3 Zenless Zone Zero",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+   "linkURL": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+   "owner": "Cognosphere",
+   "game": {
+    "id": "456845141",
+    "name": "Zenless Zone Zero",
+    "slug": "zenless-zone-zero",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/456845141_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-zenless-zone-zero"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "丁尼*12000",
+     "minutes": 15,
+     "startAt": "2026-10-21T02:00:00Z",
+     "endAt": "2026-11-11T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Denny*12000",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/da8e3c07-4c4f-4a84-b167-1afa8cfd9b85.png"
+      }
+     ]
+    },
+    {
+     "name": "资深调查员记录*2",
+     "minutes": 30,
+     "startAt": "2026-10-21T02:00:00Z",
+     "endAt": "2026-11-11T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Senior Investigator Log*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/78515db3-cbff-436b-a774-d17f4f7144a8.png"
+      }
+     ]
+    },
+    {
+     "name": "音擎能源模块*3",
+     "minutes": 45,
+     "startAt": "2026-10-21T02:00:00Z",
+     "endAt": "2026-11-11T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "W-Engine Energy Module*3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4819064-7c86-46ba-9541-4ff5e4d40b7d.png"
+      }
+     ]
+    },
+    {
+     "name": "邦布系统控件*2",
+     "minutes": 60,
+     "startAt": "2026-10-21T02:00:00Z",
+     "endAt": "2026-11-11T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Bangboo System Widget*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/be50fb2c-5d21-4c02-85ac-900687d0d19f.png"
+      }
+     ]
+    },
+    {
+     "name": "菲林*50",
+     "minutes": 120,
+     "startAt": "2026-10-21T02:00:00Z",
+     "endAt": "2026-11-11T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Polychrom*50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/926d9728-1e17-4afb-8903-12e5d2b95760.png"
       }
      ]
     }
