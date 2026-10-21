@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T23:21:17Z",
+ "updatedAt": "2026-10-21T01:57:44Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,107 +7,61 @@
  },
  "campaigns": [
   {
-   "id": "8f711635-030d-449b-b5ad-a9b4454fc1a4",
-   "name": "Fall Drops ",
+   "id": "ed5b7226-eec3-44d5-81bb-4dc5eb250ebe",
+   "name": "In The Huddle",
    "status": "ACTIVE",
-   "startAt": "2026-10-18T12:10:38Z",
-   "endAt": "2026-10-20T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/28fd17ac-502e-4a88-8f7a-e220239a3178.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
+   "startAt": "2026-10-21T00:00:00Z",
+   "endAt": "2026-10-21T02:59:59.999Z",
+   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/577482c0-f6b7-4586-b357-c9f988c8e05f.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
    "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "500 C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-18T12:10:38Z",
-     "endAt": "2026-10-20T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c90241b3-b1ce-4d1d-8718-04a6b540d7d1",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-20T00:00:00Z",
-   "endAt": "2026-10-20T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7b2d6e2e-4909-426b-947c-24146462ef19.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-20T00:00:00Z",
-     "endAt": "2026-10-20T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2eef2bd4-17a7-4937-874c-f46d0a7d7337",
-   "name": "PMCFQ - viceroycyndr",
-   "status": "ACTIVE",
-   "startAt": "2026-10-20T23:00:00Z",
-   "endAt": "2026-10-21T00:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch viceroycyndr's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fece3217-8d30-454e-b0e2-663e8fbf6c36.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
    },
    "channels": [
-    "viceroycyndr"
+    "huddlegg"
    ],
    "channelCount": 1,
    "drops": [
     {
-     "name": "Random Furniture",
+     "name": "Twitch Pack",
      "minutes": 30,
-     "startAt": "2026-10-20T23:00:00Z",
-     "endAt": "2026-10-21T00:59:59.999Z",
+     "startAt": "2026-10-21T00:00:00Z",
+     "endAt": "2026-10-21T02:59:59.999Z",
      "rewards": [
       {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52a078e6-e545-496f-8631-fca23df49346.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 60,
+     "startAt": "2026-10-21T00:00:00Z",
+     "endAt": "2026-10-21T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fee7ba9b-9b97-4cb6-b661-f057d17bf954.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 90,
+     "startAt": "2026-10-21T00:00:00Z",
+     "endAt": "2026-10-21T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4447388e-b279-4214-8958-491613de181a.png"
       }
      ]
     }
@@ -1153,6 +1107,41 @@
       {
        "name": "50 LP",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc7a2e29-da24-4f43-bffd-11c46d999449.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b52a5b1e-3d45-4a57-9bf4-12d07504b6a5",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T00:00:00Z",
+   "endAt": "2026-10-21T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5deb09c1-93ef-4bef-b8ef-1e4bf67b00fb.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-21T00:00:00Z",
+     "endAt": "2026-10-21T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
