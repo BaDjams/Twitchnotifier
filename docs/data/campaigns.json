@@ -1,238 +1,11 @@
 {
- "updatedAt": "2026-10-21T21:57:16Z",
+ "updatedAt": "2026-10-22T00:37:16Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "ee1b1f91-ad9d-4061-9be4-ecea63a71645",
-   "name": "PMCFQ - zatanaa",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T20:00:00Z",
-   "endAt": "2026-10-21T21:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch zatanaa's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3baf6547-e3ca-40b4-bf6e-a17e693b0f4b.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "zatanaa"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-21T20:00:00Z",
-     "endAt": "2026-10-21T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "19f3b23f-5165-4b52-b1de-d3c9afd40223",
-   "name": "15.9 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-14T22:00:00Z",
-   "endAt": "2026-10-21T21:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bb4ca6cc-a00f-4a96-92a4-56e4d73bf2f8.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "worldofwarships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Week 2: 250 Community Tokens",
-     "minutes": 60,
-     "startAt": "2026-10-14T22:00:00Z",
-     "endAt": "2026-10-21T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Update 15.9: 250CT",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4",
-   "name": "Rematch x Blue Lock",
-   "status": "ACTIVE",
-   "startAt": "2026-09-23T23:01:00Z",
-   "endAt": "2026-10-21T22:58:59.999Z",
-   "description": "Watch 30mins of Rematch and receive the official Blue Lock x Rematch football badge!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d987e51b-81d0-4d1f-95b8-0caf7981ccfc.png",
-   "detailsURL": "https://www.twitch.tv/drops/campaigns",
-   "linkURL": "https://www.twitch.tv",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "1362102608",
-    "name": "REMATCH",
-    "slug": "rematch",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1362102608_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rematch"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Rematch Blue Lock",
-     "minutes": 30,
-     "startAt": "2026-09-23T23:01:00Z",
-     "endAt": "2026-10-21T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Rematch Blue Lock",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b56c4ec-7c74-4ff6-a4a9-04654c67d5f7.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d",
-   "name": "Oct #3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T08:05:00Z",
-   "endAt": "2026-10-21T23:58:59.999Z",
-   "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ea393bd8-1b29-42be-8d59-3012e51fdc46.png",
-   "detailsURL": "https://portal.uflgame.com/twitch/drops",
-   "linkURL": "https://portal.uflgame.com/twitch",
-   "owner": "XTEN LIMITED",
-   "game": {
-    "id": "1471416868",
-    "name": "UFL",
-    "slug": "ufl",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1471416868_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-ufl"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-10-15T08:05:00Z",
-     "endAt": "2026-10-21T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Enhanced CP",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e1496c36-42d0-4509-8792-0966cd0c8eef.png"
-      }
-     ]
-    },
-    {
-     "name": "2",
-     "minutes": 120,
-     "startAt": "2026-10-15T08:05:00Z",
-     "endAt": "2026-10-21T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Monsters Pack Lite",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/63be0754-9d97-4cae-b9e6-26f8c0025d64.png"
-      }
-     ]
-    },
-    {
-     "name": "3",
-     "minutes": 180,
-     "startAt": "2026-10-15T08:05:00Z",
-     "endAt": "2026-10-21T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Monsters Pack Lite",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9eb09842-4424-4f82-a537-330cab20d859.png"
-      }
-     ]
-    },
-    {
-     "name": "4",
-     "minutes": 240,
-     "startAt": "2026-10-15T08:05:00Z",
-     "endAt": "2026-10-21T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Game Changers Oct ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/69b51cfc-c0c9-4323-8759-e72d0d79c90e.png"
-      }
-     ]
-    },
-    {
-     "name": "5",
-     "minutes": 300,
-     "startAt": "2026-10-15T08:05:00Z",
-     "endAt": "2026-10-21T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "50 LP",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc7a2e29-da24-4f43-bffd-11c46d999449.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b52a5b1e-3d45-4a57-9bf4-12d07504b6a5",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T00:00:00Z",
-   "endAt": "2026-10-21T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5deb09c1-93ef-4bef-b8ef-1e4bf67b00fb.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-21T00:00:00Z",
-     "endAt": "2026-10-21T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "65f8f2a5-074c-48ca-8505-f525bb8d75f5",
    "name": "V2.10 Infinity Nikki",
@@ -382,6 +155,55 @@
       {
        "name": "Sparkwing Purple Chroma",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1608f064-f25c-4522-9f5d-d898aeb6f2c2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "830c2491-d5c4-4db0-949f-8f7486215088",
+   "name": "Good Morning Madden",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T22:30:00Z",
+   "endAt": "2026-10-22T02:29:59.999Z",
+   "description": "Watch the Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/eedfd717-49bf-4e57-b7b9-766d9a4b69c7.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
+   },
+   "channels": [
+    "eamaddennfl"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15,
+     "startAt": "2026-10-21T22:30:00Z",
+     "endAt": "2026-10-22T02:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ed937920-5c50-4f2b-96e0-28c2ab611923.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30,
+     "startAt": "2026-10-21T22:30:00Z",
+     "endAt": "2026-10-22T02:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c0f7204-9955-47c5-99be-39b2a47b3c52.png"
       }
      ]
     }
@@ -1537,6 +1359,41 @@
       {
        "name": "Bitten Diana Skin",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3380b4b3-b94f-46fe-bf97-74058eab7b8f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e6a55f73-d2a9-43f3-a188-1a7528cef466",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-22T00:00:00Z",
+   "endAt": "2026-10-22T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32326492-baab-4f4f-9ff6-44b637933bf8.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-10-22T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -5677,6 +5534,43 @@
    ]
   },
   {
+   "id": "18ae2563-22e9-4250-8734-3f1b6caa50e5",
+   "name": "15.9 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-21T22:00:00Z",
+   "endAt": "2026-10-28T21:59:59.999Z",
+   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fcb531b2-3b0a-460a-8e25-85ae8ac0ba67.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [
+    "worldofwarships"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Week 3: 250 Community Tokens",
+     "minutes": 60,
+     "startAt": "2026-10-21T22:00:00Z",
+     "endAt": "2026-10-28T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Update 15.9: 250CT",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
    "name": "October 2026",
    "status": "ACTIVE",
@@ -5917,6 +5811,93 @@
       {
        "name": "Flameborn Sigil",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9f2968a1-ea62-47a8-9f0d-ebb4e682568e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e02f8bb3-634e-4481-82d8-023f286a8770",
+   "name": "Anniversary Campaign",
+   "status": "ACTIVE",
+   "startAt": "2026-10-22T00:00:00Z",
+   "endAt": "2026-10-30T01:46:59.999Z",
+   "description": "Anniversary Twitch Drop Campaign.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c7403e88-5e52-4816-b13e-92be1a98bc4f.png",
+   "detailsURL": "https://evil-pongon-twitch.vercel.app/",
+   "linkURL": "https://evil-pongon-twitch.vercel.app/",
+   "owner": "Pongon",
+   "game": {
+    "id": "1274324285",
+    "name": "Evil Pongon Game",
+    "slug": "evil-pongon-game",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1274324285_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-evil-pongon-game"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Colours",
+     "minutes": 60,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-10-30T01:46:59.999Z",
+     "rewards": [
+      {
+       "name": "Deep Streamer Colour",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9d40daa3-c2a9-4d74-9bed-1b9dfc5c3d33.png"
+      },
+      {
+       "name": "Normal Streamer Colour",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bdde71b5-8700-4021-a1b3-b4cda13071e3.png"
+      },
+      {
+       "name": "Light Streamer Colour",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9b3a7478-794d-4e50-9d46-545fed9ad1b4.png"
+      }
+     ]
+    },
+    {
+     "name": "Slides",
+     "minutes": 120,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-10-30T01:46:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Slide - Static",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1e23ffba-3ddd-4af0-94c0-6f4209b32d5e.png"
+      },
+      {
+       "name": "Twitch Slide - Animated",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/02ab6372-5ccc-4e3c-847b-2a1d0282a335.png"
+      }
+     ]
+    },
+    {
+     "name": "Enphosed Skin and Soul",
+     "minutes": 180,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-10-30T01:46:59.999Z",
+     "rewards": [
+      {
+       "name": "Enphosed Pongon Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/83dec337-d6d3-4599-8692-be8e5352c677.png"
+      },
+      {
+       "name": "Streamer Soul Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8afe3d94-82e5-46ac-a9c1-8a0be662efe2.png"
+      }
+     ]
+    },
+    {
+     "name": "Shiny Enphosed Skin",
+     "minutes": 240,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-10-30T01:46:59.999Z",
+     "rewards": [
+      {
+       "name": "Shiny Enphosed Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5944c433-ca4d-44c8-a082-2b76071890a9.png"
       }
      ]
     }
@@ -8720,6 +8701,101 @@
       {
        "name": "QSMP2",
        "image": "https://static-cdn.jtvnw.net/badges/v1/2fa68fb9-fcdd-4795-bfab-f408e10efaef/3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "69f32da3-7abf-4716-b051-085a879cb112",
+   "name": "UNO! Mobile Twitch Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-22T00:00:00Z",
+   "endAt": "2026-11-18T23:59:59.999Z",
+   "description": "UNO Championship Series is now playable in UNO! Mobile!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/50cd713b-6484-4c9d-8c53-bfd1c059f924.jpeg",
+   "detailsURL": "https://uno.mattel163.com/twitchdrops",
+   "linkURL": "https://uno.mattel163.com/twitchdrops",
+   "owner": "Mattel163",
+   "game": {
+    "id": "869745621",
+    "name": "UNO! Mobile",
+    "slug": "uno-mobile",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/869745621_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-uno-mobile"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "300 Coins",
+     "minutes": 15,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "300 Coins",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/db3b989a-e047-48d0-b673-f40f8a8975f1.png"
+      }
+     ]
+    },
+    {
+     "name": "500 Coins",
+     "minutes": 30,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "500 Coins",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/60e70130-825a-4d92-8b13-a9c6a2da63bf.png"
+      }
+     ]
+    },
+    {
+     "name": "10 Diamonds",
+     "minutes": 45,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "10 Diamonds",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35b0893b-1c8e-4786-ae6c-715fa86edcb2.png"
+      }
+     ]
+    },
+    {
+     "name": "20 Diamonds",
+     "minutes": 60,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "20 Diamonds",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/86761851-4e19-4bc6-bc24-9f9757492f94.png"
+      }
+     ]
+    },
+    {
+     "name": "UCS Avatar Frame (30-Day)",
+     "minutes": 90,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "UCS Avatar Frame (30-Day)",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/746ab40d-5461-4c67-aced-baa7b30c172d.png"
+      }
+     ]
+    },
+    {
+     "name": "UCS Deck (7-Day Trial)",
+     "minutes": 120,
+     "startAt": "2026-10-22T00:00:00Z",
+     "endAt": "2026-11-18T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "UCS Deck (7-Day Trial)",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/46a4257b-8ccf-47e2-ae79-6f5fd5861342.png"
       }
      ]
     }
