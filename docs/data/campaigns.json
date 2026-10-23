@@ -1,120 +1,11 @@
 {
- "updatedAt": "2026-10-23T21:19:28Z",
+ "updatedAt": "2026-10-23T23:58:12Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "9a5f452d-a7b8-45a7-85d0-1bd9de1e2a3e",
-   "name": "PMCFQ - EgirlTenno",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T21:00:00Z",
-   "endAt": "2026-10-23T22:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch EgirlTenno's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4991c4c5-19b6-4c98-b583-cf170fd698a6.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "egirltenno"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-23T21:00:00Z",
-     "endAt": "2026-10-23T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "448a2c00-7b4d-4655-9d99-a2d9939b3143",
-   "name": "Twitch Rivals Backpack",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T17:45:00Z",
-   "endAt": "2026-10-23T23:14:59.999Z",
-   "description": "https://twitch.facepunch.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/94a6a89a-2dc2-4d86-8797-48efb3d089d9.png",
-   "detailsURL": "https://twitch.facepunch.com/",
-   "linkURL": "https://twitch.facepunch.com/connect",
-   "owner": "Facepunch Studios",
-   "game": {
-    "id": "263490",
-    "name": "Rust",
-    "slug": "rust",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/263490_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rust"
-   },
-   "channels": [
-    "twitchrivals"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Twitch Rivals Spooky Backpack",
-     "minutes": 30,
-     "startAt": "2026-10-23T17:45:00Z",
-     "endAt": "2026-10-23T23:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Rivals Spooky BP",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/efc2ab93-82d9-4582-85e8-835f1b593a75.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "65a349f3-eafb-4c12-b689-8443ac1c91b1",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T14:09:25Z",
-   "endAt": "2026-10-23T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6a5ada38-0ac7-4e21-b41e-643057dbfa2b.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "500 C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-21T14:09:25Z",
-     "endAt": "2026-10-23T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "3b4ff056-92dd-4625-98bc-2e649f7c3916",
    "name": "October Drops",
@@ -2547,14 +2438,9 @@
    "channels": [
     "rainbow6jp",
     "rainbow6tur",
-    "rainbow6",
-    "rainbow6fr",
-    "rainbow6ar",
-    "rainbow6br",
-    "rainbow6de",
-    "rainbow6es"
+    "rainbow6br"
    ],
-   "channelCount": 8,
+   "channelCount": 3,
    "drops": [
     {
      "name": "Esports Pack",
@@ -6896,75 +6782,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "sliggytv",
-    "harmii",
-    "wado",
-    "h3ners",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "valeskatwitch",
-    "mephisto_ttv",
-    "beyaz",
-    "azgarsg",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "stephano",
-    "ntwillow",
-    "gokedtv",
-    "pixie_9",
-    "oogiordyoo",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "melanji",
-    "aevilcat",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz",
-    "zikzlol"
+    "valorant"
    ],
-   "channelCount": 67,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
