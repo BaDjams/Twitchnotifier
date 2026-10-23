@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T23:33:07Z",
+ "updatedAt": "2026-10-23T01:52:32Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,107 +7,13 @@
  },
  "campaigns": [
   {
-   "id": "e6a55f73-d2a9-43f3-a188-1a7528cef466",
-   "name": "October Drops",
+   "id": "02ca1053-38c9-4c1e-bf08-689daa03089e",
+   "name": "PMCFQ - WidescreenJohn",
    "status": "ACTIVE",
-   "startAt": "2026-10-22T00:00:00Z",
-   "endAt": "2026-10-22T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32326492-baab-4f4f-9ff6-44b637933bf8.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-22T00:00:00Z",
-     "endAt": "2026-10-22T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8379bc7b-4082-4f4b-b83a-9812625f55a1",
-   "name": "Night Shift Update",
-   "status": "ACTIVE",
-   "startAt": "2026-09-25T00:00:00Z",
-   "endAt": "2026-10-22T23:59:59.999Z",
-   "description": "Check and sort baggage at the airport! Inspect suitcases for illegal contents, weight, and destination, then build a fully automated baggage handling system and optimize your terminal for maximum profit. The Night Shift Update turns the lights down: a new airport, double the baggage, extra pay per suitcase, and a cat that has somehow gotten into the terminal. From September 25 to October 23, watch participating streams to unlock exclusive decoration items for your home: the Twitch Mug, Poster, and Trophy.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9f9e4c1e-6155-497f-a5e4-8260a64c0d6d.png",
-   "detailsURL": "https://docs.google.com/document/d/1esoC5gpZLW2mtKJRtdvRZoz1t7BJXXMI5q1fRSUZhWw/edit?usp=sharing",
-   "linkURL": "https://docs.google.com/document/d/1esoC5gpZLW2mtKJRtdvRZoz1t7BJXXMI5q1fRSUZhWw/edit?usp=sharing",
-   "owner": "Three River Games (3RG)",
-   "game": {
-    "id": "1794564456",
-    "name": "Airport Baggage Simulator",
-    "slug": "airport-baggage-simulator",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1794564456_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-airport-baggage-simulator"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Decoration: Twitch Statue",
-     "minutes": 0,
-     "startAt": "2026-09-25T00:00:00Z",
-     "endAt": "2026-10-22T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Decoration: Twitch Statue",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eb2d7e1d-4f03-4db9-af9b-c4e149a6a426.png"
-      }
-     ]
-    },
-    {
-     "name": "Decoration: Twitch Mug",
-     "minutes": 15,
-     "startAt": "2026-09-25T00:00:00Z",
-     "endAt": "2026-10-22T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Decoration: Twitch Mug",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9e65e40e-293c-4d1d-9343-4f1e76165281.png"
-      }
-     ]
-    },
-    {
-     "name": "Decoration: Twitch Poster",
-     "minutes": 30,
-     "startAt": "2026-09-25T00:00:00Z",
-     "endAt": "2026-10-22T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Decoration: Twitch Poster",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b182b731-f6d1-4290-946d-32357d717e61.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dd07758e-e406-4f06-a866-ab4d3d1d79a5",
-   "name": "Prime Time #502",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T19:00:00Z",
-   "endAt": "2026-10-23T00:14:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our official fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1a852257-3d8a-47a2-9c3c-2bf1ac9fa450.jpeg",
+   "startAt": "2026-10-23T00:00:00Z",
+   "endAt": "2026-10-23T01:59:59.999Z",
+   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch WidescreenJohn's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6549e072-34c3-4656-aea2-c11eaa8c3c9f.jpeg",
    "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
    "linkURL": "https://www.warframe.com/user",
    "owner": "Digital Extremes",
@@ -119,40 +25,15 @@
     "topic": "twitchnotifier-dz7n7k-warframe"
    },
    "channels": [
-    "warframe",
-    "warframeinternational"
+    "widescreenjohn"
    ],
-   "channelCount": 2,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Random Furniture",
      "minutes": 30,
-     "startAt": "2026-10-21T19:00:00Z",
-     "endAt": "2026-10-23T00:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Furniture",
-     "minutes": 60,
-     "startAt": "2026-10-21T19:00:00Z",
-     "endAt": "2026-10-23T00:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Furniture",
-     "minutes": 90,
-     "startAt": "2026-10-21T19:00:00Z",
-     "endAt": "2026-10-23T00:14:59.999Z",
+     "startAt": "2026-10-23T00:00:00Z",
+     "endAt": "2026-10-23T01:59:59.999Z",
      "rewards": [
       {
        "name": "Random Furniture PMCFQ",
@@ -1960,6 +1841,41 @@
       {
        "name": "💰 500 C-Coins ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3b4ff056-92dd-4625-98bc-2e649f7c3916",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-23T00:00:00Z",
+   "endAt": "2026-10-23T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/290d78b9-63c3-4855-bc4d-91df9a184739.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-23T00:00:00Z",
+     "endAt": "2026-10-23T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -6330,75 +6246,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "sliggytv",
-    "wado",
-    "della3",
-    "h3ners",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "beyaz",
-    "azgarsg",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "pixie_9",
-    "oogiordyoo",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "aevilcat",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz",
-    "swado",
-    "stephanovlr",
-    "zikzlol",
-    "melanji",
-    "roxi"
+    "valorant"
    ],
-   "channelCount": 67,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
@@ -6784,6 +6634,53 @@
       {
        "name": "1x Royal Chest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e087c7f-6ff9-4868-b492-25897bff4858.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc8fd90c-a765-4e92-b5cd-1d8348bd364d",
+   "name": "Halloween Purple Pumpkin",
+   "status": "ACTIVE",
+   "startAt": "2026-10-23T00:00:00Z",
+   "endAt": "2026-11-01T23:59:59.999Z",
+   "description": "Get the new Purple Pumpkin Area Tower Skin!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2e345073-39f4-49d4-a907-3f447c0a7178.png",
+   "detailsURL": "https://ayrtonalexis.com/tdt_drops.html",
+   "linkURL": "https://ayrtonalexis.com/tdt_twitch_link.html",
+   "owner": "Ayrton Alexis",
+   "game": {
+    "id": "324223699",
+    "name": "ChatTDT: Tower Defense Twitch",
+    "slug": "chattdt-tower-defense-twitch",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/324223699_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-chattdt-tower-defense-twitch"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Last Year's Pumpkin",
+     "minutes": 0,
+     "startAt": "2026-10-23T00:00:00Z",
+     "endAt": "2026-11-01T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Halloween Pumpkin Tower",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/181a478a-b27b-4305-a8cd-61ef6a357e3e.png"
+      }
+     ]
+    },
+    {
+     "name": "New Purple Pumpkin",
+     "minutes": 45,
+     "startAt": "2026-10-23T00:00:00Z",
+     "endAt": "2026-11-01T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Purple Pumpkin (Area)",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3e4d3bcc-4629-418b-9594-921f5d8d88ec.png"
       }
      ]
     }
