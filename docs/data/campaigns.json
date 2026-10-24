@@ -1,232 +1,11 @@
 {
- "updatedAt": "2026-10-24T19:25:37Z",
+ "updatedAt": "2026-10-24T21:50:40Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "0a4bfd2f-23d9-4a43-876b-f5b9eae9faf1",
-   "name": "PMCFQ - secriot_mcfly",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T18:00:00Z",
-   "endAt": "2026-10-24T19:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch secriot_mcfly's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a405ffde-11ba-43c7-adcc-cf47085605e6.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "secriot_mcfly"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-24T18:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3a88f5bb-31ab-4a83-913c-3359ab7e49e4",
-   "name": "Souer GunGame",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T13:00:00Z",
-   "endAt": "2026-10-24T19:59:59.999Z",
-   "description": "GunGame",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7266f1c0-9dfe-40cb-afab-d131d4bdaacc.png",
-   "detailsURL": "https://www.twitch.tv/",
-   "linkURL": "https://www.escapefromtarkov.com/profile",
-   "owner": "Battlestate Games",
-   "game": {
-    "id": "491931",
-    "name": "Escape from Tarkov",
-    "slug": "escape-from-tarkov",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov"
-   },
-   "channels": [
-    "lapps_",
-    "okinokki",
-    "alexperch_",
-    "sootielive",
-    "grizzly_vp",
-    "bobtographer",
-    "pezziplays",
-    "ish_z",
-    "hyppoferrox",
-    "marbultv",
-    "schlaubiyo",
-    "sarmtv",
-    "ta_samaya_lera",
-    "ama_ria",
-    "byko4ka",
-    "h4rd111",
-    "magiik777",
-    "kommun9ka",
-    "ghinzo_o",
-    "explosiv_tv",
-    "slogia_",
-    "coolestjonas",
-    "weqend",
-    "black_moon_",
-    "fr0styo_",
-    "fateldenlord",
-    "szkibo",
-    "lizamilande",
-    "icefantatw",
-    "xyoungdevil",
-    "ttv_kpot",
-    "zhilikoff",
-    "neveroyatniyttv",
-    "dead1ywanderer",
-    "teheror19",
-    "mmk_kot",
-    "ellierealm",
-    "imjuck",
-    "canitayzer",
-    "ponommera",
-    "nemoflexxx",
-    "nemonas20",
-    "mrgwhites",
-    "saberino",
-    "assinsttv",
-    "itsmeripttv",
-    "theoddone_ttv",
-    "mrlacera",
-    "tapochekd_ttv",
-    "oiligf",
-    "dormsmanager",
-    "derflo26",
-    "godlyrandy",
-    "mazoni",
-    "7evenc1oud",
-    "mazy337",
-    "big_man_63_rus",
-    "vls_ww",
-    "scolopendra_ww",
-    "t0mmygl_tv",
-    "hellowinxd",
-    "weeweecktor",
-    "golemastox",
-    "paulool_",
-    "thevilwolf74",
-    "clayton_57",
-    "shevchuha",
-    "gazonux_ttv",
-    "korzhik_ttv",
-    "geffest_ttv",
-    "glame57",
-    "rrr_leva",
-    "nrz_tv",
-    "kiska_hunter",
-    "blitzergirl",
-    "lorektv",
-    "elfoxeyy",
-    "silly_raccon",
-    "borodatos_tv",
-    "myrzilka_ttv",
-    "rqk_og",
-    "c4actbe_tv",
-    "shiroyama56",
-    "greatemaple",
-    "assasinunion",
-    "swagapotrebitel",
-    "kuper13ttv",
-    "catman22_ttv",
-    "zhenie__",
-    "snuffistaken",
-    "mortiusan",
-    "mrgrandback",
-    "ideadlin3",
-    "stepbro_deboss",
-    "cookeeh",
-    "kapi_tun",
-    "5traiker",
-    "helltoy_ttv",
-    "mephyyyd",
-    "dittsmoralen"
-   ],
-   "channelCount": 110,
-   "drops": [
-    {
-     "name": "Common 1",
-     "minutes": 60,
-     "startAt": "2026-10-24T13:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common case",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8d12e572-1a8c-4319-a1ac-a6d5346f4356.png"
-      }
-     ]
-    },
-    {
-     "name": "Rare 1",
-     "minutes": 120,
-     "startAt": "2026-10-24T13:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare case",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f140ef92-dc55-4000-970a-f35c6197506f.png"
-      }
-     ]
-    },
-    {
-     "name": "Common 2",
-     "minutes": 180,
-     "startAt": "2026-10-24T13:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common case 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/90176a3d-83b9-44a7-9b39-a32bf62b1a5a.png"
-      }
-     ]
-    },
-    {
-     "name": "Rare 2",
-     "minutes": 240,
-     "startAt": "2026-10-24T13:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare case 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a28deed5-900a-46f2-a2f4-2c88dc2f70e5.png"
-      }
-     ]
-    },
-    {
-     "name": "Epic 1",
-     "minutes": 300,
-     "startAt": "2026-10-24T13:00:00Z",
-     "endAt": "2026-10-24T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic case",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e36f615-1644-4a60-a33e-67e341fa3a45.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "af90983f-03ff-4017-8653-ea7c50d3018f",
    "name": "Spookality Awards",
@@ -5219,6 +4998,55 @@
    ]
   },
   {
+   "id": "65bead42-1c5c-4df3-b4d6-437f8a2bf2e7",
+   "name": "Inoxtag Icon Series ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-24T20:30:00Z",
+   "endAt": "2026-10-28T03:59:59.999Z",
+   "description": "Watch Inoxtag and claim a Team Croutons Spray and the Inoxtag’s Vista Loading Screen!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87ba5873-897c-4471-94ad-00c74a2ae01b.jpeg",
+   "detailsURL": "https://www.fortnite.com/twitch-drops",
+   "linkURL": "https://www.fortnite.com/twitch-drops",
+   "owner": "Epic Games",
+   "game": {
+    "id": "33214",
+    "name": "Fortnite",
+    "slug": "fortnite",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-fortnite"
+   },
+   "channels": [
+    "inoxtag"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Team Croutons Spray",
+     "minutes": 30,
+     "startAt": "2026-10-24T20:30:00Z",
+     "endAt": "2026-10-28T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Team Croutons Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/20c709d7-981a-4e15-923a-87816413f58f.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Inoxtag’s Vista Loading Screen",
+     "minutes": 60,
+     "startAt": "2026-10-24T20:30:00Z",
+     "endAt": "2026-10-28T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Inoxtag’s Vista ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85364277-ef96-4c36-96a2-0547b7943860.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "6dc1348a-7a4c-4c7b-8f05-fed95e8ba449",
    "name": "Lineage 2 Forged Drops RU",
    "status": "ACTIVE",
@@ -7740,9 +7568,10 @@
     "valorantleague_east",
     "projectvgg2",
     "valorant_maincast",
-    "hitpointcz"
+    "hitpointcz",
+    "melhssn_"
    ],
-   "channelCount": 69,
+   "channelCount": 70,
    "drops": [
     {
      "name": "\"Miga\" Title",
