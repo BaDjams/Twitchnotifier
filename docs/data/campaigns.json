@@ -1,46 +1,11 @@
 {
- "updatedAt": "2026-10-23T23:58:12Z",
+ "updatedAt": "2026-10-24T04:26:34Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "3b4ff056-92dd-4625-98bc-2e649f7c3916",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T00:00:00Z",
-   "endAt": "2026-10-23T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/290d78b9-63c3-4855-bc4d-91df9a184739.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-23T00:00:00Z",
-     "endAt": "2026-10-23T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "22ef0f25-2fac-40db-a97d-600f93a11349",
    "name": "Scape Day 5: Daydream",
@@ -751,6 +716,41 @@
    ]
   },
   {
+   "id": "ec37d478-da23-4078-8cb7-b47a9b69327b",
+   "name": "E7WC 2026 Knockout Stage",
+   "status": "ACTIVE",
+   "startAt": "2026-10-24T03:00:00Z",
+   "endAt": "2026-10-24T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/438fecc9-a17d-41d5-9f43-9820fa0a472f.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Knockout Stage Day 1",
+     "minutes": 15,
+     "startAt": "2026-10-24T03:00:00Z",
+     "endAt": "2026-10-24T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Knockout Stage",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/51a3f5bf-c3a2-41c8-86ce-bd5a44e5e685.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "56cbbdc1-702b-44b4-89a1-3ba26f8dc0f9",
    "name": "CFB Live",
    "status": "ACTIVE",
@@ -1011,6 +1011,53 @@
       {
        "name": "Regalia of Awakening",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fc0274e7-d50a-4409-b8d7-c86d9087dd07",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-24T00:00:00Z",
+   "endAt": "2026-10-24T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04fb24d1-436d-40bf-bb25-fbeb9fb76aff.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-24T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-24T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -1858,6 +1905,92 @@
       {
        "name": "Orange Lava Lamp",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e4c411b-0241-4434-be62-2f6adff4e896.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cdf07a4c-9930-42d5-b098-15886c615a43",
+   "name": "Fall Masters'26 Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-10-24T00:00:00Z",
+   "endAt": "2026-10-25T23:29:59.999Z",
+   "description": "Get ready for a new Twitch Drops campaign dedicated to the Fall Masters 2026 PlayOffs!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1514aba-e0f6-4d6c-b7ae-a22f3774fbeb.png",
+   "detailsURL": "https://artstorm.com/en-US/news/fall-masters-2026-finals",
+   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
+   "owner": "Artstorm FZE",
+   "game": {
+    "id": "423797288",
+    "name": "Modern Warships",
+    "slug": "modern-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-modern-warships"
+   },
+   "channels": [
+    "modernwarships",
+    "modernwarships_ru"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "3 Days of Premium",
+     "minutes": 60,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-25T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "3 Days of Premium",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e66f62ae-9473-4595-be80-05538319c3db.png"
+      }
+     ]
+    },
+    {
+     "name": "Engine Boost Consumable x50",
+     "minutes": 120,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-25T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Engine Boost x50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d85a0e62-d21b-40b8-bf98-8ceb94d8af9e.png"
+      }
+     ]
+    },
+    {
+     "name": "Desert Wanderer Camouflage",
+     "minutes": 180,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-25T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Camo Desert Wanderer",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7362f93-f2de-4480-8688-cb7eab65481c.png"
+      }
+     ]
+    },
+    {
+     "name": "Tactical Consumables XL",
+     "minutes": 300,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-25T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Tactical Consumables XL",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/95f09d6d-7a3b-4592-ae02-0813134cbd1e.png"
+      }
+     ]
+    },
+    {
+     "name": "Fall Masters'26 Camouflage",
+     "minutes": 420,
+     "startAt": "2026-10-24T00:00:00Z",
+     "endAt": "2026-10-25T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Camo Fall Masters26",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b0af1b37-c35e-4bba-a750-80ca963f8132.png"
       }
      ]
     }
@@ -2835,6 +2968,101 @@
       {
        "name": "Triangle Outline Pattern",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/48398a3a-eff9-48d6-835a-ea0e7092fe39.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "25833d0c-aeea-42f9-b20d-b8101c66995b",
+   "name": "Open Series Cup #1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-24T04:00:00Z",
+   "endAt": "2026-10-26T11:59:59.999Z",
+   "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/588a0787-dc0a-48ac-8020-be68c9c865d7.png",
+   "detailsURL": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+   "linkURL": "https://ea.com/twitchlinking",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "1848745913",
+    "name": "Battlefield REDSEC",
+    "slug": "battlefield-redsec",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1848745913_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-battlefield-redsec"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "15 min Hardware XP Boost",
+     "minutes": 60,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "15 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f95892fc-1004-44a1-a39c-abbe29145c51.png"
+      }
+     ]
+    },
+    {
+     "name": "30 min Hardware XP Boost",
+     "minutes": 120,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "30 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4d1bb4a-ed5d-4881-a7c9-415410e9b4c9.png"
+      }
+     ]
+    },
+    {
+     "name": "Sonic Boom",
+     "minutes": 180,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Sonic Boom",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0eba00de-5cb7-4f55-9cc0-47c40ccda6c0.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 240,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e5059e40-e552-4f69-bd62-a62cd5a39f03.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 300,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a21dce6c-238f-405a-98b3-a8afc247b574.png"
+      }
+     ]
+    },
+    {
+     "name": "Deadlock",
+     "minutes": 360,
+     "startAt": "2026-10-24T04:00:00Z",
+     "endAt": "2026-10-26T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Deadlock",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/90322e04-7284-45f9-8890-63a2353019d0.png"
       }
      ]
     }
