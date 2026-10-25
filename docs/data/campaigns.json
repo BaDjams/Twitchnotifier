@@ -1,132 +1,11 @@
 {
- "updatedAt": "2026-10-24T21:50:40Z",
+ "updatedAt": "2026-10-25T00:15:33Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "af90983f-03ff-4017-8653-ea7c50d3018f",
-   "name": "Spookality Awards",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T18:00:00Z",
-   "endAt": "2026-10-24T23:29:59.999Z",
-   "description": "Come hang out as we highlight the top 3 Spookality avatar and world winners! You'll collect an exclusive accessory for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd25cf4a-e06f-4331-bc31-0625150c1249.png",
-   "detailsURL": "https://x.com/VRChat/status/2113344845569749180",
-   "linkURL": "https://vrchat.com/home/profile#link-twitch",
-   "owner": "VRChat",
-   "game": {
-    "id": "499003",
-    "name": "VRChat",
-    "slug": "vrchat",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/499003_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-vrchat"
-   },
-   "channels": [
-    "vrchat"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Spookality Life Ring",
-     "minutes": 15,
-     "startAt": "2026-10-24T18:00:00Z",
-     "endAt": "2026-10-24T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Spookality Life Ring",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7a6eb376-8274-4a99-95a2-0e05ad053219.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d034ab0f-9687-40a0-9f2a-dc60e006ea5f",
-   "name": "Mobile Championship Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T15:00:00Z",
-   "endAt": "2026-10-24T23:59:59.999Z",
-   "description": "Watch the first ever Mobile Championship and claim drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b213dfff-556b-47a8-bb6b-52264dab4287.jpeg",
-   "detailsURL": "https://www.fortnite.com/twitch-drops",
-   "linkURL": "https://www.fortnite.com/twitch-drops",
-   "owner": "Epic Games",
-   "game": {
-    "id": "33214",
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-fortnite"
-   },
-   "channels": [
-    "fortnite"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Midnight Gourdy Back Bling",
-     "minutes": 30,
-     "startAt": "2026-10-24T15:00:00Z",
-     "endAt": "2026-10-24T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Midnight Gourdy BB",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8dc48ab9-e01f-4218-87ff-3dc7420774f2.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fc0274e7-d50a-4409-b8d7-c86d9087dd07",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T00:00:00Z",
-   "endAt": "2026-10-24T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04fb24d1-436d-40bf-bb25-fbeb9fb76aff.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-24T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-24T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0",
    "name": "SWAT -OCT24",
@@ -2434,6 +2313,53 @@
       {
        "name": "15.9 KOTS XIX Regionals",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8b397f89-f245-4886-a248-a8843a93eddb.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fe30abc5-df8a-4a72-bd9a-a2f344ec59d8",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-25T00:00:00Z",
+   "endAt": "2026-10-25T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ef027fc5-d465-4fab-91b9-23582926c421.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-10-25T00:00:00Z",
+     "endAt": "2026-10-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-10-25T00:00:00Z",
+     "endAt": "2026-10-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -7500,78 +7426,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "sliggytv",
-    "harmii",
-    "wado",
-    "della3",
-    "h3ners",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "beyaz",
-    "i_am_khoree",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "stephano",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "pixie_9",
-    "oogiordyoo",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "megsoundslikeegg",
-    "mimimimichaela",
-    "melanji",
-    "zikzlol",
-    "aevilcat",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz",
-    "melhssn_"
+    "valorant"
    ],
-   "channelCount": 70,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
