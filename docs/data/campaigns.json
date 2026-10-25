@@ -1,76 +1,11 @@
 {
- "updatedAt": "2026-10-25T00:15:33Z",
+ "updatedAt": "2026-10-25T05:12:46Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0",
-   "name": "SWAT -OCT24",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T17:00:00Z",
-   "endAt": "2026-10-25T03:59:59.999Z",
-   "description": "Tune into this HCS Grassroots event to earn in-game content in Halo: The Master Chief Collection!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72d963a2-e6ea-4e54-8820-acfcd787824d.png",
-   "detailsURL": "https://www.halowaypoint.com",
-   "linkURL": "https://www.halowaypoint.com/settings/linked-accounts",
-   "owner": "Microsoft",
-   "game": {
-    "id": "417969",
-    "name": "Halo: The Master Chief Collection",
-    "slug": "halo-the-master-chief-collection",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417969-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-halo-the-master-chief-collection"
-   },
-   "channels": [
-    "naptimez"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "MCC Drops",
-     "minutes": 120,
-     "startAt": "2026-10-24T17:00:00Z",
-     "endAt": "2026-10-25T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "MCC HCS Grassroots United",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fda13c86-6bdd-4477-9f8d-11120e8f1f81.png"
-      },
-      {
-       "name": "Subzero Sniper Nameplate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3a9e3bc3-2cf7-402f-a0e8-8d8533048dc1.png"
-      },
-      {
-       "name": "MCC HCS Grassroots 2023",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7c69ea9a-3314-40d6-a0ab-c2da1e82597c.png"
-      },
-      {
-       "name": "Overkill Nameplate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5c43b0ee-b43c-4ea7-90d2-42488a6558d9.png"
-      },
-      {
-       "name": "MCC Burst Fire",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1b3ec14e-52ea-4869-ae2a-4105dbf8ec7d.png"
-      },
-      {
-       "name": "MCC Beach Life",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8304f827-1caf-4ae6-85ed-509d0667dba4.png"
-      },
-      {
-       "name": "MCC Shooting Star",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/429e0e3d-d450-4bdc-b960-12aa4d3d8101.png"
-      },
-      {
-       "name": "MCC Legendary II",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e05310db-c13b-457d-9287-b2f780d246df.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "fa9494e3-97a9-423a-94c2-2b93d43c6f89",
    "name": "C9 OCT 24",
@@ -679,6 +614,41 @@
       {
        "name": "30 Tournament Coins",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7c3916f7-38a1-4d1b-9477-4113c13afb79.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6ac20b1a-49a4-45d5-9e9f-cd6b55155f02",
+   "name": "E7WC 2026 Knockout Stage",
+   "status": "ACTIVE",
+   "startAt": "2026-10-25T03:00:00Z",
+   "endAt": "2026-10-25T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d9f424a6-ca70-425c-a565-a4b14051fe39.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Knockout Stage Day 2",
+     "minutes": 15,
+     "startAt": "2026-10-25T03:00:00Z",
+     "endAt": "2026-10-25T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Knockout Stage",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d7a1881f-f498-4e54-b00c-d468afb4bda2.png"
       }
      ]
     }
@@ -2538,99 +2508,9 @@
    },
    "channels": [
     "ow_esports",
-    "ow_esports_jp",
-    "emongg",
-    "disguisedtoast",
-    "commanderx",
-    "rakattack",
-    "fefegg",
-    "owbrain",
-    "w1llyv",
-    "modchi23",
-    "blackswordz",
-    "twisminds",
-    "toniki",
-    "tycho_ow2",
-    "txao",
-    "virtuspro",
-    "jjonaklove",
-    "cr_rion",
-    "kinapoppo",
-    "ow_uruca",
-    "pge4",
-    "hadi_ow",
-    "ocie_casts",
-    "bijw",
-    "cooruja",
-    "unter",
-    "poko",
-    "meltonff",
-    "ta1yo_tv",
-    "tr33_ow",
-    "frankiep423",
-    "beaver",
-    "broyouwack",
-    "fareeha",
-    "mixedfreight",
-    "noserino",
-    "christalraine",
-    "purpzuki",
-    "ashtrology",
-    "masteriangamer",
-    "joystick",
-    "almost_poe",
-    "conormcleod17",
-    "apply",
-    "aspen",
-    "6cyx",
-    "deku",
-    "froggerow",
-    "hiimsky",
-    "iddqd",
-    "danielfenner",
-    "angrodtralari",
-    "nitrao",
-    "sesuko",
-    "hoshimi0000",
-    "ml7support",
-    "jwantedl",
-    "pogstream",
-    "skiesti",
-    "sunshinebread",
-    "cowfee",
-    "august",
-    "karq",
-    "sooshi",
-    "warn",
-    "zbra",
-    "flats",
-    "chosen_ow",
-    "tommathan",
-    "supertf",
-    "hammerkick",
-    "teetawatv3",
-    "amaui0915",
-    "pirate_ow_",
-    "peurle_ow",
-    "kayeosee",
-    "kssarplayz",
-    "tipsykitty",
-    "questron",
-    "dams_ow",
-    "putterow",
-    "kajor_",
-    "custa",
-    "bullskunk",
-    "lhcloudy27",
-    "zaroide",
-    "playofthejames",
-    "clear__ow",
-    "bunnimoni",
-    "profoundrice",
-    "somnus",
-    "gappo3"
+    "ow_esports_jp"
    ],
-   "channelCount": 92,
+   "channelCount": 2,
    "drops": [
     {
      "name": "Prost Spray",
@@ -8046,6 +7926,52 @@
       {
        "name": "Belmont's Curse",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43194326-a872-447c-9f1d-02374b188a9f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cfdb7d07-2d7b-4487-889e-c4b83421d803",
+   "name": "Pokémon Night Out Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-25T02:00:00Z",
+   "endAt": "2026-11-02T07:58:59.999Z",
+   "description": "https://trainer.pokemon.com/rewards",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5e1f504b-02a3-456e-91a3-ad2169adffb4.png",
+   "detailsURL": "https://trainer.pokemon.com/rewards",
+   "linkURL": "https://trainer.pokemon.com/rewards",
+   "owner": "The Pokémon Company",
+   "game": {
+    "id": "490655",
+    "name": "Pokémon GO",
+    "slug": "pokemon-go",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-pokemon-go"
+   },
+   "channels": [
+    "pokemon",
+    "trishahershberger",
+    "aliythia",
+    "berticuss",
+    "ninfangirl",
+    "qtcinderella",
+    "fuslie",
+    "dizzykitten",
+    "hydrasung",
+    "marshmello"
+   ],
+   "channelCount": 10,
+   "drops": [
+    {
+     "name": "Baseball Jersey TR",
+     "minutes": 30,
+     "startAt": "2026-10-25T02:00:00Z",
+     "endAt": "2026-11-02T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Night Out Baseball Jersey",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/63cfa9e8-190e-4576-aae2-d0ea307e3626.png"
       }
      ]
     }
