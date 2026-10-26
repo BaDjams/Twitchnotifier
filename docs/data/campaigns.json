@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T23:10:22Z",
+ "updatedAt": "2026-10-26T01:37:14Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,723 +7,37 @@
  },
  "campaigns": [
   {
-   "id": "ebb4e78b-0498-4f90-b6d7-b792920d9dcd",
-   "name": "PGA Drops",
+   "id": "6fc87a97-1053-49c6-87ab-b924a0a2c1ba",
+   "name": "PMCFQ - SnootyDeath",
    "status": "ACTIVE",
-   "startAt": "2026-10-23T07:30:00Z",
-   "endAt": "2026-10-25T23:29:59.999Z",
-   "description": "PGA Special Twitch Drop! Watch HEAT to get a Lava Charm and a Booster Pack! Link your Twitch and Wargaming accounts to claim your rewards.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
-   "linkURL": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-   "owner": "Wargaming",
+   "startAt": "2026-10-26T01:00:00Z",
+   "endAt": "2026-10-26T02:59:59.999Z",
+   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch SnootyDeath's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e5225fc-b0d7-4fbb-b384-56d23279faa7.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
    "game": {
-    "id": "767133634",
-    "name": "World of Tanks: HEAT",
-    "slug": "world-of-tanks-heat",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/767133634_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks-heat"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "PGA Drop",
-     "minutes": 60,
-     "startAt": "2026-10-23T07:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Booster Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36983350-7c59-4dcf-8a1f-828e3c088e9b.png"
-      }
-     ]
-    },
-    {
-     "name": "PGA Charm",
-     "minutes": 120,
-     "startAt": "2026-10-23T07:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Orange Lava Lamp",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e4c411b-0241-4434-be62-2f6adff4e896.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a58a7cee-fffe-47b5-b793-3aef3cdadd91",
-   "name": "CRL Fall Championship",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T16:30:00Z",
-   "endAt": "2026-10-25T23:29:59.999Z",
-   "description": "Watch the CRL Fall Championship to earn RLCS Twitch Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e0028d3-56ed-4a4b-8c50-8fd249df0803.png",
-   "detailsURL": "https://www.epicgames.com/account/connections",
-   "linkURL": "https://www.epicgames.com/account/connections",
-   "owner": "Epic Games",
-   "game": {
-    "id": "30921",
-    "name": "Rocket League",
-    "slug": "rocket-league",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/30921-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rocket-league"
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
    },
    "channels": [
-    "rocketleague"
+    "snootydeath"
    ],
    "channelCount": 1,
    "drops": [
     {
-     "name": "RLCS Very Rare Drop",
+     "name": "Random Furniture",
      "minutes": 30,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
+     "startAt": "2026-10-26T01:00:00Z",
+     "endAt": "2026-10-26T02:59:59.999Z",
      "rewards": [
       {
-       "name": "RLCS 2025 Very Rare Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9695bf74-ff0f-4a31-b469-1e9de6d29441.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 60,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Import Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/39e9ee43-b4ce-481d-a026-4d4bbbdf9a83.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 120,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Exotic Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5de5791-aa6d-411c-b06e-92d8fd8766f9.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Very Rare Drop",
-     "minutes": 150,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Very Rare Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9695bf74-ff0f-4a31-b469-1e9de6d29441.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 180,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Import Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/39e9ee43-b4ce-481d-a026-4d4bbbdf9a83.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 240,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Exotic Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5de5791-aa6d-411c-b06e-92d8fd8766f9.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cdf07a4c-9930-42d5-b098-15886c615a43",
-   "name": "Fall Masters'26 Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T00:00:00Z",
-   "endAt": "2026-10-25T23:29:59.999Z",
-   "description": "Get ready for a new Twitch Drops campaign dedicated to the Fall Masters 2026 PlayOffs!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1514aba-e0f6-4d6c-b7ae-a22f3774fbeb.png",
-   "detailsURL": "https://artstorm.com/en-US/news/fall-masters-2026-finals",
-   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
-   "owner": "Artstorm FZE",
-   "game": {
-    "id": "423797288",
-    "name": "Modern Warships",
-    "slug": "modern-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-modern-warships"
-   },
-   "channels": [
-    "modernwarships",
-    "modernwarships_ru"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "3 Days of Premium",
-     "minutes": 60,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "3 Days of Premium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e66f62ae-9473-4595-be80-05538319c3db.png"
-      }
-     ]
-    },
-    {
-     "name": "Engine Boost Consumable x50",
-     "minutes": 120,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Engine Boost x50",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d85a0e62-d21b-40b8-bf98-8ceb94d8af9e.png"
-      }
-     ]
-    },
-    {
-     "name": "Desert Wanderer Camouflage",
-     "minutes": 180,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Camo Desert Wanderer",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7362f93-f2de-4480-8688-cb7eab65481c.png"
-      }
-     ]
-    },
-    {
-     "name": "Tactical Consumables XL",
-     "minutes": 300,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Tactical Consumables XL",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/95f09d6d-7a3b-4592-ae02-0813134cbd1e.png"
-      }
-     ]
-    },
-    {
-     "name": "Fall Masters'26 Camouflage",
-     "minutes": 420,
-     "startAt": "2026-10-24T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Camo Fall Masters26",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b0af1b37-c35e-4bba-a750-80ca963f8132.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2109e54a-edff-47c0-af40-21b7b82de7df",
-   "name": "Weekly Supply Drops #38",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T00:00:00Z",
-   "endAt": "2026-10-25T23:29:59.999Z",
-   "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a9d97334-e494-492c-84e4-7e1aae0d960c.png",
-   "detailsURL": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
-   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
-   "owner": "Artstorm FZE",
-   "game": {
-    "id": "423797288",
-    "name": "Modern Warships",
-    "slug": "modern-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-modern-warships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30,
-     "startAt": "2026-10-19T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "1 Day of Premium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/075db935-cd69-42db-a87f-d436973f45e3.png"
-      }
-     ]
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60,
-     "startAt": "2026-10-19T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "100 UP's",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c6bf298-85b3-4521-8994-3d59e637d713.png"
-      }
-     ]
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90,
-     "startAt": "2026-10-19T00:00:00Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Tactical Consumables Set",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/203e1a32-c0fc-4a46-bbb9-0ca0a0e5e046.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "69b628d0-d0e8-4a69-b110-e8395bba4f0a",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T12:03:17Z",
-   "endAt": "2026-10-25T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/41b488c7-551f-4505-859d-35ba110f33bb.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-24T12:03:17Z",
-     "endAt": "2026-10-25T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dd205c6b-e233-481a-b09f-d688ca36ba67",
-   "name": "Mobile Championship Day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-25T15:00:00Z",
-   "endAt": "2026-10-25T23:59:59.999Z",
-   "description": "Watch the first ever Mobile Championship and claim drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a2673601-ee53-4aec-9809-72891143b71f.jpeg",
-   "detailsURL": "https://www.fortnite.com/twitch-drops",
-   "linkURL": "https://www.fortnite.com/twitch-drops",
-   "owner": "Epic Games",
-   "game": {
-    "id": "33214",
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-fortnite"
-   },
-   "channels": [
-    "fortnite"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Midnight Batwings Pickaxe ",
-     "minutes": 30,
-     "startAt": "2026-10-25T15:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Midnight Batwings Pickaxe",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b92aa5ca-633a-42a9-af83-af4fec977a58.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "388790b0-076a-4aaf-89d2-63d04b8b5bc9",
-   "name": "REORIENTATION Weekend",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T10:00:00Z",
-   "endAt": "2026-10-25T23:59:59.999Z",
-   "description": "Delta Force Season REORIENTATION Weekend Drops are here! Tune in to our Partner Creator channels on Twitch to earn rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e877a86d-b483-4ba5-95b4-6acc116b5a74.png",
-   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "1282866981",
-    "name": "Delta Force",
-    "slug": "delta-force-hawk-ops",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
-   },
-   "channels": [
-    "jest_pia",
-    "deltaforcegameofficial",
-    "leissik",
-    "attursson",
-    "cyqop",
-    "zapokk",
-    "thejdevise",
-    "gorilla",
-    "siingsong",
-    "roguepringle",
-    "terasite",
-    "equalplays",
-    "geekseh",
-    "b0ii",
-    "drewd0g",
-    "tj_sk1per",
-    "lildjeyy1",
-    "redpandash",
-    "stikinson",
-    "hesoyamof1974",
-    "delta_fix",
-    "balyklek",
-    "rxckstar",
-    "reidboyy",
-    "wa77en",
-    "aznboi",
-    "nemereth",
-    "cneytas",
-    "jimmyboiyo",
-    "voet",
-    "kongstyle101",
-    "minda999",
-    "chelb",
-    "precision",
-    "deathwingua",
-    "chaoskingtru",
-    "imow",
-    "gl40labsrat",
-    "silowa",
-    "qkobyy",
-    "farmerlucas",
-    "redduch",
-    "tenkedzu",
-    "off_kuka358",
-    "f4tr4t_",
-    "hodsic",
-    "zyxerp",
-    "erverks",
-    "winghaven",
-    "summit1g",
-    "hutchmf",
-    "sammymedows",
-    "poach",
-    "mendo",
-    "immarksman",
-    "jessekazam",
-    "dfyellow",
-    "shomaru7",
-    "yukikamiya6",
-    "kureido",
-    "marmot_1124",
-    "ponsukech",
-    "honemaro_vt",
-    "yasokichi49",
-    "hiki0115",
-    "maruti_seat",
-    "nemuimurime",
-    "purana0527",
-    "fps_arin",
-    "enmstr7",
-    "kilv37",
-    "xhazmathuman",
-    "bbreadman",
-    "cook_playing",
-    "grindrr",
-    "thz_tv",
-    "kyborgtv",
-    "theburntpeanut",
-    "nickmercs",
-    "cloakzy",
-    "nadeshot",
-    "shroud",
-    "lirik",
-    "gingy",
-    "recrent",
-    "taxi2g",
-    "promoz",
-    "swizzmb",
-    "saltyysavage",
-    "nokss68",
-    "somekindadog",
-    "roguemonkeyjr",
-    "thebeardguys",
-    "celestiayukihime",
-    "rlaw",
-    "heromikttv",
-    "mrdiogod",
-    "timthetatman",
-    "xqc",
-    "drac"
-   ],
-   "channelCount": 811,
-   "drops": [
-    {
-     "name": "Armament Voucher",
-     "minutes": 15,
-     "startAt": "2026-10-23T10:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Armament Voucher X2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2331d74e-7a3d-439f-af75-45e6825fbc67.png"
-      }
-     ]
-    },
-    {
-     "name": "Ops Challenge Supply Pack",
-     "minutes": 30,
-     "startAt": "2026-10-23T10:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ops Challenge Supply Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8f8fe766-432b-45f1-86e6-30b6fcb5026f.png"
-      }
-     ]
-    },
-    {
-     "name": "Standard Gear Ticket",
-     "minutes": 60,
-     "startAt": "2026-10-23T10:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Standard Gear Ticket",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1162d5db-02a6-412a-b6eb-155f887242ef.png"
-      }
-     ]
-    },
-    {
-     "name": "C Card Each to Their Role",
-     "minutes": 90,
-     "startAt": "2026-10-23T10:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "C Card-Each to Their Role",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2ca6fc77-156a-4309-8202-5ab39b2bda13.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bfccc89e-d12f-472c-92da-81c6054c33c9",
-   "name": "15.9 KOTS XIX Regionals",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T06:00:00Z",
-   "endAt": "2026-10-25T23:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7671c3f-b853-44a7-92c9-9e2527c940b8.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "kou_scone",
-    "44irikss",
-    "9_9_destroyer",
-    "admiral_revan",
-    "overlordbou",
-    "dighort",
-    "el_profedehistoria",
-    "joe_muetze",
-    "e_tagpro",
-    "lenny_gts",
-    "lord_zath",
-    "malteseknight",
-    "minihannibal65",
-    "pwdhfreeman",
-    "painezor",
-    "searaptor",
-    "seadonkeygaming",
-    "teamkrado",
-    "trenlass",
-    "worldsp0wn",
-    "xairen",
-    "zapata96mx",
-    "torpedochka_",
-    "4ort_yar"
-   ],
-   "channelCount": 24,
-   "drops": [
-    {
-     "name": "15.9 KOTS XIX Regionals",
-     "minutes": 180,
-     "startAt": "2026-10-17T06:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "15.9 KOTS XIX Regionals",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8b397f89-f245-4886-a248-a8843a93eddb.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fe30abc5-df8a-4a72-bd9a-a2f344ec59d8",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-25T00:00:00Z",
-   "endAt": "2026-10-25T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ef027fc5-d465-4fab-91b9-23582926c421.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150,
-     "startAt": "2026-10-25T00:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300,
-     "startAt": "2026-10-25T00:00:00Z",
-     "endAt": "2026-10-25T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "520218bf-41ef-4a30-80df-3bd5b0102303",
-   "name": "V4.6 Honkai: Star Rail",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T01:00:00Z",
-   "endAt": "2026-10-26T00:59:59.999Z",
-   "description": "Honkai: Star Rail Drops Campaign",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85a15862-b33a-4207-83f8-228069c8bd4e.png",
-   "detailsURL": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
-   "linkURL": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
-   "owner": "Cognosphere",
-   "game": {
-    "id": "213930085",
-    "name": "Honkai: Star Rail",
-    "slug": "honkai-star-rail",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/213930085_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-honkai-star-rail"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Credit*20000",
-     "minutes": 15,
-     "startAt": "2026-09-28T01:00:00Z",
-     "endAt": "2026-10-26T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Credit*20000",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bdf2a93f-96e5-4544-9972-4b4d8eabddc9.png"
-      }
-     ]
-    },
-    {
-     "name": "Lost Gold Fragment*4",
-     "minutes": 30,
-     "startAt": "2026-09-28T01:00:00Z",
-     "endAt": "2026-10-26T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Lost Gold Fragment*4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e8254bd0-87ab-491a-b5bf-2ba99d9ecf6f.png"
-      }
-     ]
-    },
-    {
-     "name": "Condensed Aether*5",
-     "minutes": 45,
-     "startAt": "2026-09-28T01:00:00Z",
-     "endAt": "2026-10-26T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Condensed Aether*5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5cb5327-04fc-4537-ad6a-142b9bfa89fe.png"
-      }
-     ]
-    },
-    {
-     "name": "Traveler's Guide*3",
-     "minutes": 60,
-     "startAt": "2026-09-28T01:00:00Z",
-     "endAt": "2026-10-26T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Traveler's Guide*3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/10953670-5011-471e-b873-b1ef4901ba6e.png"
-      }
-     ]
-    },
-    {
-     "name": "Stellar Jade*30",
-     "minutes": 120,
-     "startAt": "2026-09-28T01:00:00Z",
-     "endAt": "2026-10-26T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Stellar Jade*30",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35243e27-46dd-438a-b460-7bfafe547f18.png"
+       "name": "Random Furniture PMCFQ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
       }
      ]
     }
@@ -2634,6 +1948,41 @@
       {
        "name": "2027 Puebla TCGL Drops",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7222ddf8-070e-40df-8849-fc9b2088f452.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a215306c-b599-470b-b9a7-265f84b21660",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T00:00:00Z",
+   "endAt": "2026-10-26T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cabecabe-efa0-4127-9c0a-598cfcfe8e33.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-10-26T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -7150,6 +6499,140 @@
       {
        "name": "1x Royal Chest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e087c7f-6ff9-4868-b492-25897bff4858.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3380dcef-23bf-4649-8268-aded1addb26c",
+   "name": "MD Drops Set 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T00:00:00Z",
+   "endAt": "2026-11-01T21:59:59.999Z",
+   "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d3afd23-dcbe-468a-9f8e-86fbae51af94.png",
+   "detailsURL": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+   "linkURL": "https://mobiledungeon.com/",
+   "owner": "Playa-Games",
+   "game": {
+    "id": "383199964",
+    "name": "Mobile Dungeon",
+    "slug": "mobile-dungeon",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/383199964_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-mobile-dungeon"
+   },
+   "channels": [
+    "mozonetv",
+    "waves",
+    "mobiledungeonofficial"
+   ],
+   "channelCount": 3,
+   "drops": [
+    {
+     "name": "5x Dungeon Key",
+     "minutes": 30,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "5x Dungeon Key",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b3ed194d-ac09-41c7-b313-eb5b6fb71e25.png"
+      }
+     ]
+    },
+    {
+     "name": "2x Arena Ticket",
+     "minutes": 60,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "2x Arena Ticket",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/19f8ff54-e7f3-4006-bb6f-fc5c69901945.png"
+      }
+     ]
+    },
+    {
+     "name": "50x Crystal",
+     "minutes": 90,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "50x Crystal",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35b9a50c-c8d0-4244-ab91-90c610c115e5.png"
+      }
+     ]
+    },
+    {
+     "name": "48x Thirst for Adventure",
+     "minutes": 120,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "48x Thirst for Adventure",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aec5e347-0289-41c6-bd7c-46cb98e9d232.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8d964f2-fcdc-4440-a979-9ff55351cbe8",
+   "name": "Weekly Supply Drops #39",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T00:00:00Z",
+   "endAt": "2026-11-01T23:29:59.999Z",
+   "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f92f7032-81d7-42e3-8bd4-ec71bf63e87d.png",
+   "detailsURL": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
+   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
+   "owner": "Artstorm FZE",
+   "game": {
+    "id": "423797288",
+    "name": "Modern Warships",
+    "slug": "modern-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-modern-warships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "1 Day of Premium",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/075db935-cd69-42db-a87f-d436973f45e3.png"
+      }
+     ]
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "100 UP's",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c6bf298-85b3-4521-8994-3d59e637d713.png"
+      }
+     ]
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Tactical Consumables Set",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/203e1a32-c0fc-4a46-bbb9-0ca0a0e5e046.png"
       }
      ]
     }
