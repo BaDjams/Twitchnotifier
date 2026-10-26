@@ -1,519 +1,11 @@
 {
- "updatedAt": "2026-10-26T01:37:14Z",
+ "updatedAt": "2026-10-26T07:42:56Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "6fc87a97-1053-49c6-87ab-b924a0a2c1ba",
-   "name": "PMCFQ - SnootyDeath",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T01:00:00Z",
-   "endAt": "2026-10-26T02:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch SnootyDeath's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e5225fc-b0d7-4fbb-b384-56d23279faa7.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "snootydeath"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Furniture",
-     "minutes": 30,
-     "startAt": "2026-10-26T01:00:00Z",
-     "endAt": "2026-10-26T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Random Furniture PMCFQ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fbc06183-0261-4990-a8d0-e2b0754e9b7e.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fede2520-a23a-435d-a47f-95cca352cf23",
-   "name": "JS2 Weekly 10.19",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T04:00:00Z",
-   "endAt": "2026-10-26T03:59:59.999Z",
-   "description": "Watch livestreams to claim your drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b863afcb-bda2-4092-8a09-16f345bb770f.png",
-   "detailsURL": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-   "linkURL": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-   "owner": "NetEase",
-   "game": {
-    "id": "515474",
-    "name": "NARAKA: BLADEPOINT",
-    "slug": "naraka-bladepoint",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-naraka-bladepoint"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60,
-     "startAt": "2026-10-19T04:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Special Random Gift",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e195fb4-18a8-4700-8d30-fd628324dca6.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1b22fe56-30f3-4326-869f-c6e8e59e7815",
-   "name": "DbD October of Horror III",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T04:00:00Z",
-   "endAt": "2026-10-26T03:59:59.999Z",
-   "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the third one between October 19 and October 25.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2454dab9-bb69-4e42-bb81-426e07f6a0b2.png",
-   "detailsURL": "https://account.bhvr.com/twitch/dbd",
-   "linkURL": "https://account.bhvr.com/twitch/dbd",
-   "owner": "Behaviour Interactive Inc.",
-   "game": {
-    "id": "491487",
-    "name": "Dead by Daylight",
-    "slug": "dead-by-daylight",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491487-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-dead-by-daylight"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Fanged Flier Badge",
-     "minutes": 60,
-     "startAt": "2026-10-19T04:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Fanged Flier Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1be5086a-618d-478d-89f4-b134102ec12a.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b4d74b43-1f76-4953-a980-83a68ea6b5ff",
-   "name": "OWCS Stage 3 Season",
-   "status": "ACTIVE",
-   "startAt": "2026-10-10T16:00:00Z",
-   "endAt": "2026-10-26T03:59:59.999Z",
-   "description": "Celebrate the OWCS Stage 3 Regular Season with special viewer rewards! Watch 1 hour to get the Prost Spray, 2 hours to get the Purrfect Afternoon Spray, 3 hours to get the Skål Spray, 4 hours to get the Banana Cat Spray, 6 hours to get the Autumn Vibes Name Card, 8 hours to get the Banana Cat Icon, and 10 hours to get an Esports Loot Box",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9b18ddb8-1bdf-431c-992d-c2a3dda3468c.png",
-   "detailsURL": "https://esports.overwatch.com/en-us/rewards",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "515025",
-    "name": "Overwatch",
-    "slug": "overwatch-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-overwatch-2"
-   },
-   "channels": [
-    "ow_esports",
-    "ow_esports_jp",
-    "emongg",
-    "disguisedtoast",
-    "pge4",
-    "hadi_ow",
-    "commanderx",
-    "rakattack",
-    "fefegg",
-    "owbrain",
-    "w1llyv",
-    "modchi23",
-    "blackswordz",
-    "tycho_ow2",
-    "txao",
-    "virtuspro",
-    "jjonaklove",
-    "unter",
-    "poko",
-    "ta1yo_tv",
-    "meltonff",
-    "ocie_casts",
-    "bijw",
-    "cooruja",
-    "toniki",
-    "tr33_ow",
-    "frankiep423",
-    "beaver",
-    "broyouwack",
-    "fareeha",
-    "mixedfreight",
-    "noserino",
-    "christalraine",
-    "purpzuki",
-    "ashtrology",
-    "masteriangamer",
-    "joystick",
-    "almost_poe",
-    "conormcleod17",
-    "apply",
-    "aspen",
-    "6cyx",
-    "deku",
-    "froggerow",
-    "hiimsky",
-    "iddqd",
-    "danielfenner",
-    "angrodtralari",
-    "nitrao",
-    "sesuko",
-    "hoshimi0000",
-    "ml7support",
-    "jwantedl",
-    "pogstream",
-    "skiesti",
-    "sunshinebread",
-    "cowfee",
-    "august",
-    "karq",
-    "sooshi",
-    "warn",
-    "zbra",
-    "twisminds",
-    "flats",
-    "chosen_ow",
-    "tommathan",
-    "supertf",
-    "hammerkick",
-    "teetawatv3",
-    "amaui0915",
-    "pirate_ow_",
-    "peurle_ow",
-    "kayeosee",
-    "kssarplayz",
-    "tipsykitty",
-    "questron",
-    "dams_ow",
-    "putterow",
-    "kajor_",
-    "custa",
-    "bullskunk",
-    "lhcloudy27",
-    "zaroide",
-    "playofthejames",
-    "clear__ow",
-    "bunnimoni",
-    "profoundrice",
-    "somnus",
-    "gappo3"
-   ],
-   "channelCount": 89,
-   "drops": [
-    {
-     "name": "Prost Spray",
-     "minutes": 60,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Prost Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4074926-b623-4cb0-ae2b-4651fc586bf9.png"
-      }
-     ]
-    },
-    {
-     "name": "Purrfect Afternoon Spray",
-     "minutes": 120,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Purrfect Afternoon Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/25a10519-c403-4b68-8074-6d314ed9ef95.png"
-      }
-     ]
-    },
-    {
-     "name": "Skål Spray",
-     "minutes": 180,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Skål Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0f701657-24e2-4fca-832d-8f64921b1e01.png"
-      }
-     ]
-    },
-    {
-     "name": "Banana Cat Spray",
-     "minutes": 240,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Banana Cat Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/80b6dfa9-af02-4319-b597-03f28f9619b3.png"
-      }
-     ]
-    },
-    {
-     "name": "Autumn Vibes Name Card",
-     "minutes": 360,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Autumn Vibes Name Card",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/650bb36a-cf49-4b46-b664-e3d260aef392.png"
-      }
-     ]
-    },
-    {
-     "name": "Banana Cat Icon",
-     "minutes": 480,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Banana Cat Icon",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fd516454-5a81-4dbf-86ca-0490dbc7fadc.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 600,
-     "startAt": "2026-10-10T16:00:00Z",
-     "endAt": "2026-10-26T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1 Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/306a60e2-cdb3-4c58-ad46-39a05a69f5ed.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ef80b803-00ee-41e0-9223-18eee2499e41",
-   "name": "R6S S2 2026 19",
-   "status": "ACTIVE",
-   "startAt": "2026-10-17T05:00:00Z",
-   "endAt": "2026-10-26T04:58:59.999Z",
-   "description": "Rainbow Six Siege - Stage 2",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42267ad4-b20d-4757-aeb4-ec9c2a034c31.png",
-   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-   "linkURL": "https://drops-register.ubi.com/#/en-US",
-   "owner": "Ubisoft",
-   "game": {
-    "id": "460630",
-    "name": "Rainbow Six Siege",
-    "slug": "tom-clancys-rainbow-six-siege",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460630-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
-   },
-   "channels": [
-    "rainbow6jp",
-    "rainbow6tur",
-    "rainbow6br"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60,
-     "startAt": "2026-10-17T05:00:00Z",
-     "endAt": "2026-10-26T04:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Pack 26 Stage 2.1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a0bcc4dc-161b-4d49-bf1f-4cb523b18d73.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 180,
-     "startAt": "2026-10-17T05:00:00Z",
-     "endAt": "2026-10-26T04:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Pack 26 Stage 2.1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a0bcc4dc-161b-4d49-bf1f-4cb523b18d73.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360,
-     "startAt": "2026-10-17T05:00:00Z",
-     "endAt": "2026-10-26T04:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Pack 26 Stage 2.1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a0bcc4dc-161b-4d49-bf1f-4cb523b18d73.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 540,
-     "startAt": "2026-10-17T05:00:00Z",
-     "endAt": "2026-10-26T04:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Pack 26 Stage 2.1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a0bcc4dc-161b-4d49-bf1f-4cb523b18d73.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "53817dac-8fdb-48cc-91b5-453570e05124",
-   "name": "ACE COMBAT 8 Nugget",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T22:00:00Z",
-   "endAt": "2026-10-26T06:59:59.999Z",
-   "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ACE COMBAT 8 category during the game's launch!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1ac87e55-8b08-4515-b4eb-d3143e330d85.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "16472",
-    "name": "Ace Combat Zero: The Belkan War",
-    "slug": "ace-combat-zero-the-belkan-war",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/16472_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-ace-combat-zero-the-belkan-war"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "ACE COMBAT 8 Nugget",
-     "minutes": 0,
-     "startAt": "2026-09-28T22:00:00Z",
-     "endAt": "2026-10-26T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ace Combat 8 Nugget",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c2657496-7cfa-4314-b2a7-5a9452cdce7c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3640eef0-76ec-404e-8342-7c1b54d98b81",
-   "name": "ACE COMBAT 8 Nugget",
-   "status": "ACTIVE",
-   "startAt": "2026-09-28T22:00:00Z",
-   "endAt": "2026-10-26T06:59:59.999Z",
-   "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ACE COMBAT 8 category during the game's launch!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8491897-bab2-4854-b700-528ea2bca2eb.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "404069058",
-    "name": "ACE COMBAT 8: WINGS OF THEVE",
-    "slug": "ace-combat-8-wings-of-theve",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/404069058_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-ace-combat-8-wings-of-theve"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "ACE COMBAT 8 Nugget",
-     "minutes": 0,
-     "startAt": "2026-09-28T22:00:00Z",
-     "endAt": "2026-10-26T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "ACE COMBAT 8 Nugget",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb962c81-126e-43a5-a66f-0bf113e35f0a.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c58525c6-2dc0-43af-a5e5-3cafe4b14b78",
-   "name": "Scape Day 7: Steadfast",
-   "status": "ACTIVE",
-   "startAt": "2026-10-25T07:00:00Z",
-   "endAt": "2026-10-26T06:59:59.999Z",
-   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Steadfast companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d36ae75f-3e9f-4384-883f-4a0b5dfb5198.png",
-   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
-   "linkURL": "https://portal.scapethegame.com/connect/twitch",
-   "owner": "ScapeWorld Entertainment AB",
-   "game": {
-    "id": "354447144",
-    "name": "Scape",
-    "slug": "scape-1",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-scape-1"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Steadfast",
-     "minutes": 30,
-     "startAt": "2026-10-25T07:00:00Z",
-     "endAt": "2026-10-26T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Steadfast",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6772c810-4462-40f8-8bfe-a44081a44b1b.png"
-      }
-     ]
-    },
-    {
-     "name": "Flex",
-     "minutes": 60,
-     "startAt": "2026-10-25T07:00:00Z",
-     "endAt": "2026-10-26T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Flex",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
-      }
-     ]
-    },
-    {
-     "name": "Came For The Clip",
-     "minutes": 90,
-     "startAt": "2026-10-25T07:00:00Z",
-     "endAt": "2026-10-26T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Came For The Clip",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "fbc7d728-f353-4c97-87d7-b7974e7a2563",
    "name": "Lenin Street Geek Shop",
@@ -1654,6 +1146,65 @@
       {
        "name": "30 Tournament Coins",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7c3916f7-38a1-4d1b-9477-4113c13afb79.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26b9d1f4-1eee-4a11-adf8-6a8a2a9ab772",
+   "name": "Scape Day 8: Smitten",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T07:00:00Z",
+   "endAt": "2026-10-26T16:59:59.999Z",
+   "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Smitten companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/22c8e7e4-c88d-4088-bac3-10ef7b8abed9.png",
+   "detailsURL": "https://scapethegame.com/faq/twitch-drops",
+   "linkURL": "https://portal.scapethegame.com/connect/twitch",
+   "owner": "ScapeWorld Entertainment AB",
+   "game": {
+    "id": "354447144",
+    "name": "Scape",
+    "slug": "scape-1",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-scape-1"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Smitten",
+     "minutes": 30,
+     "startAt": "2026-10-26T07:00:00Z",
+     "endAt": "2026-10-26T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Smitten",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1040a552-3fae-43a8-b0fa-383bae4696cd.png"
+      }
+     ]
+    },
+    {
+     "name": "Flex",
+     "minutes": 60,
+     "startAt": "2026-10-26T07:00:00Z",
+     "endAt": "2026-10-26T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Flex",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85f8d628-8549-42b4-adcf-e31ae27e397c.png"
+      }
+     ]
+    },
+    {
+     "name": "Came For The Clip",
+     "minutes": 90,
+     "startAt": "2026-10-26T07:00:00Z",
+     "endAt": "2026-10-26T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Came For The Clip",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d4d353e-34f0-4985-a4bd-4e29b687ea8f.png"
       }
      ]
     }
@@ -6836,6 +6387,41 @@
    ]
   },
   {
+   "id": "75064d8e-726d-45e6-9caa-26d66d49b993",
+   "name": "DbD: October of Horror IV",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T04:00:00Z",
+   "endAt": "2026-11-02T03:59:59.999Z",
+   "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the fourth one between October 26 and November 1.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/750ee889-f19c-4dbe-99f0-a63f41fed797.png",
+   "detailsURL": "https://account.bhvr.com/twitch/dbd",
+   "linkURL": "https://account.bhvr.com/twitch/dbd",
+   "owner": "Behaviour Interactive Inc.",
+   "game": {
+    "id": "491487",
+    "name": "Dead by Daylight",
+    "slug": "dead-by-daylight",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491487-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-dead-by-daylight"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Smile, Pumpkin Banner",
+     "minutes": 60,
+     "startAt": "2026-10-26T04:00:00Z",
+     "endAt": "2026-11-02T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Smile, Pumpkin Banner",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/07e08a14-945c-4936-96a7-fedf1d46181c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "6b50175a-a8a6-4c41-a2e7-3ae0cd028831",
    "name": "Belmont's Curse badge",
    "status": "ACTIVE",
@@ -6865,6 +6451,41 @@
       {
        "name": "Belmont's Curse",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43194326-a872-447c-9f1d-02374b188a9f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "96eb6e6e-7ff9-4d37-b0f1-16fe59884195",
+   "name": "JS2 Weekly 10.26",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T04:00:00Z",
+   "endAt": "2026-11-02T03:59:59.999Z",
+   "description": "Watch livestreams to claim your drops!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59390790-473d-4696-a65a-a98d94a239fe.png",
+   "detailsURL": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+   "linkURL": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+   "owner": "NetEase",
+   "game": {
+    "id": "515474",
+    "name": "NARAKA: BLADEPOINT",
+    "slug": "naraka-bladepoint",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-naraka-bladepoint"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60,
+     "startAt": "2026-10-26T04:00:00Z",
+     "endAt": "2026-11-02T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Special Random Gift",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e195fb4-18a8-4700-8d30-fd628324dca6.png"
       }
      ]
     }
