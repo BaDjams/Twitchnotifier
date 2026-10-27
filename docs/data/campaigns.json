@@ -1,206 +1,11 @@
 {
- "updatedAt": "2026-10-26T20:27:25Z",
+ "updatedAt": "2026-10-27T00:02:59Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "1a53baae-6638-43b5-817a-f3f95768c994",
-   "name": "MSF | Oct Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-19T21:00:00Z",
-   "endAt": "2026-10-26T20:59:59.999Z",
-   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6129bf0c-3466-4505-a726-360f285375b6.png",
-   "detailsURL": "https://marvelstrikeforce.com/twitch",
-   "linkURL": "https://marvelstrikeforce.com/twitch",
-   "owner": "Scopely",
-   "game": {
-    "id": "504651",
-    "name": "MARVEL Strike Force",
-    "slug": "marvel-strike-force",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-10-19T21:00:00Z",
-     "endAt": "2026-10-26T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "100 L4 Training Modules",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36c551ac-7fad-428d-9a0e-3a63458d7ba9.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cc7e4a27-6d1b-40bc-a9c0-43dcca3b4b21",
-   "name": "PMCFQ - Asura_Tenshi",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T20:00:00Z",
-   "endAt": "2026-10-26T21:59:59.999Z",
-   "description": "Watch Asura_Tenshi for 30 minutes to receive a Domestik Drone decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://forums.warframe.com/topic/1525817-princess-margaret-cancer-foundation-quest-2026-october-twitch-drops-overview/",
-   "linkURL": "https://www.warframe.com/en/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "asura_tenshi"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "PMCFQ - Domestik Drone",
-     "minutes": 30,
-     "startAt": "2026-10-26T20:00:00Z",
-     "endAt": "2026-10-26T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Domestik Drone (PMCFQ)",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ebe26a26-0f95-4e57-a0d7-fac522b4e3c6.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "57f85952-6bc8-4c5d-a18e-0fb4fe4fc6ff",
-   "name": "2027 Puebla GO Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T15:30:00Z",
-   "endAt": "2026-10-26T23:29:59.999Z",
-   "description": "https://trainer.pokemon.com/rewards",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/886591d5-2ce8-4abe-b042-c19bb53efa9b.png",
-   "detailsURL": "https://trainer.pokemon.com/rewards",
-   "linkURL": "https://trainer.pokemon.com/rewards",
-   "owner": "The Pokémon Company",
-   "game": {
-    "id": "490655",
-    "name": "Pokémon GO",
-    "slug": "pokemon-go",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-pokemon-go"
-   },
-   "channels": [
-    "pokemongo",
-    "pokemongoappla"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "2027 Puebla GO Drops",
-     "minutes": 45,
-     "startAt": "2026-10-24T15:30:00Z",
-     "endAt": "2026-10-26T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "2027 Puebla GO Drops",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/79bfabed-c26c-4cbd-972d-aaa34c93d569.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6220f0ee-7f25-4d40-904a-2d567b248c9f",
-   "name": "2027 Puebla JCC Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T16:30:00Z",
-   "endAt": "2026-10-26T23:29:59.999Z",
-   "description": "https://trainer.pokemon.com/rewards",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/22698145-42e5-4ec2-8ebb-882855327b6f.png",
-   "detailsURL": "https://trainer.pokemon.com/rewards",
-   "linkURL": "https://trainer.pokemon.com/rewards",
-   "owner": "The Pokémon Company",
-   "game": {
-    "id": "9618",
-    "name": "Pokémon Trading Card Game",
-    "slug": "pokemon-trading-card-game",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game"
-   },
-   "channels": [
-    "pokemontcg",
-    "pokemonjcclatam"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "2027 Puebla TCGL Drops - 30m",
-     "minutes": 30,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-26T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "2027 Puebla TCGL Drops",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7222ddf8-070e-40df-8849-fc9b2088f452.png"
-      }
-     ]
-    },
-    {
-     "name": "2027 Puebla TCGL Drops - 45m",
-     "minutes": 45,
-     "startAt": "2026-10-24T16:30:00Z",
-     "endAt": "2026-10-26T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "2027 Puebla TCGL Drops",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7222ddf8-070e-40df-8849-fc9b2088f452.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a215306c-b599-470b-b9a7-265f84b21660",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T00:00:00Z",
-   "endAt": "2026-10-26T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cabecabe-efa0-4127-9c0a-598cfcfe8e33.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-10-26T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "7d7ebf63-1634-48a9-8e8d-78af3bde989d",
    "name": "S14D6 Shadow Arsenal",
@@ -5570,77 +5375,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "sliggytv",
-    "harmii",
-    "wado",
-    "h3ners",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "mephisto_ttv",
-    "beyaz",
-    "azgarsg",
-    "i_am_khoree",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "stephano",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "pixie_9",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "megsoundslikeegg",
-    "mimimimichaela",
-    "zhobiii",
-    "melanji",
-    "zikzlol",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz"
+    "valorant"
    ],
-   "channelCount": 69,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
@@ -7131,6 +6868,41 @@
       {
        "name": "Beer Helmet",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f9a5b9fd-271f-499c-9039-f50e86a1a427.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8f49901e-4cf9-46d9-a559-441e396959da",
+   "name": "MSF | Oct Week 5",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T21:00:00Z",
+   "endAt": "2026-11-02T20:59:59.999Z",
+   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/048152d5-e55a-4bad-8ffd-719103acb96e.png",
+   "detailsURL": "https://marvelstrikeforce.com/twitch",
+   "linkURL": "https://marvelstrikeforce.com/twitch",
+   "owner": "Scopely",
+   "game": {
+    "id": "504651",
+    "name": "MARVEL Strike Force",
+    "slug": "marvel-strike-force",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 60,
+     "startAt": "2026-10-26T21:00:00Z",
+     "endAt": "2026-11-02T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "1M Gold",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cddf9bc7-2d79-4a9a-ab71-c05847a7503e.png"
       }
      ]
     }
