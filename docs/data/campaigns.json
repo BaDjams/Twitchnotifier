@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T00:02:59Z",
+ "updatedAt": "2026-10-27T04:53:59Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -1955,6 +1955,41 @@
    ]
   },
   {
+   "id": "c7a03c51-6868-4cfc-bff4-6616797cc35d",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-27T00:00:00Z",
+   "endAt": "2026-10-27T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc590aae-579c-4391-aa9d-bcd938ae0a63.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-27T00:00:00Z",
+     "endAt": "2026-10-27T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
    "name": "V3.7 Wuthering Waves",
    "status": "ACTIVE",
@@ -2893,9 +2928,10 @@
     "disneydreamlightvalley",
     "amirufe",
     "danparadis",
-    "erdbeerquaark"
+    "erdbeerquaark",
+    "pixelsandsheepz"
    ],
-   "channelCount": 42,
+   "channelCount": 43,
    "drops": [
     {
      "name": "Keepsake Sea Photo Frame",
