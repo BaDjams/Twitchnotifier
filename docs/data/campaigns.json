@@ -1,221 +1,11 @@
 {
- "updatedAt": "2026-10-28T19:03:56Z",
+ "updatedAt": "2026-10-28T23:08:34Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "6b9a386c-8193-463e-bed3-5ddbb7a9da89",
-   "name": "WMR3 2026 R3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T17:00:00Z",
-   "endAt": "2026-10-28T19:29:59.999Z",
-   "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/654b24b0-6cba-4e60-81b0-4ae183fc0605.jpeg",
-   "detailsURL": "https://tankionline.com/",
-   "linkURL": "https://tankionline.com/play/",
-   "owner": "APL Publishing Ltd",
-   "game": {
-    "id": "417810",
-    "name": "Tanki Online",
-    "slug": "tanki-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417810_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-tanki-online"
-   },
-   "channels": [
-    "tankisport_ru",
-    "tankisport_en",
-    "tankisport_ru_2",
-    "tankisport_en_2"
-   ],
-   "channelCount": 4,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 30,
-     "startAt": "2026-10-28T17:00:00Z",
-     "endAt": "2026-10-28T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60,
-     "startAt": "2026-10-28T17:00:00Z",
-     "endAt": "2026-10-28T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c76cbf48-db6a-4e2c-97c8-8d68b0bee3c7",
-   "name": "PMCFQ - elnoraeleo",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T18:00:00Z",
-   "endAt": "2026-10-28T19:59:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch elnoraeleo's fundraising stream for 30 minutes to receive a random Domestik Drone.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8338774-0297-49cd-b20b-2ab806f1219b.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "elnoraeleo"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Domestik Drone",
-     "minutes": 30,
-     "startAt": "2026-10-28T18:00:00Z",
-     "endAt": "2026-10-28T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Domestik Drone (PMCFQ)",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ebe26a26-0f95-4e57-a0d7-fac522b4e3c6.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f",
-   "name": "Street Fighter 6",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T20:00:00Z",
-   "endAt": "2026-10-28T19:59:59.999Z",
-   "description": "Subscribe to any streamer streaming Street Fighter 6 to unlock the SFGuile emote for 1 year.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/30bc36c1-6988-4aec-a1ea-fc7c16f3e26b.png",
-   "detailsURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
-   "linkURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "55453844",
-    "name": "Street Fighter 6",
-    "slug": "street-fighter-6",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/55453844_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-street-fighter-6"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "SFGuile Emote",
-     "minutes": 0,
-     "startAt": "2026-10-01T20:00:00Z",
-     "endAt": "2026-10-28T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "SFGuile Emote",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8ba7479e-2515-488f-afb7-79ab201b0fbe.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cd7f4ddd-b63f-469d-855d-fb94ac1b839c",
-   "name": "Emisión Tenno #351",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T19:00:00Z",
-   "endAt": "2026-10-28T20:14:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our official Spanish fundraising stream for 30 minutes to receive a random Domestik Drone.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/92a4b6da-aa89-41ce-ab5c-9c895dea28d5.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "warframeinternational"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Random Domestik Drone",
-     "minutes": 15,
-     "startAt": "2026-10-28T19:00:00Z",
-     "endAt": "2026-10-28T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Domestik Drone (PMCFQ)",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ebe26a26-0f95-4e57-a0d7-fac522b4e3c6.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Random Domestik Drone",
-     "minutes": 30,
-     "startAt": "2026-10-28T19:00:00Z",
-     "endAt": "2026-10-28T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Domestik Drone (PMCFQ)",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ebe26a26-0f95-4e57-a0d7-fac522b4e3c6.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "18ae2563-22e9-4250-8734-3f1b6caa50e5",
-   "name": "15.9 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T22:00:00Z",
-   "endAt": "2026-10-28T21:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fcb531b2-3b0a-460a-8e25-85ae8ac0ba67.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "worldofwarships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Week 3: 250 Community Tokens",
-     "minutes": 60,
-     "startAt": "2026-10-21T22:00:00Z",
-     "endAt": "2026-10-28T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Update 15.9: 250CT",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "ba6607fe-7bb0-49f7-9da0-65254223c535",
    "name": "Fall Drops ",
@@ -1247,9 +1037,10 @@
     "manavgamer001",
     "caponecryptonft",
     "sfalcon_",
-    "sacrificeguardian"
+    "sacrificeguardian",
+    "salahat96"
    ],
-   "channelCount": 89,
+   "channelCount": 90,
    "drops": [
     {
      "name": "Exalted Munk Song",
@@ -3966,86 +3757,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "almina",
-    "jimjii",
-    "nlykie",
-    "squeezie",
-    "karagii",
-    "sliggytv",
-    "harmii",
-    "berryxfps",
-    "wado",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "valeskatwitch",
-    "mephisto_ttv",
-    "beyaz",
-    "azgarsg",
-    "i_am_khoree",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "stephano",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "oogiordyoo",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "megsoundslikeegg",
-    "billieidk",
-    "mimimimichaela",
-    "metalminerva",
-    "cigdemt",
-    "senemdoga",
-    "vanialey",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz",
-    "melanji",
-    "zikzlol"
+    "valorant"
    ],
-   "channelCount": 78,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
@@ -6520,6 +6234,43 @@
       {
        "name": "Halloween M1E1 Camo",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a76417df-af5d-4ff0-bf22-273262c9badb.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c3c97476-d77d-42d9-b550-d0cce948b18a",
+   "name": "15.9 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-10-28T22:00:00Z",
+   "endAt": "2026-11-04T22:59:59.999Z",
+   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59549dc0-11d8-41ef-b01c-95cbecaded5d.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [
+    "worldofwarships"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Week 4: 250 Community Tokens",
+     "minutes": 60,
+     "startAt": "2026-10-28T22:00:00Z",
+     "endAt": "2026-11-04T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Update 15.9: 250CT",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
       }
      ]
     }
@@ -9359,7 +9110,7 @@
     "mrg1ggio",
     "swordfishandozym",
     "felipocka",
-    "puffist1k",
+    "pivnaya_swagest",
     "jimmcee",
     "itsmixnmax",
     "lightningkuno",
