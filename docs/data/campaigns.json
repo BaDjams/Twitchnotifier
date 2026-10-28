@@ -1,133 +1,11 @@
 {
- "updatedAt": "2026-10-27T20:37:34Z",
+ "updatedAt": "2026-10-28T00:26:48Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8",
-   "name": "Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T09:05:57Z",
-   "endAt": "2026-10-27T22:59:59.999Z",
-   "description": "Join our Drops to earn rewards and an exclusive Twitch 67 Emote! Each IGG ID can redeem the drops only once.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/811f576c-f892-403c-9d90-1eae7dfcdb73.png",
-   "detailsURL": "https://event.igg.com/twitch/drops?code=dls_drops",
-   "linkURL": "https://event.igg.com/twitch/drops?code=dls_drops",
-   "owner": "IGG",
-   "game": {
-    "id": "1102857083",
-    "name": "Doomsday: Last Survivors",
-    "slug": "doomsday-last-survivors",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1102857083_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-doomsday-last-survivors"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "15-Minute Reward",
-     "minutes": 15,
-     "startAt": "2026-09-30T09:05:57Z",
-     "endAt": "2026-10-27T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Gem",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9f487000-8fc2-4b6d-aa3f-b18ae7286f06.png"
-      },
-      {
-       "name": "Advanced Search Map*1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bb3d7332-e53b-49f3-b5c3-40991d194b4a.png"
-      },
-      {
-       "name": "60min Speedup*1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cdc2c1d8-ce40-43dd-8183-4c6a29bb1522.png"
-      },
-      {
-       "name": "VIP EXP*1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/38f8a7a8-28a4-4ef9-b8fa-59af3d9e399c.png"
-      }
-     ]
-    },
-    {
-     "name": "30-Minute Reward",
-     "minutes": 30,
-     "startAt": "2026-09-30T09:05:57Z",
-     "endAt": "2026-10-27T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Gem",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9f487000-8fc2-4b6d-aa3f-b18ae7286f06.png"
-      },
-      {
-       "name": "Elite Hero Badge S*5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e49b7d42-7d24-41cb-9051-abb1cdf19b54.png"
-      },
-      {
-       "name": "Battle Manual*5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5973ed5a-369e-456a-a36a-2ff88b273ac4.png"
-      },
-      {
-       "name": "Stamina Recovery I*5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0dabdecf-5c82-4961-9c94-e1255bbd67b7.png"
-      },
-      {
-       "name": "Normal Search Map*2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4dec7f68-6d68-4061-9f54-260cc5c2f315.png"
-      },
-      {
-       "name": "5m Speedup*12",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d51c0708-e671-4631-81a6-695b73497c3c.png"
-      },
-      {
-       "name": "67 Exclusive Emote",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1fef8a74-9a5b-4db0-aa90-21dbcbab07c7.png"
-      },
-      {
-       "name": "VIP EXP*1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/38f8a7a8-28a4-4ef9-b8fa-59af3d9e399c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c7a03c51-6868-4cfc-bff4-6616797cc35d",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-27T00:00:00Z",
-   "endAt": "2026-10-27T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc590aae-579c-4391-aa9d-bcd938ae0a63.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-27T00:00:00Z",
-     "endAt": "2026-10-27T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
    "name": "V3.7 Wuthering Waves",
@@ -206,6 +84,67 @@
       {
        "name": "Astrite*50",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b51c78a5-d882-4ce9-afdb-a2513f2cc2d4.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fa63e253-42fd-4ea9-843d-f2eeda5fbc6f",
+   "name": "In The Huddle",
+   "status": "ACTIVE",
+   "startAt": "2026-10-28T00:00:00Z",
+   "endAt": "2026-10-28T02:59:59.999Z",
+   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb2b7471-2441-4774-b883-786bc9283139.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
+   },
+   "channels": [
+    "huddlegg"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Twitch Pack",
+     "minutes": 30,
+     "startAt": "2026-10-28T00:00:00Z",
+     "endAt": "2026-10-28T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e529826d-7c95-43ad-98cc-406bf277a050.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 60,
+     "startAt": "2026-10-28T00:00:00Z",
+     "endAt": "2026-10-28T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/89b86c29-59e4-414c-876b-63915f8e2a08.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 90,
+     "startAt": "2026-10-28T00:00:00Z",
+     "endAt": "2026-10-28T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c325b61c-a7f3-4f65-b138-70b6ec77d4dc.png"
       }
      ]
     }
@@ -2097,6 +2036,41 @@
       {
        "name": "Twitch mask",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5cc1ce36-3d1e-4066-9e1b-242a9b75ff5f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beab118b-b5b0-411f-8957-1343393682b0",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-28T00:00:00Z",
+   "endAt": "2026-10-28T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32218a0c-5a72-4f75-b492-fbfc13bc2aa9.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-28T00:00:00Z",
+     "endAt": "2026-10-28T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -4384,77 +4358,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "sliggytv",
-    "harmii",
-    "wado",
-    "h3ners",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "mephisto_ttv",
-    "beyaz",
-    "azgarsg",
-    "i_am_khoree",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "stephano",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "pixie_9",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "megsoundslikeegg",
-    "mimimimichaela",
-    "zhobiii",
-    "melanji",
-    "zikzlol",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz"
+    "valorant"
    ],
-   "channelCount": 69,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
@@ -6914,7 +6820,7 @@
      "endAt": "2026-11-05T16:59:59.999Z",
      "rewards": [
       {
-       "name": "MW4 Emblem - Gilded Ghost",
+       "name": "MW4 Emblem - Point Man",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/196acbe0-7b1a-4d19-a0ee-f7d00b7f9d1f.png"
       }
      ]
@@ -6926,7 +6832,7 @@
      "endAt": "2026-11-05T16:59:59.999Z",
      "rewards": [
       {
-       "name": "MW4 CC - Old Wounds",
+       "name": "MW4 CC - Deployment Ready",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8eec60f7-d7c4-47cc-a232-9cd90cce731b.png"
       }
      ]
