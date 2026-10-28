@@ -1,334 +1,11 @@
 {
- "updatedAt": "2026-10-28T00:26:48Z",
+ "updatedAt": "2026-10-28T06:13:01Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "8146a56b-1e86-46b4-ae62-628f218f3ce9",
-   "name": "V3.7 Wuthering Waves",
-   "status": "ACTIVE",
-   "startAt": "2026-09-30T03:00:00Z",
-   "endAt": "2026-10-28T02:58:59.999Z",
-   "description": "The V3.7 Wuthering Waves Twitch Drops event has commenced!  By streaming Wuthering Waves, you enable your viewers to claim multiple rewards, including the Astrite!  Hasten to broadcast Wuthering Waves, and bestow rewards upon your devoted audience!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2accbf00-d8a8-4b20-bb11-0a7f8de4c95f.jpeg",
-   "detailsURL": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
-   "linkURL": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
-   "owner": "KURO GAMES",
-   "game": {
-    "id": "209738946",
-    "name": "Wuthering Waves",
-    "slug": "wuthering-waves",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/209738946_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-wuthering-waves"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Shell Credit*25000",
-     "minutes": 15,
-     "startAt": "2026-09-30T03:00:00Z",
-     "endAt": "2026-10-28T02:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Shell Credit*25000",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e73e3421-4139-4a10-b71b-6663252203fb.png"
-      }
-     ]
-    },
-    {
-     "name": " Medium Resonance Potion*5",
-     "minutes": 30,
-     "startAt": "2026-09-30T03:00:00Z",
-     "endAt": "2026-10-28T02:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Medium Resonance Potion*5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cf46601d-188c-41f7-8bfa-77ab2c953d8a.png"
-      }
-     ]
-    },
-    {
-     "name": "Advanced Energy Core*3",
-     "minutes": 60,
-     "startAt": "2026-09-30T03:00:00Z",
-     "endAt": "2026-10-28T02:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Advanced Energy Core*3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e171c10c-4363-4854-ba83-c1e0565f4879.png"
-      }
-     ]
-    },
-    {
-     "name": "Advanced Energy Bag*2",
-     "minutes": 90,
-     "startAt": "2026-09-30T03:00:00Z",
-     "endAt": "2026-10-28T02:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Advanced Energy Bag*2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cee66ece-65b2-4fb3-9090-b0e4f21f7eba.png"
-      }
-     ]
-    },
-    {
-     "name": "Astrite*50",
-     "minutes": 120,
-     "startAt": "2026-09-30T03:00:00Z",
-     "endAt": "2026-10-28T02:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Astrite*50",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b51c78a5-d882-4ce9-afdb-a2513f2cc2d4.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fa63e253-42fd-4ea9-843d-f2eeda5fbc6f",
-   "name": "In The Huddle",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T00:00:00Z",
-   "endAt": "2026-10-28T02:59:59.999Z",
-   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cb2b7471-2441-4774-b883-786bc9283139.png",
-   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "670138298",
-    "name": "Madden NFL 27",
-    "slug": "madden-nfl-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
-   },
-   "channels": [
-    "huddlegg"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 30,
-     "startAt": "2026-10-28T00:00:00Z",
-     "endAt": "2026-10-28T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e529826d-7c95-43ad-98cc-406bf277a050.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60,
-     "startAt": "2026-10-28T00:00:00Z",
-     "endAt": "2026-10-28T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/89b86c29-59e4-414c-876b-63915f8e2a08.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 90,
-     "startAt": "2026-10-28T00:00:00Z",
-     "endAt": "2026-10-28T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c325b61c-a7f3-4f65-b138-70b6ec77d4dc.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0317f83e-9c61-4bc3-b484-41275e681eae",
-   "name": "Twitch Drops campaign 3rd",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T08:00:00Z",
-   "endAt": "2026-10-28T03:28:59.999Z",
-   "description": "Obtain free in-game items by watching \"MY HERO ULTRA RUMBLE\" live streams on Twitch.tv during the campaign!\"",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/16c5d096-2579-43ce-80f0-259ca29771b8.png",
-   "detailsURL": "https://mhaur.bn-ent.net/twitch/en.php",
-   "linkURL": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
-   "owner": "Bandai/Namco",
-   "game": {
-    "id": "451007760",
-    "name": "My Hero Ultra Rumble",
-    "slug": "my-hero-ultra-rumble",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/451007760_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-my-hero-ultra-rumble"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "30分視聴",
-     "minutes": 30,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "10 Roll Tickets S19-1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2c6f29b0-6d3b-4736-a78d-560382cfbd10.png"
-      }
-     ]
-    },
-    {
-     "name": "60分視聴",
-     "minutes": 60,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "Emote[Aizawa]",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/31f02ab1-d5e3-46b8-a05f-d61d17b521cd.png"
-      }
-     ]
-    },
-    {
-     "name": "90分視聴",
-     "minutes": 90,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "20 Roll Tickets S19-2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/467aed17-b681-4f46-a93d-54f11c29011b.png"
-      }
-     ]
-    },
-    {
-     "name": "120分視聴",
-     "minutes": 120,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "TsuyuCostume",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/162fb862-6fce-4d34-a267-aab385746f97.png"
-      }
-     ]
-    },
-    {
-     "name": "150分視聴",
-     "minutes": 150,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "20 Roll Tickets S19-3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fc63911-544e-4488-8fd7-7b01304140c8.png"
-      }
-     ]
-    },
-    {
-     "name": "180分視聴",
-     "minutes": 180,
-     "startAt": "2026-10-01T08:00:00Z",
-     "endAt": "2026-10-28T03:28:59.999Z",
-     "rewards": [
-      {
-       "name": "ShigarakiCostume",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eb1513a4-4258-465b-9200-9d6e34a2f71e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f6d00be0-6d15-467a-afb6-e452e7fd68d7",
-   "name": "Solo FNCS ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T16:30:00Z",
-   "endAt": "2026-10-28T03:59:59.999Z",
-   "description": "We're back with Solo FNCS! Watch for 30 minutes to get the Teal Knight's Kick Spray!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27c81e45-7fbc-4879-8903-fa44b3bbdb29.png",
-   "detailsURL": "https://www.fortnite.com/twitch-drops",
-   "linkURL": "https://www.fortnite.com/twitch-drops",
-   "owner": "Epic Games",
-   "game": {
-    "id": "33214",
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-fortnite"
-   },
-   "channels": [
-    "fortnite"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Teal Knight's Kick Spray",
-     "minutes": 30,
-     "startAt": "2026-10-26T16:30:00Z",
-     "endAt": "2026-10-28T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Teal Knight's Kick Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/abfe1d70-23e0-43f7-a19c-6a73c866c7e1.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "65bead42-1c5c-4df3-b4d6-437f8a2bf2e7",
-   "name": "Inoxtag Icon Series ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-24T20:30:00Z",
-   "endAt": "2026-10-28T03:59:59.999Z",
-   "description": "Watch Inoxtag and claim a Team Croutons Spray and the Inoxtag’s Vista Loading Screen!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/87ba5873-897c-4471-94ad-00c74a2ae01b.jpeg",
-   "detailsURL": "https://www.fortnite.com/twitch-drops",
-   "linkURL": "https://www.fortnite.com/twitch-drops",
-   "owner": "Epic Games",
-   "game": {
-    "id": "33214",
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-fortnite"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Team Croutons Spray",
-     "minutes": 30,
-     "startAt": "2026-10-24T20:30:00Z",
-     "endAt": "2026-10-28T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Team Croutons Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/20c709d7-981a-4e15-923a-87816413f58f.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Inoxtag’s Vista Loading Screen",
-     "minutes": 60,
-     "startAt": "2026-10-24T20:30:00Z",
-     "endAt": "2026-10-28T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Inoxtag’s Vista ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85364277-ef96-4c36-96a2-0547b7943860.jpeg"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "6dc1348a-7a4c-4c7b-8f05-fed95e8ba449",
    "name": "Lineage 2 Forged Drops RU",
@@ -7472,6 +7149,101 @@
       {
        "name": "Launch Clothing Bundle",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb5ead5e-d268-42b6-8f8e-8208b62e8dbf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7e53b036-f71b-4d07-a71a-578ed77c9332",
+   "name": "VAMPIR Drops Event",
+   "status": "ACTIVE",
+   "startAt": "2026-10-28T02:00:00Z",
+   "endAt": "2026-11-10T14:59:59.999Z",
+   "description": "Vampir Drops Test",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://vampirgb.netmarble.com/drops",
+   "linkURL": "https://vampirgb.netmarble.com/drops",
+   "owner": "Netmarble",
+   "game": {
+    "id": "532911623",
+    "name": "Vampir",
+    "slug": "vampir",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/532911623_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-vampir"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Bloodshape x11 Summon Ticket (Level 55 or higher)",
+     "minutes": 15,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Bloodshape x11 Tickets",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7ae069c-7bff-4d85-bd0e-a06af0923f51.png"
+      }
+     ]
+    },
+    {
+     "name": "Mount x11 Summon Ticket (Level 55 or higher)",
+     "minutes": 30,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Mount x11 Summon Ticket",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35630262-f564-41ea-a709-3de60b405037.png"
+      }
+     ]
+    },
+    {
+     "name": "Rare Bloodshape Summon Ticket (Class)",
+     "minutes": 60,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Rare Bloodshape Summon Tk",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc97cd1d-3654-4239-973d-dd18ebf18df5.png"
+      }
+     ]
+    },
+    {
+     "name": "Dungeon Magic Bead Chest x100",
+     "minutes": 90,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Magic Bead Chest x100",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/62359f19-c670-4fcf-98f9-619c3313aac3.png"
+      }
+     ]
+    },
+    {
+     "name": "Class Portrait Restoration Kit Chest x100",
+     "minutes": 120,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Portrait Restore Kit x100",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/afcd5bba-de4b-4b4e-9e94-1d67a0b19359.png"
+      }
+     ]
+    },
+    {
+     "name": "Destroyer of Ember Summon Ticket (Level 55 or higher)",
+     "minutes": 180,
+     "startAt": "2026-10-28T02:00:00Z",
+     "endAt": "2026-11-10T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Destroyer of Ember Ticket",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c9863f47-d114-4f19-bb2f-c4aecfe7fe6f.png"
       }
      ]
     }
