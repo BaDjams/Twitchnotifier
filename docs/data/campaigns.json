@@ -1,187 +1,11 @@
 {
- "updatedAt": "2026-10-28T23:08:34Z",
+ "updatedAt": "2026-10-29T02:47:20Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "ba6607fe-7bb0-49f7-9da0-65254223c535",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T12:18:18Z",
-   "endAt": "2026-10-28T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a22c909e-5e0c-42fc-882e-4c3e7ddd14bd.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-26T12:18:18Z",
-     "endAt": "2026-10-28T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d8fbb86b-fda6-4737-9d03-2de77af5e05b",
-   "name": "Oct #4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-22T08:10:00Z",
-   "endAt": "2026-10-28T23:58:59.999Z",
-   "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/20d265f1-f87f-40bc-ad05-cb69c0a924b5.png",
-   "detailsURL": "https://portal.uflgame.com/twitch/drops",
-   "linkURL": "https://portal.uflgame.com/twitch",
-   "owner": "XTEN LIMITED",
-   "game": {
-    "id": "1471416868",
-    "name": "UFL",
-    "slug": "ufl",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1471416868_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-ufl"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-10-22T08:10:00Z",
-     "endAt": "2026-10-28T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Enhanced CP",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5d135ac9-07dd-4e97-aab2-413fb3f4792d.png"
-      }
-     ]
-    },
-    {
-     "name": "2",
-     "minutes": 120,
-     "startAt": "2026-10-22T08:10:00Z",
-     "endAt": "2026-10-28T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Monsters Pack Lite",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc6c6b93-396a-4699-9d5d-4b491fd54d30.png"
-      }
-     ]
-    },
-    {
-     "name": "3",
-     "minutes": 180,
-     "startAt": "2026-10-22T08:10:00Z",
-     "endAt": "2026-10-28T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Monsters Pack Lite",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e753b3ad-4cd0-442e-87f2-d5e0525c4b81.png"
-      }
-     ]
-    },
-    {
-     "name": "4",
-     "minutes": 240,
-     "startAt": "2026-10-22T08:10:00Z",
-     "endAt": "2026-10-28T23:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Monsters Pack Lite",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/383b5512-95d8-4130-8632-f7c159339321.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5b32b5e7-7421-40ae-be32-e45b4df19a12",
-   "name": "October 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-01T00:00:00Z",
-   "endAt": "2026-10-28T23:59:59.999Z",
-   "description": "Unlock the limited Twitch October item! You'll need to link your Twitch account with Wolvesville for this to work.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c671e005-f956-4823-bf5c-7e18d973fe3c.png",
-   "detailsURL": "https://wolvesville.com/",
-   "linkURL": "https://wolvesville.com/",
-   "owner": "Wolvesville",
-   "game": {
-    "id": "615993466",
-    "name": "Wolvesville",
-    "slug": "wolvesville",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/615993466_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-wolvesville"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch mask",
-     "minutes": 60,
-     "startAt": "2026-10-01T00:00:00Z",
-     "endAt": "2026-10-28T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch mask",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5cc1ce36-3d1e-4066-9e1b-242a9b75ff5f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beab118b-b5b0-411f-8957-1343393682b0",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T00:00:00Z",
-   "endAt": "2026-10-28T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/32218a0c-5a72-4f75-b492-fbfc13bc2aa9.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-28T00:00:00Z",
-     "endAt": "2026-10-28T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d",
    "name": "Bloody Finger ELDEN RING",
@@ -1893,6 +1717,41 @@
       {
        "name": "Allrounder Package",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0a700720-5536-4e26-9e88-e7acd65fa50d.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "85aa0dfd-2818-4886-8114-dc16df481201",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T00:00:00Z",
+   "endAt": "2026-10-29T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7cbfb8c6-0c6d-4ba0-8c39-def73a7660ef.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-29T00:00:00Z",
+     "endAt": "2026-10-29T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -4843,18 +4702,9 @@
     "topic": "twitchnotifier-dz7n7k-pokemon-go"
    },
    "channels": [
-    "pokemon",
-    "trishahershberger",
-    "aliythia",
-    "berticuss",
-    "ninfangirl",
-    "qtcinderella",
-    "fuslie",
-    "dizzykitten",
-    "hydrasung",
-    "marshmello"
+    "pokemon"
    ],
-   "channelCount": 10,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Baseball Jersey TR",
