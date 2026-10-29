@@ -1,349 +1,11 @@
 {
- "updatedAt": "2026-10-29T16:52:04Z",
+ "updatedAt": "2026-10-29T21:44:39Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "5fb929d6-4f3e-4e70-82d3-1862c2d3164c",
-   "name": "Update 15.9 Drop: Week 3",
-   "status": "ACTIVE",
-   "startAt": "2026-10-22T16:00:00Z",
-   "endAt": "2026-10-29T16:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/247e2206-a566-4261-ae60-4c576a2467c6.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Update 15.9 Mission #3",
-     "minutes": 90,
-     "startAt": "2026-10-22T16:00:00Z",
-     "endAt": "2026-10-29T16:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Update 15.9 Mission #3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c4c3121d-69b3-490a-a408-db9a43e7daa7.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Container 15.9 week #3",
-     "minutes": 180,
-     "startAt": "2026-10-22T16:00:00Z",
-     "endAt": "2026-10-29T16:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Container 15.9",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15394297-7aae-47fb-be3a-1ef0793706ce.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c0400e4c-86f0-4909-a8a8-62cd07baadb4",
-   "name": "ROW Drop 631",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T17:59:00Z",
-   "endAt": "2026-10-29T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e961c8d0-2f50-418b-b00b-99433dde873e.jpeg",
-   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [
-    "levo",
-    "ogedaygirisken",
-    "milchmann",
-    "hedvein",
-    "segi",
-    "zelalbade",
-    "kloneia",
-    "fuataslan",
-    "timurlengx",
-    "jemsnow",
-    "ilayda",
-    "bahadirakman",
-    "yaheljr",
-    "poinemaia",
-    "rionli",
-    "zeitzquin",
-    "kutlub1lgebvb",
-    "vbenzeri",
-    "oscorptv",
-    "oyunkaptanl",
-    "iazerion",
-    "casperrbt",
-    "sekuv1",
-    "4cappynaturall",
-    "lonedruider",
-    "katana51_",
-    "zennoxttv",
-    "wealdec",
-    "sherifftattooink",
-    "ehliyetsizsurucu",
-    "lotraragornnn",
-    "xagloth",
-    "wyperr0",
-    "comple01",
-    "blackfig37",
-    "mutblox",
-    "akinsama",
-    "eihoyo",
-    "emisyoner",
-    "musturtv",
-    "nyr01",
-    "sweitch",
-    "ihuzur",
-    "burakbattle",
-    "xbekoo8",
-    "xraxven",
-    "mecazadamtv",
-    "bigbossgargo",
-    "4lexy",
-    "dangerrlifeee",
-    "kenzooo59",
-    "dantelf",
-    "thanos_tw",
-    "imvakkq",
-    "imjosqua",
-    "xlegendcraft",
-    "mrsalvador",
-    "quietalpha",
-    "voltremtv",
-    "xkarayaman",
-    "bercestelive",
-    "riseonlinedede",
-    "hytronn",
-    "imalkoc",
-    "3enpl",
-    "naturalsupremacy",
-    "uc4ronline",
-    "fierroby",
-    "tunsx",
-    "thierrymuqlerr",
-    "aksaclidayi",
-    "yigitcaliskan",
-    "megalyce",
-    "f3r0",
-    "zephartv",
-    "ninataless",
-    "nazdarovia",
-    "berigolive",
-    "celariouus",
-    "ju1zzt",
-    "xagresstron",
-    "chukubuk",
-    "imyaizen",
-    "bpswieb",
-    "wayofgame",
-    "yasomuohanim",
-    "okanjoee",
-    "daerons35",
-    "disipline",
-    "phaldorian",
-    "explosiontw",
-    "inariusv",
-    "xschizoooooo",
-    "onderayanoglu",
-    "adv3nn",
-    "heathertr",
-    "izeq361",
-    "ritmicky",
-    "izeroassassin",
-    "mikyas59"
-   ],
-   "channelCount": 184,
-   "drops": [
-    {
-     "name": "ROW Drop 631",
-     "minutes": 240,
-     "startAt": "2026-10-28T17:59:00Z",
-     "endAt": "2026-10-29T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Regalia of True Faith",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b49aee5-5bb2-4389-8d16-31d261f8df73.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "afd3619d-1af5-4609-928f-c4fef9e12975",
-   "name": "Mobile Drop 202",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T17:59:00Z",
-   "endAt": "2026-10-29T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e77b66f9-273a-403c-a284-e075f4b11d7a.png",
-   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Mobile Drop 202",
-     "minutes": 240,
-     "startAt": "2026-10-28T17:59:00Z",
-     "endAt": "2026-10-29T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Regalia of Awakening",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c4410b58-ed89-4339-baa8-7ea82766cf0a",
-   "name": "S14D9 Shadow Arsenal",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T08:00:00Z",
-   "endAt": "2026-10-29T20:59:59.999Z",
-   "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/85491153-c49e-4cab-9f38-494f09dad1c2.png",
-   "detailsURL": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
-   "linkURL": "https://playcaliber.com/ru/",
-   "owner": "1C-777 Limited",
-   "game": {
-    "id": "514013",
-    "name": "Caliber",
-    "slug": "caliber",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514013_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-caliber"
-   },
-   "channels": [
-    "playcaliber",
-    "vladsafronow",
-    "kodolov_",
-    "vik__twitch",
-    "4ejl_u3_geb9lhoctblx",
-    "shmodeyb",
-    "ii4ejiobod",
-    "enot_02_02",
-    "4eptobka_54_",
-    "0nlineru",
-    "mandarishmeow",
-    "brokenworldstm",
-    "b0ssik___",
-    "armir_game",
-    "13raum13",
-    "pustoi_twitch",
-    "snegoff_show",
-    "alyona_ahapx19",
-    "diskateka_veka",
-    "pasha2222",
-    "demon_lestat_yt",
-    "zelehb_tv",
-    "nesh1m",
-    "6ackepbujijiuu"
-   ],
-   "channelCount": 24,
-   "drops": [
-    {
-     "name": "S14D9 3 Silver Bullets",
-     "minutes": 30,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 3 Silver Bullets",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/57f5714b-e5a6-48ba-b6bf-906e02fa24b9.png"
-      }
-     ]
-    },
-    {
-     "name": "S14D9 3 Golden Armor",
-     "minutes": 60,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 3 Golden Armor",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/40e386b9-d859-4444-88ee-e97132bd34df.png"
-      }
-     ]
-    },
-    {
-     "name": "S14D9 5 Healing Kit",
-     "minutes": 120,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 5 Healing Kit",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8a423b1a-df70-4c5e-b6c1-2319aad71555.png"
-      }
-     ]
-    },
-    {
-     "name": "S14D9 5 Safety Dome",
-     "minutes": 180,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 5 Safety Dome",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b159f20f-d5bd-4462-b5a3-a7b393d60e75.png"
-      }
-     ]
-    },
-    {
-     "name": "S14D9 2000 Pumpkins",
-     "minutes": 240,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 2000 Pumpkins",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f350231a-1027-4bea-98c2-bc85ae5f8244.png"
-      }
-     ]
-    },
-    {
-     "name": "S14D9 Sinister Container",
-     "minutes": 300,
-     "startAt": "2026-10-29T08:00:00Z",
-     "endAt": "2026-10-29T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14D9 Sinister Container",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/642880f6-b006-46e0-8f8c-7ebf4adf632b.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa",
    "name": "Enshrouded v1.0 Launch",
@@ -2240,6 +1902,101 @@
    ]
   },
   {
+   "id": "ffe694de-bdc9-475a-8b30-bc2709077142",
+   "name": "Madden Live",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T17:00:00Z",
+   "endAt": "2026-10-30T16:59:59.999Z",
+   "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e6c8dd20-aed5-4ae5-b929-a19966fdc6e9.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 15,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32075a8e-20f8-46fd-a319-3eb06c4bba7f.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 30,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cd2f9891-8d17-4c3b-aac2-4b417563112b.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 60,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f0a22d87-2f4f-4a5e-916e-d0f1db691225.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 120,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4a7bc99a-8bd2-4252-a530-3ea49ca59905.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 180,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6448370a-fb5c-4aad-9808-199acc679a69.png"
+      }
+     ]
+    },
+    {
+     "name": "Madden Twitch Pack",
+     "minutes": 240,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-10-30T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Madden Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1c2343a6-4bc0-4f19-a090-5295e193c299.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "3061af39-49c5-4137-90a8-75837d5917ec",
    "name": "DF RISE S2GrandFinals Sub",
    "status": "ACTIVE",
@@ -2269,6 +2026,177 @@
       {
        "name": "QBZ95 - Alpha Dragon",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0ecb7dd1-71cf-4b9c-bf40-9a9d5316f335.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4e98dd91-27d9-411b-9b1d-90b15f41d70d",
+   "name": "Mobile Drop 203",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T17:59:00Z",
+   "endAt": "2026-10-30T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fdb17aba-5b8d-41b3-af2c-d593cf5af5d0.png",
+   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Mobile Drop 203",
+     "minutes": 240,
+     "startAt": "2026-10-29T17:59:00Z",
+     "endAt": "2026-10-30T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Regalia of Awakening",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "62c82f20-0851-42d7-b21d-36728588e858",
+   "name": "ROW Drop 632",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T17:59:00Z",
+   "endAt": "2026-10-30T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3da16718-44e9-4690-818b-c0b8bdea359d.png",
+   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [
+    "levo",
+    "ogedaygirisken",
+    "milchmann",
+    "hedvein",
+    "segi",
+    "zelalbade",
+    "kloneia",
+    "fuataslan",
+    "timurlengx",
+    "jemsnow",
+    "ilayda",
+    "bahadirakman",
+    "yaheljr",
+    "poinemaia",
+    "rionli",
+    "zeitzquin",
+    "kutlub1lgebvb",
+    "vbenzeri",
+    "oscorptv",
+    "oyunkaptanl",
+    "iazerion",
+    "casperrbt",
+    "sekuv1",
+    "4cappynaturall",
+    "lonedruider",
+    "katana51_",
+    "zennoxttv",
+    "wealdec",
+    "sherifftattooink",
+    "ehliyetsizsurucu",
+    "lotraragornnn",
+    "xagloth",
+    "wyperr0",
+    "comple01",
+    "blackfig37",
+    "mutblox",
+    "akinsama",
+    "eihoyo",
+    "emisyoner",
+    "musturtv",
+    "nyr01",
+    "sweitch",
+    "ihuzur",
+    "burakbattle",
+    "xbekoo8",
+    "xraxven",
+    "mecazadamtv",
+    "bigbossgargo",
+    "4lexy",
+    "dangerrlifeee",
+    "kenzooo59",
+    "dantelf",
+    "thanos_tw",
+    "imvakkq",
+    "imjosqua",
+    "xlegendcraft",
+    "mrsalvador",
+    "quietalpha",
+    "voltremtv",
+    "xkarayaman",
+    "bercestelive",
+    "riseonlinedede",
+    "hytronn",
+    "imalkoc",
+    "3enpl",
+    "naturalsupremacy",
+    "uc4ronline",
+    "fierroby",
+    "tunsx",
+    "thierrymuqlerr",
+    "aksaclidayi",
+    "yigitcaliskan",
+    "megalyce",
+    "f3r0",
+    "zephartv",
+    "ninataless",
+    "nazdarovia",
+    "berigolive",
+    "celariouus",
+    "ju1zzt",
+    "xagresstron",
+    "chukubuk",
+    "imyaizen",
+    "bpswieb",
+    "wayofgame",
+    "yasomuohanim",
+    "okanjoee",
+    "daerons35",
+    "disipline",
+    "phaldorian",
+    "explosiontw",
+    "inariusv",
+    "xschizoooooo",
+    "onderayanoglu",
+    "adv3nn",
+    "heathertr",
+    "izeq361",
+    "ritmicky",
+    "izeroassassin",
+    "mikyas59"
+   ],
+   "channelCount": 184,
+   "drops": [
+    {
+     "name": "ROW Drop 632",
+     "minutes": 240,
+     "startAt": "2026-10-29T17:59:00Z",
+     "endAt": "2026-10-30T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Red Ribbon Cloak",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d8e7bfa0-04c5-4ab1-8d8b-9a92aaad1fc6.png"
       }
      ]
     }
@@ -3679,6 +3607,175 @@
       {
        "name": "1x Royal Chest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e087c7f-6ff9-4868-b492-25897bff4858.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de223ac1-9845-4e83-b4ed-d70579782feb",
+   "name": "S14 FINAL Shadow Arsenal",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T21:00:00Z",
+   "endAt": "2026-11-01T20:59:59.999Z",
+   "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc2185c7-8bfc-420f-9516-55005d7e80af.png",
+   "detailsURL": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
+   "linkURL": "https://playcaliber.com/ru/",
+   "owner": "1C-777 Limited",
+   "game": {
+    "id": "514013",
+    "name": "Caliber",
+    "slug": "caliber",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514013_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-caliber"
+   },
+   "channels": [
+    "playcaliber",
+    "vladsafronow",
+    "kodolov_",
+    "vik__twitch",
+    "4ejl_u3_geb9lhoctblx",
+    "shmodeyb",
+    "ii4ejiobod",
+    "enot_02_02",
+    "4eptobka_54_",
+    "0nlineru",
+    "mandarishmeow",
+    "brokenworldstm",
+    "b0ssik___",
+    "armir_game",
+    "13raum13",
+    "pustoi_twitch",
+    "snegoff_show",
+    "alyona_ahapx19",
+    "diskateka_veka",
+    "pasha2222",
+    "demon_lestat_yt",
+    "zelehb_tv",
+    "nesh1m",
+    "6ackepbujijiuu",
+    "spectr_streamtv"
+   ],
+   "channelCount": 25,
+   "drops": [
+    {
+     "name": "S14F 50 000 credits",
+     "minutes": 60,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 50 000 credits",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21d22905-d132-4423-b506-fc12c654227c.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5 Healing Kit",
+     "minutes": 180,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5 Healing Kit",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4293c3bd-a220-4ba9-8bfd-9272b743fa69.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5 Golden Armor",
+     "minutes": 300,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5 Golden Armor",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a8207d8c-dc82-42e4-bc04-e6a8821d3f5f.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 100 000 credits",
+     "minutes": 420,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 100 000 credits",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/23212cdb-5050-4d5d-9235-228ff3e0c907.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5 Silver Bullets",
+     "minutes": 540,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5 Silver Bullets",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1b21dfe0-cd8e-4927-a380-361cbe0b1928.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5 Safety Dome",
+     "minutes": 660,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5 Safety Dome",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5426d54c-6525-4944-87e4-b8d4fc1173b4.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 150 000 credits",
+     "minutes": 720,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 150 000 credits",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/73c1db84-6afb-4809-9cc3-3992deb6e986.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5 Serums",
+     "minutes": 780,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5 Serums",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/df6d93ab-8182-4abb-b436-63e834c38284.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F 5000 Pumpkins",
+     "minutes": 840,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F 5000 Pumpkins",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b231edbb-d7a1-40a0-a62c-e3024507dbc6.png"
+      }
+     ]
+    },
+    {
+     "name": "S14F Twitch container",
+     "minutes": 900,
+     "startAt": "2026-10-29T21:00:00Z",
+     "endAt": "2026-11-01T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S14F Twitch container",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7bd674d7-8bfa-430a-9e98-4bf588efe36f.png"
       }
      ]
     }
@@ -5802,6 +5899,53 @@
    ]
   },
   {
+   "id": "d631fdcf-ac14-4697-92b6-2d4e9ba77854",
+   "name": "Update 15.9 Drop: Week 4",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T17:00:00Z",
+   "endAt": "2026-11-05T02:59:59.999Z",
+   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d82d1254-9948-423a-8cc6-886496384430.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Update 15.9 Mission #4",
+     "minutes": 90,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-11-05T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Update 15.9 Mission #4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7d5afb80-06b2-41ce-bd26-72a91c2c7dad.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Container 15.9 week #4",
+     "minutes": 180,
+     "startAt": "2026-10-29T17:00:00Z",
+     "endAt": "2026-11-05T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Container 15.9",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15394297-7aae-47fb-be3a-1ef0793706ce.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "aefa907c-43d5-4187-beed-4576c246ef7b",
    "name": "PRIME TIME",
    "status": "ACTIVE",
@@ -5892,9 +6036,11 @@
     "archdruidess",
     "x2lowx",
     "fatedtorng",
-    "repulsii"
+    "repulsii",
+    "livefrmdatoilet",
+    "daddyreform"
    ],
-   "channelCount": 14,
+   "channelCount": 16,
    "drops": [
     {
      "name": "1 Hour (Week 1)",
@@ -6884,6 +7030,41 @@
       {
        "name": "Demonic Metal Head",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a6627468-a025-4c16-80e4-28503014072b.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "97a92b77-c12b-42d9-996c-9d7cf0136ba8",
+   "name": "Mr. Chicken's Chicken!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T18:38:39Z",
+   "endAt": "2026-11-08T23:59:59.999Z",
+   "description": "Celebrating the release of \"Mr. Chicken's Totally Ethical Farm\" Stream Arena RPG is giving away the \"Mr. Chicken's Chicken\" Back Cosmetic!\n\nFind Mr. Chicken's Totally Ethical Farm on Steam now!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb8cef99-a8a4-4037-aa66-c984740d145b.png",
+   "detailsURL": "https://streamarenarpg.com/drops_info.html",
+   "linkURL": "https://streamarenarpg.com/link_twitch.php",
+   "owner": "Ayrton Alexis",
+   "game": {
+    "id": "1856692696",
+    "name": "Stream Arena RPG",
+    "slug": "stream-arena-rpg",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1856692696_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-stream-arena-rpg"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Mr. Chicken's Chicken",
+     "minutes": 45,
+     "startAt": "2026-10-29T18:38:39Z",
+     "endAt": "2026-11-08T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Mr. Chicken's Chicken",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e3d36abd-baaf-4ded-95ac-484a34c6e7b7.png"
       }
      ]
     }
