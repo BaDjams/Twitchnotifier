@@ -1,411 +1,11 @@
 {
- "updatedAt": "2026-10-29T21:44:39Z",
+ "updatedAt": "2026-10-30T01:52:45Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa",
-   "name": "Enshrouded v1.0 Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T08:00:00Z",
-   "endAt": "2026-10-29T22:58:59.999Z",
-   "description": "Enshrouded v1.0 is here! Come tune into our live stream and celebrate the game launch! #Enshrouded #PlayEnshrouded",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d9b278e-9772-46d7-a567-a7e80913f4ad.png",
-   "detailsURL": "https://www.twitch.tv/drops/campaigns",
-   "linkURL": "https://www.twitch.tv",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "737987407",
-    "name": "Enshrouded",
-    "slug": "enshrouded",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/737987407_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-enshrouded"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Flameborn Sigil",
-     "minutes": 15,
-     "startAt": "2026-10-15T08:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Flameborn Sigil",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9f2968a1-ea62-47a8-9f0d-ebb4e682568e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b4f12d3f-f92c-4d5a-a127-bdbd21f546c5",
-   "name": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T14:00:00Z",
-   "endAt": "2026-10-29T22:58:59.999Z",
-   "description": "Droplets are additional drops to our main drop campaigns.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2551c901-4041-46f2-b92b-7320e39207f5.png",
-   "detailsURL": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-   "linkURL": "https://sfgame.net/",
-   "owner": "Playa-Games",
-   "game": {
-    "id": "510389",
-    "name": "Shakes and Fidget",
-    "slug": "shakes-and-fidget",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-shakes-and-fidget"
-   },
-   "channels": [
-    "mrmoregame",
-    "moxtales",
-    "uwereinholzen",
-    "der_cyberpunk",
-    "blackhammerplay",
-    "zirotv",
-    "feena1986",
-    "terste",
-    "slayproxx",
-    "flyguncz",
-    "feketemiklos",
-    "crappa",
-    "karthas",
-    "avid_is_odd",
-    "haiset",
-    "patrikturi",
-    "spajkk",
-    "demonzz1",
-    "angela35",
-    "banditsf",
-    "lootenant",
-    "gorgoss",
-    "bylebajlo",
-    "egoleipzig",
-    "karolinger",
-    "nayfal",
-    "chris2000_sf",
-    "spielestyler",
-    "gilmacek",
-    "yvraldis",
-    "sintica",
-    "katazuri",
-    "nikoletaa",
-    "formulalena",
-    "holladiewaldfee",
-    "salz_live",
-    "ricares",
-    "maexel",
-    "drarteck",
-    "aurikos_zonestos",
-    "kleiner_bandit",
-    "geerzson",
-    "ud_sierra",
-    "ch4rliesfgame",
-    "hejtojapawu",
-    "zouzi10",
-    "maskencontakt",
-    "achajka23",
-    "miss_hellbunny",
-    "aks_n1",
-    "iiprime2k",
-    "rinkijitv",
-    "greq_tw",
-    "adikos_stream",
-    "sirdariush01",
-    "flyingj3susss",
-    "kysuel",
-    "enorbiii",
-    "lordkokocrc",
-    "veseriann",
-    "pezet_123",
-    "j4nczv",
-    "vojta2684",
-    "lemon_2be3",
-    "g0dmancz",
-    "ogdar0",
-    "pe4rl_4u",
-    "janoooschtv",
-    "animaoscura1402",
-    "killr4in",
-    "muralink",
-    "haloxmd",
-    "dreibeinsandro",
-    "kazmaroxx",
-    "tribcha",
-    "feinekatze",
-    "zeusspezial",
-    "dennsen86",
-    "suun",
-    "feli",
-    "dakieksde",
-    "acid_fired",
-    "powie",
-    "gerbrowny",
-    "dirkneuenfelszwo",
-    "gaijin1up",
-    "skuuii",
-    "miaumarmelade",
-    "entenburg",
-    "fuxelbau",
-    "greifenberg",
-    "gerrit",
-    "craft12354",
-    "erd3nfeuer",
-    "trovarion",
-    "autophil",
-    "derhardi",
-    "m4cm4nus",
-    "milschbaum",
-    "juliversal"
-   ],
-   "channelCount": 123,
-   "drops": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Gilded Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47c0dba2-cba2-4e95-9275-7a90e5001e7b.png"
-      }
-     ]
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Construction Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1ade6cce-9bc6-439e-b10a-96e316ae7ab7.png"
-      }
-     ]
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Arcane Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/afdebe30-7182-479d-9a0a-625aaf572892.png"
-      }
-     ]
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Soul Taker Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e79e0a45-6818-487b-8f82-5b07e9984c61.png"
-      }
-     ]
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Fortification Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/49697d01-d7a2-404e-b45a-a05dec0932a2.png"
-      }
-     ]
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Smith Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52713587-b18e-4fb5-98e7-98d18ac8a90c.png"
-      }
-     ]
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180,
-     "startAt": "2026-10-23T14:00:00Z",
-     "endAt": "2026-10-29T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Allrounder Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0a700720-5536-4e26-9e88-e7acd65fa50d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f5fd6459-9b04-41f5-be59-4f4180b4b424",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T11:10:15Z",
-   "endAt": "2026-10-29T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fac5c2b4-4100-4395-864d-b7321554c841.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 90,
-     "startAt": "2026-10-29T11:10:15Z",
-     "endAt": "2026-10-29T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "85aa0dfd-2818-4886-8114-dc16df481201",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T00:00:00Z",
-   "endAt": "2026-10-29T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7cbfb8c6-0c6d-4ba0-8c39-def73a7660ef.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-29T00:00:00Z",
-     "endAt": "2026-10-29T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e02f8bb3-634e-4481-82d8-023f286a8770",
-   "name": "Anniversary Campaign",
-   "status": "ACTIVE",
-   "startAt": "2026-10-22T00:00:00Z",
-   "endAt": "2026-10-30T01:46:59.999Z",
-   "description": "Anniversary Twitch Drop Campaign.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c7403e88-5e52-4816-b13e-92be1a98bc4f.png",
-   "detailsURL": "https://evil-pongon-twitch.vercel.app/",
-   "linkURL": "https://evil-pongon-twitch.vercel.app/",
-   "owner": "Pongon",
-   "game": {
-    "id": "1274324285",
-    "name": "Evil Pongon Game",
-    "slug": "evil-pongon-game",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1274324285_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-evil-pongon-game"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Colours",
-     "minutes": 60,
-     "startAt": "2026-10-22T00:00:00Z",
-     "endAt": "2026-10-30T01:46:59.999Z",
-     "rewards": [
-      {
-       "name": "Deep Streamer Colour",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9d40daa3-c2a9-4d74-9bed-1b9dfc5c3d33.png"
-      },
-      {
-       "name": "Normal Streamer Colour",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bdde71b5-8700-4021-a1b3-b4cda13071e3.png"
-      },
-      {
-       "name": "Light Streamer Colour",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9b3a7478-794d-4e50-9d46-545fed9ad1b4.png"
-      }
-     ]
-    },
-    {
-     "name": "Slides",
-     "minutes": 120,
-     "startAt": "2026-10-22T00:00:00Z",
-     "endAt": "2026-10-30T01:46:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Slide - Static",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1e23ffba-3ddd-4af0-94c0-6f4209b32d5e.png"
-      },
-      {
-       "name": "Twitch Slide - Animated",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/02ab6372-5ccc-4e3c-847b-2a1d0282a335.png"
-      }
-     ]
-    },
-    {
-     "name": "Enphosed Skin and Soul",
-     "minutes": 180,
-     "startAt": "2026-10-22T00:00:00Z",
-     "endAt": "2026-10-30T01:46:59.999Z",
-     "rewards": [
-      {
-       "name": "Enphosed Pongon Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/83dec337-d6d3-4599-8692-be8e5352c677.png"
-      },
-      {
-       "name": "Streamer Soul Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8afe3d94-82e5-46ac-a9c1-8a0be662efe2.png"
-      }
-     ]
-    },
-    {
-     "name": "Shiny Enphosed Skin",
-     "minutes": 240,
-     "startAt": "2026-10-22T00:00:00Z",
-     "endAt": "2026-10-30T01:46:59.999Z",
-     "rewards": [
-      {
-       "name": "Shiny Enphosed Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5944c433-ca4d-44c8-a082-2b76071890a9.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "15b9fa77-2959-47c9-acc0-2d33bc1ad62e",
    "name": "ALGS S2 PO D1",
@@ -2284,6 +1884,41 @@
       {
        "name": "Namecard: Final Score",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c82a595a-f9c9-4da6-a49c-e6fc0b5734c3.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6899fd05-a849-475a-b691-964ae7a75fce",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-30T00:00:00Z",
+   "endAt": "2026-10-30T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d66334c4-3861-49a4-88e3-10aa2b74be28.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-10-30T00:00:00Z",
+     "endAt": "2026-10-30T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -5893,6 +5528,65 @@
       {
        "name": "Update 15.9: 250CT",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484",
+   "name": "Crimson Desert DLC Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-10-29T22:00:00Z",
+   "endAt": "2026-11-04T23:59:59.999Z",
+   "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c30c938a-e0b7-42d0-ae27-0ba759f980c0.jpeg",
+   "detailsURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
+   "linkURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "515186",
+    "name": "Crimson Desert",
+    "slug": "crimson-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515186_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-crimson-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "60 min.",
+     "minutes": 60,
+     "startAt": "2026-10-29T22:00:00Z",
+     "endAt": "2026-11-04T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Lantern & Meat Dish",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fb510c8-189a-4232-8552-0f662f1b2ad2.png"
+      }
+     ]
+    },
+    {
+     "name": "120 min.",
+     "minutes": 120,
+     "startAt": "2026-10-29T22:00:00Z",
+     "endAt": "2026-11-04T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pirate Eyepatch & Sword",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a018ac8f-47c3-45d3-b4e7-d5442f9742a1.png"
+      }
+     ]
+    },
+    {
+     "name": "180 min.",
+     "minutes": 180,
+     "startAt": "2026-10-29T22:00:00Z",
+     "endAt": "2026-11-04T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pet Parrot in Pirate Hat",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8923aee2-68a7-489e-aee0-e153381878af.png"
       }
      ]
     }
