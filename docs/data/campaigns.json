@@ -1,48 +1,11 @@
 {
- "updatedAt": "2026-10-30T20:05:13Z",
+ "updatedAt": "2026-10-30T23:41:44Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "4e7cca5f-0e2f-4fac-a787-c810c32b86ac",
-   "name": "Soulframe Devstream #18",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T19:30:00Z",
-   "endAt": "2026-10-30T20:29:59.999Z",
-   "description": "Watch Soulframe Devstream #18 for 30 minutes to earn 1x Rhapsodic Chordstone. Your item will appear in your in-game Dispatches after claiming your Drop on the Twitch Inventory page. New accounts will have their reward awaiting them upon first log-in.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c44c9ba7-5c44-4386-ba4e-3d7a17a332e1.png",
-   "detailsURL": "https://forums.soulframe.com/topic/16025-coming-soon-soulframe-devstream-18/",
-   "linkURL": "https://www.soulframe.com/en/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "468533702",
-    "name": "Soulframe",
-    "slug": "soulframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/468533702_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-soulframe"
-   },
-   "channels": [
-    "playsoulframe"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "1x Rhapsodic Chordstone",
-     "minutes": 30,
-     "startAt": "2026-10-30T19:30:00Z",
-     "endAt": "2026-10-30T20:29:59.999Z",
-     "rewards": [
-      {
-       "name": "1 x Rhapsodic Chordstone",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0462c2ca-f38f-4c7f-9220-d72f499bb754.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "6899fd05-a849-475a-b691-964ae7a75fce",
    "name": "October Drops",
@@ -475,6 +438,72 @@
       {
        "name": "\"Respawning\" Holospray",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c60e8ad1-d0a1-4d58-ba07-1d08e3a234f1.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "369f6c8b-eaaa-4bac-a87f-6dc03ce80fb1",
+   "name": "Dbd Halloween Badge",
+   "status": "ACTIVE",
+   "startAt": "2026-10-30T21:00:00Z",
+   "endAt": "2026-10-31T06:58:59.999Z",
+   "description": "Subscribe or Gift a Sub to an allowlisted Dead by Daylight streamer participating in Twitch Rivals of Terror 2026 to earn this chat badge!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0fff912c-a5ac-4592-add0-3fef7dbdab18.png",
+   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+   "linkURL": "https://www.twitch.tv/",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "491487",
+    "name": "Dead by Daylight",
+    "slug": "dead-by-daylight",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491487-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-dead-by-daylight"
+   },
+   "channels": [
+    "amazonian",
+    "bearki",
+    "deere",
+    "dragtrashly",
+    "eduardo_hook",
+    "ellyen",
+    "epidemy",
+    "evidious515",
+    "fitzyhere",
+    "gp_tv",
+    "hinabobina",
+    "hydrasung",
+    "joshseki",
+    "kittyrawr",
+    "kruzadar",
+    "littlespacerock",
+    "meeeows",
+    "mish",
+    "oddrey",
+    "pezzzy",
+    "spookyloopz",
+    "swearin",
+    "trulytenzin",
+    "vickivaliant",
+    "warn",
+    "wasabiicat",
+    "whisqey",
+    "zerbs",
+    "zeroyalviking",
+    "sharkvader"
+   ],
+   "channelCount": 30,
+   "drops": [
+    {
+     "name": "DbD Halloween Badge",
+     "minutes": 0,
+     "startAt": "2026-10-30T21:00:00Z",
+     "endAt": "2026-10-31T06:58:59.999Z",
+     "rewards": [
+      {
+       "name": "DbD Halloween 2026 Badge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aad2384f-d73e-4c9b-b985-4dd4fe90a679.png"
       }
      ]
     }
