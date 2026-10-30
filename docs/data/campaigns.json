@@ -1,159 +1,11 @@
 {
- "updatedAt": "2026-10-30T01:52:45Z",
+ "updatedAt": "2026-10-30T08:31:29Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "15b9fa77-2959-47c9-acc0-2d33bc1ad62e",
-   "name": "ALGS S2 PO D1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T16:45:00Z",
-   "endAt": "2026-10-30T05:29:59.999Z",
-   "description": "ALGS Split 2 Playoffs - Day 1",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d7d59f9-e4dc-4b68-a6b9-e28bb0db6c11.png",
-   "detailsURL": "https://algs.ea.com/en/news/earning-drops",
-   "linkURL": "https://ea.com/twitchlinking",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "511224",
-    "name": "Apex Legends",
-    "slug": "apex-legends",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/511224-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-apex-legends"
-   },
-   "channels": [
-    "playapex",
-    "algs1_team1",
-    "algs1_team2",
-    "algs1_team3",
-    "algs1_team4",
-    "algs1_team5",
-    "algs1_team6",
-    "algs1_team7",
-    "algs1_team8",
-    "algs1_team9",
-    "algs1_team10",
-    "algs1_team11",
-    "algs1_team12",
-    "algs1_team13",
-    "algs1_team14",
-    "algs1_team15",
-    "algs1_team16",
-    "algs1_team17",
-    "algs1_team18",
-    "algs1_team19",
-    "algs1_team20",
-    "algs1_map",
-    "esports_rage",
-    "nicewigg",
-    "greek",
-    "akytio",
-    "oraxe",
-    "restiafps",
-    "yukiofps14",
-    "assiikun",
-    "berbatow",
-    "valekahn",
-    "mande",
-    "iitztimmy",
-    "shivfps",
-    "faide",
-    "guhrl",
-    "claraatwork",
-    "tiffajessi",
-    "stoney_au",
-    "drumbum",
-    "nisagg",
-    "digvibezz",
-    "immayabb",
-    "nocturnalnerves",
-    "mrsswissroll",
-    "tawilliams12",
-    "sugacookea",
-    "tonybynature",
-    "rockisgaming",
-    "supremetheegod",
-    "aryakuroha",
-    "girlypro",
-    "hisandherslive",
-    "inopaolino",
-    "sailortori",
-    "bulkantv",
-    "drrkwolf",
-    "kaybeehill",
-    "ayejhawk",
-    "darlingnyxx",
-    "the0nehandedgamer",
-    "its__royalty",
-    "madbamboozles",
-    "sheisboogie",
-    "sellycats",
-    "neyazr1",
-    "justrazzortv",
-    "gonzales",
-    "daichu_iq",
-    "crestep",
-    "barbiechocolat",
-    "tiaguismo_",
-    "them_aisha",
-    "caffezin",
-    "denpride",
-    "fervonlaiho",
-    "jubslopess",
-    "lixzzyfps",
-    "gallardd",
-    "bygabbo13",
-    "bidii",
-    "gwen4you",
-    "aiita_",
-    "eze_9219",
-    "jhosyadriana",
-    "amorinhattv",
-    "jomacs",
-    "nmego",
-    "tigeraxd",
-    "maruuhchan",
-    "sweatyy_ash",
-    "dkdon_",
-    "branden",
-    "karimcheese",
-    "norae",
-    "tannerslays",
-    "karodeza",
-    "phisheyy",
-    "jumbagw"
-   ],
-   "channelCount": 204,
-   "drops": [
-    {
-     "name": "APEX Pack",
-     "minutes": 15,
-     "startAt": "2026-10-29T16:45:00Z",
-     "endAt": "2026-10-30T05:29:59.999Z",
-     "rewards": [
-      {
-       "name": "APEX Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a2563348-e48f-4b1c-82a2-5ead96e54122.png"
-      }
-     ]
-    },
-    {
-     "name": "Charge Rifle Skin",
-     "minutes": 60,
-     "startAt": "2026-10-29T16:45:00Z",
-     "endAt": "2026-10-30T05:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Charge Rifle Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/360649ef-0495-4515-b822-7302b0f230d5.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "f8b02ff6-77cc-4afb-aecb-3e0ebe72ce88",
    "name": "AOCP Flamescale 6 - #4/7",
@@ -1591,41 +1443,6 @@
       {
        "name": "Madden Twitch Pack",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1c2343a6-4bc0-4f19-a090-5295e193c299.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3061af39-49c5-4137-90a8-75837d5917ec",
-   "name": "DF RISE S2GrandFinals Sub",
-   "status": "ACTIVE",
-   "startAt": "2026-10-18T17:00:00Z",
-   "endAt": "2026-10-30T16:59:59.999Z",
-   "description": "Join the streamer subscription program and earn high-value rewards.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9f268f91-6984-4c4d-9e1b-807f99cb5760.png",
-   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "1282866981",
-    "name": "Delta Force",
-    "slug": "delta-force-hawk-ops",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "QBZ95 - Alpha Dragon",
-     "minutes": 0,
-     "startAt": "2026-10-18T17:00:00Z",
-     "endAt": "2026-10-30T16:59:59.999Z",
-     "rewards": [
-      {
-       "name": "QBZ95 - Alpha Dragon",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0ecb7dd1-71cf-4b9c-bf40-9a9d5316f335.png"
       }
      ]
     }
@@ -8955,6 +8772,177 @@
       {
        "name": "Butterfly Wardrobe",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0336ece9-f977-42bc-8bed-54cb245b39b5.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5f277031-448e-4eb2-8817-45f56779633c",
+   "name": "OWCS Stage 3 Playoffs",
+   "status": "ACTIVE",
+   "startAt": "2026-10-30T07:00:00Z",
+   "endAt": "2026-11-23T07:59:59.999Z",
+   "description": "Celebrate the OWCS Stage 3 Playoffs with special viewer rewards! Watch 1 hour to get the Candlelit Satya Spray, 2 hours to get the Purrfect Evening Spray, 3 hours to get the Sophisticated Sparklers Spray, 4 hours to get an Esports Loot Box, 6 hours to get the Bua and Palak's Lanterns Spray, 8 hours to get the Lantern-Lit Night Name Card, 10 hours to get the OWCS Home Sombra Skin, 12 hours to get the OWCS Away Sombra Skin, 14 hours to get an Esports Loot Box and 15 hours to get an Esports Loot Box",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/167cbaa3-f803-456b-a90e-64d78da9fbe0.png",
+   "detailsURL": "https://esports.overwatch.com/en-us/rewards",
+   "linkURL": "https://account.battle.net/connections",
+   "owner": "Blizzard",
+   "game": {
+    "id": "515025",
+    "name": "Overwatch",
+    "slug": "overwatch-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-overwatch-2"
+   },
+   "channels": [
+    "ow_esports",
+    "ow_esports_jp",
+    "unter",
+    "emongg",
+    "warn",
+    "commanderx",
+    "rakattack",
+    "poko",
+    "august",
+    "ml7support",
+    "karq",
+    "angrodtralari",
+    "teetawatv3",
+    "ta1yo_tv",
+    "meltonff",
+    "nitrao",
+    "6cyx",
+    "avrl",
+    "iddqd",
+    "hadi_ow",
+    "owbrain",
+    "tommathan",
+    "hammerkick",
+    "franciscoow",
+    "profoundrice",
+    "zbra",
+    "chosen_ow"
+   ],
+   "channelCount": 27,
+   "drops": [
+    {
+     "name": "Candlelit Satya Spray",
+     "minutes": 60,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Candlelit Satya Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ac407c56-e9c2-463d-bd45-40d79ca505cd.png"
+      }
+     ]
+    },
+    {
+     "name": "Purrfect Evening Spray",
+     "minutes": 120,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Purrfect Evening Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a514e2e0-e7ed-48c8-bc42-91d40ec87a78.png"
+      }
+     ]
+    },
+    {
+     "name": "Sophisticated Sparklers Spray",
+     "minutes": 180,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Sophisticated Sparklers",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c18179a6-d751-4ee7-aea5-6263ead48cdf.png"
+      }
+     ]
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 240,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esports Loot Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b3013fe-b163-451a-908c-172f68b12dad.png"
+      }
+     ]
+    },
+    {
+     "name": "Bua and Palak's Lanterns Spray",
+     "minutes": 360,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Bua and Palak's Lanterns",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/708214c4-841c-4950-82dd-dc83e0d83d31.png"
+      }
+     ]
+    },
+    {
+     "name": "Lantern-Lit Night Name Card",
+     "minutes": 480,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Lantern-Lit Night NC",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/29b08930-31a7-4bf1-9dc4-b9ca39d4556d.png"
+      }
+     ]
+    },
+    {
+     "name": "OWCS Home Sombra Skin",
+     "minutes": 600,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "OWCS Home Sombra Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5bf9fb37-eb3f-49b2-a855-cb1e08c687a4.png"
+      }
+     ]
+    },
+    {
+     "name": "OWCS Away Sombra Skin",
+     "minutes": 720,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "OWCS Away Sombra Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21451e8a-1ab1-4f88-a13c-07e00f2a75f2.png"
+      }
+     ]
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 840,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esports Loot Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/58277681-1b97-42b6-8e0d-2ef7ba5ac536.png"
+      }
+     ]
+    },
+    {
+     "name": "Esports Loot Box",
+     "minutes": 900,
+     "startAt": "2026-10-30T07:00:00Z",
+     "endAt": "2026-11-23T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esports Loot Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08d53625-9560-4d9f-9a2b-41f4741676f0.png"
       }
      ]
     }
