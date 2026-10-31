@@ -1,300 +1,11 @@
 {
- "updatedAt": "2026-10-30T23:41:44Z",
+ "updatedAt": "2026-10-31T05:25:14Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "6899fd05-a849-475a-b691-964ae7a75fce",
-   "name": "October Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T00:00:00Z",
-   "endAt": "2026-10-30T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d66334c4-3861-49a4-88e3-10aa2b74be28.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-10-30T00:00:00Z",
-     "endAt": "2026-10-30T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dfeba7d4-f52f-4195-9153-88656e5c1114",
-   "name": "Kakele Online - October 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-16T07:00:00Z",
-   "endAt": "2026-10-31T00:18:59.999Z",
-   "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/036a0c5c-52cd-4d85-b5ce-0b82fda0e492.png",
-   "detailsURL": "https://www.kakele.io/?utm_source=drops",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
-   "owner": "ViVa Games",
-   "game": {
-    "id": "902050890",
-    "name": "Kakele Online - MMORPG",
-    "slug": "kakele-online-mmorpg",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/902050890_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-kakele-online-mmorpg"
-   },
-   "channels": [
-    "kakelemmorpg",
-    "terryzao",
-    "macielzera__",
-    "bravokktv",
-    "mavip_",
-    "johnzeer4",
-    "slade_dragon",
-    "killertech_",
-    "top_mmorpg",
-    "akayuv",
-    "sajkor_",
-    "jeceoz",
-    "otakashop"
-   ],
-   "channelCount": 13,
-   "drops": [
-    {
-     "name": "Streamer Token",
-     "minutes": 60,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 120,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 180,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 240,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 300,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 540,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 720,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 840,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    },
-    {
-     "name": "Streamer Token",
-     "minutes": 900,
-     "startAt": "2026-10-16T07:00:00Z",
-     "endAt": "2026-10-31T00:18:59.999Z",
-     "rewards": [
-      {
-       "name": "Coins Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/837c6d8f-5935-4b9c-9d4b-d057e52d0521.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "440f6e87-e299-43a9-9d13-63ef3ecd5b4c",
-   "name": "BNG Foundation Halloween",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T18:30:00Z",
-   "endAt": "2026-10-31T00:29:59.999Z",
-   "description": "Thank you for joining the Bungie Foundation for our third annual Halloween livestream. As a special thank you from us, we are offering the Marathon Four Leaf Matrix emblem and the Destiny 2 Sign of our City emblem as a reward. Be sure your Twitch account is linked to your Bungie account.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/febd68eb-a610-422f-b01f-5b0b6b9b2319.png",
-   "detailsURL": "https://www.twitch.tv/bungiefoundation",
-   "linkURL": "https://www.bungie.net/LinkTwitch",
-   "owner": "Bungie",
-   "game": {
-    "id": "407314011",
-    "name": "Marathon",
-    "slug": "marathon",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/407314011_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marathon"
-   },
-   "channels": [
-    "bungiefoundation"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Four Leaf Matrix Emblem",
-     "minutes": 30,
-     "startAt": "2026-10-30T18:30:00Z",
-     "endAt": "2026-10-31T00:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Four Leaf Matrix Emblem",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b788bf9-7fba-48dd-8b52-e038098b4c5a.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fea9a7ab-974b-465c-800b-aab2d1cb8c18",
-   "name": "BNG Foundation Halloween",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T18:30:00Z",
-   "endAt": "2026-10-31T00:29:59.999Z",
-   "description": "Thank you for joining the Bungie Foundation for our third annual Halloween livestream. As a special thank you from us, we are offering the Marathon Four Leaf Matrix emblem and the Destiny 2 Sign of our City emblem as a reward. Be sure your Twitch account is linked to your Bungie account.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b9910304-aaf3-44ff-8528-665298605336.png",
-   "detailsURL": "https://www.twitch.tv/bungiefoundation",
-   "linkURL": "https://www.bungie.net/LinkTwitch",
-   "owner": "Bungie",
-   "game": {
-    "id": "497057",
-    "name": "Destiny 2",
-    "slug": "destiny-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/497057-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-destiny-2"
-   },
-   "channels": [
-    "bungiefoundation"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Sign of our City Emblem",
-     "minutes": 60,
-     "startAt": "2026-10-30T18:30:00Z",
-     "endAt": "2026-10-31T00:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Sign of our City Emblem",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ac977917-e0db-4bcd-a9b6-b336beb603a2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "337efb76-fbba-494b-8802-6439750f4f88",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T12:24:09Z",
-   "endAt": "2026-10-31T02:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/100f6d6f-1ba2-495c-b42a-7fa7cf9edd22.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-30T12:24:09Z",
-     "endAt": "2026-10-31T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "8f461e0a-4e81-4858-8707-60f61a9f5950",
    "name": "ALGS S2 PO D2",
@@ -1270,6 +981,48 @@
    ]
   },
   {
+   "id": "d2d7331b-71fb-443d-818a-030346004faa",
+   "name": "[AS] 2026 Master Class",
+   "status": "ACTIVE",
+   "startAt": "2026-10-31T05:00:00Z",
+   "endAt": "2026-10-31T14:59:59.999Z",
+   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/514d536e-81df-4c41-96ac-351482d2d202.jpeg",
+   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "futsukachannel",
+    "hideaplaya",
+    "casablancass_",
+    "dogbrolovelove",
+    "devandimion",
+    "atomkenshiroz"
+   ],
+   "channelCount": 6,
+   "drops": [
+    {
+     "name": "1 Hour Drop",
+     "minutes": 60,
+     "startAt": "2026-10-31T05:00:00Z",
+     "endAt": "2026-10-31T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[AS] 1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d6e4ff4d-40a4-4087-a81f-a280a3b65fc3.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "71652208-1a89-434f-a1d2-9a4775b980ed",
    "name": "Fancy Dress Party ",
    "status": "ACTIVE",
@@ -1308,6 +1061,41 @@
       {
        "name": "2 Lone Tree Emblems",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26b6776e-8e67-4a38-8eb1-7d45ac15a369.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "37ce4a4f-604b-4e1e-a93b-85ca2655262f",
+   "name": "E7WC 2026 Knockout Stage",
+   "status": "ACTIVE",
+   "startAt": "2026-10-31T03:00:00Z",
+   "endAt": "2026-10-31T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/caf87eb9-47ec-46b6-9c36-e41f83c4f58c.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Knockout Stage",
+     "minutes": 15,
+     "startAt": "2026-10-31T03:00:00Z",
+     "endAt": "2026-10-31T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Knockout Stage",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0e1d24b0-1d57-4bdf-a33d-de5776eef6b1.png"
       }
      ]
     }
@@ -2449,6 +2237,53 @@
       {
        "name": "1,000 Coins",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9b6a7691-4194-4cf9-b5b3-8bbeffb2d606.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4fee07b4-953c-43a1-be86-cc2aece523ee",
+   "name": "October Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-10-31T00:00:00Z",
+   "endAt": "2026-10-31T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8bf65a95-9190-47e6-9f2b-20d1a04024de.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-10-31T00:00:00Z",
+     "endAt": "2026-10-31T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-10-31T00:00:00Z",
+     "endAt": "2026-10-31T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -4037,6 +3872,101 @@
       {
        "name": "Grotti Turismo Omaggio",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0db292c6-9283-4376-a673-a0348b2d3c78.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6d1fd562-e49a-424b-b180-7caa0ce1930b",
+   "name": "Open Series Cup #2",
+   "status": "ACTIVE",
+   "startAt": "2026-10-31T04:00:00Z",
+   "endAt": "2026-11-02T11:59:59.999Z",
+   "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a1e6c745-e840-4a35-8694-a7d95267b4bb.png",
+   "detailsURL": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+   "linkURL": "https://ea.com/twitchlinking",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "1848745913",
+    "name": "Battlefield REDSEC",
+    "slug": "battlefield-redsec",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1848745913_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-battlefield-redsec"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "15 min Hardware XP Boost",
+     "minutes": 60,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "15 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/182706bb-64a4-4350-b82f-e74411818b20.png"
+      }
+     ]
+    },
+    {
+     "name": "30 min Hardware XP Boost",
+     "minutes": 120,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "30 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99fc76c3-8910-4a31-817d-3dd5d2bffa04.png"
+      }
+     ]
+    },
+    {
+     "name": "Reconnaissance",
+     "minutes": 180,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Reconnaissance",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8157b2ea-23b1-4ea4-8589-c6f76d9aa6a0.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 240,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bbe2eb87-8e66-458c-8463-b971aed4b97a.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 300,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/33c1bf1c-dfc3-4c06-89dd-6e46c89bc4f6.png"
+      }
+     ]
+    },
+    {
+     "name": "Cold Blooded",
+     "minutes": 360,
+     "startAt": "2026-10-31T04:00:00Z",
+     "endAt": "2026-11-02T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Cold Blooded",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a37e1b50-264a-41dc-a4ed-fe0b042ac3ed.png"
       }
      ]
     }
