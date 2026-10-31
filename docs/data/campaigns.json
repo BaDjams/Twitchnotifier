@@ -1,431 +1,11 @@
 {
- "updatedAt": "2026-10-31T20:15:25Z",
+ "updatedAt": "2026-10-31T23:39:52Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "d8bb85b6-c9c8-4ca0-99ff-c4e6864adb16",
-   "name": "PMCFQ Finale",
-   "status": "ACTIVE",
-   "startAt": "2026-10-31T15:55:00Z",
-   "endAt": "2026-10-31T20:14:59.999Z",
-   "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our finale stream to earn a variety of items from the Finale Grab Bag.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/decccd40-d1ca-43d3-9a08-d77752693245.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "warframe"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "PMCFQ Finale Grab Bag",
-     "minutes": 30,
-     "startAt": "2026-10-31T15:55:00Z",
-     "endAt": "2026-10-31T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "PMCFQ Finale Grab Bag",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99fc6df0-e5d1-4453-a977-1fd3ec3da955.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "PMCFQ Finale Grab Bag",
-     "minutes": 60,
-     "startAt": "2026-10-31T15:55:00Z",
-     "endAt": "2026-10-31T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "PMCFQ Finale Grab Bag",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99fc6df0-e5d1-4453-a977-1fd3ec3da955.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "PMCFQ Finale Grab Bag",
-     "minutes": 90,
-     "startAt": "2026-10-31T15:55:00Z",
-     "endAt": "2026-10-31T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "PMCFQ Finale Grab Bag",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99fc6df0-e5d1-4453-a977-1fd3ec3da955.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "PMCFQ Finale Grab Bag",
-     "minutes": 120,
-     "startAt": "2026-10-31T15:55:00Z",
-     "endAt": "2026-10-31T20:14:59.999Z",
-     "rewards": [
-      {
-       "name": "PMCFQ Finale Grab Bag",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99fc6df0-e5d1-4453-a977-1fd3ec3da955.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20",
-   "name": "Operative QuickyBaby",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:00:00Z",
-   "endAt": "2026-10-31T21:59:59.999Z",
-   "description": "Operative QuickyBaby",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ab12b25d-1476-4c0b-bf43-b8a195e5b95b.png",
-   "detailsURL": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "quickybaby"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Drop",
-     "minutes": 240,
-     "startAt": "2026-10-15T15:00:00Z",
-     "endAt": "2026-10-31T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1x mission",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7432e5e1-2ef2-461d-90fa-c5eb60bc8b93.png"
-      },
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f7d71777-2801-49ea-9acd-8ccc771728b1.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "86254499-8b0b-4f45-b9d3-de79cb756773",
-   "name": "Operative Mailand",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:00:00Z",
-   "endAt": "2026-10-31T21:59:59.999Z",
-   "description": "Operative Mailand",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f4acf93a-76a0-4523-88d4-261f830553e8.png",
-   "detailsURL": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "mailand"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Drop",
-     "minutes": 240,
-     "startAt": "2026-10-15T15:00:00Z",
-     "endAt": "2026-10-31T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1x mission",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9c1918b9-4d13-44ef-876d-d72f52cff20a.png"
-      },
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fae37d2e-e0a9-4c65-8f77-3e61d56614af.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e3783806-14bb-4497-850b-fbb7d9468d54",
-   "name": "Operative Skill4ltu",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:00:00Z",
-   "endAt": "2026-10-31T21:59:59.999Z",
-   "description": "Operative Skill4ltu",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/04fe562d-2766-4eab-992a-165b345ec528.png",
-   "detailsURL": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "skill4ltu"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Drop",
-     "minutes": 240,
-     "startAt": "2026-10-15T15:00:00Z",
-     "endAt": "2026-10-31T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1x mission",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/253887f6-10e3-436a-b673-f380d811ca34.png"
-      },
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/28259359-2d1f-42a2-ba36-4587f476974b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "61e12424-a3c8-4ad7-9141-6058b23ea044",
-   "name": "Operative MouzAkrobat",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T15:00:00Z",
-   "endAt": "2026-10-31T21:59:59.999Z",
-   "description": "Operative MouzAkrobat",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c31ecd21-b134-4d79-8e18-6613264b72e3.png",
-   "detailsURL": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "mouzakrobat"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Drop",
-     "minutes": 240,
-     "startAt": "2026-10-15T15:00:00Z",
-     "endAt": "2026-10-31T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1x mission",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/02a3f13e-ac50-4b9c-b5a7-41682b2622e8.png"
-      },
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a01b699a-68c5-44e7-9bf8-082632eed181.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47",
-   "name": "Dragon’s Dogma 2 - DA",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T12:00:00Z",
-   "endAt": "2026-10-31T22:58:59.999Z",
-   "description": "Your unwritten epic begins now with the launch of Dragon’s Dogma 2: Dark Arisen! Come and celebrate on Twitch with two exclusive Dark Arisen themed chat badges! They're masterworks all, you can’t go wrong! #DD2DA ",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fe012712-be91-4e06-a923-cbd3bb1fcee7.png",
-   "detailsURL": "https://www.twitch.tv/drops/campaigns",
-   "linkURL": "https://www.twitch.tv",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "435870350",
-    "name": "Dragon's Dogma II",
-    "slug": "dragons-dogma-ii",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/435870350_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-dragons-dogma-ii"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "FrekiFriend",
-     "minutes": 0,
-     "startAt": "2026-10-08T12:00:00Z",
-     "endAt": "2026-10-31T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "FrekiFriend",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c25d00c5-e121-4c83-8681-11a7b4d1bd3c.png"
-      }
-     ]
-    },
-    {
-     "name": "TheDragonsDogma",
-     "minutes": 60,
-     "startAt": "2026-10-08T12:00:00Z",
-     "endAt": "2026-10-31T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "TheDragonsDogma",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8f0ae5ca-4999-49fe-837a-63e7be0710c4.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "efb9b018-9c9e-4721-8659-6690bfd8cb63",
-   "name": "MW: Leviathan Harvest",
-   "status": "ACTIVE",
-   "startAt": "2026-10-08T00:00:00Z",
-   "endAt": "2026-10-31T23:29:59.999Z",
-   "description": "Commanders, from October 8 to 31, watch selected Modern Warships streams on Twitch and earn rewards during the Leviathan Harvest event.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fcf7bc56-0ef5-4bca-9ca8-966ac0021c24.png",
-   "detailsURL": "https://artstorm.com/news/twitch-drops-leviathan-harvest",
-   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
-   "owner": "Artstorm FZE",
-   "game": {
-    "id": "423797288",
-    "name": "Modern Warships",
-    "slug": "modern-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-modern-warships"
-   },
-   "channels": [
-    "imtimetraveler",
-    "scyther_warship",
-    "ibragodyt",
-    "alexshikaka",
-    "rplayer91",
-    "joehawyt",
-    "generalofmw",
-    "rizkiramadhan_ch",
-    "geecknes",
-    "stealthmwgamer",
-    "gaming_tip_mw",
-    "eptomoon",
-    "iosif_mw",
-    "t3d_fx",
-    "mrproper_mw",
-    "ncturnal_gaming",
-    "ktgirlgaming",
-    "officialtylermw",
-    "mr_oroplat",
-    "by_mitso",
-    "nrnsgamer",
-    "gematman",
-    "noa_mizuchi",
-    "gnoddah",
-    "mwbee1",
-    "le_guepard_perdu",
-    "confrerie_navale_fr",
-    "spartakusmw",
-    "kpuch1n0",
-    "garry_4poker",
-    "remix_prime",
-    "djadjastepa",
-    "killanoa",
-    "bulletthekrazygamer",
-    "grujicicm",
-    "gatillin830",
-    "theghostgeneral",
-    "diablobeelzebub",
-    "theoldestnewb",
-    "jx4daddy",
-    "kirixava",
-    "codenamedferret",
-    "standartion_game",
-    "celestiallexi",
-    "poldazzo_xvii",
-    "canonicallyaverage",
-    "cdresparrow",
-    "bitbybit_bln",
-    "admiral1mw",
-    "arudie",
-    "blackflag061",
-    "andriy_1725"
-   ],
-   "channelCount": 52,
-   "drops": [
-    {
-     "name": "2 Days of Premium",
-     "minutes": 30,
-     "startAt": "2026-10-08T00:00:00Z",
-     "endAt": "2026-10-31T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "2 Days of Premium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb9f8a10-c2d1-4e23-aa2b-3c80cd748628.png"
-      }
-     ]
-    },
-    {
-     "name": "Advanced Consumables",
-     "minutes": 60,
-     "startAt": "2026-10-08T00:00:00Z",
-     "endAt": "2026-10-31T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Advanced Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/66773b40-f5d7-4305-a70e-8f44005e57ff.png"
-      }
-     ]
-    },
-    {
-     "name": "200 UP's",
-     "minutes": 120,
-     "startAt": "2026-10-08T00:00:00Z",
-     "endAt": "2026-10-31T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "200 UP's",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5f2f3e42-ed5c-4586-b90d-569deeb72978.png"
-      }
-     ]
-    },
-    {
-     "name": "15 Authorization Keys",
-     "minutes": 240,
-     "startAt": "2026-10-08T00:00:00Z",
-     "endAt": "2026-10-31T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "15 Authorization Keys",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d35a303a-25f3-4985-9101-0f6c0e645c57.png"
-      }
-     ]
-    },
-    {
-     "name": "Camo Vicious Harvest",
-     "minutes": 300,
-     "startAt": "2026-10-08T00:00:00Z",
-     "endAt": "2026-10-31T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Camo Vicious Harvest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8dd8c910-255c-4cd9-8670-0d8172956e1b.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "a27bf158-7088-4161-9454-c9aa882e7e3b",
    "name": "VCT26 GCC Sao Paulo",
@@ -445,79 +25,9 @@
     "topic": "twitchnotifier-dz7n7k-valorant"
    },
    "channels": [
-    "valorant",
-    "squeezie",
-    "karagii",
-    "harmii",
-    "wado",
-    "della3",
-    "loupiote3",
-    "remakeval",
-    "nelog0at",
-    "itsino_",
-    "wipr",
-    "mephisto_ttv",
-    "beyaz",
-    "azgarsg",
-    "i_am_khoree",
-    "nessouai",
-    "kira_",
-    "juniorlej_",
-    "ivzel96",
-    "valbina",
-    "braveaff",
-    "relaxcis",
-    "icemo21",
-    "ntwillow",
-    "eyenara",
-    "gokedtv",
-    "funilzinha",
-    "cremosa",
-    "zipiih",
-    "miwtl",
-    "sofiaespanha",
-    "nivyzera",
-    "paulanobre",
-    "anahfpss",
-    "briciogallo",
-    "jedaizera",
-    "helogb__",
-    "zannyeee",
-    "carolinedurso",
-    "torynho",
-    "karennass",
-    "lorenemaf",
-    "rickcintra",
-    "viqsm",
-    "heylizy",
-    "pinkdmd",
-    "frttt",
-    "megsoundslikeegg",
-    "billieidk",
-    "mimimimichaela",
-    "zhobiii",
-    "melanji",
-    "zikzlol",
-    "patipvlr",
-    "melhssn_",
-    "valorant_la",
-    "valorant_br",
-    "valorant_jpn",
-    "valorantesports_cn",
-    "valorant_kr",
-    "valorant_id",
-    "valorant_ph",
-    "valorant_th",
-    "valorant_tw",
-    "valorant_tur",
-    "valorant_fr",
-    "valorant_es",
-    "valorantleague_east",
-    "projectvgg2",
-    "valorant_maincast",
-    "hitpointcz"
+    "valorant"
    ],
-   "channelCount": 71,
+   "channelCount": 1,
    "drops": [
     {
      "name": "\"Miga\" Title",
@@ -1318,9 +828,108 @@
     "topic": "twitchnotifier-dz7n7k-eve-online"
    },
    "channels": [
-    "fenriscreations"
+    "fenriscreations",
+    "alecjeay",
+    "arhont_sibirskii",
+    "aricalika",
+    "asura",
+    "bdi2",
+    "blueandqueenie",
+    "brothergrimoire",
+    "chaos1298",
+    "chloroken",
+    "contempoenterprises",
+    "crashnaps",
+    "deraphin",
+    "docgotgame",
+    "erst",
+    "faydhe",
+    "funinc",
+    "gh0stiegaming",
+    "gustav_mannfred",
+    "ibeast_eve",
+    "imminententropy",
+    "ironbandit_",
+    "lorumerth",
+    "markeedragon",
+    "michael_starlight",
+    "onecrazymonkeh",
+    "oz_eve",
+    "pyrophobic",
+    "rampageinc",
+    "religioved",
+    "rushlock",
+    "shyt33",
+    "steveshaven",
+    "takuyagogiko",
+    "talkinginstations",
+    "tortozavr",
+    "vinnegar_dooshay",
+    "walldeck",
+    "zaenisdesef",
+    "zehpando",
+    "lionear",
+    "alek",
+    "zeronin_de",
+    "eaglefirefly",
+    "eve_university",
+    "evelog",
+    "theflowerfallen",
+    "newmayer__",
+    "zloyheron",
+    "dieluette",
+    "madcattarin",
+    "art_gravy",
+    "tamiyacowboy",
+    "stephanhox",
+    "rookiebearr",
+    "series_pro",
+    "zarkosdungeon",
+    "zerator",
+    "vfluffypeanuttsv",
+    "bamki",
+    "jelivay",
+    "corvus_uk",
+    "magicalgeek",
+    "neutrinoq",
+    "darkivan73",
+    "theoneandonlysidar",
+    "daopa",
+    "becomevroid",
+    "midas_bartholomew",
+    "endet",
+    "chesbenning",
+    "deadlystm",
+    "gobbidygoogames",
+    "garakgermany",
+    "kingfats0",
+    "amiomia",
+    "v_craken_v",
+    "unain7",
+    "raf1ki420",
+    "andy_virus",
+    "mr_hutter",
+    "badmanlarry",
+    "hoppy432",
+    "eveminer01",
+    "milkonedge",
+    "opencommsshow",
+    "el_bee_leblanc",
+    "mifuneswordgod",
+    "themadrambo",
+    "trioni_eve",
+    "emmadaphonic",
+    "dangerous_d666",
+    "schadsquatch",
+    "tamylna",
+    "spielhorst",
+    "rodneyme",
+    "damassyskadesh",
+    "justaveragematt",
+    "switchhitgames",
+    "tx_phoenix"
    ],
-   "channelCount": 1,
+   "channelCount": 369,
    "drops": [
     {
      "name": "Men's IGC Scout Suit",
@@ -2932,65 +2541,6 @@
    ]
   },
   {
-   "id": "d8d964f2-fcdc-4440-a979-9ff55351cbe8",
-   "name": "Weekly Supply Drops #39",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T00:00:00Z",
-   "endAt": "2026-11-01T23:29:59.999Z",
-   "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f92f7032-81d7-42e3-8bd4-ec71bf63e87d.png",
-   "detailsURL": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
-   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
-   "owner": "Artstorm FZE",
-   "game": {
-    "id": "423797288",
-    "name": "Modern Warships",
-    "slug": "modern-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-modern-warships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1 Day of Premium",
-     "minutes": 30,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "1 Day of Premium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/075db935-cd69-42db-a87f-d436973f45e3.png"
-      }
-     ]
-    },
-    {
-     "name": "100 UP's",
-     "minutes": 60,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "100 UP's",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c6bf298-85b3-4521-8994-3d59e637d713.png"
-      }
-     ]
-    },
-    {
-     "name": "Tactical Consumables Set",
-     "minutes": 90,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Tactical Consumables Set",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/203e1a32-c0fc-4a46-bbb9-0ca0a0e5e046.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "bacdc21c-c1df-42d1-bcd7-3ce055a346f7",
    "name": "VCT26 GCC Sao Paulo",
    "status": "ACTIVE",
@@ -3093,6 +2643,65 @@
       {
        "name": "S-Treatise *2",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9b6d9a89-620a-42c4-a814-f4858d4c07a9.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8d964f2-fcdc-4440-a979-9ff55351cbe8",
+   "name": "Weekly Supply Drops #39",
+   "status": "ACTIVE",
+   "startAt": "2026-10-26T00:00:00Z",
+   "endAt": "2026-11-01T23:29:59.999Z",
+   "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f92f7032-81d7-42e3-8bd4-ec71bf63e87d.png",
+   "detailsURL": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
+   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
+   "owner": "Artstorm FZE",
+   "game": {
+    "id": "423797288",
+    "name": "Modern Warships",
+    "slug": "modern-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-modern-warships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1 Day of Premium",
+     "minutes": 30,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "1 Day of Premium",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/075db935-cd69-42db-a87f-d436973f45e3.png"
+      }
+     ]
+    },
+    {
+     "name": "100 UP's",
+     "minutes": 60,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "100 UP's",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c6bf298-85b3-4521-8994-3d59e637d713.png"
+      }
+     ]
+    },
+    {
+     "name": "Tactical Consumables Set",
+     "minutes": 90,
+     "startAt": "2026-10-26T00:00:00Z",
+     "endAt": "2026-11-01T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Tactical Consumables Set",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/203e1a32-c0fc-4a46-bbb9-0ca0a0e5e046.png"
       }
      ]
     }
@@ -7152,6 +6761,117 @@
       {
        "name": "Legendary Harvest Pot",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dec396bc-aaf8-467a-9ba4-771366722275.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a",
+   "name": "Nov Wk 2 Hachiman!",
+   "status": "ACTIVE",
+   "startAt": "2026-10-31T11:00:00Z",
+   "endAt": "2026-11-07T10:57:59.999Z",
+   "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03362f52-1fe7-4197-8970-7b926897d9bc.png",
+   "detailsURL": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
+   "linkURL": "https://link.smite2.com/",
+   "owner": "Hi-Rez Studios",
+   "game": {
+    "id": "2094865572",
+    "name": "SMITE 2",
+    "slug": "smite-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2094865572-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-smite-2"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 1",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/903496ad-de97-41ff-ad97-12f099e20ea8.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c237f9f4-051c-4fed-b454-abb32c3e77bb.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32d7e22a-e073-4507-8b82-500ebb448395.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/620d7b83-3e6a-4d84-bb47-f04c18c57868.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 5",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b8e4f8a-acdc-4e46-8a69-86f52c8bea5c.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Shogun Hachiman",
+     "minutes": 720,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 6",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
+      },
+      {
+       "name": "Shogun Hachiman",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7b9138a-5491-4b3a-aaaf-dca01f39b2c8.png"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720,
+     "startAt": "2026-10-31T11:00:00Z",
+     "endAt": "2026-11-07T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 6",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
       }
      ]
     }
