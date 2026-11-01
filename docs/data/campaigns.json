@@ -1,307 +1,11 @@
 {
- "updatedAt": "2026-11-01T18:31:19Z",
+ "updatedAt": "2026-11-01T22:20:15Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "324835df-dda2-4173-bd79-467dd7cbb6f3",
-   "name": "WMR3 2026 R5",
-   "status": "ACTIVE",
-   "startAt": "2026-11-01T17:00:00Z",
-   "endAt": "2026-11-01T19:29:59.999Z",
-   "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/93e07a0a-51b7-4ffe-ad0c-983d0b8b38cc.jpeg",
-   "detailsURL": "https://tankionline.com/",
-   "linkURL": "https://tankionline.com/play/",
-   "owner": "APL Publishing Ltd",
-   "game": {
-    "id": "417810",
-    "name": "Tanki Online",
-    "slug": "tanki-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417810_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-tanki-online"
-   },
-   "channels": [
-    "tankisport_ru",
-    "tankisport_en",
-    "tankisport_ru_2",
-    "tankisport_en_2"
-   ],
-   "channelCount": 4,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 30,
-     "startAt": "2026-11-01T17:00:00Z",
-     "endAt": "2026-11-01T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60,
-     "startAt": "2026-11-01T17:00:00Z",
-     "endAt": "2026-11-01T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "de223ac1-9845-4e83-b4ed-d70579782feb",
-   "name": "S14 FINAL Shadow Arsenal",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T21:00:00Z",
-   "endAt": "2026-11-01T20:59:59.999Z",
-   "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc2185c7-8bfc-420f-9516-55005d7e80af.png",
-   "detailsURL": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
-   "linkURL": "https://playcaliber.com/ru/",
-   "owner": "1C-777 Limited",
-   "game": {
-    "id": "514013",
-    "name": "Caliber",
-    "slug": "caliber",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514013_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-caliber"
-   },
-   "channels": [
-    "playcaliber",
-    "vladsafronow",
-    "kodolov_",
-    "vik__twitch",
-    "4ejl_u3_geb9lhoctblx",
-    "shmodeyb",
-    "ii4ejiobod",
-    "enot_02_02",
-    "4eptobka_54_",
-    "0nlineru",
-    "mandarishmeow",
-    "brokenworldstm",
-    "b0ssik___",
-    "armir_game",
-    "13raum13",
-    "pustoi_twitch",
-    "snegoff_show",
-    "alyona_ahapx19",
-    "diskateka_veka",
-    "pasha2222",
-    "demon_lestat_yt",
-    "zelehb_tv",
-    "nesh1m",
-    "6ackepbujijiuu",
-    "spectr_streamtv"
-   ],
-   "channelCount": 25,
-   "drops": [
-    {
-     "name": "S14F 50 000 credits",
-     "minutes": 60,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 50 000 credits",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21d22905-d132-4423-b506-fc12c654227c.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5 Healing Kit",
-     "minutes": 180,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5 Healing Kit",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4293c3bd-a220-4ba9-8bfd-9272b743fa69.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5 Golden Armor",
-     "minutes": 300,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5 Golden Armor",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a8207d8c-dc82-42e4-bc04-e6a8821d3f5f.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 100 000 credits",
-     "minutes": 420,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 100 000 credits",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/23212cdb-5050-4d5d-9235-228ff3e0c907.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5 Silver Bullets",
-     "minutes": 540,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5 Silver Bullets",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1b21dfe0-cd8e-4927-a380-361cbe0b1928.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5 Safety Dome",
-     "minutes": 660,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5 Safety Dome",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5426d54c-6525-4944-87e4-b8d4fc1173b4.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 150 000 credits",
-     "minutes": 720,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 150 000 credits",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/73c1db84-6afb-4809-9cc3-3992deb6e986.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5 Serums",
-     "minutes": 780,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5 Serums",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/df6d93ab-8182-4abb-b436-63e834c38284.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F 5000 Pumpkins",
-     "minutes": 840,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F 5000 Pumpkins",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b231edbb-d7a1-40a0-a62c-e3024507dbc6.png"
-      }
-     ]
-    },
-    {
-     "name": "S14F Twitch container",
-     "minutes": 900,
-     "startAt": "2026-10-29T21:00:00Z",
-     "endAt": "2026-11-01T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "S14F Twitch container",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7bd674d7-8bfa-430a-9e98-4bf588efe36f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3380dcef-23bf-4649-8268-aded1addb26c",
-   "name": "MD Drops Set 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T00:00:00Z",
-   "endAt": "2026-11-01T21:59:59.999Z",
-   "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9d3afd23-dcbe-468a-9f8e-86fbae51af94.png",
-   "detailsURL": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
-   "linkURL": "https://mobiledungeon.com/",
-   "owner": "Playa-Games",
-   "game": {
-    "id": "383199964",
-    "name": "Mobile Dungeon",
-    "slug": "mobile-dungeon",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/383199964_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-mobile-dungeon"
-   },
-   "channels": [
-    "mozonetv",
-    "waves",
-    "mobiledungeonofficial"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "5x Dungeon Key",
-     "minutes": 30,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "5x Dungeon Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b3ed194d-ac09-41c7-b313-eb5b6fb71e25.png"
-      }
-     ]
-    },
-    {
-     "name": "2x Arena Ticket",
-     "minutes": 60,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2x Arena Ticket",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/19f8ff54-e7f3-4006-bb6f-fc5c69901945.png"
-      }
-     ]
-    },
-    {
-     "name": "50x Crystal",
-     "minutes": 90,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "50x Crystal",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35b9a50c-c8d0-4244-ab91-90c610c115e5.png"
-      }
-     ]
-    },
-    {
-     "name": "48x Thirst for Adventure",
-     "minutes": 120,
-     "startAt": "2026-10-26T00:00:00Z",
-     "endAt": "2026-11-01T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "48x Thirst for Adventure",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aec5e347-0289-41c6-bd7c-46cb98e9d232.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "595a83b2-7bdc-4b16-97df-6b102390e495",
    "name": "S&F Drops 3/3",
@@ -916,9 +620,10 @@
     "valorantleague_east",
     "projectvgg2",
     "valorant_maincast",
-    "hitpointcz"
+    "hitpointcz",
+    "thinkingmansvalo"
    ],
-   "channelCount": 77,
+   "channelCount": 78,
    "drops": [
     {
      "name": "\"Mais Que Amigas\" Spray",
@@ -1359,6 +1064,154 @@
    ]
   },
   {
+   "id": "0a9149ce-f9cc-4997-9e8d-c05d2ac5d0fd",
+   "name": "ALGS S2 PO D4",
+   "status": "ACTIVE",
+   "startAt": "2026-11-01T20:45:00Z",
+   "endAt": "2026-11-02T06:29:59.999Z",
+   "description": "ALGS Split 2 Playoffs - Day 4",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7c28727b-054c-4b35-9677-3c1efd8b51f0.png",
+   "detailsURL": "https://algs.ea.com/en/news/earning-drops",
+   "linkURL": "https://ea.com/twitchlinking",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "511224",
+    "name": "Apex Legends",
+    "slug": "apex-legends",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/511224-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-apex-legends"
+   },
+   "channels": [
+    "playapex",
+    "algs1_team1",
+    "algs1_team2",
+    "algs1_team3",
+    "algs1_team4",
+    "algs1_team5",
+    "algs1_team6",
+    "algs1_team7",
+    "algs1_team8",
+    "algs1_team9",
+    "algs1_team10",
+    "algs1_team11",
+    "algs1_team12",
+    "algs1_team13",
+    "algs1_team14",
+    "algs1_team15",
+    "algs1_team16",
+    "algs1_team17",
+    "algs1_team18",
+    "algs1_team19",
+    "algs1_team20",
+    "algs1_map",
+    "esports_rage",
+    "nicewigg",
+    "greek",
+    "akytio",
+    "oraxe",
+    "restiafps",
+    "yukiofps14",
+    "assiikun",
+    "berbatow",
+    "valekahn",
+    "mande",
+    "iitztimmy",
+    "shivfps",
+    "faide",
+    "guhrl",
+    "claraatwork",
+    "tiffajessi",
+    "stoney_au",
+    "drumbum",
+    "nisagg",
+    "digvibezz",
+    "immayabb",
+    "nocturnalnerves",
+    "mrsswissroll",
+    "tawilliams12",
+    "sugacookea",
+    "tonybynature",
+    "rockisgaming",
+    "supremetheegod",
+    "aryakuroha",
+    "girlypro",
+    "hisandherslive",
+    "inopaolino",
+    "sailortori",
+    "bulkantv",
+    "drrkwolf",
+    "kaybeehill",
+    "ayejhawk",
+    "darlingnyxx",
+    "the0nehandedgamer",
+    "its__royalty",
+    "madbamboozles",
+    "sheisboogie",
+    "sellycats",
+    "neyazr1",
+    "justrazzortv",
+    "gonzales",
+    "daichu_iq",
+    "crestep",
+    "barbiechocolat",
+    "tiaguismo_",
+    "them_aisha",
+    "caffezin",
+    "denpride",
+    "fervonlaiho",
+    "jubslopess",
+    "lixzzyfps",
+    "gallardd",
+    "bygabbo13",
+    "bidii",
+    "gwen4you",
+    "aiita_",
+    "eze_9219",
+    "jhosyadriana",
+    "amorinhattv",
+    "jomacs",
+    "nmego",
+    "tigeraxd",
+    "maruuhchan",
+    "sweatyy_ash",
+    "dkdon_",
+    "branden",
+    "karimcheese",
+    "norae",
+    "tannerslays",
+    "karodeza",
+    "phisheyy",
+    "jumbagw"
+   ],
+   "channelCount": 204,
+   "drops": [
+    {
+     "name": "APEX Pack",
+     "minutes": 15,
+     "startAt": "2026-11-01T20:45:00Z",
+     "endAt": "2026-11-02T06:29:59.999Z",
+     "rewards": [
+      {
+       "name": "APEX Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a9947cf3-86b9-4e94-99bb-a13348e03533.png"
+      }
+     ]
+    },
+    {
+     "name": "Wraith Skin",
+     "minutes": 60,
+     "startAt": "2026-11-01T20:45:00Z",
+     "endAt": "2026-11-02T06:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Wraith Skin",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f068a00f-84c5-4e34-b464-b66565c8b977.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "cfdb7d07-2d7b-4487-889e-c4b83421d803",
    "name": "Pokémon Night Out Drops",
    "status": "ACTIVE",
@@ -1739,9 +1592,108 @@
     "topic": "twitchnotifier-dz7n7k-eve-online"
    },
    "channels": [
-    "fenriscreations"
+    "fenriscreations",
+    "alecjeay",
+    "arhont_sibirskii",
+    "aricalika",
+    "asura",
+    "bdi2",
+    "blueandqueenie",
+    "brothergrimoire",
+    "chaos1298",
+    "chloroken",
+    "contempoenterprises",
+    "crashnaps",
+    "deraphin",
+    "docgotgame",
+    "erst",
+    "faydhe",
+    "funinc",
+    "gh0stiegaming",
+    "gustav_mannfred",
+    "ibeast_eve",
+    "imminententropy",
+    "ironbandit_",
+    "lorumerth",
+    "markeedragon",
+    "michael_starlight",
+    "onecrazymonkeh",
+    "oz_eve",
+    "pyrophobic",
+    "rampageinc",
+    "religioved",
+    "rushlock",
+    "shyt33",
+    "steveshaven",
+    "takuyagogiko",
+    "talkinginstations",
+    "tortozavr",
+    "vinnegar_dooshay",
+    "walldeck",
+    "zaenisdesef",
+    "zehpando",
+    "lionear",
+    "alek",
+    "zeronin_de",
+    "eaglefirefly",
+    "eve_university",
+    "evelog",
+    "theflowerfallen",
+    "newmayer__",
+    "zloyheron",
+    "dieluette",
+    "madcattarin",
+    "art_gravy",
+    "tamiyacowboy",
+    "stephanhox",
+    "rookiebearr",
+    "series_pro",
+    "zarkosdungeon",
+    "zerator",
+    "vfluffypeanuttsv",
+    "bamki",
+    "jelivay",
+    "corvus_uk",
+    "magicalgeek",
+    "neutrinoq",
+    "darkivan73",
+    "theoneandonlysidar",
+    "daopa",
+    "becomevroid",
+    "midas_bartholomew",
+    "endet",
+    "chesbenning",
+    "deadlystm",
+    "gobbidygoogames",
+    "garakgermany",
+    "kingfats0",
+    "amiomia",
+    "v_craken_v",
+    "unain7",
+    "raf1ki420",
+    "andy_virus",
+    "mr_hutter",
+    "badmanlarry",
+    "hoppy432",
+    "eveminer01",
+    "milkonedge",
+    "opencommsshow",
+    "el_bee_leblanc",
+    "mifuneswordgod",
+    "themadrambo",
+    "trioni_eve",
+    "emmadaphonic",
+    "dangerous_d666",
+    "schadsquatch",
+    "tamylna",
+    "spielhorst",
+    "rodneyme",
+    "damassyskadesh",
+    "justaveragematt",
+    "switchhitgames",
+    "tx_phoenix"
    ],
-   "channelCount": 1,
+   "channelCount": 369,
    "drops": [
     {
      "name": "Women's IGC Scout Suit",
