@@ -1,93 +1,11 @@
 {
- "updatedAt": "2026-11-02T19:44:23Z",
+ "updatedAt": "2026-11-03T02:12:55Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "8f49901e-4cf9-46d9-a559-441e396959da",
-   "name": "MSF | Oct Week 5",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T21:00:00Z",
-   "endAt": "2026-11-02T20:59:59.999Z",
-   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/048152d5-e55a-4bad-8ffd-719103acb96e.png",
-   "detailsURL": "https://marvelstrikeforce.com/twitch",
-   "linkURL": "https://marvelstrikeforce.com/twitch",
-   "owner": "Scopely",
-   "game": {
-    "id": "504651",
-    "name": "MARVEL Strike Force",
-    "slug": "marvel-strike-force",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-10-26T21:00:00Z",
-     "endAt": "2026-11-02T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1M Gold",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cddf9bc7-2d79-4a9a-ab71-c05847a7503e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6a67127c-6c97-4499-8eb0-7e0c4a92f53b",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T00:00:00Z",
-   "endAt": "2026-11-02T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31654e70-5ad6-4762-81c7-ec3d48d328a8.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-02T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-02T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "b84f0d5a-2469-455f-8497-37472ccbc2c7",
    "name": "Fall Drops ",
@@ -118,6 +36,67 @@
       {
        "name": "💰 500 C-Coins ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0d091dd8-488e-4385-b52a-b0f759ea5471",
+   "name": "In The Huddle",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T01:00:00Z",
+   "endAt": "2026-11-03T03:59:59.999Z",
+   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d645803f-4935-4b9e-b94f-5ff3a4a3204e.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
+   },
+   "channels": [
+    "huddlegg"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Twitch Pack",
+     "minutes": 30,
+     "startAt": "2026-11-03T01:00:00Z",
+     "endAt": "2026-11-03T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3477e711-6e1b-46fc-98d2-b49f1cb8a4e1.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 60,
+     "startAt": "2026-11-03T01:00:00Z",
+     "endAt": "2026-11-03T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/61f13ba7-9fbd-4152-96a5-cc34ced211eb.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Pack",
+     "minutes": 90,
+     "startAt": "2026-11-03T01:00:00Z",
+     "endAt": "2026-11-03T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c8db0ee4-1132-42fc-b626-e78516d1de18.png"
       }
      ]
     }
@@ -1213,6 +1192,41 @@
       {
        "name": "Tanya & Marcus Tints",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cf2c7c29-9a67-4368-8a0d-36e4e2ff4192.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbd0ea89-a05e-4b79-b485-4d48915a8dce",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T00:00:00Z",
+   "endAt": "2026-11-03T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86b414aa-5ce2-4ee7-8ba1-0d7649567af2.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-03T00:00:00Z",
+     "endAt": "2026-11-03T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -4999,6 +5013,41 @@
       {
        "name": "Stellanite Dust*450",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7aaddfc8-9bc8-4f27-93be-0fe8387e7c1c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bf92b79e-6c51-4f53-8658-1b8eddf3f6c4",
+   "name": "MSF | Nov Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-02T21:00:00Z",
+   "endAt": "2026-11-09T20:59:59.999Z",
+   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d0ec2a2-a19c-4544-8413-28ca4a4585c2.png",
+   "detailsURL": "https://marvelstrikeforce.com/twitch",
+   "linkURL": "https://marvelstrikeforce.com/twitch",
+   "owner": "Scopely",
+   "game": {
+    "id": "504651",
+    "name": "MARVEL Strike Force",
+    "slug": "marvel-strike-force",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 60,
+     "startAt": "2026-11-02T21:00:00Z",
+     "endAt": "2026-11-09T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "1M Gold",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cddf9bc7-2d79-4a9a-ab71-c05847a7503e.png"
       }
      ]
     }
