@@ -1,391 +1,11 @@
 {
- "updatedAt": "2026-11-03T17:44:30Z",
+ "updatedAt": "2026-11-03T23:13:38Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "cb761797-30bd-4801-922a-fafce0993b50",
-   "name": "ROW Drop 636",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T17:59:00Z",
-   "endAt": "2026-11-03T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f0e8bd5-0719-4028-9241-9bab57987882.png",
-   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [
-    "levo",
-    "ogedaygirisken",
-    "milchmann",
-    "hedvein",
-    "segi",
-    "zelalbade",
-    "kloneia",
-    "fuataslan",
-    "timurlengx",
-    "jemsnow",
-    "ilayda",
-    "bahadirakman",
-    "yaheljr",
-    "poinemaia",
-    "rionli",
-    "zeitzquin",
-    "kutlub1lgebvb",
-    "vbenzeri",
-    "oscorptv",
-    "oyunkaptanl",
-    "iazerion",
-    "casperrbt",
-    "sekuv1",
-    "4cappynaturall",
-    "lonedruider",
-    "katana51_",
-    "zennoxttv",
-    "wealdec",
-    "sherifftattooink",
-    "ehliyetsizsurucu",
-    "lotraragornnn",
-    "xagloth",
-    "wyperr0",
-    "comple01",
-    "blackfig37",
-    "mutblox",
-    "akinsama",
-    "eihoyo",
-    "emisyoner",
-    "musturtv",
-    "nyr01",
-    "sweitch",
-    "ihuzur",
-    "burakbattle",
-    "xbekoo8",
-    "xraxven",
-    "mecazadamtv",
-    "bigbossgargo",
-    "4lexy",
-    "dangerrlifeee",
-    "kenzooo59",
-    "dantelf",
-    "thanos_tw",
-    "imvakkq",
-    "imjosqua",
-    "xlegendcraft",
-    "mrsalvador",
-    "quietalpha",
-    "voltremtv",
-    "xkarayaman",
-    "bercestelive",
-    "riseonlinedede",
-    "hytronn",
-    "imalkoc",
-    "3enpl",
-    "naturalsupremacy",
-    "uc4ronline",
-    "fierroby",
-    "tunsx",
-    "thierrymuqlerr",
-    "aksaclidayi",
-    "yigitcaliskan",
-    "megalyce",
-    "f3r0",
-    "zephartv",
-    "ninataless",
-    "nazdarovia",
-    "berigolive",
-    "celariouus",
-    "ju1zzt",
-    "xagresstron",
-    "chukubuk",
-    "imyaizen",
-    "bpswieb",
-    "wayofgame",
-    "yasomuohanim",
-    "okanjoee",
-    "daerons35",
-    "disipline",
-    "phaldorian",
-    "explosiontw",
-    "inariusv",
-    "xschizoooooo",
-    "onderayanoglu",
-    "adv3nn",
-    "heathertr",
-    "izeq361",
-    "ritmicky",
-    "izeroassassin",
-    "mikyas59"
-   ],
-   "channelCount": 184,
-   "drops": [
-    {
-     "name": "ROW Drop 636",
-     "minutes": 240,
-     "startAt": "2026-11-02T17:59:00Z",
-     "endAt": "2026-11-03T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Red Ribbon Cloak",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d8e7bfa0-04c5-4ab1-8d8b-9a92aaad1fc6.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb",
-   "name": "Mobile Drop 207",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T17:59:00Z",
-   "endAt": "2026-11-03T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2f2b6c8c-d4be-4eb2-851f-910db0e95885.png",
-   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Mobile Drop 207",
-     "minutes": 240,
-     "startAt": "2026-11-02T17:59:00Z",
-     "endAt": "2026-11-03T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Regalia of Awakening",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9",
-   "name": "Cuddly Gold Grrgle",
-   "status": "ACTIVE",
-   "startAt": "2026-10-13T17:00:00Z",
-   "endAt": "2026-11-03T17:59:59.999Z",
-   "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54c7f158-497b-408a-8d03-3e69e96c2248.png",
-   "detailsURL": "https://worldofwarcraft.blizzard.com/news/24302098",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "18122",
-    "name": "World of Warcraft",
-    "slug": "world-of-warcraft",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Cuddly Gold Grrgle",
-     "minutes": 240,
-     "startAt": "2026-10-13T17:00:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Cuddly Gold Grrgle Update",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/18298974-784c-49d4-adf4-7997523b74cc.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6307d118-513d-4812-b145-92b41f5a1a8e",
-   "name": "S13 Dev Stream Live Watch",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T10:30:00Z",
-   "endAt": "2026-11-03T17:59:59.999Z",
-   "description": "https://twitch.playeternalreturn.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd493726-527d-4993-b686-f69feea6cb5a.png",
-   "detailsURL": "https://twitch.playeternalreturn.com/",
-   "linkURL": "https://twitch.playeternalreturn.com/",
-   "owner": "Nimble Neuron Games",
-   "game": {
-    "id": "512864",
-    "name": "Eternal Return",
-    "slug": "eternal-return",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eternal-return"
-   },
-   "channels": [
-    "eternalreturn_tpe",
-    "eternalreturngame",
-    "eternalreturn_jp"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60,
-     "startAt": "2026-11-03T10:30:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120,
-     "startAt": "2026-11-03T10:30:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180,
-     "startAt": "2026-11-03T10:30:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "119b5c68-114e-4085-bb93-db563cba5f4c",
-   "name": "A Haddonfield Halloween",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T17:00:00Z",
-   "endAt": "2026-11-03T17:59:59.999Z",
-   "description": "This drop contains two Profile Card items, a Kitchen Knife tint for Michael, and an outfit tint for both Tanya and Marcus.\n\nRedeem your drops at https://accounts.illfonic.com",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54b1164c-60f6-464f-a1f2-8c54cde9922c.jpeg",
-   "detailsURL": "https://halloweengame.com/news/twitch-drops-2026",
-   "linkURL": "https://accounts.illfonic.com",
-   "owner": "IllFonic",
-   "game": {
-    "id": "902998079",
-    "name": "Halloween: The Game",
-    "slug": "halloween-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/902998079_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-halloween-2"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Moon Smile Profile Icon & BG",
-     "minutes": 60,
-     "startAt": "2026-10-26T17:00:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Profile Icon & BG",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d073a9a7-96cc-4b1d-a857-b38f190bf461.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Kitchen Knife Tint",
-     "minutes": 120,
-     "startAt": "2026-10-26T17:00:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Kitchen Knife Tint",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bee69b15-3436-4678-8c38-90fcc3b6a31e.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tanya & Marcus Outfit Tints",
-     "minutes": 240,
-     "startAt": "2026-10-26T17:00:00Z",
-     "endAt": "2026-11-03T17:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Tanya & Marcus Tints",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cf2c7c29-9a67-4368-8a0d-36e4e2ff4192.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5d190be7-1940-49b7-b930-48c0e007f3a0",
-   "name": "WMR3 2026 R6",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T17:00:00Z",
-   "endAt": "2026-11-03T19:29:59.999Z",
-   "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a5aefa7b-d09b-4e02-9949-900adc400566.jpeg",
-   "detailsURL": "https://tankionline.com/",
-   "linkURL": "https://tankionline.com/play/",
-   "owner": "APL Publishing Ltd",
-   "game": {
-    "id": "417810",
-    "name": "Tanki Online",
-    "slug": "tanki-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417810_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-tanki-online"
-   },
-   "channels": [
-    "tankisport_ru",
-    "tankisport_en",
-    "tankisport_ru_2",
-    "tankisport_en_2"
-   ],
-   "channelCount": 4,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 30,
-     "startAt": "2026-11-03T17:00:00Z",
-     "endAt": "2026-11-03T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60,
-     "startAt": "2026-11-03T17:00:00Z",
-     "endAt": "2026-11-03T19:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Epic Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e7e439fb-4418-4b0e-8d06-2f0390149f18.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "cbd0ea89-a05e-4b79-b485-4d48915a8dce",
    "name": "November Drops",
@@ -1177,6 +797,177 @@
       {
        "name": "Halloween M1E1 Camo",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a76417df-af5d-4ff0-bf22-273262c9badb.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a1611740-e417-44cc-a0f6-37ab8956a840",
+   "name": "Mobile Drop 208",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T17:59:00Z",
+   "endAt": "2026-11-04T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/54dd2f5d-b45b-4cf1-b4d2-73a2e5e79240.png",
+   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Mobile Drop 208",
+     "minutes": 240,
+     "startAt": "2026-11-03T17:59:00Z",
+     "endAt": "2026-11-04T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Regalia of Awakening",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8a15121a-477a-4bcd-a2df-876929d3e3bd",
+   "name": "ROW Drop 637",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T17:59:00Z",
+   "endAt": "2026-11-04T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3bcb5100-5b28-47d1-b13f-369a18892126.jpeg",
+   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [
+    "levo",
+    "ogedaygirisken",
+    "milchmann",
+    "hedvein",
+    "segi",
+    "zelalbade",
+    "kloneia",
+    "fuataslan",
+    "timurlengx",
+    "jemsnow",
+    "ilayda",
+    "bahadirakman",
+    "yaheljr",
+    "poinemaia",
+    "rionli",
+    "zeitzquin",
+    "kutlub1lgebvb",
+    "vbenzeri",
+    "seathorn",
+    "mrismaii",
+    "apistv",
+    "kennycrenz",
+    "allessian",
+    "b_cakan",
+    "fastskillz",
+    "lidnarth",
+    "hexapodus",
+    "reaskoray",
+    "anlcnsz060",
+    "xhsynnnn",
+    "kleew4k",
+    "workinqlord",
+    "gkutlak",
+    "kimbuosmanlii",
+    "schlocken",
+    "xzachariell",
+    "swplease",
+    "lewistyle",
+    "rooinx",
+    "thomasgods",
+    "xkerriganx",
+    "cagamaster",
+    "natymaxtv",
+    "seslibilgilertr",
+    "xchainwarden",
+    "tdalgasi",
+    "helltitantv",
+    "hnr81",
+    "lequitexe",
+    "godstang16",
+    "baltatv",
+    "wondergaard",
+    "xbloodbanee",
+    "kaizen_006",
+    "mrsalvador",
+    "quietalpha",
+    "voltremtv",
+    "xkarayaman",
+    "bercestelive",
+    "riseonlinedede",
+    "hytronn",
+    "imalkoc",
+    "3enpl",
+    "naturalsupremacy",
+    "uc4ronline",
+    "fierroby",
+    "tunsx",
+    "thierrymuqlerr",
+    "aksaclidayi",
+    "yigitcaliskan",
+    "megalyce",
+    "f3r0",
+    "zephartv",
+    "ninataless",
+    "nazdarovia",
+    "berigolive",
+    "celariouus",
+    "ju1zzt",
+    "xagresstron",
+    "chukubuk",
+    "imyaizen",
+    "bpswieb",
+    "wayofgame",
+    "sweitch",
+    "yasomuohanim",
+    "okanjoee",
+    "daerons35",
+    "disipline",
+    "phaldorian",
+    "explosiontw",
+    "inariusv",
+    "xschizoooooo",
+    "onderayanoglu",
+    "adv3nn",
+    "heathertr",
+    "izeq361",
+    "ritmicky",
+    "izeroassassin",
+    "mikyas59",
+    "melibon"
+   ],
+   "channelCount": 184,
+   "drops": [
+    {
+     "name": "ROW Drop 637",
+     "minutes": 240,
+     "startAt": "2026-11-03T17:59:00Z",
+     "endAt": "2026-11-04T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Regalia of True Faith",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b49aee5-5bb2-4389-8d16-31d261f8df73.jpeg"
       }
      ]
     }
@@ -7806,6 +7597,101 @@
       {
        "name": "Kaelen Variant",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eef3f121-b158-410d-900b-76e7e008acd9.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e3a69270-1546-4966-8bcf-2af97c5a0a0b",
+   "name": "Reign of Talon S5 Mid",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T19:00:00Z",
+   "endAt": "2026-12-01T07:58:59.999Z",
+   "description": "Celebrate the conclusion of the Reign of Talon narrative arc with your favorite Overwatch Twitch streamers!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/07038236-1615-4dd1-a77a-4862915b8d70.png",
+   "detailsURL": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-5-midseason-twitch-drops/1046030",
+   "linkURL": "https://account.battle.net/connections",
+   "owner": "Blizzard",
+   "game": {
+    "id": "515025",
+    "name": "Overwatch",
+    "slug": "overwatch-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-overwatch-2"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "River Spray",
+     "minutes": 30,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "River Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3b9679ce-39a4-4efe-a454-dadaa62c5478.png"
+      }
+     ]
+    },
+    {
+     "name": "Lounging Fika Spray",
+     "minutes": 60,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Lounging Fika Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0417a1c8-9d2f-49ba-a8cf-9c37e8461752.png"
+      }
+     ]
+    },
+    {
+     "name": "Sakura Love Spray",
+     "minutes": 180,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Sakura Love Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2f5b19e0-5e2e-4c0a-a350-4dbb2959a918.png"
+      }
+     ]
+    },
+    {
+     "name": "Lootbox",
+     "minutes": 360,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "RoT Lootbox",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ee0d34d7-fab4-4d5b-b751-b98b3bbc4ea4.png"
+      }
+     ]
+    },
+    {
+     "name": "Starry Peace Spray",
+     "minutes": 600,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Starry Peace Spray",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8f84980f-2fe6-4e6a-8be4-dde0a8853269.png"
+      }
+     ]
+    },
+    {
+     "name": "Epic Lootbox",
+     "minutes": 900,
+     "startAt": "2026-11-03T19:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "RoT Epic Lootbox",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15b7dce8-26a2-4b27-91a2-892551834013.jpeg"
       }
      ]
     }
