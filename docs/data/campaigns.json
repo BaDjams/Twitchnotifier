@@ -1,373 +1,11 @@
 {
- "updatedAt": "2026-11-03T02:12:55Z",
+ "updatedAt": "2026-11-03T09:58:38Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "b84f0d5a-2469-455f-8497-37472ccbc2c7",
-   "name": "Fall Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-10-31T09:11:08Z",
-   "endAt": "2026-11-03T02:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/172d3926-fc51-45b7-a0ee-44fb2eda3ef4.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-10-31T09:11:08Z",
-     "endAt": "2026-11-03T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0d091dd8-488e-4385-b52a-b0f759ea5471",
-   "name": "In The Huddle",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T01:00:00Z",
-   "endAt": "2026-11-03T03:59:59.999Z",
-   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d645803f-4935-4b9e-b94f-5ff3a4a3204e.png",
-   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "670138298",
-    "name": "Madden NFL 27",
-    "slug": "madden-nfl-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
-   },
-   "channels": [
-    "huddlegg"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 30,
-     "startAt": "2026-11-03T01:00:00Z",
-     "endAt": "2026-11-03T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3477e711-6e1b-46fc-98d2-b49f1cb8a4e1.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60,
-     "startAt": "2026-11-03T01:00:00Z",
-     "endAt": "2026-11-03T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/61f13ba7-9fbd-4152-96a5-cc34ced211eb.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 90,
-     "startAt": "2026-11-03T01:00:00Z",
-     "endAt": "2026-11-03T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c8db0ee4-1132-42fc-b626-e78516d1de18.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e05a3f77-585a-48c0-9adb-3e60e5e75863",
-   "name": "Ghost Hunts For Hearts",
-   "status": "ACTIVE",
-   "startAt": "2026-10-26T12:00:00Z",
-   "endAt": "2026-11-03T06:59:59.999Z",
-   "description": "Ghost Hunts for Hearts returns! Watch a total of 2 hours of any Ghost Hunts for Hearts Phasmophobia streams between October 26th - November 2nd to earn the in-game AHA Advocate ID Card & Badge!\n\nIf the target goal for the fundraiser is reached, all Phasmophobia players will unlock the Animated version of this set.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c9890c2f-3d7d-4603-b7cc-e452b8d37af2.png",
-   "detailsURL": "https://kineticgames.co.uk/news/ghost-hunts-for-hearts-returns",
-   "linkURL": "https://kineticgames.co.uk/twitch-drops",
-   "owner": "Kinetic Games",
-   "game": {
-    "id": "518184",
-    "name": "Phasmophobia",
-    "slug": "phasmophobia",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/518184_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-phasmophobia"
-   },
-   "channels": [
-    "grumblumblin",
-    "jamienebula",
-    "eliasspezi",
-    "sototallyruthy",
-    "maddi",
-    "sxkttv",
-    "nyxduskveil",
-    "spectergrummel",
-    "gingeregirl",
-    "dom_in8tor",
-    "psyster",
-    "imalane",
-    "dinoklown",
-    "sassymangle",
-    "kittyest",
-    "zanderh8",
-    "thenovaprojectttv",
-    "pandagamer92_",
-    "peeweeslayhouse",
-    "therosepatchgaming",
-    "sassy_gamingg",
-    "p2trappie",
-    "valsehra",
-    "n_vacane",
-    "jujubeegrrl",
-    "takoyakiyk",
-    "bloodmoonronin",
-    "ellieotw",
-    "nukakarl",
-    "cookieninja1321",
-    "gamer_kelly_",
-    "haybugggy",
-    "whisperingshadow22",
-    "havarti2",
-    "hey_itsjusttyler",
-    "cheyennesaurusttv",
-    "wolfie_pawz",
-    "potterspal_1",
-    "halostarlite",
-    "vile_ducky",
-    "hasgarson",
-    "coryfuvt",
-    "simbucky",
-    "whimsical_gl1tch",
-    "icecreamforsupper",
-    "macncheezys",
-    "kyritzu",
-    "luniexmoonie",
-    "heythereghostie",
-    "kimkatgames",
-    "the_brotaterchip",
-    "camizolecorzette",
-    "shanondorf",
-    "frivvifox",
-    "itsatreee",
-    "annapeely",
-    "kilala_88",
-    "usachan716",
-    "thesaddestsadboi",
-    "turkeyz",
-    "jasongains",
-    "cat_planetmoon",
-    "gamer_guru_97",
-    "kittyt13",
-    "casson",
-    "trassetours",
-    "tomnk21",
-    "planet_vano",
-    "its_starshi",
-    "amaranthinebri",
-    "th3beardedbaron",
-    "timbosplicer",
-    "veekaytv",
-    "lamby",
-    "zeecourtay532",
-    "sailorsugarplum",
-    "resident_lesbian",
-    "shanaleigh",
-    "gagavalkyrie",
-    "captnjoey",
-    "tipsytune",
-    "justly_",
-    "ilynnd",
-    "breakofdaylight",
-    "madixxtv",
-    "spookytimepizza",
-    "jebbiedesu",
-    "jojosaysbreee",
-    "dsyrvenom",
-    "texasmiler",
-    "cshellyy",
-    "slexify",
-    "steffaluphagus",
-    "otternoncentz",
-    "draya_renay",
-    "xmaokinneyx",
-    "peachieinferno",
-    "wolfie0112",
-    "awes0memarii",
-    "scottypea2"
-   ],
-   "channelCount": 561,
-   "drops": [
-    {
-     "name": "AHA Advocate",
-     "minutes": 120,
-     "startAt": "2026-10-26T12:00:00Z",
-     "endAt": "2026-11-03T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "AHA Advocate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/666f09fc-c051-4f52-8c5a-f20535ebf45b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15",
-   "name": "Reign of Talon S5 Launch",
-   "status": "ACTIVE",
-   "startAt": "2026-10-06T18:00:00Z",
-   "endAt": "2026-11-03T07:59:59.999Z",
-   "description": "Something wicked this way comes… Feed your hunger in Reign of Talon: Season 5 - A Grim Doctrine! Celebrate the launch of Season 5 with your favorite streamers, and earn cosmetics to close the penultimate chapter of the Reign of Talon!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e50d69d-98e3-4258-8b6b-9dee335663f5.jpeg",
-   "detailsURL": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-5-launch-twitch-drops/1042026",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "515025",
-    "name": "Overwatch",
-    "slug": "overwatch-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-overwatch-2"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Heroes of Heart Avatar",
-     "minutes": 30,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Heroes of Heart Avatar",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/12483657-a951-4d19-aac0-eb3f62119e36.png"
-      }
-     ]
-    },
-    {
-     "name": "Hollow Hearts Avatar",
-     "minutes": 60,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Hollow Hearts Avatar",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c68f55c-8c65-471b-8d96-9538ebf58a8c.png"
-      }
-     ]
-    },
-    {
-     "name": "Hollow Hearts Spray",
-     "minutes": 180,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Hollow Hearts Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9313d1e7-7ab6-40cf-95eb-97cb650f3cb9.png"
-      }
-     ]
-    },
-    {
-     "name": "Lootbox",
-     "minutes": 360,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "RoT Lootbox",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ee0d34d7-fab4-4d5b-b751-b98b3bbc4ea4.png"
-      }
-     ]
-    },
-    {
-     "name": "Heroes of Heart Spray",
-     "minutes": 600,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Heroes of Heart Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/65f1c300-ad4d-48c5-9199-35c1ce7626bd.png"
-      }
-     ]
-    },
-    {
-     "name": "Epic Lootbox",
-     "minutes": 900,
-     "startAt": "2026-10-06T18:00:00Z",
-     "endAt": "2026-11-03T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "RoT Epic Lootbox",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15b7dce8-26a2-4b27-91a2-892551834013.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "14536cf7-1042-4ce1-9ad6-7ccfae79d9a8",
-   "name": "Dragonfire 10 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T10:00:00Z",
-   "endAt": "2026-11-03T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8021eba0-7e96-4333-a946-1e6be55af178.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-02T10:00:00Z",
-     "endAt": "2026-11-03T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "bbc0c968-a61e-4d96-8102-dcc3276906af",
    "name": "AOS Drops Day 10",
@@ -1951,6 +1589,41 @@
       {
        "name": "Twitch Container 15.9",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15394297-7aae-47fb-be3a-1ef0793706ce.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3487e603-1154-499a-b2fa-37315a9c9332",
+   "name": "November Drops ",
+   "status": "ACTIVE",
+   "startAt": "2026-11-03T08:42:26Z",
+   "endAt": "2026-11-05T02:59:59.999Z",
+   "description": "Coryphaeus Fall Drops",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fe8ba1f6-33b2-4dec-99db-32d5e790857c.png",
+   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+   "owner": "Coryphaeus Corp",
+   "game": {
+    "id": "707002701",
+    "name": "Coryphaeus Championships",
+    "slug": "coryphaeus-championships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "C-Coins",
+     "minutes": 120,
+     "startAt": "2026-11-03T08:42:26Z",
+     "endAt": "2026-11-05T02:59:59.999Z",
+     "rewards": [
+      {
+       "name": "💰 500 C-Coins ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
       }
      ]
     }
