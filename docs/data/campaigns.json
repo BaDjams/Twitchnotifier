@@ -1,46 +1,11 @@
 {
- "updatedAt": "2026-11-03T23:13:38Z",
+ "updatedAt": "2026-11-04T03:10:53Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "cbd0ea89-a05e-4b79-b485-4d48915a8dce",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T00:00:00Z",
-   "endAt": "2026-11-03T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/86b414aa-5ce2-4ee7-8ba1-0d7649567af2.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-03T00:00:00Z",
-     "endAt": "2026-11-03T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "4731b3dc-e266-4f24-826e-a85feb44428d",
    "name": "Lineage 2 Cruma Drops",
@@ -1099,6 +1064,41 @@
       {
        "name": "Pet Parrot in Pirate Hat",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8923aee2-68a7-489e-aee0-e153381878af.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0dfd48dc-2ada-463a-b383-b824649fd41d",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T00:00:00Z",
+   "endAt": "2026-11-04T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcf3a8e7-8a06-42c6-ac12-acebc6e27159.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-04T00:00:00Z",
+     "endAt": "2026-11-04T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -7182,6 +7182,89 @@
       {
        "name": "Esports Loot Box",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08d53625-9560-4d9f-9a2b-41f4741676f0.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9844bbb4-2a3f-4525-80a6-e1b7c314d50c",
+   "name": "V7.2 Genshin Impact Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T03:00:00Z",
+   "endAt": "2026-11-24T03:59:59.999Z",
+   "description": "Genshin Impact Drops",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e595d8db-e0f8-43ee-99f4-5beaf9c65722.png",
+   "detailsURL": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
+   "linkURL": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
+   "owner": "Cognosphere",
+   "game": {
+    "id": "513181",
+    "name": "Genshin Impact",
+    "slug": "genshin-impact",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-genshin-impact"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 15,
+     "startAt": "2026-11-04T03:00:00Z",
+     "endAt": "2026-11-24T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Geodes of Replication*160",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dc5e2f56-331b-4ee6-beb8-9a06f36d7257.png"
+      }
+     ]
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 30,
+     "startAt": "2026-11-04T03:00:00Z",
+     "endAt": "2026-11-24T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Primogem*20",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c3f2d97e-d444-4afb-b16c-1b16666970d1.png"
+      }
+     ]
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 45,
+     "startAt": "2026-11-04T03:00:00Z",
+     "endAt": "2026-11-24T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Mora*20000",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1dc1e006-ebe5-4ac8-9657-ed9d09b8bcfa.png"
+      }
+     ]
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 60,
+     "startAt": "2026-11-04T03:00:00Z",
+     "endAt": "2026-11-24T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Sanctifying Unction*4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e498c800-2cf4-4573-8f13-7c658b9264ff.png"
+      }
+     ]
+    },
+    {
+     "name": "Genshin Impact Drops",
+     "minutes": 90,
+     "startAt": "2026-11-04T03:00:00Z",
+     "endAt": "2026-11-24T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Hero's Wit*3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/19c80b97-382d-493d-80b7-3f3abdb91d04.png"
       }
      ]
     }
