@@ -1,130 +1,11 @@
 {
- "updatedAt": "2026-11-05T00:18:30Z",
+ "updatedAt": "2026-11-05T07:18:52Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "d631fdcf-ac14-4697-92b6-2d4e9ba77854",
-   "name": "Update 15.9 Drop: Week 4",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T17:00:00Z",
-   "endAt": "2026-11-05T02:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d82d1254-9948-423a-8cc6-886496384430.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Update 15.9 Mission #4",
-     "minutes": 90,
-     "startAt": "2026-10-29T17:00:00Z",
-     "endAt": "2026-11-05T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Update 15.9 Mission #4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7d5afb80-06b2-41ce-bd26-72a91c2c7dad.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Container 15.9 week #4",
-     "minutes": 180,
-     "startAt": "2026-10-29T17:00:00Z",
-     "endAt": "2026-11-05T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Container 15.9",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15394297-7aae-47fb-be3a-1ef0793706ce.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3487e603-1154-499a-b2fa-37315a9c9332",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T08:42:26Z",
-   "endAt": "2026-11-05T02:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fe8ba1f6-33b2-4dec-99db-32d5e790857c.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-11-03T08:42:26Z",
-     "endAt": "2026-11-05T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e954e81e-383c-4c1f-8a8c-84b081554e85",
-   "name": "AEW Slam",
-   "status": "ACTIVE",
-   "startAt": "2026-11-05T00:00:00Z",
-   "endAt": "2026-11-05T06:59:59.999Z",
-   "description": "Watch /agent00 stream AEW Slam for 15 minutes to unlock the AEWSlam emote for a limited time.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c64d50d4-16f2-4735-af7a-ae36660bb363.gif",
-   "detailsURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
-   "linkURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "509672",
-    "name": "IRL",
-    "slug": "irl",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509672-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-irl"
-   },
-   "channels": [
-    "agent00"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "AEWSlam Emote",
-     "minutes": 15,
-     "startAt": "2026-11-05T00:00:00Z",
-     "endAt": "2026-11-05T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "AEWSlam Emote",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/749b4357-a79d-44a8-b3b4-6fa9d07026ff.gif"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "a14aa620-1a1d-465b-bdcd-91d6fc55a525",
    "name": "Dragonfire 10 - #3/7",
@@ -5192,6 +5073,41 @@
    ]
   },
   {
+   "id": "29712bcd-e716-43f1-aa8a-26f69dae5fd8",
+   "name": "Pouch of Violet Dust Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-11-05T00:30:00Z",
+   "endAt": "2026-11-12T12:29:59.999Z",
+   "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Pouch of Violet Dust.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/324d6e23-993e-4259-a323-d1940c60f1fe.png",
+   "detailsURL": "https://news.blizzard.com/en-us/",
+   "linkURL": "https://account.battle.net/connections",
+   "owner": "Blizzard",
+   "game": {
+    "id": "18122",
+    "name": "World of Warcraft",
+    "slug": "world-of-warcraft",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Pouch of Violet Dust",
+     "minutes": 240,
+     "startAt": "2026-11-05T00:30:00Z",
+     "endAt": "2026-11-12T12:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Pouch of Violet Dust",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dddfd2ef-a26d-4f96-8db0-bd537cf8674e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "437a3bed-7c38-4136-91e3-04cc9ce618b5",
    "name": "FH EntireDirectory Oct26",
    "status": "ACTIVE",
@@ -7492,6 +7408,53 @@
    ]
   },
   {
+   "id": "171c990c-5259-4670-93d0-58fd6e167342",
+   "name": "Farlands Drops Event",
+   "status": "ACTIVE",
+   "startAt": "2026-11-05T00:00:00Z",
+   "endAt": "2026-11-25T23:59:59.999Z",
+   "description": "Watch any FragPunk Farlands streaming and keep an eye out for FragPunk rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6b5e3edc-4dbf-43fc-979c-92d039315b0d.png",
+   "detailsURL": "https://www.fragpunk.com/twitchdrops/",
+   "linkURL": "https://www.fragpunk.com/account/",
+   "owner": "Bad Guitar Studio",
+   "game": {
+    "id": "1023750977",
+    "name": "FragPunk",
+    "slug": "fragpunk",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1023750977_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-fragpunk"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Molotov Cocktail",
+     "minutes": 30,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Molotov Cocktail",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c28cca85-a313-4d04-b939-5090c660a1a5.png"
+      }
+     ]
+    },
+    {
+     "name": "Retrofitted Industrial Hammer",
+     "minutes": 120,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Retrofitted Industrial 🔨",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/022b02f5-0648-4f9a-b808-81262aa07bba.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "2cc95940-886e-42a2-9dee-23269cabfa47",
    "name": "MHO Twitch Drops",
    "status": "ACTIVE",
@@ -7776,6 +7739,45 @@
    ]
   },
   {
+   "id": "3e27da93-de21-4977-91db-e889991c7ff1",
+   "name": "Horde and Alliance Badges",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T16:00:00Z",
+   "endAt": "2026-12-01T07:58:59.999Z",
+   "description": "Subscribe or Gift a Sub to a World of Warcraft streamer during the launch of WoW: Forever to earn the Horde and Alliance chat badges!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56e2adcd-f7a7-49d4-b8a3-feae54d7c7f6.png",
+   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+   "linkURL": "https://www.twitch.tv/",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "18122",
+    "name": "World of Warcraft",
+    "slug": "world-of-warcraft",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Horde and Alliance Badges",
+     "minutes": 0,
+     "startAt": "2026-11-04T16:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Alliance Badge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4db8b910-8e27-4484-9ffd-ebe8940b2817.png"
+      },
+      {
+       "name": "Horde Badge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a3a4f577-529a-41d0-9021-1ce261bd977e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "e3a69270-1546-4966-8bcf-2af97c5a0a0b",
    "name": "Reign of Talon S5 Mid",
    "status": "ACTIVE",
@@ -7865,45 +7867,6 @@
       {
        "name": "RoT Epic Lootbox",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15b7dce8-26a2-4b27-91a2-892551834013.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3e27da93-de21-4977-91db-e889991c7ff1",
-   "name": "Horde and Alliance Badges",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T16:00:00Z",
-   "endAt": "2026-12-01T07:58:59.999Z",
-   "description": "Subscribe or Gift a Sub to a World of Warcraft streamer during the launch of WoW: Forever to earn the Horde and Alliance chat badges!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56e2adcd-f7a7-49d4-b8a3-feae54d7c7f6.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "18122",
-    "name": "World of Warcraft",
-    "slug": "world-of-warcraft",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Horde and Alliance Badges",
-     "minutes": 0,
-     "startAt": "2026-11-04T16:00:00Z",
-     "endAt": "2026-12-01T07:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Alliance Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4db8b910-8e27-4484-9ffd-ebe8940b2817.png"
-      },
-      {
-       "name": "Horde Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a3a4f577-529a-41d0-9021-1ce261bd977e.png"
       }
      ]
     }
