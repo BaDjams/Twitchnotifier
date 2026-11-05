@@ -1,212 +1,11 @@
 {
- "updatedAt": "2026-11-04T18:50:17Z",
+ "updatedAt": "2026-11-05T00:18:30Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "c165b7f2-8fee-4a44-b7f4-6d223cfc11af",
-   "name": "Pouch of Violet Dust",
-   "status": "ACTIVE",
-   "startAt": "2026-11-03T08:00:00Z",
-   "endAt": "2026-11-04T21:59:59.999Z",
-   "description": "Pouch of Violet Dust",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ced85a59-67de-4db3-8403-8ac4ec5e4410.png",
-   "detailsURL": "https://news.blizzard.com/en-us/",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "18122",
-    "name": "World of Warcraft",
-    "slug": "world-of-warcraft",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Pouch of Violet Dust",
-     "minutes": 0,
-     "startAt": "2026-11-03T08:00:00Z",
-     "endAt": "2026-11-04T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pouch of Violet Dust",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dddfd2ef-a26d-4f96-8db0-bd537cf8674e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c3c97476-d77d-42d9-b550-d0cce948b18a",
-   "name": "15.9 WOWS Channel Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T22:00:00Z",
-   "endAt": "2026-11-04T22:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/59549dc0-11d8-41ef-b01c-95cbecaded5d.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "worldofwarships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Week 4: 250 Community Tokens",
-     "minutes": 60,
-     "startAt": "2026-10-28T22:00:00Z",
-     "endAt": "2026-11-04T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Update 15.9: 250CT",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4691968d-7347-43b7-97b0-3b0f1a48184f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cd0181a3-ac58-400c-9f2b-9d04df752ee0",
-   "name": "Halloween 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-10-31T17:00:00Z",
-   "endAt": "2026-11-04T22:59:59.999Z",
-   "description": "Celebrate Halloween 2026 in The Other Side! Watch participating Twitch streams during the event to earn an exclusive Halloween feline companion. Don't miss your chance to claim this limited-time reward!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/666a2c52-0209-4528-b850-00faea24714a.png",
-   "detailsURL": "https://store.steampowered.com/news/app/2764750/view/676261964507253213",
-   "linkURL": "https://store.steampowered.com/news/app/2764750/view/676261964507253213",
-   "owner": "Ecliptic Studios",
-   "game": {
-    "id": "618479630",
-    "name": "The Other Side",
-    "slug": "the-other-side-1",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/618479630_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-other-side-1"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Hex Cat",
-     "minutes": 120,
-     "startAt": "2026-10-31T17:00:00Z",
-     "endAt": "2026-11-04T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Hex Cat (HQ Pet)",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ede4fd41-72df-4f9d-8b86-5bc113458c7f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484",
-   "name": "Crimson Desert DLC Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-10-29T22:00:00Z",
-   "endAt": "2026-11-04T23:59:59.999Z",
-   "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c30c938a-e0b7-42d0-ae27-0ba759f980c0.jpeg",
-   "detailsURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
-   "linkURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "515186",
-    "name": "Crimson Desert",
-    "slug": "crimson-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515186_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-crimson-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "60 min.",
-     "minutes": 60,
-     "startAt": "2026-10-29T22:00:00Z",
-     "endAt": "2026-11-04T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Lantern & Meat Dish",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fb510c8-189a-4232-8552-0f662f1b2ad2.png"
-      }
-     ]
-    },
-    {
-     "name": "120 min.",
-     "minutes": 120,
-     "startAt": "2026-10-29T22:00:00Z",
-     "endAt": "2026-11-04T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pirate Eyepatch & Sword",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a018ac8f-47c3-45d3-b4e7-d5442f9742a1.png"
-      }
-     ]
-    },
-    {
-     "name": "180 min.",
-     "minutes": 180,
-     "startAt": "2026-10-29T22:00:00Z",
-     "endAt": "2026-11-04T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pet Parrot in Pirate Hat",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8923aee2-68a7-489e-aee0-e153381878af.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0dfd48dc-2ada-463a-b383-b824649fd41d",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T00:00:00Z",
-   "endAt": "2026-11-04T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcf3a8e7-8a06-42c6-ac12-acebc6e27159.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-04T00:00:00Z",
-     "endAt": "2026-11-04T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "d631fdcf-ac14-4697-92b6-2d4e9ba77854",
    "name": "Update 15.9 Drop: Week 4",
@@ -284,6 +83,43 @@
       {
        "name": "💰 500 C-Coins ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e954e81e-383c-4c1f-8a8c-84b081554e85",
+   "name": "AEW Slam",
+   "status": "ACTIVE",
+   "startAt": "2026-11-05T00:00:00Z",
+   "endAt": "2026-11-05T06:59:59.999Z",
+   "description": "Watch /agent00 stream AEW Slam for 15 minutes to unlock the AEWSlam emote for a limited time.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c64d50d4-16f2-4735-af7a-ae36660bb363.gif",
+   "detailsURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
+   "linkURL": "https://help.twitch.tv/s/article/how-to-use-emotes",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "509672",
+    "name": "IRL",
+    "slug": "irl",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509672-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-irl"
+   },
+   "channels": [
+    "agent00"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "AEWSlam Emote",
+     "minutes": 15,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-05T06:59:59.999Z",
+     "rewards": [
+      {
+       "name": "AEWSlam Emote",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/749b4357-a79d-44a8-b3b4-6fa9d07026ff.gif"
       }
      ]
     }
@@ -1370,6 +1206,103 @@
       {
        "name": "GC Nov w1",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c58f2c75-79b0-4676-8bf9-5d7b47e49e0a.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f04fd8a3-b633-4e32-89c6-f5439902aced",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-05T00:00:00Z",
+   "endAt": "2026-11-05T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcdc3211-225f-401a-800f-d4b3e67dc35c.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-05T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48b84c3b-7ab4-45ec-b3cf-a20becd778b3",
+   "name": "Prime Time #503",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T20:00:00Z",
+   "endAt": "2026-11-06T01:14:59.999Z",
+   "description": "Watch this week's Prime Time livestream for 30 minutes to receive a Relic Pack!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f118f12-2dda-4c7a-9aa1-942f01f66964.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1531432-community-stream-schedule-november-2-8-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
+   "game": {
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
+   },
+   "channels": [
+    "warframeinternational",
+    "warframe"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "Relic Pack",
+     "minutes": 30,
+     "startAt": "2026-11-04T20:00:00Z",
+     "endAt": "2026-11-06T01:14:59.999Z",
+     "rewards": [
+      {
+       "name": "Relic Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Relic Pack",
+     "minutes": 60,
+     "startAt": "2026-11-04T20:00:00Z",
+     "endAt": "2026-11-06T01:14:59.999Z",
+     "rewards": [
+      {
+       "name": "Relic Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Relic Pack",
+     "minutes": 90,
+     "startAt": "2026-11-04T20:00:00Z",
+     "endAt": "2026-11-06T01:14:59.999Z",
+     "rewards": [
+      {
+       "name": "Relic Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
       }
      ]
     }
@@ -4902,6 +4835,114 @@
    ]
   },
   {
+   "id": "ea6f5619-1fa6-448b-9904-2064ad17d51a",
+   "name": "15.10 Mystery Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T23:00:00Z",
+   "endAt": "2026-11-11T22:59:59.999Z",
+   "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d82e7eeb-fbbd-494e-b608-2dbbff0521de.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [
+    "worldofwarships"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "15.10 Mystery Drop",
+     "minutes": 90,
+     "startAt": "2026-11-04T23:00:00Z",
+     "endAt": "2026-11-11T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "15.10 Mystery Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a2797953-307c-4a40-916e-2270ea0726fd.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "68a2b071-2498-49ed-8c68-8873534841ea",
+   "name": "Crimson Desert DLC Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-05T00:00:00Z",
+   "endAt": "2026-11-11T23:59:59.999Z",
+   "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/264f2fea-88b6-4dca-a633-00eb0d079fee.jpeg",
+   "detailsURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
+   "linkURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "515186",
+    "name": "Crimson Desert",
+    "slug": "crimson-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515186_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-crimson-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "60 min.",
+     "minutes": 60,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-11T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Lantern & Meat Dish",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fb510c8-189a-4232-8552-0f662f1b2ad2.png"
+      },
+      {
+       "name": "Fair Wind Figurehead",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/028b90d9-1885-4e99-ac12-fbbd9d31b04a.png"
+      }
+     ]
+    },
+    {
+     "name": "120 min.",
+     "minutes": 120,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-11T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pirate Eyepatch & Sword",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a018ac8f-47c3-45d3-b4e7-d5442f9742a1.png"
+      },
+      {
+       "name": "Fair Wind Stern",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b136767-6bce-496f-b66a-aadd80909d64.png"
+      }
+     ]
+    },
+    {
+     "name": "180 min.",
+     "minutes": 180,
+     "startAt": "2026-11-05T00:00:00Z",
+     "endAt": "2026-11-11T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pet Parrot in Pirate Hat",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8923aee2-68a7-489e-aee0-e153381878af.png"
+      },
+      {
+       "name": "Fair Wind Sail",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7f7eecae-9091-43fb-9001-41d5b6b40012.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "853eaf12-2ecb-446c-b382-717c278f8af2",
    "name": "Sanctuary of Ink",
    "status": "ACTIVE",
@@ -7700,39 +7741,35 @@
    ]
   },
   {
-   "id": "3e27da93-de21-4977-91db-e889991c7ff1",
-   "name": "Horde and Alliance Badges",
+   "id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf",
+   "name": "November 2026",
    "status": "ACTIVE",
-   "startAt": "2026-11-04T16:00:00Z",
-   "endAt": "2026-12-01T07:58:59.999Z",
-   "description": "Subscribe or Gift a Sub to a World of Warcraft streamer during the launch of WoW: Forever to earn the Horde and Alliance chat badges!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56e2adcd-f7a7-49d4-b8a3-feae54d7c7f6.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
+   "startAt": "2026-11-04T00:00:00Z",
+   "endAt": "2026-11-30T23:59:59.999Z",
+   "description": "Unlock the limited Twitch November item! You'll need to link your Twitch account with Wolvesville for this to work.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/62366666-1ca3-4450-94cf-4b6a0c700040.png",
+   "detailsURL": "https://wolvesville.com/",
+   "linkURL": "https://wolvesville.com/",
+   "owner": "Wolvesville",
    "game": {
-    "id": "18122",
-    "name": "World of Warcraft",
-    "slug": "world-of-warcraft",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
+    "id": "615993466",
+    "name": "Wolvesville",
+    "slug": "wolvesville",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/615993466_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-wolvesville"
    },
    "channels": [],
    "channelCount": 0,
    "drops": [
     {
-     "name": "Horde and Alliance Badges",
-     "minutes": 0,
-     "startAt": "2026-11-04T16:00:00Z",
-     "endAt": "2026-12-01T07:58:59.999Z",
+     "name": "Twitch gravestone",
+     "minutes": 60,
+     "startAt": "2026-11-04T00:00:00Z",
+     "endAt": "2026-11-30T23:59:59.999Z",
      "rewards": [
       {
-       "name": "Alliance Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4db8b910-8e27-4484-9ffd-ebe8940b2817.png"
-      },
-      {
-       "name": "Horde Badge",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a3a4f577-529a-41d0-9021-1ce261bd977e.png"
+       "name": "Twitch gravestone",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/16cb787a-2141-4faf-9d2b-b9c26d14be77.png"
       }
      ]
     }
@@ -7828,6 +7865,45 @@
       {
        "name": "RoT Epic Lootbox",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15b7dce8-26a2-4b27-91a2-892551834013.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3e27da93-de21-4977-91db-e889991c7ff1",
+   "name": "Horde and Alliance Badges",
+   "status": "ACTIVE",
+   "startAt": "2026-11-04T16:00:00Z",
+   "endAt": "2026-12-01T07:58:59.999Z",
+   "description": "Subscribe or Gift a Sub to a World of Warcraft streamer during the launch of WoW: Forever to earn the Horde and Alliance chat badges!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/56e2adcd-f7a7-49d4-b8a3-feae54d7c7f6.png",
+   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+   "linkURL": "https://www.twitch.tv/",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "18122",
+    "name": "World of Warcraft",
+    "slug": "world-of-warcraft",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/18122-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warcraft"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Horde and Alliance Badges",
+     "minutes": 0,
+     "startAt": "2026-11-04T16:00:00Z",
+     "endAt": "2026-12-01T07:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Alliance Badge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4db8b910-8e27-4484-9ffd-ebe8940b2817.png"
+      },
+      {
+       "name": "Horde Badge",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a3a4f577-529a-41d0-9021-1ce261bd977e.png"
       }
      ]
     }
