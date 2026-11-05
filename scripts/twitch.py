@@ -28,7 +28,7 @@ CLIENT_URL = "https://android.tv.twitch.tv"  # site du client Smart TV
 # Liste publique des campagnes actives, au format de l'API Twitch, sans jeton.
 # Depuis octobre 2026, Twitch ne donne plus la liste complète aux clients connectés
 # par code (dropCampaigns: null) : c'est la source par défaut.
-PUBLIC_URL = "https://twitch-drops-api.sunkwi.com/drops"
+PUBLIC_URL = "https://drops.sunkwi.com/api/twitch/drops"
 
 
 class TwitchError(Exception):
@@ -164,10 +164,10 @@ class TwitchClient:
 def public_campaigns(url: str = PUBLIC_URL) -> list[dict]:
     """Campagnes actives depuis la liste publique (pas d'annonces ni de campagnes finies)."""
     status, data = _http("GET", url, {"User-Agent": "Twitchnotifier", "Accept": "application/json"})
-    if status != 200 or not isinstance(data, list):
+    if status != 200 or not isinstance(data, dict) or not isinstance(data.get("games"), list):
         raise TwitchError(f"Liste publique des drops indisponible ({status}) : {str(data)[:300]}")
     out = []
-    for g in data:
+    for g in data["games"]:
         for c in g.get("rewards") or []:
             game = {**(c.get("game") or {}), "id": g.get("gameId") or (c.get("game") or {}).get("id")}
             game.setdefault("displayName", g.get("gameDisplayName"))
