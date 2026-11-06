@@ -1,154 +1,11 @@
 {
- "updatedAt": "2026-11-06T02:17:08Z",
+ "updatedAt": "2026-11-06T09:48:07Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "d5e795c8-f482-4ef5-b577-2381448245b5",
-   "name": "Prime Time #503 Raid",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T01:00:00Z",
-   "endAt": "2026-11-06T02:29:59.999Z",
-   "description": "Watch this week's Prime Time raid for 30 minutes to receive a Glyph Display decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17241157-2f28-4798-80e8-74cc65bc2d5a.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1531432-community-stream-schedule-november-2-8-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "sherpa"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Glyph Display",
-     "minutes": 30,
-     "startAt": "2026-11-06T01:00:00Z",
-     "endAt": "2026-11-06T02:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Display - Glyph",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/58f707ff-6528-49bb-8c1f-6954ea412de2.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2af30b0f-945d-434b-9deb-8161fdae8229",
-   "name": "Season 10.5 Twitch Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-09T12:00:00Z",
-   "endAt": "2026-11-06T08:59:59.999Z",
-   "description": "Tune into your favorite streamers for the upcoming new modes and win exclusive drop rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/774846b3-0b50-4f66-ba77-652c5f8eb92f.png",
-   "detailsURL": "https://www.marvelrivals.com/twitchdrops/",
-   "linkURL": "https://www.marvelrivals.com/twitchdrops/",
-   "owner": "Marvel Rivals",
-   "game": {
-    "id": "1264310518",
-    "name": "Marvel Rivals",
-    "slug": "marvel-rivals",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1264310518_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-rivals"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Angela「Will of Galacta」Spray",
-     "minutes": 30,
-     "startAt": "2026-10-09T12:00:00Z",
-     "endAt": "2026-11-06T08:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Angela Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/081bd059-11ed-404f-b8a2-2f64c1a26f9e.png"
-      }
-     ]
-    },
-    {
-     "name": "Angela「Will of Galacta」Nameplate",
-     "minutes": 60,
-     "startAt": "2026-10-09T12:00:00Z",
-     "endAt": "2026-11-06T08:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Angela Nameplate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4d1d50f-86f1-4e39-bf4d-782a19907aef.png"
-      }
-     ]
-    },
-    {
-     "name": "Angela「Skipping Squirrel」Emotes",
-     "minutes": 120,
-     "startAt": "2026-10-09T12:00:00Z",
-     "endAt": "2026-11-06T08:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Angela Emote",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/762336f9-083c-4a15-b5b1-1aa5f00a3358.png"
-      }
-     ]
-    },
-    {
-     "name": "Angela「Will of Galacta」Costume",
-     "minutes": 240,
-     "startAt": "2026-10-09T12:00:00Z",
-     "endAt": "2026-11-06T08:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Angela Costume",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/65f47d58-86e5-4796-96e5-c7dc9c6c6ebd.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8df1e587-017d-4005-b32f-0aaac5ba4383",
-   "name": "Dragonfire 10 - #4/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-05T10:00:00Z",
-   "endAt": "2026-11-06T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7a4a5ee8-7223-4dfc-a42d-bfde7b727b64.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-05T10:00:00Z",
-     "endAt": "2026-11-06T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "0a8d1df2-7317-4f7f-90b8-576bc730ca89",
    "name": "2026 BDO Drops (Nov 5)",
@@ -719,6 +576,97 @@
       {
        "name": "PT27 Silver Pack",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd901043-8691-4c3d-b2be-3960c2619069",
+   "name": "ERM S12 FINALS",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T07:30:00Z",
+   "endAt": "2026-11-06T13:59:59.999Z",
+   "description": "https://twitch.playeternalreturn.com/",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f6da7735-ac92-4b0b-af40-fad759828864.png",
+   "detailsURL": "https://twitch.playeternalreturn.com/",
+   "linkURL": "https://twitch.playeternalreturn.com/",
+   "owner": "Nimble Neuron Games",
+   "game": {
+    "id": "512864",
+    "name": "Eternal Return",
+    "slug": "eternal-return",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eternal-return"
+   },
+   "channels": [
+    "eternalreturngame",
+    "eternalreturn_tpe",
+    "eternalreturn_jp"
+   ],
+   "channelCount": 3,
+   "drops": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60,
+     "startAt": "2026-11-06T07:30:00Z",
+     "endAt": "2026-11-06T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    },
+    {
+     "name": "EMOTE",
+     "minutes": 60,
+     "startAt": "2026-11-06T07:30:00Z",
+     "endAt": "2026-11-06T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "ERM S11 WINNER EMOTE",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/27ef4324-449b-496a-8e5a-89287e514609.png"
+      },
+      {
+       "name": "Mark_S20EMMA",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/42e77725-0d41-4922-8291-67531993f2d3.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120,
+     "startAt": "2026-11-06T07:30:00Z",
+     "endAt": "2026-11-06T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180,
+     "startAt": "2026-11-06T07:30:00Z",
+     "endAt": "2026-11-06T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
       }
      ]
     }
@@ -1932,108 +1880,9 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "ssizer",
-    "iloveximm",
-    "gameaddictsstudios",
-    "ricci",
-    "raulyny",
-    "wiliis_",
-    "pestily",
-    "oneshooter",
-    "meepsnz",
-    "royalpenguin",
-    "dreamleslife",
-    "bulletthekrazygamer",
-    "boooe",
-    "sunburntspartan",
-    "varsitygaming",
-    "justryuk",
-    "t3bbb",
-    "kinggeorge",
-    "rezina",
-    "esl_verdipwnz",
-    "bonesonly",
-    "maciejay",
-    "mint",
-    "adsus123445",
-    "sirpineapple",
-    "crossarchon",
-    "pascal0_4",
-    "obloga_ua",
-    "royza",
-    "gwenpostingttv",
-    "yo_boy_roy",
-    "minato_yu_",
-    "hamcheese",
-    "omgitspriest",
-    "bikinibodhi",
-    "supremisis",
-    "skittlz",
-    "garfield",
-    "rainbow6br",
-    "mingo",
-    "rurumin",
-    "chrisgodly",
-    "bommax",
-    "jager_clutch",
-    "amethystmaps",
-    "dangleberriestv",
-    "pingman",
-    "adventuremerchants",
-    "anifex",
-    "rainbow6itacom",
-    "jenz",
-    "jerichofive",
-    "senvale",
-    "korochu",
-    "eaglex99",
-    "n3phr3nnn",
-    "breeze2k",
-    "coconutbrah",
-    "enduxfps",
-    "spawntaneous",
-    "poxonlox",
-    "paladinamber",
-    "tebi10",
-    "s1lverwolf94",
-    "bimil",
-    "icecold",
-    "berticuss",
-    "jost",
-    "keto",
-    "huskysquad",
-    "zuffiz",
-    "freshondesk",
-    "nesk",
-    "yeti_sa",
-    "fastanne",
-    "r6hub",
-    "baikinmen",
-    "kudos",
-    "rainbow6kr",
-    "mrmitty",
-    "rainbow6jp",
-    "rasco",
-    "justelliewilldo",
-    "andruwu",
-    "viperous",
-    "sandrakaz",
-    "franklin",
-    "jessgoat",
-    "chixttt",
-    "jayyguns",
-    "itswrenn",
-    "rainbow6fr",
-    "gnargl3ator",
-    "tacularr",
-    "rangagirlnads",
-    "athieno",
-    "rainbow6bravo",
-    "cr_wokka",
-    "deadbydalelight",
-    "itzuragan"
+    "rainbow6bravo"
    ],
-   "channelCount": 198,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Esports Pack",
@@ -5545,9 +5394,108 @@
     "topic": "twitchnotifier-dz7n7k-nba-2k27"
    },
    "channels": [
-    "nba2k"
+    "tutak",
+    "tray",
+    "diegohsaint",
+    "igamesometimesyt",
+    "becausetk",
+    "slimmamba",
+    "msgplatform",
+    "zandriahthegamer",
+    "baugherrr",
+    "keystix",
+    "gamingkattyran",
+    "xortek45",
+    "caponeski2k",
+    "omnikingbo",
+    "chitown_lo",
+    "theklaw___",
+    "cliqueproductions",
+    "brothajones",
+    "shoot",
+    "rybuckets",
+    "dirk",
+    "sebseeks",
+    "sergiiram",
+    "simplygrinding",
+    "vanessa1buckets",
+    "yaadmangaming",
+    "2kboo",
+    "cheeseaholic",
+    "cashout",
+    "the_post_show",
+    "yann",
+    "kenzo",
+    "gunyr2k",
+    "breaker",
+    "joey2kyt",
+    "jotajogadastv",
+    "theejoevegas",
+    "makeemmiss",
+    "tydebo",
+    "doubleh",
+    "coletheman",
+    "dnelltv",
+    "heatherorii",
+    "dmanunt2014",
+    "pregamejordan",
+    "tiller2x",
+    "derrickongod",
+    "lockintj",
+    "joeknowsyt",
+    "fanta",
+    "nba2kleague",
+    "tgbuckz_",
+    "aleea",
+    "swaggodly_yt",
+    "xunclecaino",
+    "chicofilo",
+    "missthickems",
+    "itspikaaa",
+    "treythomas_",
+    "treyriggs",
+    "iqcontained",
+    "kobedreamin",
+    "uncledemi",
+    "otripletrey",
+    "nba2k",
+    "mobuckets",
+    "igymo",
+    "staxmontana",
+    "demonjt",
+    "healy6",
+    "solo_",
+    "queennr",
+    "clutchupnext",
+    "kangdooms",
+    "garcell2k",
+    "naeohmii",
+    "jianko",
+    "tr3magnum",
+    "lehamsa",
+    "killzamoi",
+    "sierrafrom2k",
+    "aziaa",
+    "mvpzonebr",
+    "spam1of1",
+    "mr_glass_gaming",
+    "abtheballer",
+    "ashbegaming",
+    "xospida",
+    "mills",
+    "redcityboy23",
+    "tuffnyc",
+    "saucedeville",
+    "vicelli25",
+    "hollywoodkayyy",
+    "glass2k_",
+    "jullianshines",
+    "dageneral215",
+    "bumnuggey",
+    "zaydpoy",
+    "carlosstory"
    ],
-   "channelCount": 1,
+   "channelCount": 140,
    "drops": [
     {
      "name": "S2 Locker Code (1 hour)",
@@ -6177,6 +6125,49 @@
       {
        "name": "Worlds 2026 Supporter",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/63c01e1e-ba77-446a-9c3b-821c019cacad.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "55e0b074-0393-4be3-8586-3fb8b65b80e0",
+   "name": "Pokémon Delta Reign Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T08:00:00Z",
+   "endAt": "2026-11-16T07:59:59.999Z",
+   "description": "https://trainer.pokemon.com/rewards   ",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64ac7721-3571-4905-956a-c3249761c547.png",
+   "detailsURL": "https://trainer.pokemon.com/rewards",
+   "linkURL": "https://trainer.pokemon.com/rewards",
+   "owner": "The Pokémon Company",
+   "game": {
+    "id": "155409827",
+    "name": "Pokémon Trading Card Game Live",
+    "slug": "pokemon-trading-card-game-live",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/155409827_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game-live"
+   },
+   "channels": [
+    "senor_doom",
+    "xatumipm",
+    "littledarkfury",
+    "auralaur67",
+    "azulgg",
+    "reakka",
+    "attica"
+   ],
+   "channelCount": 7,
+   "drops": [
+    {
+     "name": "Collector's Crate",
+     "minutes": 30,
+     "startAt": "2026-11-06T08:00:00Z",
+     "endAt": "2026-11-16T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "DLR Collector's Crate",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b9684db5-7536-470b-bea8-16722bdd977d.png"
       }
      ]
     }
@@ -7196,6 +7187,53 @@
    ]
   },
   {
+   "id": "d31f0a01-c61e-4170-bf68-60c9132efaaf",
+   "name": "Welcome to Loftia!",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T06:00:00Z",
+   "endAt": "2026-11-20T17:59:59.999Z",
+   "description": "Welcome to Loftia! To celebrate our Early Access launch on Steam and Epic Games Store, tune in on a Loftia stream to earn two in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/27f73cf1-34ae-4896-a00f-98989051561b.png",
+   "detailsURL": "https://loftia.gg/twitch-drops",
+   "linkURL": "https://loftia.gg/account?tab=home#twitch-drops",
+   "owner": "Qloud Games",
+   "game": {
+    "id": "1939255262",
+    "name": "Loftia",
+    "slug": "loftia",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1939255262_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-loftia"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Pastel Party Wallpaper",
+     "minutes": 60,
+     "startAt": "2026-11-06T06:00:00Z",
+     "endAt": "2026-11-20T17:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pastel Party Wallpaper",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/92809e14-f92b-47a3-84d7-c46067bc8444.png"
+      }
+     ]
+    },
+    {
+     "name": "Pebble Trophy",
+     "minutes": 300,
+     "startAt": "2026-11-06T06:00:00Z",
+     "endAt": "2026-11-20T17:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pebble Trophy",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d9de8704-2be0-4729-bb69-9ca58111fe60.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "5f277031-448e-4eb2-8817-45f56779633c",
    "name": "OWCS Stage 3 Playoffs",
    "status": "ACTIVE",
@@ -7214,9 +7252,37 @@
     "topic": "twitchnotifier-dz7n7k-overwatch-2"
    },
    "channels": [
-    "ow_esports_th"
+    "ow_esports_th",
+    "hadi_ow",
+    "iddqd",
+    "rakattack",
+    "avrl",
+    "franciscoow",
+    "teetawatv3",
+    "ow_esports",
+    "nitrao",
+    "ta1yo_tv",
+    "zbra",
+    "tommathan",
+    "chosen_ow",
+    "6cyx",
+    "profoundrice",
+    "august",
+    "emongg",
+    "commanderx",
+    "angrodtralari",
+    "hammerkick",
+    "unter",
+    "karq",
+    "owbrain",
+    "ml7support",
+    "poko",
+    "warn",
+    "meltonff",
+    "ow_esports_jp",
+    "amaui0915"
    ],
-   "channelCount": 1,
+   "channelCount": 29,
    "drops": [
     {
      "name": "Candlelit Satya Spray",
@@ -8594,6 +8660,53 @@
       {
        "name": "Dance Elite 2000",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6b1b5d8c-1793-4f18-bd00-3e8dbeff1e95.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a0e134ff-e391-46bc-9ac6-0b1b2c826795",
+   "name": "Modern Warfare 4 Season 1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T05:00:00Z",
+   "endAt": "2026-12-04T04:59:59.999Z",
+   "description": "Modern Warfare 4 Season 1",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/57568450-4e12-47a1-b23a-9824daf5d1cc.png",
+   "detailsURL": "https://www.twitch.tv/drops/inventory",
+   "linkURL": "https://profile.callofduty.com/cod/twitch/reauth",
+   "owner": "Activision Publishing ",
+   "game": {
+    "id": "512710",
+    "name": "Call of Duty: Warzone",
+    "slug": "call-of-duty-warzone",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512710-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-call-of-duty-warzone"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "MW4 Emblem",
+     "minutes": 60,
+     "startAt": "2026-11-06T05:00:00Z",
+     "endAt": "2026-12-04T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "MW4 - Off The Grid",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4fe053ff-ae4e-48c2-aeef-f99310c58812.png"
+      }
+     ]
+    },
+    {
+     "name": "MW4 CC",
+     "minutes": 120,
+     "startAt": "2026-11-06T05:00:00Z",
+     "endAt": "2026-12-04T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "MW4 - Fated Duel",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/50e67e9e-0a57-4e99-ab4f-6791db6d39d7.png"
       }
      ]
     }
