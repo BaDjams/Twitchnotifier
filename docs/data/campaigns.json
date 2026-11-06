@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T21:55:41Z",
+ "updatedAt": "2026-11-06T02:17:08Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,256 +7,13 @@
  },
  "campaigns": [
   {
-   "id": "bbcf1935-8dd7-4495-bc63-b80c04766c84",
-   "name": "S&F Droplets",
+   "id": "d5e795c8-f482-4ef5-b577-2381448245b5",
+   "name": "Prime Time #503 Raid",
    "status": "ACTIVE",
-   "startAt": "2026-10-30T15:00:00Z",
-   "endAt": "2026-11-05T22:58:59.999Z",
-   "description": "Droplets are additional drops to our main drop campaigns.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a6a7009-6990-4c81-8ecb-bc7032f6a7b4.png",
-   "detailsURL": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-   "linkURL": "https://sfgame.net/",
-   "owner": "Playa-Games",
-   "game": {
-    "id": "510389",
-    "name": "Shakes and Fidget",
-    "slug": "shakes-and-fidget",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-shakes-and-fidget"
-   },
-   "channels": [
-    "thedennis42",
-    "muralink",
-    "aks_n1",
-    "demonzz1",
-    "derhardi",
-    "ud_sierra",
-    "uwereinholzen",
-    "husker_the_black_cat",
-    "haloxmd",
-    "lootenant",
-    "iiprime2k",
-    "skuuii",
-    "maexel",
-    "powie",
-    "animaoscura1402",
-    "aurikos_zonestos",
-    "greq_tw",
-    "j4nczv",
-    "maskencontakt",
-    "crappa",
-    "worldwidegiino",
-    "janoooschtv",
-    "sobratv",
-    "keylixtv",
-    "kleiner_bandit",
-    "sirdariush01",
-    "zouzi10",
-    "acid_fired",
-    "feena1986",
-    "yvraldis",
-    "zeusspezial",
-    "dreibeinsandro",
-    "formulalena",
-    "karolinger",
-    "pe4rl_4u",
-    "katazuri",
-    "kirru0_0",
-    "hejtojapawu",
-    "mrmoregame",
-    "fuxelbau",
-    "adikos_stream",
-    "killr4in",
-    "jbufflive",
-    "dakieksde",
-    "knackigebulu",
-    "thekloeschen",
-    "flyguncz",
-    "xtitanxiskox",
-    "terste",
-    "feinekatze",
-    "nayfal",
-    "patrikturi",
-    "sintica",
-    "haiset",
-    "trovarion",
-    "bylebajlo",
-    "craft12354",
-    "gilmacek",
-    "g0dmancz",
-    "vojta2684",
-    "flowaygames",
-    "ch4rliesfgame",
-    "kysuel",
-    "miss_hellbunny",
-    "altairri",
-    "autophil",
-    "veseriann",
-    "spielestyler",
-    "dennsen86",
-    "nikoletaa",
-    "niosf",
-    "karthas",
-    "feketemiklos",
-    "c4rb0nsf",
-    "m4cm4nus",
-    "blackhammerplay",
-    "ogdar0",
-    "enorbiii",
-    "chudy773",
-    "rilesikk",
-    "donpretti",
-    "feli",
-    "milschbaum",
-    "egoleipzig",
-    "drarteck",
-    "metashi12",
-    "dirkneuenfelszwo",
-    "slayproxx",
-    "angela35",
-    "zirotv",
-    "radimx61",
-    "ricares",
-    "der_cyberpunk",
-    "holladiewaldfee",
-    "suun",
-    "gerrit",
-    "kimuh",
-    "flyingj3susss",
-    "gerbrowny",
-    "kptlangstrumpf_sf"
-   ],
-   "channelCount": 123,
-   "drops": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Gilded Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47c0dba2-cba2-4e95-9275-7a90e5001e7b.png"
-      }
-     ]
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Construction Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1ade6cce-9bc6-439e-b10a-96e316ae7ab7.png"
-      }
-     ]
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Arcane Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/afdebe30-7182-479d-9a0a-625aaf572892.png"
-      }
-     ]
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Soul Taker Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e79e0a45-6818-487b-8f82-5b07e9984c61.png"
-      }
-     ]
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Fortification Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/49697d01-d7a2-404e-b45a-a05dec0932a2.png"
-      }
-     ]
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Smith Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52713587-b18e-4fb5-98e7-98d18ac8a90c.png"
-      }
-     ]
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180,
-     "startAt": "2026-10-30T15:00:00Z",
-     "endAt": "2026-11-05T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Allrounder Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0a700720-5536-4e26-9e88-e7acd65fa50d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f04fd8a3-b633-4e32-89c6-f5439902aced",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-05T00:00:00Z",
-   "endAt": "2026-11-05T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/dcdc3211-225f-401a-800f-d4b3e67dc35c.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-05T00:00:00Z",
-     "endAt": "2026-11-05T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "48b84c3b-7ab4-45ec-b3cf-a20becd778b3",
-   "name": "Prime Time #503",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T20:00:00Z",
-   "endAt": "2026-11-06T01:14:59.999Z",
-   "description": "Watch this week's Prime Time livestream for 30 minutes to receive a Relic Pack!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8f118f12-2dda-4c7a-9aa1-942f01f66964.jpeg",
+   "startAt": "2026-11-06T01:00:00Z",
+   "endAt": "2026-11-06T02:29:59.999Z",
+   "description": "Watch this week's Prime Time raid for 30 minutes to receive a Glyph Display decoration!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17241157-2f28-4798-80e8-74cc65bc2d5a.jpeg",
    "detailsURL": "https://forums.warframe.com/topic/1531432-community-stream-schedule-november-2-8-2026/",
    "linkURL": "https://www.warframe.com/user",
    "owner": "Digital Extremes",
@@ -268,44 +25,19 @@
     "topic": "twitchnotifier-dz7n7k-warframe"
    },
    "channels": [
-    "warframeinternational",
-    "warframe"
+    "sherpa"
    ],
-   "channelCount": 2,
+   "channelCount": 1,
    "drops": [
     {
-     "name": "Relic Pack",
+     "name": "Glyph Display",
      "minutes": 30,
-     "startAt": "2026-11-04T20:00:00Z",
-     "endAt": "2026-11-06T01:14:59.999Z",
+     "startAt": "2026-11-06T01:00:00Z",
+     "endAt": "2026-11-06T02:29:59.999Z",
      "rewards": [
       {
-       "name": "Relic Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Relic Pack",
-     "minutes": 60,
-     "startAt": "2026-11-04T20:00:00Z",
-     "endAt": "2026-11-06T01:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Relic Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Relic Pack",
-     "minutes": 90,
-     "startAt": "2026-11-04T20:00:00Z",
-     "endAt": "2026-11-06T01:14:59.999Z",
-     "rewards": [
-      {
-       "name": "Relic Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/26a1e987-1278-4204-8a40-0528aa06b6e8.jpeg"
+       "name": "Display - Glyph",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/58f707ff-6528-49bb-8c1f-6954ea412de2.jpeg"
       }
      ]
     }
@@ -1930,6 +1662,41 @@
    ]
   },
   {
+   "id": "cbea3282-61bc-4e9c-a42f-794cb5610c79",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T00:00:00Z",
+   "endAt": "2026-11-06T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7f88c9d-897b-4968-93ca-55031bce6fd8.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-06T00:00:00Z",
+     "endAt": "2026-11-06T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "c5baa51c-8692-40a9-83a1-7c0e08b3a6d9",
    "name": "November Drops ",
    "status": "ACTIVE",
@@ -2141,6 +1908,190 @@
       {
        "name": "Market Coins Bundle 6",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9eaa7756-e42b-4c55-b10f-52f46b746f38",
+   "name": "Osaka 2026 Play-ins",
+   "status": "ACTIVE",
+   "startAt": "2026-11-06T00:30:00Z",
+   "endAt": "2026-11-07T13:59:59.999Z",
+   "description": "Rainbow Six Siege - OSAKA MAJOR 2026",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31f13dd5-2493-42a3-979a-3b59c23d4e32.png",
+   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+   "linkURL": "https://drops-register.ubi.com/#/en-US",
+   "owner": "Ubisoft",
+   "game": {
+    "id": "460630",
+    "name": "Rainbow Six Siege",
+    "slug": "tom-clancys-rainbow-six-siege",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460630-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
+   },
+   "channels": [
+    "ssizer",
+    "iloveximm",
+    "gameaddictsstudios",
+    "ricci",
+    "raulyny",
+    "wiliis_",
+    "pestily",
+    "oneshooter",
+    "meepsnz",
+    "royalpenguin",
+    "dreamleslife",
+    "bulletthekrazygamer",
+    "boooe",
+    "sunburntspartan",
+    "varsitygaming",
+    "justryuk",
+    "t3bbb",
+    "kinggeorge",
+    "rezina",
+    "esl_verdipwnz",
+    "bonesonly",
+    "maciejay",
+    "mint",
+    "adsus123445",
+    "sirpineapple",
+    "crossarchon",
+    "pascal0_4",
+    "obloga_ua",
+    "royza",
+    "gwenpostingttv",
+    "yo_boy_roy",
+    "minato_yu_",
+    "hamcheese",
+    "omgitspriest",
+    "bikinibodhi",
+    "supremisis",
+    "skittlz",
+    "garfield",
+    "rainbow6br",
+    "mingo",
+    "rurumin",
+    "chrisgodly",
+    "bommax",
+    "jager_clutch",
+    "amethystmaps",
+    "dangleberriestv",
+    "pingman",
+    "adventuremerchants",
+    "anifex",
+    "rainbow6itacom",
+    "jenz",
+    "jerichofive",
+    "senvale",
+    "korochu",
+    "eaglex99",
+    "n3phr3nnn",
+    "breeze2k",
+    "coconutbrah",
+    "enduxfps",
+    "spawntaneous",
+    "poxonlox",
+    "paladinamber",
+    "tebi10",
+    "s1lverwolf94",
+    "bimil",
+    "icecold",
+    "berticuss",
+    "jost",
+    "keto",
+    "huskysquad",
+    "zuffiz",
+    "freshondesk",
+    "nesk",
+    "yeti_sa",
+    "fastanne",
+    "r6hub",
+    "baikinmen",
+    "kudos",
+    "rainbow6kr",
+    "mrmitty",
+    "rainbow6jp",
+    "rasco",
+    "justelliewilldo",
+    "andruwu",
+    "viperous",
+    "sandrakaz",
+    "franklin",
+    "jessgoat",
+    "chixttt",
+    "jayyguns",
+    "itswrenn",
+    "rainbow6fr",
+    "gnargl3ator",
+    "tacularr",
+    "rangagirlnads",
+    "athieno",
+    "rainbow6bravo",
+    "cr_wokka",
+    "deadbydalelight",
+    "itzuragan"
+   ],
+   "channelCount": 198,
+   "drops": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60,
+     "startAt": "2026-11-06T00:30:00Z",
+     "endAt": "2026-11-07T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 120,
+     "startAt": "2026-11-06T00:30:00Z",
+     "endAt": "2026-11-07T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 240,
+     "startAt": "2026-11-06T00:30:00Z",
+     "endAt": "2026-11-07T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360,
+     "startAt": "2026-11-06T00:30:00Z",
+     "endAt": "2026-11-07T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "L8A52 Weapon skin",
+     "minutes": 480,
+     "startAt": "2026-11-06T00:30:00Z",
+     "endAt": "2026-11-07T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "L85A2 Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ccb41e05-691b-48a1-a75d-389e1da39cd5.png"
       }
      ]
     }
