@@ -1,117 +1,11 @@
 {
- "updatedAt": "2026-11-07T02:19:37Z",
+ "updatedAt": "2026-11-07T09:11:34Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "c5baa51c-8692-40a9-83a1-7c0e08b3a6d9",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-05T12:28:06Z",
-   "endAt": "2026-11-07T02:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a8591fe5-4e6e-40b3-b491-1ac10dc67fdc.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-11-05T12:28:06Z",
-     "endAt": "2026-11-07T02:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2890acf3-fc66-4310-920e-f09980832da4",
-   "name": "Plants on Fire",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T08:00:00Z",
-   "endAt": "2026-11-07T07:59:59.999Z",
-   "description": "Watch livestreams & earn rewards",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f6976d38-0333-4fe7-8b00-28a480600326.png",
-   "detailsURL": "https://www.plantsonfire.com/twitch-drops",
-   "linkURL": "https://www.plantsonfire.com/twitch-drops",
-   "owner": "Plants on Fire",
-   "game": {
-    "id": "2146281325",
-    "name": "Plants on Fire",
-    "slug": "plants-on-fire",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2146281325_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-plants-on-fire"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "800 Gold",
-     "minutes": 60,
-     "startAt": "2026-10-28T08:00:00Z",
-     "endAt": "2026-11-07T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "800 Gold",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/25580a1a-2678-4d0f-813e-05f1b7c5c629.png"
-      }
-     ]
-    },
-    {
-     "name": "10 Recruit Tokens",
-     "minutes": 120,
-     "startAt": "2026-10-28T08:00:00Z",
-     "endAt": "2026-11-07T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "10 Recruit Tokens",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5a1b5a73-727c-4c58-93b0-153dc5af6d23.png"
-      }
-     ]
-    },
-    {
-     "name": "Exclusive Profile",
-     "minutes": 240,
-     "startAt": "2026-10-28T08:00:00Z",
-     "endAt": "2026-11-07T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Exclusive Profile",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/13c4b6c2-fc33-420a-b265-219edb9b2941.png"
-      }
-     ]
-    },
-    {
-     "name": "Legendary Harvest Pot",
-     "minutes": 360,
-     "startAt": "2026-10-28T08:00:00Z",
-     "endAt": "2026-11-07T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Legendary Harvest Pot",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dec396bc-aaf8-467a-9ba4-771366722275.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "23478ed9-c65f-4ef6-b613-c5aad2ff7eec",
    "name": "Dragonfire 10 - #5/7",
@@ -306,6 +200,181 @@
    ]
   },
   {
+   "id": "fb2dea70-185f-4960-8cdc-91eea87de9f5",
+   "name": "觀看Festa掉寶活動",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T04:00:00Z",
+   "endAt": "2026-11-07T12:59:59.999Z",
+   "description": "觀看Festa掉寶活動",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219544",
+   "linkURL": "https://event.gnjoy.com.tw/Ro/ACT_TwitchLogin",
+   "owner": "格雷維蒂互動股份有限公司",
+   "game": {
+    "id": "15229",
+    "name": "Ragnarok Online",
+    "slug": "ragnarok-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/15229_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-ragnarok-online"
+   },
+   "channels": [
+    "twgravity"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "強化料理濃縮液[活動專用]*3",
+     "minutes": 30,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "強化料理濃縮液[活動專用]*3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3a455155-b9f7-4798-a493-1bbdc6c93731.png"
+      }
+     ]
+    },
+    {
+     "name": "綿綿島貓食罐頭*2",
+     "minutes": 60,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "綿綿島貓食罐頭*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/78fef1de-3ae5-45ff-a2e7-6442bb1b74cc.png"
+      }
+     ]
+    },
+    {
+     "name": "高級經驗值倍增書*2",
+     "minutes": 120,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "高級經驗值倍增書*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e9f3ba55-3800-4fef-b49e-c81a2a56c78c.png"
+      }
+     ]
+    },
+    {
+     "name": "超黏掉寶率倍增糖1小時*2",
+     "minutes": 180,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "超黏掉寶率倍增糖1小時*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/97445c41-32f0-45a9-8a1b-eec07ceb7f79.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cb8174f6-3ce9-46b2-82c6-fa3a44581500",
+   "name": "KEL CHAMPIONSHIP DAY 1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T04:00:00Z",
+   "endAt": "2026-11-07T12:59:59.999Z",
+   "description": "https://twitch.playeternalreturn.com/",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c641d428-3e48-4b03-982c-9fd24e8564d5.png",
+   "detailsURL": "https://twitch.playeternalreturn.com/",
+   "linkURL": "https://twitch.playeternalreturn.com/",
+   "owner": "Nimble Neuron Games",
+   "game": {
+    "id": "512864",
+    "name": "Eternal Return",
+    "slug": "eternal-return",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eternal-return"
+   },
+   "channels": [
+    "eternalreturn_jp",
+    "nunuzzdenuz"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 60,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    },
+    {
+     "name": "ENDGAME + Emotion",
+     "minutes": 60,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Emote S20 Fable",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/66be60a7-155a-43c2-8ad6-fa285bddb3e5.png"
+      },
+      {
+       "name": "Emote S20 Taegyung",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99c5d8e4-71cd-48e1-87c8-f09c4bdd6133.png"
+      },
+      {
+       "name": "Emote S20 OneCircle",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5efa113-fc52-4d5c-a011-411f76b328af.png"
+      },
+      {
+       "name": "Emote S20 Cnema",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b4106ebe-c19d-47bd-86cd-190bfbc3d66d.png"
+      },
+      {
+       "name": "ENDGAME_2026KEL",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06799e39-e602-418f-8b31-aa7e9d951a38.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 120,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN + ESPORTS PIECE",
+     "minutes": 180,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-07T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      },
+      {
+       "name": "ESPORTS PIECE2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "dd475bf4-6d15-4e2a-af8a-545d6e03a20d",
    "name": "Affiliate11/6/26",
    "status": "ACTIVE",
@@ -445,108 +514,9 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "ssizer",
-    "iloveximm",
-    "gameaddictsstudios",
-    "ricci",
-    "raulyny",
-    "wiliis_",
-    "pestily",
-    "oneshooter",
-    "meepsnz",
-    "royalpenguin",
-    "dreamleslife",
-    "bulletthekrazygamer",
-    "boooe",
-    "sunburntspartan",
-    "varsitygaming",
-    "justryuk",
-    "t3bbb",
-    "kinggeorge",
-    "rezina",
-    "esl_verdipwnz",
-    "bonesonly",
-    "maciejay",
-    "mint",
-    "adsus123445",
-    "sirpineapple",
-    "crossarchon",
-    "pascal0_4",
-    "obloga_ua",
-    "royza",
-    "gwenpostingttv",
-    "yo_boy_roy",
-    "minato_yu_",
-    "hamcheese",
-    "omgitspriest",
-    "bikinibodhi",
-    "supremisis",
-    "skittlz",
-    "garfield",
-    "rainbow6br",
-    "mingo",
-    "rurumin",
-    "chrisgodly",
-    "bommax",
-    "jager_clutch",
-    "amethystmaps",
-    "dangleberriestv",
-    "pingman",
-    "adventuremerchants",
-    "anifex",
-    "vetelcito01",
-    "rainbow6itacom",
-    "jenz",
-    "jerichofive",
-    "senvale",
-    "rainbow6b",
-    "korochu",
-    "eaglex99",
-    "n3phr3nnn",
-    "caramelooficial",
-    "breeze2k",
-    "coconutbrah",
-    "enduxfps",
-    "spawntaneous",
-    "kamikazer6",
-    "poxonlox",
-    "paladinamber",
-    "tebi10",
-    "s1lverwolf94",
-    "bimil",
-    "icecold",
-    "berticuss",
-    "jost",
-    "keto",
-    "huskysquad",
-    "zuffiz",
-    "freshondesk",
-    "yeti_sa",
-    "fastanne",
-    "r6hub",
-    "baikinmen",
-    "kudos",
-    "rainbow6kr",
-    "mrmitty",
-    "rainbow6jp",
-    "rasco",
-    "justelliewilldo",
-    "andruwu",
-    "viperous",
-    "sandrakaz",
-    "franklin",
-    "jessgoat",
-    "chixttt",
-    "jayyguns",
-    "itswrenn",
-    "rainbow6fr",
-    "gnargl3ator",
-    "tacularr",
-    "rangagirlnads",
-    "athieno",
     "rainbow6bravo"
    ],
-   "channelCount": 201,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Esports Pack",
@@ -605,6 +575,45 @@
       {
        "name": "L85A2 Osaka 2026",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ccb41e05-691b-48a1-a75d-389e1da39cd5.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36f72445-b369-46a1-87a5-591b37a536ad",
+   "name": "[AS] 2026 Master Class",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T05:00:00Z",
+   "endAt": "2026-11-07T14:59:59.999Z",
+   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e531de23-9e8f-4006-81e5-9a63ed6d380a.jpeg",
+   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "futsukachannel",
+    "hideaplaya",
+    "thecosmic_11"
+   ],
+   "channelCount": 3,
+   "drops": [
+    {
+     "name": "1 Hour",
+     "minutes": 60,
+     "startAt": "2026-11-07T05:00:00Z",
+     "endAt": "2026-11-07T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[AS] 1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d682a96c-6c77-4889-a549-32184d178d13.png"
       }
      ]
     }
@@ -754,6 +763,90 @@
    ]
   },
   {
+   "id": "5cadf2b4-ecb8-4da4-8bd7-7fddf6f08f52",
+   "name": "E7WC 2026 Knockout Stage",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T03:00:00Z",
+   "endAt": "2026-11-07T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f0e130a-2c61-4ec5-98f1-3ee70aa1922f.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Knockout Stage",
+     "minutes": 15,
+     "startAt": "2026-11-07T03:00:00Z",
+     "endAt": "2026-11-07T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Knockout Stage",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c1ed1a75-f3fc-44c5-963b-546c18d78b4d.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2b546d5c-ec9b-46a3-859f-5513034fedc8",
+   "name": "Opera GX CS APAC D1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T08:00:00Z",
+   "endAt": "2026-11-07T14:59:59.999Z",
+   "description": "Opera GX CS APAC D1",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/79bfe6c0-5830-419e-9fb6-c5f2c203fd41.jpeg",
+   "detailsURL": "https://worldoftanks.asia/news/live-streams/clan-showdown-finals-november-2026/",
+   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "27546",
+    "name": "World of Tanks",
+    "slug": "world-of-tanks",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
+   },
+   "channels": [
+    "hectr888",
+    "ra77en",
+    "0miki0_",
+    "dakillzor",
+    "younserl"
+   ],
+   "channelCount": 5,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 180,
+     "startAt": "2026-11-07T08:00:00Z",
+     "endAt": "2026-11-07T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eb420866-7dd9-4627-89cc-f61723a69923.png"
+      },
+      {
+       "name": "3x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/972c3579-4d4b-48af-8399-d8a8cc63bf2c.png"
+      },
+      {
+       "name": "3x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5043cb07-bcea-4f4a-ac90-8cea267938be.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "3a6a8b8f-49bc-46a4-b50c-1ef9fddf43a4",
    "name": "Closed Beta #1",
    "status": "ACTIVE",
@@ -866,6 +959,43 @@
       {
        "name": "True Damage Fan",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/69eb6ac3-1ee3-43f5-b4c3-832576f6e8c2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e555d819-c934-4347-88e4-a1b08b359308",
+   "name": "[TW] Master Class Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T05:00:00Z",
+   "endAt": "2026-11-07T16:59:59.999Z",
+   "description": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20423&countryType=zh-TW",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a2b2db5e-cb5e-4f90-b97e-df4bf6ed2e65.png",
+   "detailsURL": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20423&countryType=zh-TW",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "blackdesert_tw_official"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "2 Hour (Nov 7)",
+     "minutes": 120,
+     "startAt": "2026-11-07T05:00:00Z",
+     "endAt": "2026-11-07T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[TW] MC Finals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2b21f743-53c4-4484-84c2-1563d29563e9.png"
       }
      ]
     }
@@ -1185,6 +1315,51 @@
    ]
   },
   {
+   "id": "6e583986-2e3e-484b-9e77-f337d1157bfd",
+   "name": "[NAEU] 2026 Master Class",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T09:00:00Z",
+   "endAt": "2026-11-08T08:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/119dff5b-1d72-4d01-a183-f7e507c0e251.jpeg",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "nickky",
+    "qiywi",
+    "shimeco",
+    "canadiancorgii",
+    "choice",
+    "mistyee",
+    "koregenik",
+    "czanee",
+    "lechickensan"
+   ],
+   "channelCount": 9,
+   "drops": [
+    {
+     "name": "1 Hour",
+     "minutes": 60,
+     "startAt": "2026-11-07T09:00:00Z",
+     "endAt": "2026-11-08T08:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[NAEU] 1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b54003be-21ba-4d3f-b5d7-eb078bb77cf1.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "56cf9e35-6322-4484-9f9b-7002092f1ac2",
    "name": "Exclusive Demon Skins",
    "status": "ACTIVE",
@@ -1475,6 +1650,87 @@
       {
        "name": "Weapon container 06.11",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1093ade1-abe6-4cbb-87c4-3c1358bc49b8.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15f5f529-dbda-4e54-8774-c8253851bc72",
+   "name": "EHL LAN - November 7-8",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T09:00:00Z",
+   "endAt": "2026-11-08T21:59:59.999Z",
+   "description": "Tune into the European Halo Championship 2026 event to earn in-game content in Halo Infinite!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/319f019a-9fdc-4fa1-b7d5-c2f3f12f33f2.jpeg",
+   "detailsURL": "https://www.halowaypoint.com",
+   "linkURL": "https://www.halowaypoint.com/settings/linked-accounts",
+   "owner": "Microsoft",
+   "game": {
+    "id": "506416",
+    "name": "Halo Infinite",
+    "slug": "halo-infinite",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/506416-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-halo-infinite"
+   },
+   "channels": [
+    "europeanhalo"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Subscribe to Earn",
+     "minutes": 0,
+     "startAt": "2026-11-07T09:00:00Z",
+     "endAt": "2026-11-08T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Acid Punch Armors",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f0141a85-37f8-464c-918e-25994790abd9.png"
+      },
+      {
+       "name": "Predator Print Armors",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32e37c6b-c304-4860-beb0-976c84af98dd.png"
+      },
+      {
+       "name": "Shattered Cherry Weapons",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bac44f43-0984-4d27-b378-3dcbf799b8d9.png"
+      },
+      {
+       "name": "Quigley Charm",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8bb85521-cb96-4c73-8bc3-c13f877af7d1.png"
+      },
+      {
+       "name": "Spree Weapon Charm",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/831db4db-40ee-4179-ba0e-374cca1bd882.png"
+      },
+      {
+       "name": "Undertow Husk Armors",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6c2f2e4b-14bd-4807-8d62-672fc1ce46b3.png"
+      },
+      {
+       "name": "Ivory Guard Armor",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/475c9a73-607a-4203-901a-fca5eb66c9a6.png"
+      }
+     ]
+    },
+    {
+     "name": "Watch 2 hours",
+     "minutes": 120,
+     "startAt": "2026-11-07T09:00:00Z",
+     "endAt": "2026-11-08T21:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Harvest Dusk Hazmat",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c78bf499-b247-442c-b884-9ec9dfa5803d.png"
+      },
+      {
+       "name": "Powersuit Hero E.strike",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21eaa304-3dcc-42ea-b966-9886beca280c.png"
+      },
+      {
+       "name": "De-rez Weapon Coatings",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fe9c80f1-c55d-452d-a99b-3e98115862b9.png"
       }
      ]
     }
@@ -2346,6 +2602,41 @@
    ]
   },
   {
+   "id": "b4e6bc78-533b-47a4-8e4f-c87b9d3468c8",
+   "name": "November Drops ",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T08:53:57Z",
+   "endAt": "2026-11-09T01:59:59.999Z",
+   "description": "Coryphaeus Fall Drops",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db65b3ef-7379-4a73-9e8c-98fd22e94837.png",
+   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+   "owner": "Coryphaeus Corp",
+   "game": {
+    "id": "707002701",
+    "name": "Coryphaeus Championships",
+    "slug": "coryphaeus-championships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "C-COINS",
+     "minutes": 120,
+     "startAt": "2026-11-07T08:53:57Z",
+     "endAt": "2026-11-09T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "💰 500 C-Coins ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "3219d0d7-61cb-4e43-b211-32a500e2bed6",
    "name": "JS2 Weekly 11.2",
    "status": "ACTIVE",
@@ -2837,6 +3128,101 @@
       {
        "name": "PT27 Drop Bundle",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b28d880a-6871-431d-b7a4-3d8a18233468.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5783dd79-1058-4f98-b7e3-8768bb5750ef",
+   "name": "Open Series Cup #3",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T04:00:00Z",
+   "endAt": "2026-11-09T12:59:59.999Z",
+   "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1250f50a-77f5-4a6c-846d-d6ee9e343450.png",
+   "detailsURL": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+   "linkURL": "https://ea.com/twitchlinking",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "1848745913",
+    "name": "Battlefield REDSEC",
+    "slug": "battlefield-redsec",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1848745913_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-battlefield-redsec"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "15 min Hardware XP Boost",
+     "minutes": 60,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "15 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e733ff00-069e-44ed-8350-30e0ee000e73.png"
+      }
+     ]
+    },
+    {
+     "name": "30 min Hardware XP Boost",
+     "minutes": 120,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "30 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/78e49e27-3c66-46fa-a09d-34b2b0cad33d.png"
+      }
+     ]
+    },
+    {
+     "name": "Demo Demon",
+     "minutes": 180,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Demo Demon",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c81e800e-a08b-4bca-b217-fc60c9b32e6e.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 240,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4c42843a-1ca9-4c47-a50a-56daf36ef3ba.png"
+      }
+     ]
+    },
+    {
+     "name": "60 min Hardware XP Boost",
+     "minutes": 300,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "60 min Hardware XP Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/74c8828f-6b5d-4a8c-8cc9-2e6ea85da758.png"
+      }
+     ]
+    },
+    {
+     "name": "Jolly Ranger",
+     "minutes": 360,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-09T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Jolly Ranger",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/639f903b-6be1-4267-97bb-e4b73b328604.png"
       }
      ]
     }
@@ -6748,6 +7134,77 @@
    ]
   },
   {
+   "id": "968791a4-0188-4af8-8edc-8d6e92b941bb",
+   "name": "MrM Streamer Wars Launch",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T04:00:00Z",
+   "endAt": "2026-11-14T11:59:59.999Z",
+   "description": "Race, build, and climb the leaderboards in Marble Manager — the interactive marble racing game where your Twitch community races alongside you in real time! During this campaign, watching eligible Marble Manager streams earns you Resource Cache crates loaded with base-building materials: Bronze Bars, Silver Bars, Repair Tools, and a shot at Gold Bars or the coveted Crystal Skull. Watch more streams to stack more caches, then link your Twitch account at marblemanager.fun to claim everything automatically. Whether you're a seasoned racer managing your track economy or a newcomer looking to build your first base, these drops give you a head start. Tune in, earn your cache, and join the race today!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a098518b-e51c-4a31-a328-d38e1f56fe2c.png",
+   "detailsURL": "https://marblemanager.fun/drops",
+   "linkURL": "https://marblemanager.fun/drops",
+   "owner": "Pixel by Pixel Studios",
+   "game": {
+    "id": "1292861145",
+    "name": "Marble Racing Manager",
+    "slug": "marble-racing-manager",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1292861145_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marble-racing-manager"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Manager Drop 1",
+     "minutes": 180,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-14T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Resource Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/05f50f79-0407-4ef6-b3bf-74fc155faa14.png"
+      }
+     ]
+    },
+    {
+     "name": "Manager Drop 2",
+     "minutes": 360,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-14T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Resource Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/05f50f79-0407-4ef6-b3bf-74fc155faa14.png"
+      }
+     ]
+    },
+    {
+     "name": "Manager Drop 3",
+     "minutes": 540,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-14T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Resource Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/05f50f79-0407-4ef6-b3bf-74fc155faa14.png"
+      }
+     ]
+    },
+    {
+     "name": "Manager Drop 4",
+     "minutes": 720,
+     "startAt": "2026-11-07T04:00:00Z",
+     "endAt": "2026-11-14T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Resource Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/05f50f79-0407-4ef6-b3bf-74fc155faa14.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "90273492-0fd5-46d0-b1cf-60084d901adf",
    "name": " Ignite Stage2 W5",
    "status": "ACTIVE",
@@ -8430,10 +8887,35 @@
    },
    "channels": [
     "ow_esports_th",
+    "hadi_ow",
+    "iddqd",
+    "rakattack",
+    "avrl",
+    "franciscoow",
+    "teetawatv3",
     "ow_esports",
-    "ow_esports_jp"
+    "nitrao",
+    "ta1yo_tv",
+    "zbra",
+    "tommathan",
+    "chosen_ow",
+    "6cyx",
+    "profoundrice",
+    "emongg",
+    "commanderx",
+    "angrodtralari",
+    "hammerkick",
+    "unter",
+    "karq",
+    "owbrain",
+    "ml7support",
+    "poko",
+    "warn",
+    "meltonff",
+    "ow_esports_jp",
+    "amaui0915"
    ],
-   "channelCount": 3,
+   "channelCount": 28,
    "drops": [
     {
      "name": "Candlelit Satya Spray",
