@@ -1,851 +1,11 @@
 {
- "updatedAt": "2026-11-07T09:11:34Z",
+ "updatedAt": "2026-11-07T15:52:52Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "23478ed9-c65f-4ef6-b613-c5aad2ff7eec",
-   "name": "Dragonfire 10 - #5/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T10:00:00Z",
-   "endAt": "2026-11-07T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/58c7d7fb-613a-4b52-9acd-15d6077e2ed5.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-06T10:00:00Z",
-     "endAt": "2026-11-07T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a",
-   "name": "Nov Wk Hachiman!",
-   "status": "ACTIVE",
-   "startAt": "2026-10-31T11:00:00Z",
-   "endAt": "2026-11-07T10:57:59.999Z",
-   "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/03362f52-1fe7-4197-8970-7b926897d9bc.png",
-   "detailsURL": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
-   "linkURL": "https://link.smite2.com/",
-   "owner": "Hi-Rez Studios",
-   "game": {
-    "id": "2094865572",
-    "name": "SMITE 2",
-    "slug": "smite-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2094865572-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-smite-2"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Market Coins Bundle 1",
-     "minutes": 120,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/903496ad-de97-41ff-ad97-12f099e20ea8.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Market Coins Bundle 2",
-     "minutes": 240,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c237f9f4-051c-4fed-b454-abb32c3e77bb.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Market Coins Bundle 3",
-     "minutes": 360,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32d7e22a-e073-4507-8b82-500ebb448395.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Market Coins Bundle 4",
-     "minutes": 480,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/620d7b83-3e6a-4d84-bb47-f04c18c57868.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Market Coins Bundle 5",
-     "minutes": 600,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b8e4f8a-acdc-4e46-8a69-86f52c8bea5c.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Shogun Hachiman",
-     "minutes": 720,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 6",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
-      },
-      {
-       "name": "Shogun Hachiman",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7b9138a-5491-4b3a-aaaf-dca01f39b2c8.png"
-      }
-     ]
-    },
-    {
-     "name": "Market Coins Bundle 6",
-     "minutes": 720,
-     "startAt": "2026-10-31T11:00:00Z",
-     "endAt": "2026-11-07T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Market Coins Bundle 6",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c9a2d89c-b52a-4fcb-8a84-0655364cde69",
-   "name": "Master Class 26 (Nov 6)",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T12:00:00Z",
-   "endAt": "2026-11-07T11:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/442b0e52-74f4-4bc8-a37e-7cab03746dc2.jpeg",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1 Hour (Nov 6)",
-     "minutes": 60,
-     "startAt": "2026-11-06T12:00:00Z",
-     "endAt": "2026-11-07T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/523d94d3-a843-493b-92aa-d2e6d81acdf4.png"
-      }
-     ]
-    },
-    {
-     "name": "2 Hour (Nov 6)",
-     "minutes": 120,
-     "startAt": "2026-11-06T12:00:00Z",
-     "endAt": "2026-11-07T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4dd1223-e900-49de-8edf-376d6b0e4cb0.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fb2dea70-185f-4960-8cdc-91eea87de9f5",
-   "name": "觀看Festa掉寶活動",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T04:00:00Z",
-   "endAt": "2026-11-07T12:59:59.999Z",
-   "description": "觀看Festa掉寶活動",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219544",
-   "linkURL": "https://event.gnjoy.com.tw/Ro/ACT_TwitchLogin",
-   "owner": "格雷維蒂互動股份有限公司",
-   "game": {
-    "id": "15229",
-    "name": "Ragnarok Online",
-    "slug": "ragnarok-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/15229_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-ragnarok-online"
-   },
-   "channels": [
-    "twgravity"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "強化料理濃縮液[活動專用]*3",
-     "minutes": 30,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "強化料理濃縮液[活動專用]*3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3a455155-b9f7-4798-a493-1bbdc6c93731.png"
-      }
-     ]
-    },
-    {
-     "name": "綿綿島貓食罐頭*2",
-     "minutes": 60,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "綿綿島貓食罐頭*2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/78fef1de-3ae5-45ff-a2e7-6442bb1b74cc.png"
-      }
-     ]
-    },
-    {
-     "name": "高級經驗值倍增書*2",
-     "minutes": 120,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "高級經驗值倍增書*2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e9f3ba55-3800-4fef-b49e-c81a2a56c78c.png"
-      }
-     ]
-    },
-    {
-     "name": "超黏掉寶率倍增糖1小時*2",
-     "minutes": 180,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "超黏掉寶率倍增糖1小時*2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/97445c41-32f0-45a9-8a1b-eec07ceb7f79.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cb8174f6-3ce9-46b2-82c6-fa3a44581500",
-   "name": "KEL CHAMPIONSHIP DAY 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T04:00:00Z",
-   "endAt": "2026-11-07T12:59:59.999Z",
-   "description": "https://twitch.playeternalreturn.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c641d428-3e48-4b03-982c-9fd24e8564d5.png",
-   "detailsURL": "https://twitch.playeternalreturn.com/",
-   "linkURL": "https://twitch.playeternalreturn.com/",
-   "owner": "Nimble Neuron Games",
-   "game": {
-    "id": "512864",
-    "name": "Eternal Return",
-    "slug": "eternal-return",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eternal-return"
-   },
-   "channels": [
-    "eternalreturn_jp",
-    "nunuzzdenuz"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    },
-    {
-     "name": "ENDGAME + Emotion",
-     "minutes": 60,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Emote S20 Fable",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/66be60a7-155a-43c2-8ad6-fa285bddb3e5.png"
-      },
-      {
-       "name": "Emote S20 Taegyung",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99c5d8e4-71cd-48e1-87c8-f09c4bdd6133.png"
-      },
-      {
-       "name": "Emote S20 OneCircle",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5efa113-fc52-4d5c-a011-411f76b328af.png"
-      },
-      {
-       "name": "Emote S20 Cnema",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b4106ebe-c19d-47bd-86cd-190bfbc3d66d.png"
-      },
-      {
-       "name": "ENDGAME_2026KEL",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06799e39-e602-418f-8b31-aa7e9d951a38.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180,
-     "startAt": "2026-11-07T04:00:00Z",
-     "endAt": "2026-11-07T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dd475bf4-6d15-4e2a-af8a-545d6e03a20d",
-   "name": "Affiliate11/6/26",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T14:00:00Z",
-   "endAt": "2026-11-07T13:59:59.999Z",
-   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
-   "owner": "Out of the Park Developments",
-   "game": {
-    "id": "2099590881",
-    "name": "Out of the Park Baseball 27",
-    "slug": "out-of-the-park-baseball-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
-   },
-   "channels": [
-    "shawncurtis430",
-    "aydubby",
-    "franchisetimemachine",
-    "nershabainco",
-    "cwhitdcfc",
-    "angered_unicorn",
-    "esc_v",
-    "sporer",
-    "bullleague",
-    "drdynastic",
-    "tougie24",
-    "hollywoodty24",
-    "pbesim",
-    "maxlp80",
-    "dishnet34",
-    "supr",
-    "ezradenney",
-    "yukarinkazami",
-    "skyrolla",
-    "thatsportsgamer",
-    "xtoforas",
-    "irockths",
-    "azaxle",
-    "thenolannetwork",
-    "will_beh",
-    "nasbase",
-    "evcinnyc2",
-    "carini_harpua",
-    "crazycanuck1985",
-    "fkncommishlb",
-    "baseball_dreamland",
-    "acomeyoferrors",
-    "ripleytheoriole",
-    "tehsuigi",
-    "teeclev",
-    "cavacom",
-    "jbiggs78"
-   ],
-   "channelCount": 37,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 15,
-     "startAt": "2026-11-06T14:00:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "2",
-     "minutes": 30,
-     "startAt": "2026-11-06T14:00:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "3",
-     "minutes": 45,
-     "startAt": "2026-11-06T14:00:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "4",
-     "minutes": 60,
-     "startAt": "2026-11-06T14:00:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "5",
-     "minutes": 90,
-     "startAt": "2026-11-06T14:00:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Silver Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9eaa7756-e42b-4c55-b10f-52f46b746f38",
-   "name": "Osaka 2026 Play-ins",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T00:30:00Z",
-   "endAt": "2026-11-07T13:59:59.999Z",
-   "description": "Rainbow Six Siege - OSAKA MAJOR 2026",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31f13dd5-2493-42a3-979a-3b59c23d4e32.png",
-   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-   "linkURL": "https://drops-register.ubi.com/#/en-US",
-   "owner": "Ubisoft",
-   "game": {
-    "id": "460630",
-    "name": "Rainbow Six Siege",
-    "slug": "tom-clancys-rainbow-six-siege",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460630-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
-   },
-   "channels": [
-    "rainbow6bravo"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Esports Pack",
-     "minutes": 60,
-     "startAt": "2026-11-06T00:30:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esport Pack Osaka 2026",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 120,
-     "startAt": "2026-11-06T00:30:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esport Pack Osaka 2026",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 240,
-     "startAt": "2026-11-06T00:30:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esport Pack Osaka 2026",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Esports Pack",
-     "minutes": 360,
-     "startAt": "2026-11-06T00:30:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esport Pack Osaka 2026",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "L8A52 Weapon skin",
-     "minutes": 480,
-     "startAt": "2026-11-06T00:30:00Z",
-     "endAt": "2026-11-07T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "L85A2 Osaka 2026",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ccb41e05-691b-48a1-a75d-389e1da39cd5.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "36f72445-b369-46a1-87a5-591b37a536ad",
-   "name": "[AS] 2026 Master Class",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T05:00:00Z",
-   "endAt": "2026-11-07T14:59:59.999Z",
-   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e531de23-9e8f-4006-81e5-9a63ed6d380a.jpeg",
-   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "futsukachannel",
-    "hideaplaya",
-    "thecosmic_11"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "1 Hour",
-     "minutes": 60,
-     "startAt": "2026-11-07T05:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[AS] 1 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d682a96c-6c77-4889-a549-32184d178d13.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "352e8eef-95c4-4e12-8835-e66f4ccda4ef",
-   "name": "Echoes of Halloween day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T15:00:00Z",
-   "endAt": "2026-11-07T14:59:59.999Z",
-   "description": "Echoes of Halloween Drops enabled! Watch any Escape from Tarkov stream and claim exclusive in-game loot.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4f9e2cb-346c-4464-b394-a456c753c644.png",
-   "detailsURL": "https://www.twitch.tv/",
-   "linkURL": "https://www.escapefromtarkov.com/profile",
-   "owner": "Battlestate Games",
-   "game": {
-    "id": "491931",
-    "name": "Escape from Tarkov",
-    "slug": "escape-from-tarkov",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 30,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/24991aee-db84-4319-932a-9180017c0ecb.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dae47073-c0b2-4fef-8193-93b421e719dc.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1cf708df-c44a-422e-a89e-6a4e786eebf1.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/df2c5bbc-0414-45b5-a699-34615a2d407a.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/15ea2899-cd37-4b0b-a421-e42bab919220.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 180,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 6",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/af9cad78-89a9-4510-82fb-d9e07d19a8bc.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 7",
-     "minutes": 210,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 7",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2d03c6d1-6db7-4ee5-8b09-3c24dc79809f.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 240,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 8",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5eb7705a-cad5-41d6-96ff-94ac26613214.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 270,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 9",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c7b1a924-15b5-458d-b0ad-da658cb5236a.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 300,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 10",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/040c3838-44b6-4c1a-8ad4-9186cb73ad44.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5cadf2b4-ecb8-4da4-8bd7-7fddf6f08f52",
-   "name": "E7WC 2026 Knockout Stage",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T03:00:00Z",
-   "endAt": "2026-11-07T14:59:59.999Z",
-   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f0e130a-2c61-4ec5-98f1-3ee70aa1922f.png",
-   "detailsURL": "https://epic7.onstove.com/drops/twitch",
-   "linkURL": "https://epic7.onstove.com/drops/twitch",
-   "owner": "Smilegate",
-   "game": {
-    "id": "510056",
-    "name": "Epic Seven",
-    "slug": "epic-seven",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-epic-seven"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "E7WC 2026 Knockout Stage",
-     "minutes": 15,
-     "startAt": "2026-11-07T03:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "E7WC 2026 Knockout Stage",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c1ed1a75-f3fc-44c5-963b-546c18d78b4d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2b546d5c-ec9b-46a3-859f-5513034fedc8",
-   "name": "Opera GX CS APAC D1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T08:00:00Z",
-   "endAt": "2026-11-07T14:59:59.999Z",
-   "description": "Opera GX CS APAC D1",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/79bfe6c0-5830-419e-9fb6-c5f2c203fd41.jpeg",
-   "detailsURL": "https://worldoftanks.asia/news/live-streams/clan-showdown-finals-november-2026/",
-   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "hectr888",
-    "ra77en",
-    "0miki0_",
-    "dakillzor",
-    "younserl"
-   ],
-   "channelCount": 5,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 180,
-     "startAt": "2026-11-07T08:00:00Z",
-     "endAt": "2026-11-07T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eb420866-7dd9-4627-89cc-f61723a69923.png"
-      },
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/972c3579-4d4b-48af-8399-d8a8cc63bf2c.png"
-      },
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5043cb07-bcea-4f4a-ac90-8cea267938be.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "3a6a8b8f-49bc-46a4-b50c-1ef9fddf43a4",
    "name": "Closed Beta #1",
@@ -1056,7 +216,7 @@
     "uc4ronline",
     "ratsbanee",
     "salityandruil",
-    "lmpoly",
+    "kayagillerrr",
     "xdreich",
     "izeq361",
     "xzachariell",
@@ -1315,6 +475,83 @@
    ]
   },
   {
+   "id": "3dabe9aa-bb00-44e2-aa7e-ab24411d8da4",
+   "name": "Opera GX CS EU D1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T15:00:00Z",
+   "endAt": "2026-11-07T23:59:59.999Z",
+   "description": "Opera GX CS EU D1",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8d421f4c-a927-4ebd-828a-5833e19147cb.jpeg",
+   "detailsURL": "https://worldoftanks.eu/de/news/live-streams/clan-showdown-finals-november-2026/",
+   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "27546",
+    "name": "World of Tanks",
+    "slug": "world-of-tanks",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
+   },
+   "channels": [
+    "fr3ddy",
+    "chessgenie",
+    "younserl",
+    "sakres_stream",
+    "worldoftanks",
+    "shadow_thelonewolf",
+    "newmultishow",
+    "jxcr",
+    "skifler_wot",
+    "mrscheff",
+    "synop_s",
+    "monsteryoo",
+    "cyganzor",
+    "iicoyote",
+    "sh0kerix",
+    "vgostiua",
+    "tankelit"
+   ],
+   "channelCount": 17,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 120,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-07T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "2x Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b6616363-4fdf-48f7-89dc-1eac9373bd02.png"
+      },
+      {
+       "name": "2x Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e53fcd01-b6ec-433c-b0f6-fb5dc56e7884.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-07T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "5x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cdf60cd6-0ef6-4f4c-9fd9-2f37e4da72ca.png"
+      },
+      {
+       "name": "5x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/41179f5c-d5ab-4fa3-ab0f-af6aabde107c.png"
+      },
+      {
+       "name": "5x Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/82096388-da4c-4688-a10c-2bb25ac3f617.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e583986-2e3e-484b-9e77-f337d1157bfd",
    "name": "[NAEU] 2026 Master Class",
    "status": "ACTIVE",
@@ -1354,6 +591,41 @@
       {
        "name": "[NAEU] 1 Hour Reward",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b54003be-21ba-4d3f-b5d7-eb078bb77cf1.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "05dbc750-28b1-4953-bbbd-5d69cf67c719",
+   "name": "Dragonfire 10 - #6/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T10:00:00Z",
+   "endAt": "2026-11-08T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ff63b880-4929-42ac-b51a-cf2d2e183534.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-11-07T10:00:00Z",
+     "endAt": "2026-11-08T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
       }
      ]
     }
@@ -1449,6 +721,1300 @@
       {
        "name": "Demonic Metal Head",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a6627468-a025-4c16-80e4-28503014072b.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4c023132-021e-4012-b0c5-8350a5d6e5b3",
+   "name": "Master Class 26 (Nov 7)",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T12:00:00Z",
+   "endAt": "2026-11-08T11:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e7471646-5b74-48e6-9d98-414bab1f0da9.jpeg",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1 Hour (Nov 7)",
+     "minutes": 60,
+     "startAt": "2026-11-07T12:00:00Z",
+     "endAt": "2026-11-08T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/523d94d3-a843-493b-92aa-d2e6d81acdf4.png"
+      }
+     ]
+    },
+    {
+     "name": "2 Hour (Nov 7)",
+     "minutes": 120,
+     "startAt": "2026-11-07T12:00:00Z",
+     "endAt": "2026-11-08T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "2 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4dd1223-e900-49de-8edf-376d6b0e4cb0.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "028dd271-6898-403c-ad47-c196e277f130",
+   "name": "Aydubby 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "aydubby"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6524c24c-8f47-45af-97d1-4898a4df9a8d",
+   "name": "Affiliate11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "shawncurtis430",
+    "nershabainco",
+    "angered_unicorn",
+    "esc_v",
+    "sporer",
+    "bullleague",
+    "drdynastic",
+    "tougie24",
+    "hollywoodty24",
+    "pbesim",
+    "dishnet34",
+    "supr",
+    "yukarinkazami",
+    "thatsportsgamer",
+    "irockths",
+    "azaxle",
+    "thenolannetwork",
+    "will_beh",
+    "nasbase",
+    "crazycanuck1985",
+    "fkncommishlb",
+    "baseball_dreamland",
+    "ripleytheoriole",
+    "tehsuigi",
+    "teeclev",
+    "cavacom"
+   ],
+   "channelCount": 26,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "02e4809a-e48c-4556-9576-67ace629fa22",
+   "name": "Carini 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "carini_harpua"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c1d30174-59c8-469b-82c0-0ec7567b6f2c",
+   "name": "EzraDenney11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "ezradenney"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0052dfc2-fb68-43ae-aa17-037351ad5951",
+   "name": "CWhit 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "cwhitdcfc"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b6c80fda-10c4-4a45-8298-182077105d24",
+   "name": "Xtoforas 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "xtoforas"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "10852b41-8d2c-421a-9710-263ffe4873d0",
+   "name": "EVCinNYC 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "evcinnyc2"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efaa46fd-0879-41bc-91d0-1858d8cf1eae",
+   "name": "JBiggs 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "jbiggs78"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5b7e61d8-a359-42e7-9028-f5030566f494",
+   "name": "Comey 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "acomeyoferrors"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f19349e3-8dfb-447c-a608-6ba88876c8f4",
+   "name": "MaxLP 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "maxlp80"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a1133a38-3def-4fdd-9f54-6356641cd5f2",
+   "name": "FTM 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "franchisetimemachine"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "67a21af2-0a63-4875-9aa8-5d5026b44cdf",
+   "name": "Skyrolla 11/7/26",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T14:00:00Z",
+   "endAt": "2026-11-08T13:59:59.999Z",
+   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
+   "owner": "Out of the Park Developments",
+   "game": {
+    "id": "2099590881",
+    "name": "Out of the Park Baseball 27",
+    "slug": "out-of-the-park-baseball-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
+   },
+   "channels": [
+    "skyrolla"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 15,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "minutes": 30,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "minutes": 45,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "minutes": 60,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Standard Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "minutes": 90,
+     "startAt": "2026-11-07T14:00:00Z",
+     "endAt": "2026-11-08T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "PT27 Silver Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "83a25d80-1e9c-463a-bbbd-5dc103e92a10",
+   "name": "Echoes of Halloween day 2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T15:00:00Z",
+   "endAt": "2026-11-08T14:59:59.999Z",
+   "description": "Echoes of Halloween Drops enabled! Watch any Escape from Tarkov stream and claim exclusive in-game loot.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5570de4a-77cf-42f4-bcb3-37f0fdce96fd.png",
+   "detailsURL": "https://www.twitch.tv/",
+   "linkURL": "https://www.escapefromtarkov.com/profile",
+   "owner": "Battlestate Games",
+   "game": {
+    "id": "491931",
+    "name": "Escape from Tarkov",
+    "slug": "escape-from-tarkov",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 30,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 1",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5d162d6a-b187-416d-a8d7-25d2b127f347.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 60,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9b6d9fe2-6b5f-439d-890e-a0293e2b6d9f.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 90,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b1b92b89-5daa-41c4-a952-55b8f586e84d.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 120,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7c2f528f-e631-4168-b4eb-11d5481a8386.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 150,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 5",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/776e502f-38f5-43b1-bad1-092a136c77af.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 180,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 6",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5029814a-a857-46e8-99b7-806c28109e80.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 7",
+     "minutes": 210,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 7",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7d1b6f03-b4e7-48be-a537-9835c9554928.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 240,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 8",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/476265ed-754e-4e79-920a-06086c7383ca.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 270,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 9",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e1f00197-f345-4ff4-9b86-c67e71d9b2ff.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 300,
+     "startAt": "2026-11-07T15:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drop 10",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6943b3cf-f8d4-44bf-8e8a-1605aa94cb6f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "252322a0-7a24-4d4c-9404-72c58d99fc0a",
+   "name": "KOTS XIX Finals Week 1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T12:00:00Z",
+   "endAt": "2026-11-08T18:59:59.999Z",
+   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e534e0aa-194e-492f-b553-916831c66c9b.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [
+    "torpedochka_",
+    "minihannibal65",
+    "9_9_destroyer",
+    "xairen",
+    "zapata96mx",
+    "4ort_yar",
+    "painezor",
+    "trenlass",
+    "seadonkeygaming",
+    "dighort",
+    "kou_scone",
+    "malteseknight",
+    "admiral_revan",
+    "e_tagpro",
+    "lenny_gts",
+    "pwdhfreeman",
+    "lord_zath",
+    "joe_muetze",
+    "overlordbou",
+    "el_profedehistoria",
+    "worldsp0wn",
+    "searaptor",
+    "teamkrado"
+   ],
+   "channelCount": 23,
+   "drops": [
+    {
+     "name": "15.10 KOTS XIX Finals Week 1",
+     "minutes": 180,
+     "startAt": "2026-11-07T12:00:00Z",
+     "endAt": "2026-11-08T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "15.10 KOTS XIX Goodie Bag",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b41bb5ba-bf30-43b3-a388-e66633bb262b.png"
       }
      ]
     }
@@ -4361,6 +4927,69 @@
    ]
   },
   {
+   "id": "e521dd0d-7211-4381-9efa-cf2bcf239944",
+   "name": "FC Pro Open GQ",
+   "status": "ACTIVE",
+   "startAt": "2026-10-25T21:49:00Z",
+   "endAt": "2026-11-10T21:48:59.999Z",
+   "description": "FC Pro Open Global Qualifier",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d8111c29-be37-4e8b-9229-02b968f1e890.png",
+   "detailsURL": "https://www.ea.com/games/ea-sports-fc/fc-pro/how-to-earn-rewards",
+   "linkURL": "https://www.ea.com/twitchlinking",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "123184772",
+    "name": "EA Sports FC 27",
+    "slug": "ea-sports-fc-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/123184772_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-ea-sports-fc-27"
+   },
+   "channels": [
+    "phfreitas",
+    "damiefifa",
+    "wilfriedrozay",
+    "riberaribell",
+    "maatm",
+    "furkyplayzz",
+    "easportsfc",
+    "flokox",
+    "stokes",
+    "chousita___",
+    "mrd0ne",
+    "diegog1996",
+    "abo_fawzi18",
+    "cone1996fc",
+    "moauba"
+   ],
+   "channelCount": 15,
+   "drops": [
+    {
+     "name": "80+ x3 Players Pack",
+     "minutes": 15,
+     "startAt": "2026-10-25T21:49:00Z",
+     "endAt": "2026-11-10T21:48:59.999Z",
+     "rewards": [
+      {
+       "name": "80+ x3 Players Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d0081def-210f-4a68-bedf-33f125d75952.png"
+      }
+     ]
+    },
+    {
+     "name": "81+ x5 Players Pack",
+     "minutes": 60,
+     "startAt": "2026-10-25T21:49:00Z",
+     "endAt": "2026-11-10T21:48:59.999Z",
+     "rewards": [
+      {
+       "name": "81+ x5 Players Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff763952-d8e8-4c5b-9767-003d67c0821e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "421537c6-573b-4087-afd6-bd98ec386e7b",
    "name": "Brawlhalla Tourn. Wknd 2",
    "status": "ACTIVE",
@@ -7134,6 +7763,113 @@
    ]
   },
   {
+   "id": "f8f01b79-8d12-4d05-99c4-dabee7759897",
+   "name": "Nov Week 2!",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T11:00:00Z",
+   "endAt": "2026-11-14T10:57:59.999Z",
+   "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/70c73725-d4b5-4245-90e2-603485ffbced.jpeg",
+   "detailsURL": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
+   "linkURL": "https://link.smite2.com/",
+   "owner": "Hi-Rez Studios",
+   "game": {
+    "id": "2094865572",
+    "name": "SMITE 2",
+    "slug": "smite-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2094865572-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-smite-2"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Market Coins Bundle 1",
+     "minutes": 120,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 1",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/903496ad-de97-41ff-ad97-12f099e20ea8.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 2",
+     "minutes": 240,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c237f9f4-051c-4fed-b454-abb32c3e77bb.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 3",
+     "minutes": 360,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32d7e22a-e073-4507-8b82-500ebb448395.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 4",
+     "minutes": 480,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/620d7b83-3e6a-4d84-bb47-f04c18c57868.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 5",
+     "minutes": 600,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 5",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b8e4f8a-acdc-4e46-8a69-86f52c8bea5c.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 6",
+     "minutes": 720,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 6",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3ac43663-e809-40fa-9afa-b37999ee4dac.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Market Coins Bundle 7",
+     "minutes": 840,
+     "startAt": "2026-11-07T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Market Coins Bundle 7",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/043434c4-1e73-40ae-80ec-ac836737e748.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "968791a4-0188-4af8-8edc-8d6e92b941bb",
    "name": "MrM Streamer Wars Launch",
    "status": "ACTIVE",
@@ -8887,35 +9623,15 @@
    },
    "channels": [
     "ow_esports_th",
-    "hadi_ow",
-    "iddqd",
-    "rakattack",
-    "avrl",
-    "franciscoow",
     "teetawatv3",
-    "ow_esports",
-    "nitrao",
-    "ta1yo_tv",
-    "zbra",
-    "tommathan",
-    "chosen_ow",
-    "6cyx",
-    "profoundrice",
     "emongg",
     "commanderx",
     "angrodtralari",
-    "hammerkick",
     "unter",
-    "karq",
-    "owbrain",
     "ml7support",
-    "poko",
-    "warn",
-    "meltonff",
-    "ow_esports_jp",
-    "amaui0915"
+    "ow_esports_jp"
    ],
-   "channelCount": 28,
+   "channelCount": 8,
    "drops": [
     {
      "name": "Candlelit Satya Spray",
