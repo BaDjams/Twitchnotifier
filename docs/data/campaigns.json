@@ -1,46 +1,11 @@
 {
- "updatedAt": "2026-11-06T22:20:05Z",
+ "updatedAt": "2026-11-07T02:19:37Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "cbea3282-61bc-4e9c-a42f-794cb5610c79",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T00:00:00Z",
-   "endAt": "2026-11-06T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7f88c9d-897b-4968-93ca-55031bce6fd8.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-06T00:00:00Z",
-     "endAt": "2026-11-06T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "c5baa51c-8692-40a9-83a1-7c0e08b3a6d9",
    "name": "November Drops ",
@@ -480,9 +445,108 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
+    "ssizer",
+    "iloveximm",
+    "gameaddictsstudios",
+    "ricci",
+    "raulyny",
+    "wiliis_",
+    "pestily",
+    "oneshooter",
+    "meepsnz",
+    "royalpenguin",
+    "dreamleslife",
+    "bulletthekrazygamer",
+    "boooe",
+    "sunburntspartan",
+    "varsitygaming",
+    "justryuk",
+    "t3bbb",
+    "kinggeorge",
+    "rezina",
+    "esl_verdipwnz",
+    "bonesonly",
+    "maciejay",
+    "mint",
+    "adsus123445",
+    "sirpineapple",
+    "crossarchon",
+    "pascal0_4",
+    "obloga_ua",
+    "royza",
+    "gwenpostingttv",
+    "yo_boy_roy",
+    "minato_yu_",
+    "hamcheese",
+    "omgitspriest",
+    "bikinibodhi",
+    "supremisis",
+    "skittlz",
+    "garfield",
+    "rainbow6br",
+    "mingo",
+    "rurumin",
+    "chrisgodly",
+    "bommax",
+    "jager_clutch",
+    "amethystmaps",
+    "dangleberriestv",
+    "pingman",
+    "adventuremerchants",
+    "anifex",
+    "vetelcito01",
+    "rainbow6itacom",
+    "jenz",
+    "jerichofive",
+    "senvale",
+    "rainbow6b",
+    "korochu",
+    "eaglex99",
+    "n3phr3nnn",
+    "caramelooficial",
+    "breeze2k",
+    "coconutbrah",
+    "enduxfps",
+    "spawntaneous",
+    "kamikazer6",
+    "poxonlox",
+    "paladinamber",
+    "tebi10",
+    "s1lverwolf94",
+    "bimil",
+    "icecold",
+    "berticuss",
+    "jost",
+    "keto",
+    "huskysquad",
+    "zuffiz",
+    "freshondesk",
+    "yeti_sa",
+    "fastanne",
+    "r6hub",
+    "baikinmen",
+    "kudos",
+    "rainbow6kr",
+    "mrmitty",
+    "rainbow6jp",
+    "rasco",
+    "justelliewilldo",
+    "andruwu",
+    "viperous",
+    "sandrakaz",
+    "franklin",
+    "jessgoat",
+    "chixttt",
+    "jayyguns",
+    "itswrenn",
+    "rainbow6fr",
+    "gnargl3ator",
+    "tacularr",
+    "rangagirlnads",
+    "athieno",
     "rainbow6bravo"
    ],
-   "channelCount": 1,
+   "channelCount": 201,
    "drops": [
     {
      "name": "Esports Pack",
@@ -1068,6 +1132,53 @@
       {
        "name": "CFB Twitch Pack",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9e1d7461-6018-48ba-8101-5c7ef09d4bb3.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbd8582b-483a-4155-953e-273b47d38498",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T00:00:00Z",
+   "endAt": "2026-11-07T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd89ec33-6332-4d49-bf7e-e61d3435b226.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-11-07T00:00:00Z",
+     "endAt": "2026-11-07T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-11-07T00:00:00Z",
+     "endAt": "2026-11-07T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
