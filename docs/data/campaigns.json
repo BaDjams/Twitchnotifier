@@ -1,136 +1,11 @@
 {
- "updatedAt": "2026-11-07T20:09:40Z",
+ "updatedAt": "2026-11-07T23:54:10Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "d88abdcf-448f-4db0-8318-6f9b8c41ad56",
-   "name": "Walker MINICUP day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T16:30:00Z",
-   "endAt": "2026-11-07T20:59:59.999Z",
-   "description": "We are back in action with MINICUP Escape from Tarkov: Arena. Six of North America's strongest teams will face off to see who will be crowned champion. Tune in to catch all the matches and earn your Twitch Drops!\n\n",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4e6b4b9e-ebc5-457c-bfec-6af243474a9f.png",
-   "detailsURL": "https://www.twitch.tv/",
-   "linkURL": "https://www.escapefromtarkov.com/profile",
-   "owner": "Battlestate Games",
-   "game": {
-    "id": "380978759",
-    "name": "Escape from Tarkov: Arena",
-    "slug": "escape-from-tarkov-arena",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/380978759_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov-arena"
-   },
-   "channels": [
-    "walker",
-    "dezzy_hhg",
-    "huntpremier"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 30,
-     "startAt": "2026-11-07T16:30:00Z",
-     "endAt": "2026-11-07T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/59bab809-b4b7-45f1-8fc3-40c1f7c49336.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 60,
-     "startAt": "2026-11-07T16:30:00Z",
-     "endAt": "2026-11-07T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbd48010-1e52-48a5-870c-29274e4c08c9.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 90,
-     "startAt": "2026-11-07T16:30:00Z",
-     "endAt": "2026-11-07T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/29304b9e-871b-4adb-b593-e9c5661aedbf.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120,
-     "startAt": "2026-11-07T16:30:00Z",
-     "endAt": "2026-11-07T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/71dfc033-fe25-498d-81d4-74667fd9800c.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150,
-     "startAt": "2026-11-07T16:30:00Z",
-     "endAt": "2026-11-07T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6a946a9d-ec79-4148-8b72-3d11944a53da.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "85981c97-5efb-4924-8f16-ed814ee80ec4",
-   "name": "[SA] MC Qualifiers",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T18:00:00Z",
-   "endAt": "2026-11-07T23:29:59.999Z",
-   "description": "https://www.sa.playblackdesert.com/News/Detail?groupContentNo=8828",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7e8a98dc-a39b-4339-8fbf-89708d93a0f0.jpeg",
-   "detailsURL": "https://www.sa.playblackdesert.com/News/Detail?groupContentNo=8828",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "blackdesert_br",
-    "blackdesert_latino"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "1 Hour (Nov 7)",
-     "minutes": 60,
-     "startAt": "2026-11-07T18:00:00Z",
-     "endAt": "2026-11-07T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "[SA] MC Qualifiers",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/58a9983e-a559-48d2-9600-9d8f27be869b.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "cbd8582b-483a-4155-953e-273b47d38498",
    "name": "November Drops",
@@ -324,6 +199,71 @@
       {
        "name": "ESPORTS PIECE2",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3bf9c98a-c18a-49fa-9ba4-b3e760fb1f79",
+   "name": "RLS 11/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-07T22:00:00Z",
+   "endAt": "2026-11-08T04:59:59.999Z",
+   "description": "Real Life Spartan is a real life awesome dude - support by watching and earn some drops!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/65ca0b7d-97bb-4da9-808d-e1437cbf13e2.jpeg",
+   "detailsURL": "https://www.halowaypoint.com",
+   "linkURL": "https://www.halowaypoint.com/settings/linked-accounts",
+   "owner": "Microsoft",
+   "game": {
+    "id": "506416",
+    "name": "Halo Infinite",
+    "slug": "halo-infinite",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/506416-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-halo-infinite"
+   },
+   "channels": [
+    "reallifespartan"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Subscribe / Gift ",
+     "minutes": 0,
+     "startAt": "2026-11-07T22:00:00Z",
+     "endAt": "2026-11-08T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Burger and Fries Charm",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/950fcabb-2c28-4952-a0f5-b44ed0d15d67.png"
+      },
+      {
+       "name": "Field Test Weapons",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1e5aacdd-5d88-4142-96db-5d066f501f90.png"
+      },
+      {
+       "name": "HCS Launch BR",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a7c0b1d0-e27b-4f4b-b97c-15ca854542f6.png"
+      },
+      {
+       "name": "Natal Ivory Charm",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/01deb6ae-ba15-43ab-9e36-2b6643841f28.png"
+      },
+      {
+       "name": "Steel Soldier Armor",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/30302a47-9d55-43fa-9169-a96805c754c1.png"
+      }
+     ]
+    },
+    {
+     "name": "Watch for 30 Minutes",
+     "minutes": 30,
+     "startAt": "2026-11-07T22:00:00Z",
+     "endAt": "2026-11-08T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Predator Print Armors",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32e37c6b-c304-4860-beb0-976c84af98dd.png"
       }
      ]
     }
@@ -9693,6 +9633,7 @@
    "channels": [
     "ow_esports_th",
     "teetawatv3",
+    "ow_esports",
     "emongg",
     "commanderx",
     "angrodtralari",
@@ -9700,7 +9641,7 @@
     "ml7support",
     "ow_esports_jp"
    ],
-   "channelCount": 8,
+   "channelCount": 9,
    "drops": [
     {
      "name": "Candlelit Satya Spray",
