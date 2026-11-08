@@ -1,387 +1,11 @@
 {
- "updatedAt": "2026-11-08T05:51:50Z",
+ "updatedAt": "2026-11-08T13:13:56Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "7bdb3a40-1021-40f7-957f-521723aae04f",
-   "name": "Opera GX CS NA D1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-08T00:00:00Z",
-   "endAt": "2026-11-08T07:59:59.999Z",
-   "description": "Opera GX CS NA D1",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/064e36e7-87b8-4f12-9d0a-921fced74dbf.jpeg",
-   "detailsURL": "https://worldoftanks.com/en/news/live-streams/clan-showdown-finals-november-2026/",
-   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "jxcr",
-    "mautz_",
-    "dakillzor",
-    "younserl",
-    "o_p_hacker",
-    "darkninja"
-   ],
-   "channelCount": 6,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 180,
-     "startAt": "2026-11-08T00:00:00Z",
-     "endAt": "2026-11-08T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c3a6a1b2-e93a-4f30-9db4-46d980cbb2b3.png"
-      },
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6bd574bd-7c5c-411e-becc-74210728c75b.png"
-      },
-      {
-       "name": "3x Consumables",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/79c83276-604a-4c7f-81a9-4745ca7c957e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e583986-2e3e-484b-9e77-f337d1157bfd",
-   "name": "[NAEU] 2026 Master Class",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T09:00:00Z",
-   "endAt": "2026-11-08T08:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/119dff5b-1d72-4d01-a183-f7e507c0e251.jpeg",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "nickky",
-    "czanee",
-    "koregenik",
-    "mistyee",
-    "graybler",
-    "shimeco",
-    "qiywi",
-    "purpaleslushiii",
-    "choice",
-    "lechickensan",
-    "canadiancorgii"
-   ],
-   "channelCount": 11,
-   "drops": [
-    {
-     "name": "1 Hour",
-     "minutes": 60,
-     "startAt": "2026-11-07T09:00:00Z",
-     "endAt": "2026-11-08T08:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[NAEU] 1 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b54003be-21ba-4d3f-b5d7-eb078bb77cf1.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "05dbc750-28b1-4953-bbbd-5d69cf67c719",
-   "name": "Dragonfire 10 - #6/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T10:00:00Z",
-   "endAt": "2026-11-08T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ff63b880-4929-42ac-b51a-cf2d2e183534.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-07T10:00:00Z",
-     "endAt": "2026-11-08T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "56cf9e35-6322-4484-9f9b-7002092f1ac2",
-   "name": "Exclusive Demon Skins",
-   "status": "ACTIVE",
-   "startAt": "2026-10-25T10:00:00Z",
-   "endAt": "2026-11-08T09:59:59.999Z",
-   "description": "LAUNCH EXCLUSIVE - Demonic skins for all characters!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2848f460-cddb-4765-a1bf-e6eca74bcbd5.png",
-   "detailsURL": "https://nightcrew.upstart.games",
-   "linkURL": "https://nightcrew.upstart.games",
-   "owner": "Binary Spiders",
-   "game": {
-    "id": "977181783",
-    "name": "Night Crew",
-    "slug": "night-crew",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/977181783_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-night-crew"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Demonic Scientist",
-     "minutes": 30,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Scientist",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4c2b962b-2f70-453d-aa3d-9c07d11ed065.png"
-      }
-     ]
-    },
-    {
-     "name": "Demonic Medium",
-     "minutes": 60,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Medium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/05aed634-8072-4900-8b43-f392974e6802.png"
-      }
-     ]
-    },
-    {
-     "name": "Demonic Veteran",
-     "minutes": 90,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Veteran",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/33cb93a4-954a-4d85-8082-075c326b5f32.png"
-      }
-     ]
-    },
-    {
-     "name": "Demonic Hippie",
-     "minutes": 120,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Hippie",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2c54bf1e-72af-47c7-aec9-550df3f7584d.png"
-      }
-     ]
-    },
-    {
-     "name": "Demonic Jock",
-     "minutes": 150,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Jock",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/73958d14-de99-4abf-a2c8-7c66c59fb7ee.png"
-      }
-     ]
-    },
-    {
-     "name": "Demonic Metal Head",
-     "minutes": 180,
-     "startAt": "2026-10-25T10:00:00Z",
-     "endAt": "2026-11-08T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Demonic Metal Head",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a6627468-a025-4c16-80e4-28503014072b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4c023132-021e-4012-b0c5-8350a5d6e5b3",
-   "name": "Master Class 26 (Nov 7)",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T12:00:00Z",
-   "endAt": "2026-11-08T11:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e7471646-5b74-48e6-9d98-414bab1f0da9.jpeg",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1 Hour (Nov 7)",
-     "minutes": 60,
-     "startAt": "2026-11-07T12:00:00Z",
-     "endAt": "2026-11-08T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/523d94d3-a843-493b-92aa-d2e6d81acdf4.png"
-      }
-     ]
-    },
-    {
-     "name": "2 Hour (Nov 7)",
-     "minutes": 120,
-     "startAt": "2026-11-07T12:00:00Z",
-     "endAt": "2026-11-08T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4dd1223-e900-49de-8edf-376d6b0e4cb0.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8a82fc07-89b5-4676-bcdf-b2e3646aff22",
-   "name": "KEL CHAMPIONSHIP DAY 2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-08T04:00:00Z",
-   "endAt": "2026-11-08T12:59:59.999Z",
-   "description": "https://twitch.playeternalreturn.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/560dc8a1-1bca-4917-8ff5-7cea0f797b6c.png",
-   "detailsURL": "https://twitch.playeternalreturn.com/",
-   "linkURL": "https://twitch.playeternalreturn.com/",
-   "owner": "Nimble Neuron Games",
-   "game": {
-    "id": "512864",
-    "name": "Eternal Return",
-    "slug": "eternal-return",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eternal-return"
-   },
-   "channels": [
-    "eternalreturn_jp",
-    "nunuzzdenuz"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 60,
-     "startAt": "2026-11-08T04:00:00Z",
-     "endAt": "2026-11-08T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    },
-    {
-     "name": "ENDGAME + Mark",
-     "minutes": 60,
-     "startAt": "2026-11-08T04:00:00Z",
-     "endAt": "2026-11-08T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "MARK S20 Fable",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c7e6c68e-b416-4709-8f48-dab60015bd54.png"
-      },
-      {
-       "name": "Mark S20 Cnema",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4a5e7a48-af7c-442f-a941-03a0bfd6a76c.png"
-      },
-      {
-       "name": "Mark S20 Taegyung",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bab5b3de-5823-4e75-a01e-589d739d9c81.png"
-      },
-      {
-       "name": "Mark S20 OneCircle",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d12b0af8-ff36-4618-920f-b2253536e672.png"
-      },
-      {
-       "name": "ENDGAME_2026KEL",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06799e39-e602-418f-8b31-aa7e9d951a38.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 120,
-     "startAt": "2026-11-08T04:00:00Z",
-     "endAt": "2026-11-08T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN + ESPORTS PIECE",
-     "minutes": 180,
-     "startAt": "2026-11-08T04:00:00Z",
-     "endAt": "2026-11-08T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      },
-      {
-       "name": "ESPORTS PIECE2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dbeb6cee-6597-4e34-be4d-992b61965e13.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "028dd271-6898-403c-ad47-c196e277f130",
    "name": "Aydubby 11/7/26",
@@ -1428,40 +1052,49 @@
    ]
   },
   {
-   "id": "fd01d70f-39fe-4389-97f5-62a5bd379bb4",
-   "name": "[AS] 2026 Master Class",
+   "id": "cf492d9e-7336-4074-b438-111a60b9a441",
+   "name": "Opera GX CS APAC D2",
    "status": "ACTIVE",
-   "startAt": "2026-11-08T05:00:00Z",
+   "startAt": "2026-11-08T08:00:00Z",
    "endAt": "2026-11-08T14:59:59.999Z",
-   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd168cd1-4a09-4035-b4b3-be3d30d1de65.jpeg",
-   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
+   "description": "Opera GX CS APAC D2",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8e4a088c-71ff-4b49-af39-00c0536ac6fe.jpeg",
+   "detailsURL": "https://worldoftanks.asia/news/live-streams/clan-showdown-finals-november-2026/",
+   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+   "owner": "Wargaming",
    "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
+    "id": "27546",
+    "name": "World of Tanks",
+    "slug": "world-of-tanks",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
    },
    "channels": [
-    "futsukachannel",
-    "casablancass_",
-    "dokxdaeks",
-    "dogbrolovelove"
+    "hectr888",
+    "ra77en",
+    "0miki0_",
+    "dakillzor",
+    "younserl"
    ],
-   "channelCount": 4,
+   "channelCount": 5,
    "drops": [
     {
-     "name": "1 Hour",
-     "minutes": 60,
-     "startAt": "2026-11-08T05:00:00Z",
+     "name": "Drop 1",
+     "minutes": 180,
+     "startAt": "2026-11-08T08:00:00Z",
      "endAt": "2026-11-08T14:59:59.999Z",
      "rewards": [
       {
-       "name": "[AS] 1 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a542d7e9-c33e-4698-8991-43fa01dd2484.png"
+       "name": "2x Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/554b406c-ba76-4c6a-b2d0-34628d967449.png"
+      },
+      {
+       "name": "2x Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2d54fefa-633f-4076-8786-7526b220dafa.png"
+      },
+      {
+       "name": "2x Demount Kits",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2fa1af4b-48e7-4e47-b871-52f31b1884c8.png"
       }
      ]
     }
@@ -1605,6 +1238,46 @@
       {
        "name": "Drop 10",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6943b3cf-f8d4-44bf-8e8a-1605aa94cb6f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fd01d70f-39fe-4389-97f5-62a5bd379bb4",
+   "name": "[AS] 2026 Master Class",
+   "status": "ACTIVE",
+   "startAt": "2026-11-08T05:00:00Z",
+   "endAt": "2026-11-08T14:59:59.999Z",
+   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bd168cd1-4a09-4035-b4b3-be3d30d1de65.jpeg",
+   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "futsukachannel",
+    "casablancass_",
+    "dokxdaeks",
+    "dogbrolovelove"
+   ],
+   "channelCount": 4,
+   "drops": [
+    {
+     "name": "1 Hour",
+     "minutes": 60,
+     "startAt": "2026-11-08T05:00:00Z",
+     "endAt": "2026-11-08T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[AS] 1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a542d7e9-c33e-4698-8991-43fa01dd2484.png"
       }
      ]
     }
@@ -3252,6 +2925,51 @@
    ]
   },
   {
+   "id": "5a01d473-2db6-4f13-b9f1-ac93e6b50d6f",
+   "name": "[NAEU] 2026 Master Class",
+   "status": "ACTIVE",
+   "startAt": "2026-11-08T09:00:00Z",
+   "endAt": "2026-11-09T08:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5023765f-9c5f-4255-a6b5-f04dd5a8527a.jpeg",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "reirawr",
+    "vert",
+    "choice",
+    "czanee",
+    "canadiancorgii",
+    "qiywi",
+    "mistyee",
+    "lechickensan",
+    "koregenik"
+   ],
+   "channelCount": 9,
+   "drops": [
+    {
+     "name": "1 Hour",
+     "minutes": 60,
+     "startAt": "2026-11-08T09:00:00Z",
+     "endAt": "2026-11-09T08:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[NAEU] 1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06978cfa-8663-4c29-92a1-314c29e40c03.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "90bbb67a-e267-48ba-aca7-51b8f2469bd7",
    "name": "Halloween Event",
    "status": "ACTIVE",
@@ -3419,6 +3137,41 @@
    ]
   },
   {
+   "id": "73e7a0f4-4806-43ab-9167-ba39fb9a4cf9",
+   "name": "Dragonfire 10 - #7/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-08T10:00:00Z",
+   "endAt": "2026-11-09T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72240c09-7caa-46c1-b7ab-f4a0473eb691.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-11-08T10:00:00Z",
+     "endAt": "2026-11-09T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec",
    "name": "Halloween 2026 Part 3",
    "status": "ACTIVE",
@@ -3560,6 +3313,53 @@
       {
        "name": "Ex Military Legs H26",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fd73056f-80bb-491f-befb-710afaec17ef.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0c795cf4-94af-462c-94fd-0155a688c9ee",
+   "name": "Master Class 26 (Nov 8)",
+   "status": "ACTIVE",
+   "startAt": "2026-11-08T12:00:00Z",
+   "endAt": "2026-11-09T11:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1159b6ff-3f5e-46eb-a250-267aef5d4c04.jpeg",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1 Hour (Nov 8)",
+     "minutes": 60,
+     "startAt": "2026-11-08T12:00:00Z",
+     "endAt": "2026-11-09T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "1 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/523d94d3-a843-493b-92aa-d2e6d81acdf4.png"
+      }
+     ]
+    },
+    {
+     "name": "2 Hour (Nov 8)",
+     "minutes": 120,
+     "startAt": "2026-11-08T12:00:00Z",
+     "endAt": "2026-11-09T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "2 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d4dd1223-e900-49de-8edf-376d6b0e4cb0.png"
       }
      ]
     }
@@ -3908,108 +3708,9 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "ssizer",
-    "iloveximm",
-    "gameaddictsstudios",
-    "ricci",
-    "raulyny",
-    "wiliis_",
-    "pestily",
-    "oneshooter",
-    "meepsnz",
-    "royalpenguin",
-    "dreamleslife",
-    "bulletthekrazygamer",
-    "boooe",
-    "sunburntspartan",
-    "varsitygaming",
-    "justryuk",
-    "t3bbb",
-    "kinggeorge",
-    "rezina",
-    "esl_verdipwnz",
-    "bonesonly",
-    "maciejay",
-    "mint",
-    "adsus123445",
-    "sirpineapple",
-    "crossarchon",
-    "pascal0_4",
-    "obloga_ua",
-    "royza",
-    "gwenpostingttv",
-    "yo_boy_roy",
-    "minato_yu_",
-    "hamcheese",
-    "omgitspriest",
-    "bikinibodhi",
-    "supremisis",
-    "skittlz",
-    "garfield",
-    "rainbow6br",
-    "mingo",
-    "rurumin",
-    "chrisgodly",
-    "bommax",
-    "jager_clutch",
-    "amethystmaps",
-    "dangleberriestv",
-    "pingman",
-    "adventuremerchants",
-    "anifex",
-    "rainbow6itacom",
-    "jenz",
-    "jerichofive",
-    "senvale",
-    "korochu",
-    "eaglex99",
-    "n3phr3nnn",
-    "breeze2k",
-    "coconutbrah",
-    "enduxfps",
-    "spawntaneous",
-    "kamikazer6",
-    "poxonlox",
-    "paladinamber",
-    "tebi10",
-    "s1lverwolf94",
-    "bimil",
-    "icecold",
-    "berticuss",
-    "jost",
-    "keto",
-    "huskysquad",
-    "zuffiz",
-    "freshondesk",
-    "yeti_sa",
-    "fastanne",
-    "r6hub",
-    "baikinmen",
-    "kudos",
-    "rainbow6kr",
-    "mrmitty",
-    "rainbow6jp",
-    "rasco",
-    "justelliewilldo",
-    "andruwu",
-    "viperous",
-    "sandrakaz",
-    "franklin",
-    "jessgoat",
-    "chixttt",
-    "jayyguns",
-    "itswrenn",
-    "rainbow6fr",
-    "gnargl3ator",
-    "tacularr",
-    "rangagirlnads",
-    "athieno",
-    "rainbow6bravo",
-    "cr_wokka",
-    "deadbydalelight",
-    "itzuragan"
+    "rainbow6bravo"
    ],
-   "channelCount": 198,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Esports Pack",
