@@ -1,423 +1,11 @@
 {
- "updatedAt": "2026-11-08T18:28:09Z",
+ "updatedAt": "2026-11-08T22:25:34Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "252322a0-7a24-4d4c-9404-72c58d99fc0a",
-   "name": "KOTS XIX Finals Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T12:00:00Z",
-   "endAt": "2026-11-08T18:59:59.999Z",
-   "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e534e0aa-194e-492f-b553-916831c66c9b.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "torpedochka_",
-    "minihannibal65",
-    "9_9_destroyer",
-    "xairen",
-    "zapata96mx",
-    "4ort_yar",
-    "painezor",
-    "trenlass",
-    "seadonkeygaming",
-    "dighort",
-    "kou_scone",
-    "malteseknight",
-    "admiral_revan",
-    "e_tagpro",
-    "lenny_gts",
-    "pwdhfreeman",
-    "lord_zath",
-    "joe_muetze",
-    "overlordbou",
-    "el_profedehistoria",
-    "worldsp0wn",
-    "searaptor",
-    "teamkrado"
-   ],
-   "channelCount": 23,
-   "drops": [
-    {
-     "name": "15.10 KOTS XIX Finals Week 1",
-     "minutes": 180,
-     "startAt": "2026-11-07T12:00:00Z",
-     "endAt": "2026-11-08T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "15.10 KOTS XIX Goodie Bag",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b41bb5ba-bf30-43b3-a388-e66633bb262b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e9411c3e-9d11-48f8-8da6-3ba5b9d7f827",
-   "name": "ExileCon 2026",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T20:30:00Z",
-   "endAt": "2026-11-08T20:29:59.999Z",
-   "description": "Tune into ExileCon to earn Nightfowl Weapon Effect, Level-up Effect, Dodge Roll and Cape! ",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8da43987-55d6-4e5d-b652-e8a403ccfe5c.png",
-   "detailsURL": "https://www.pathofexile.com/twitchdrops",
-   "linkURL": "https://www.pathofexile.com/my-account/twitch",
-   "owner": "Grinding Gear Games",
-   "game": {
-    "id": "1017541397",
-    "name": "ExileCon",
-    "slug": "exilecon",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1017541397-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-exilecon"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "WeaponEffect",
-     "minutes": 120,
-     "startAt": "2026-11-06T20:30:00Z",
-     "endAt": "2026-11-08T20:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Nightfowl Weapon Effect",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/22ca98a9-0efc-4664-bcc9-5ad49cafd8c4.png"
-      }
-     ]
-    },
-    {
-     "name": "Levelup",
-     "minutes": 240,
-     "startAt": "2026-11-06T20:30:00Z",
-     "endAt": "2026-11-08T20:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Nightfowl Level-up Effect",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/980af253-ece3-4ed5-8aaf-07b217ae4ca5.png"
-      }
-     ]
-    },
-    {
-     "name": "DodgeRoll",
-     "minutes": 360,
-     "startAt": "2026-11-06T20:30:00Z",
-     "endAt": "2026-11-08T20:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Nightfowl Dodge Roll",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/62d504a2-5be2-45ec-8c59-d933b072d3d5.png"
-      }
-     ]
-    },
-    {
-     "name": "Backattachment",
-     "minutes": 480,
-     "startAt": "2026-11-06T20:30:00Z",
-     "endAt": "2026-11-08T20:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Nightfowl Back Attachment",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2658b35f-c1b8-4d85-b78a-8d21e7cba328.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "79c3f3df-20ff-47ef-a774-2d3be897e8a1",
-   "name": "Пятница 06.11.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T15:00:00Z",
-   "endAt": "2026-11-08T20:59:59.999Z",
-   "description": "Смотри прямые трансляции и получай награды!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3b5177ea-8463-4234-b35b-282a193073d3.png",
-   "detailsURL": "https://playcaliber.com/",
-   "linkURL": "https://playcaliber.com/",
-   "owner": "1C-777 Limited",
-   "game": {
-    "id": "514013",
-    "name": "Caliber",
-    "slug": "caliber",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514013_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-caliber"
-   },
-   "channels": [
-    "kodolov_",
-    "sk_explorer",
-    "13raum13",
-    "basist_games",
-    "demon_lestat_yt",
-    "enot_02_02",
-    "ii4ejiobod",
-    "vik__twitch",
-    "sawrway",
-    "brokenworldstm",
-    "shmodeyb",
-    "nesh1m",
-    "snegoff_show",
-    "pasha2222",
-    "alyona_ahapx19",
-    "0nlineru",
-    "6ackepbujijiuu",
-    "vladsafronow",
-    "zelehb_tv",
-    "mandarishmeow",
-    "dmitry_nobr",
-    "general_net",
-    "playcaliber",
-    "ulc3r_",
-    "4ejl_u3_geb9lhoctblx",
-    "spectr_streamtv",
-    "leoplaygg",
-    "4eptobka_54_",
-    "b0ssik___",
-    "pustoi_twitch",
-    "darkspiritdv",
-    "armir_game",
-    "diskateka_veka",
-    "hostilecrab2041"
-   ],
-   "channelCount": 34,
-   "drops": [
-    {
-     "name": "20 000 credits 06.11",
-     "minutes": 20,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4110e2fd-9a55-4209-9c00-2beeebcb8cac.png"
-      }
-     ]
-    },
-    {
-     "name": "50 fragments 06.11",
-     "minutes": 30,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "50 fragments 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/204a0909-aff9-4507-94be-d42d3cd4555f.png"
-      }
-     ]
-    },
-    {
-     "name": "20 000 credits (2) 06.11",
-     "minutes": 45,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits (2) 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc0f3edd-793b-46f5-a192-24300edf64ca.png"
-      }
-     ]
-    },
-    {
-     "name": "Army Surplus 06.11",
-     "minutes": 60,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Army Surplus 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/44f9de34-4371-4d65-81ee-17395978f255.png"
-      }
-     ]
-    },
-    {
-     "name": "20 000 credits (3) 06.11",
-     "minutes": 90,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits (3) 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/00667cbe-7571-4bc5-a0f8-aa26724fd107.png"
-      }
-     ]
-    },
-    {
-     "name": "Weapon container 06.11",
-     "minutes": 120,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-08T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Weapon container 06.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1093ade1-abe6-4cbb-87c4-3c1358bc49b8.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "15f5f529-dbda-4e54-8774-c8253851bc72",
-   "name": "EHL LAN - November 7-8",
-   "status": "ACTIVE",
-   "startAt": "2026-11-07T09:00:00Z",
-   "endAt": "2026-11-08T21:59:59.999Z",
-   "description": "Tune into the European Halo Championship 2026 event to earn in-game content in Halo Infinite!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/319f019a-9fdc-4fa1-b7d5-c2f3f12f33f2.jpeg",
-   "detailsURL": "https://www.halowaypoint.com",
-   "linkURL": "https://www.halowaypoint.com/settings/linked-accounts",
-   "owner": "Microsoft",
-   "game": {
-    "id": "506416",
-    "name": "Halo Infinite",
-    "slug": "halo-infinite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/506416-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-halo-infinite"
-   },
-   "channels": [
-    "europeanhalo"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Subscribe to Earn",
-     "minutes": 0,
-     "startAt": "2026-11-07T09:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Acid Punch Armors",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f0141a85-37f8-464c-918e-25994790abd9.png"
-      },
-      {
-       "name": "Predator Print Armors",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/32e37c6b-c304-4860-beb0-976c84af98dd.png"
-      },
-      {
-       "name": "Shattered Cherry Weapons",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bac44f43-0984-4d27-b378-3dcbf799b8d9.png"
-      },
-      {
-       "name": "Quigley Charm",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8bb85521-cb96-4c73-8bc3-c13f877af7d1.png"
-      },
-      {
-       "name": "Spree Weapon Charm",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/831db4db-40ee-4179-ba0e-374cca1bd882.png"
-      },
-      {
-       "name": "Undertow Husk Armors",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6c2f2e4b-14bd-4807-8d62-672fc1ce46b3.png"
-      },
-      {
-       "name": "Ivory Guard Armor",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/475c9a73-607a-4203-901a-fca5eb66c9a6.png"
-      }
-     ]
-    },
-    {
-     "name": "Watch 2 hours",
-     "minutes": 120,
-     "startAt": "2026-11-07T09:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Harvest Dusk Hazmat",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c78bf499-b247-442c-b884-9ec9dfa5803d.png"
-      },
-      {
-       "name": "Powersuit Hero E.strike",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21eaa304-3dcc-42ea-b966-9886beca280c.png"
-      },
-      {
-       "name": "De-rez Weapon Coatings",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fe9c80f1-c55d-452d-a99b-3e98115862b9.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e188b8bf-9e72-45f2-94d9-84daf68302c2",
-   "name": "MD Drops Set 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T00:00:00Z",
-   "endAt": "2026-11-08T21:59:59.999Z",
-   "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6df7f1ae-b215-45cc-802b-887473bc63a8.png",
-   "detailsURL": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
-   "linkURL": "https://mobiledungeon.com/",
-   "owner": "Playa-Games",
-   "game": {
-    "id": "383199964",
-    "name": "Mobile Dungeon",
-    "slug": "mobile-dungeon",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/383199964_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-mobile-dungeon"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "32x Thirst for Adventure",
-     "minutes": 30,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "32x Thirst for Adventure",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47731b49-fcad-4dce-a35f-b37a820a044a.png"
-      }
-     ]
-    },
-    {
-     "name": "2x Dungeon Key",
-     "minutes": 60,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2x Dungeon Key",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/edf6f836-7d33-48d1-83df-bcd8fd5c4065.png"
-      }
-     ]
-    },
-    {
-     "name": "3x Arena Ticket",
-     "minutes": 90,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "3x Arena Ticket",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b7db2783-b4e1-470d-a382-40ada9907856.png"
-      }
-     ]
-    },
-    {
-     "name": "100x Crystal",
-     "minutes": 120,
-     "startAt": "2026-11-02T00:00:00Z",
-     "endAt": "2026-11-08T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "100x Crystal",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/940dd260-22a4-49c2-8e59-6253aa9daedd.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "cabd4f81-da09-4929-814c-07e4c74ba01a",
    "name": "S&F Drops 2/3",
@@ -947,6 +535,43 @@
    ]
   },
   {
+   "id": "aa5255b0-d6d3-49ed-b82b-1a61c8d034c9",
+   "name": "Community Drops #220",
+   "status": "ACTIVE",
+   "startAt": "2026-11-08T21:00:00Z",
+   "endAt": "2026-11-08T22:59:59.999Z",
+   "description": "Watch Jogador_insone for 30 minutes to receive a Teshin New War Noggle decoration!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f8072b35-5e18-4060-96ec-2079e3685d94.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1531432-community-stream-schedule-november-2-8-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
+   "game": {
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
+   },
+   "channels": [
+    "jogador_insone"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Teshin New War Noggle",
+     "minutes": 30,
+     "startAt": "2026-11-08T21:00:00Z",
+     "endAt": "2026-11-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Teshin (TNW) Noggle",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ea37cc60-47d8-4c92-a041-995c874cab25.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "35087877-9b5e-440c-a7d8-fcb5e0ce00c5",
    "name": "Weekly Supply Drops #40",
    "status": "ACTIVE",
@@ -1031,6 +656,7 @@
     "sakres_stream",
     "worldoftanks",
     "shadow_thelonewolf",
+    "dakillzor",
     "newmultishow",
     "jxcr",
     "azumdzumhzums",
@@ -1044,7 +670,7 @@
     "vgostiua",
     "tankelit"
    ],
-   "channelCount": 19,
+   "channelCount": 20,
    "drops": [
     {
      "name": "Drop 1",
