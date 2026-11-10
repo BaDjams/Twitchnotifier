@@ -1,265 +1,11 @@
 {
- "updatedAt": "2026-11-10T03:27:06Z",
+ "updatedAt": "2026-11-10T11:41:19Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "b10e58c6-3e59-42bb-b40c-a0434b6f2a30",
-   "name": "AOCP Flamescale 7 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-09T10:00:00Z",
-   "endAt": "2026-11-10T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c7df777a-60b5-4abc-8341-b571ebe9d3ef.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [
-    "elfirefemale",
-    "char1ynn",
-    "momomonii",
-    "buffy_thelady",
-    "mehanco",
-    "popinkch",
-    "ambiustv",
-    "elalquimista_1989",
-    "efef_ao",
-    "shojifr",
-    "gankeronline",
-    "kachiralove",
-    "docplayztv",
-    "kpahj",
-    "crazzy_girl0",
-    "jaadezz",
-    "poleeson",
-    "sniperok2909",
-    "bordaozada",
-    "stiflerstream",
-    "farchasir",
-    "soykasumii",
-    "kabar24",
-    "blackboa",
-    "akromita",
-    "xheyte",
-    "nendysalbion",
-    "satanicmode_pe",
-    "majorz1",
-    "07_jamp",
-    "whithblade",
-    "querubinzz",
-    "scrappedonline",
-    "amelinnalive",
-    "kraizen_gaming",
-    "niviah_",
-    "crushyn",
-    "noefps_",
-    "vezia13",
-    "snickerd0odle",
-    "ocultogk",
-    "v1tona",
-    "derrick",
-    "daniely_rm",
-    "nomadponcho",
-    "alexc14",
-    "dongryff",
-    "murloka",
-    "victorzane",
-    "stdantewhale",
-    "neamhel",
-    "neymolima",
-    "arnelas",
-    "romaingold",
-    "batuhandagl",
-    "melaniejnd",
-    "beburi",
-    "feliperas",
-    "fancanth",
-    "sankt",
-    "izvalen",
-    "calamarei",
-    "amadodelmarmol",
-    "fakturka",
-    "vv4rren",
-    "bo4a167",
-    "sirabes",
-    "feeckz",
-    "duckii",
-    "molonel_coutarde",
-    "schrannk",
-    "pinchi_tv",
-    "nirvtv",
-    "diositolc",
-    "nazori",
-    "saggox",
-    "jonahveil",
-    "warden50",
-    "lewpac",
-    "t666ommy",
-    "robinhoodrsao",
-    "jhinkdgs",
-    "shinefujimoto",
-    "mrryden",
-    "zeroxdeath",
-    "feyreeb",
-    "nemezizyt",
-    "w0n23",
-    "megz",
-    "sadicaz",
-    "crossbowmantv",
-    "marwinich",
-    "summerseachels",
-    "madfiks",
-    "ninuschk",
-    "zyfraraider",
-    "a_big_koko",
-    "moondefendertv",
-    "einfachfriedrich93",
-    "fatalimpact_"
-   ],
-   "channelCount": 176,
-   "drops": [
-    {
-     "name": "Noble Community Chest",
-     "minutes": 240,
-     "startAt": "2026-11-09T10:00:00Z",
-     "endAt": "2026-11-10T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Noble Community Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/563de50c-4ad2-466d-9972-cac854ee1937.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f39d7a1d-7db7-4187-b234-4871d5aae0f9",
-   "name": "Dragonfire 11 - #1/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-09T10:00:00Z",
-   "endAt": "2026-11-10T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8e634d0-b5ca-4739-8221-24b0ca83359d.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-09T10:00:00Z",
-     "endAt": "2026-11-10T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "766aee60-373e-487e-b8c8-4516cdd25042",
-   "name": "Lv.80 & New collab",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T10:00:00Z",
-   "endAt": "2026-11-10T09:59:59.999Z",
-   "description": "The adventure level cap is raised to 80, and the new adventure map, [Frozen Sanctuary], is now open!  Meanwhile, the Crystal of Atlan x Ghost in the Shell: S.A.C. collaboration officially begins! Public Security Section 9 has locked onto an anomalous signal from Atlan. The collaboration dungeon, [Simulated Warzone], is now available! ",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ee97f24-4e98-4bc0-b7d0-caa65f814734.png",
-   "detailsURL": "https://twitch-drop.games.skystone.games/",
-   "linkURL": "https://twitch-drop.games.skystone.games/",
-   "owner": "Crystal of Atlan",
-   "game": {
-    "id": "741249831",
-    "name": "Crystal of Atlan",
-    "slug": "crystal-of-atlan",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/741249831_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-crystal-of-atlan"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "15min_Prismadium x20",
-     "minutes": 15,
-     "startAt": "2026-10-28T10:00:00Z",
-     "endAt": "2026-11-10T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Prismadium x 20",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2b1b7f52-9ed0-4901-abe5-77df4e01e16a.png"
-      }
-     ]
-    },
-    {
-     "name": "30min_Bound Gold x500k",
-     "minutes": 30,
-     "startAt": "2026-10-28T10:00:00Z",
-     "endAt": "2026-11-10T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Bound Gold x 500K",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e952feed-e168-4660-97ab-ede82f93095f.png"
-      }
-     ]
-    },
-    {
-     "name": "60min_Spare Part Supply Box x20",
-     "minutes": 60,
-     "startAt": "2026-10-28T10:00:00Z",
-     "endAt": "2026-11-10T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Spare Part Supply Box x20",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/438d2bce-c54e-4df2-a5cf-68f057a8f4aa.png"
-      }
-     ]
-    },
-    {
-     "name": "120min_Enhancement Funds x1,000k",
-     "minutes": 120,
-     "startAt": "2026-10-28T10:00:00Z",
-     "endAt": "2026-11-10T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Enhancement Funds x1,000k",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/204b4ab7-f41a-4ba3-b6db-5aa4d0867193.png"
-      }
-     ]
-    },
-    {
-     "name": "180min_Potent Catalyst x1",
-     "minutes": 180,
-     "startAt": "2026-10-28T10:00:00Z",
-     "endAt": "2026-11-10T09:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Potent Catalyst x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35ad3688-6361-4147-8a88-c796c200f098.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "fc782035-c5b0-4790-a5dd-c57f12469331",
    "name": "Launch Clothing Set",
@@ -325,6 +71,41 @@
       {
        "name": "2 Hour Reward",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0d0b7138-509b-46ee-8cd2-4b1056046d1b.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c1b23a91-6407-4509-98da-0df51a3cd302",
+   "name": "November Drops ",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T08:07:53Z",
+   "endAt": "2026-11-10T12:59:59.999Z",
+   "description": "Coryphaeus Fall Drops",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/160c14e2-fef9-467b-a416-31d74353260f.png",
+   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+   "owner": "Coryphaeus Corp",
+   "game": {
+    "id": "707002701",
+    "name": "Coryphaeus Championships",
+    "slug": "coryphaeus-championships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "C-Coins",
+     "minutes": 90,
+     "startAt": "2026-11-10T08:07:53Z",
+     "endAt": "2026-11-10T12:59:59.999Z",
+     "rewards": [
+      {
+       "name": "💰 500 C-Coins ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
       }
      ]
     }
@@ -1062,6 +843,116 @@
    ]
   },
   {
+   "id": "503b5a6c-c5ac-4e8e-871c-335b899836cb",
+   "name": "SO2 JumbleRumble Major #2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T08:45:00Z",
+   "endAt": "2026-11-10T20:59:59.999Z",
+   "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени. \nКак получить награды:  \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        – Накопите необходимое время просмотра на официальном канале Standoff 2.           \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d23434c3-08cc-4368-8a5b-527a34169ace.png",
+   "detailsURL": "https://install.standoff2.com/ru/twitch-drops",
+   "linkURL": "https://link.standoff2.com/twitch/link/",
+   "owner": "Axlebolt",
+   "game": {
+    "id": "513501",
+    "name": "Standoff 2",
+    "slug": "standoff-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513501_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-standoff-2"
+   },
+   "channels": [
+    "standoff2esports_ru",
+    "epic_standoff2"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "twitch_drops_crate_jr_ms_8",
+     "minutes": 60,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 135",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/80b8e08d-2fc5-43d3-a38e-9deffc279911.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_9",
+     "minutes": 120,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 136",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1eb620b7-a8ef-477d-965e-b4277ee06305.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_10",
+     "minutes": 180,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 137",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dce15468-c0ea-48d3-97c7-51c4645610d3.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_11",
+     "minutes": 240,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 138",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9db4cca8-32e2-4441-856b-ce8f296071ed.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_12",
+     "minutes": 300,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 139",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1beac364-0f90-4c82-bd02-a1ef71ac686a.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_13",
+     "minutes": 360,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 140",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c9eea317-2003-413f-b8f7-c715d7d04ca6.png"
+      }
+     ]
+    },
+    {
+     "name": "twitch_drops_crate_jr_ms_14",
+     "minutes": 420,
+     "startAt": "2026-11-10T08:45:00Z",
+     "endAt": "2026-11-10T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate 141",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3c5903b6-8da0-43c0-a998-76dc2bccb01a.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "e521dd0d-7211-4381-9efa-cf2bcf239944",
    "name": "FC Pro Open GQ",
    "status": "ACTIVE",
@@ -1252,6 +1143,177 @@
       {
        "name": "Twitch Reward Chest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5111d167-1c96-483d-984b-ce7e63fc59e2",
+   "name": "Dragonfire 11 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T10:00:00Z",
+   "endAt": "2026-11-11T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/78c629d2-bb32-48c9-b7ac-42099d59de5d.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-11-10T10:00:00Z",
+     "endAt": "2026-11-11T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8480574f-5177-4d94-bb75-abb0b749f645",
+   "name": "AOCP Flamescale 7 - #2/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T10:00:00Z",
+   "endAt": "2026-11-11T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e95b181d-9b93-4eb4-9771-99a59dadf5be.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [
+    "elfirefemale",
+    "char1ynn",
+    "momomonii",
+    "buffy_thelady",
+    "mehanco",
+    "popinkch",
+    "ambiustv",
+    "elalquimista_1989",
+    "efef_ao",
+    "shojifr",
+    "gankeronline",
+    "kachiralove",
+    "docplayztv",
+    "kpahj",
+    "crazzy_girl0",
+    "jaadezz",
+    "poleeson",
+    "sniperok2909",
+    "bordaozada",
+    "stiflerstream",
+    "farchasir",
+    "soykasumii",
+    "kabar24",
+    "blackboa",
+    "akromita",
+    "xheyte",
+    "nendysalbion",
+    "satanicmode_pe",
+    "majorz1",
+    "07_jamp",
+    "whithblade",
+    "querubinzz",
+    "scrappedonline",
+    "amelinnalive",
+    "kraizen_gaming",
+    "niviah_",
+    "crushyn",
+    "noefps_",
+    "vezia13",
+    "snickerd0odle",
+    "ocultogk",
+    "v1tona",
+    "derrick",
+    "daniely_rm",
+    "nomadponcho",
+    "alexc14",
+    "dongryff",
+    "murloka",
+    "victorzane",
+    "stdantewhale",
+    "neamhel",
+    "neymolima",
+    "arnelas",
+    "romaingold",
+    "batuhandagl",
+    "melaniejnd",
+    "beburi",
+    "feliperas",
+    "fancanth",
+    "sankt",
+    "izvalen",
+    "calamarei",
+    "amadodelmarmol",
+    "fakturka",
+    "vv4rren",
+    "bo4a167",
+    "sirabes",
+    "feeckz",
+    "duckii",
+    "molonel_coutarde",
+    "schrannk",
+    "pinchi_tv",
+    "nirvtv",
+    "diositolc",
+    "nazori",
+    "saggox",
+    "jonahveil",
+    "warden50",
+    "lewpac",
+    "t666ommy",
+    "robinhoodrsao",
+    "jhinkdgs",
+    "shinefujimoto",
+    "mrryden",
+    "zeroxdeath",
+    "feyreeb",
+    "nemezizyt",
+    "w0n23",
+    "megz",
+    "sadicaz",
+    "crossbowmantv",
+    "marwinich",
+    "summerseachels",
+    "madfiks",
+    "ninuschk",
+    "zyfraraider",
+    "a_big_koko",
+    "moondefendertv",
+    "einfachfriedrich93",
+    "fatalimpact_"
+   ],
+   "channelCount": 176,
+   "drops": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240,
+     "startAt": "2026-11-10T10:00:00Z",
+     "endAt": "2026-11-11T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Noble Community Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/563de50c-4ad2-466d-9972-cac854ee1937.png"
       }
      ]
     }
@@ -1484,108 +1546,9 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "ssizer",
-    "iloveximm",
-    "gameaddictsstudios",
-    "ricci",
-    "raulyny",
-    "wiliis_",
-    "pestily",
-    "oneshooter",
-    "meepsnz",
-    "royalpenguin",
-    "dreamleslife",
-    "bulletthekrazygamer",
-    "boooe",
-    "sunburntspartan",
-    "varsitygaming",
-    "justryuk",
-    "t3bbb",
-    "kinggeorge",
-    "rezina",
-    "esl_verdipwnz",
-    "bonesonly",
-    "maciejay",
-    "mint",
-    "adsus123445",
-    "sirpineapple",
-    "crossarchon",
-    "pascal0_4",
-    "obloga_ua",
-    "royza",
-    "gwenpostingttv",
-    "yo_boy_roy",
-    "minato_yu_",
-    "hamcheese",
-    "omgitspriest",
-    "bikinibodhi",
-    "supremisis",
-    "skittlz",
-    "garfield",
-    "rainbow6br",
-    "mingo",
-    "rurumin",
-    "chrisgodly",
-    "bommax",
-    "jager_clutch",
-    "amethystmaps",
-    "dangleberriestv",
-    "pingman",
-    "adventuremerchants",
-    "anifex",
-    "rainbow6itacom",
-    "jenz",
-    "jerichofive",
-    "senvale",
-    "korochu",
-    "eaglex99",
-    "n3phr3nnn",
-    "breeze2k",
-    "coconutbrah",
-    "enduxfps",
-    "spawntaneous",
-    "kamikazer6",
-    "poxonlox",
-    "paladinamber",
-    "tebi10",
-    "s1lverwolf94",
-    "bimil",
-    "icecold",
-    "berticuss",
-    "jost",
-    "keto",
-    "huskysquad",
-    "zuffiz",
-    "freshondesk",
-    "yeti_sa",
-    "fastanne",
-    "r6hub",
-    "baikinmen",
-    "kudos",
-    "mrmitty",
-    "rainbow6jp",
-    "rasco",
-    "justelliewilldo",
-    "andruwu",
-    "viperous",
-    "sandrakaz",
-    "franklin",
-    "jessgoat",
-    "chixttt",
-    "jayyguns",
-    "itswrenn",
-    "rainbow6fr",
-    "gnargl3ator",
-    "tacularr",
-    "rangagirlnads",
-    "athieno",
-    "rainbow6bravo",
-    "cr_wokka",
-    "deadbydalelight",
-    "itzuragan",
-    "sha77e"
+    "rainbow6bravo"
    ],
-   "channelCount": 197,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Esports Pack",
@@ -4348,6 +4311,142 @@
    ]
   },
   {
+   "id": "b48884ce-bb67-4d72-99cb-0e800492f721",
+   "name": "Fractured Skies Drop 1",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T11:00:00Z",
+   "endAt": "2026-11-14T10:57:59.999Z",
+   "description": "Upon opening you will receive an Agency Support Drop plus one of the following: a random GalNet StreamCast Unit SKIN, a Sunesis Violet Vellication SKIN, PLEX, Metamorphosis, Gnosis, Praxis.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47bab06f-1ac5-4e18-a665-f5dfda893126.jpeg",
+   "detailsURL": "https://www.eveonline.com/twitch",
+   "linkURL": "https://www.eveonline.com/twitch",
+   "owner": "CCP Games",
+   "game": {
+    "id": "13263",
+    "name": "EVE Online",
+    "slug": "eve-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/13263-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eve-online"
+   },
+   "channels": [
+    "boolum1",
+    "jelleemac",
+    "dsmwiks",
+    "jaygrizzly69",
+    "czins_",
+    "chesbenning",
+    "poppop_live",
+    "lynnerankin",
+    "chilldadgaming64",
+    "scootieloo",
+    "ulqi",
+    "avilixis",
+    "ludiks_",
+    "beefonthemic",
+    "themadrambo",
+    "ameribrit1",
+    "elena701",
+    "fuitck",
+    "tyaggy",
+    "theportersavage",
+    "parsifalru",
+    "deadlystm",
+    "firemarine911",
+    "wazitsay",
+    "er1ck_parker",
+    "merulaalba",
+    "themajormayer",
+    "galaxiasai",
+    "liliumcobra",
+    "cococomputer",
+    "garakgermany",
+    "serpent_power",
+    "rampageinc",
+    "eaglefirefly",
+    "horrorble",
+    "doublewidejoe",
+    "arhont_sibirskii",
+    "kpassi911",
+    "laidback_daddio",
+    "corvus_uk",
+    "andy_virus",
+    "dorrian",
+    "lextv",
+    "ludacr0us",
+    "kaelykakes81",
+    "mrblack0ne",
+    "abysspaul",
+    "doseatm",
+    "opencommsshow",
+    "yoioji_tv",
+    "frippyuk",
+    "gidiang",
+    "zehpando",
+    "schlaflos78",
+    "walldeck",
+    "autonomousdonk",
+    "0g_mcfadden",
+    "takuyagogiko",
+    "talkinginstations",
+    "tenshi_x",
+    "nastramoonlight",
+    "vanlenlindsao",
+    "troublesandstrife",
+    "contempoenterprises",
+    "reckage668",
+    "apex262",
+    "theflowerfallen",
+    "hawkgbgaming",
+    "kaziro84",
+    "bombeldothewizard",
+    "darkshineseve",
+    "stuffeddog88",
+    "sniperwolfr",
+    "alodar",
+    "ladywigglewomp",
+    "giraffe_monster",
+    "shadowf1ux",
+    "wristy1627",
+    "midas_bartholomew",
+    "religioved",
+    "vfluffypeanuttsv",
+    "krisoh7",
+    "tx_phoenix",
+    "perfecttarget07",
+    "blitzd86",
+    "justaveragematt",
+    "king_of_anywhere",
+    "bushkittyoneshot",
+    "mrbigbizzness",
+    "siniykits",
+    "mortysnerd",
+    "crispybunnyuk",
+    "gaisplay",
+    "knightserrantx",
+    "sernub",
+    "shyt33",
+    "chloroken",
+    "ikarosfaln",
+    "joelost1",
+    "bondrjr"
+   ],
+   "channelCount": 368,
+   "drops": [
+    {
+     "name": "Mysterious GalNet Crate",
+     "minutes": 240,
+     "startAt": "2026-11-10T11:00:00Z",
+     "endAt": "2026-11-14T10:57:59.999Z",
+     "rewards": [
+      {
+       "name": "Mysterious GalNet Crate",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0e714e9d-c964-4beb-97e2-2de5a99115db.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "f8f01b79-8d12-4d05-99c4-dabee7759897",
    "name": "Nov Week 2!",
    "status": "ACTIVE",
@@ -6960,33 +7059,10 @@
     "topic": "twitchnotifier-dz7n7k-overwatch-2"
    },
    "channels": [
-    "ow_esports_th",
-    "hadi_ow",
-    "iddqd",
-    "rakattack",
-    "teetawatv3",
     "ow_esports",
-    "nitrao",
-    "ta1yo_tv",
-    "zbra",
-    "tommathan",
-    "chosen_ow",
-    "6cyx",
-    "profoundrice",
-    "august",
-    "emongg",
-    "commanderx",
-    "angrodtralari",
-    "hammerkick",
-    "unter",
-    "karq",
-    "ml7support",
-    "poko",
-    "warn",
-    "meltonff",
     "ow_esports_jp"
    ],
-   "channelCount": 25,
+   "channelCount": 2,
    "drops": [
     {
      "name": "Candlelit Satya Spray",
@@ -7922,6 +7998,7 @@
     "predecessorgame",
     "bengalmac",
     "gratty",
+    "thebesttaco",
     "egofromesports",
     "bearbok",
     "xbryry",
@@ -7953,7 +8030,7 @@
     "lancececil",
     "kevkaioken"
    ],
-   "channelCount": 71,
+   "channelCount": 72,
    "drops": [
     {
      "name": "Ion Core",
