@@ -1,296 +1,11 @@
 {
- "updatedAt": "2026-11-09T20:39:38Z",
+ "updatedAt": "2026-11-10T03:27:06Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "bf92b79e-6c51-4f53-8658-1b8eddf3f6c4",
-   "name": "MSF | Nov Week 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T21:00:00Z",
-   "endAt": "2026-11-09T20:59:59.999Z",
-   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6d0ec2a2-a19c-4544-8413-28ca4a4585c2.png",
-   "detailsURL": "https://marvelstrikeforce.com/twitch",
-   "linkURL": "https://marvelstrikeforce.com/twitch",
-   "owner": "Scopely",
-   "game": {
-    "id": "504651",
-    "name": "MARVEL Strike Force",
-    "slug": "marvel-strike-force",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 60,
-     "startAt": "2026-11-02T21:00:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1M Gold",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cddf9bc7-2d79-4a9a-ab71-c05847a7503e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b943f94-68db-4c35-8d82-593bf903a206",
-   "name": "SO2 JumbleRumble Major #2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-09T08:45:00Z",
-   "endAt": "2026-11-09T20:59:59.999Z",
-   "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.\nКак получить награды: \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        – Накопите необходимое время просмотра на официальном канале Standoff 2.           – Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d218f5df-7e94-4b30-b5b1-d092d3860200.png",
-   "detailsURL": "https://install.standoff2.com/ru/twitch-drops",
-   "linkURL": "https://link.standoff2.com/twitch/link/",
-   "owner": "Axlebolt",
-   "game": {
-    "id": "513501",
-    "name": "Standoff 2",
-    "slug": "standoff-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513501_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-standoff-2"
-   },
-   "channels": [
-    "standoff2esports_ru",
-    "epic_standoff2"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "twitch_drops_crate_jr_ms_1",
-     "minutes": 60,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 128",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cde25d8c-f8a0-462e-83fd-6a148b75c45d.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_2",
-     "minutes": 120,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 129",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e51dc865-b3cf-49f6-8c17-e6005a5cb43f.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_3",
-     "minutes": 180,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 130",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/974b09c4-c740-4f51-9493-7ed98a4e820f.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_4",
-     "minutes": 240,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 131",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b2c82df5-a3ba-4cf6-bb36-3aa4c80ce2c5.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_5",
-     "minutes": 300,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 132",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/106a2032-e6f5-4a5e-ac9b-e0eb9cce177e.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_6",
-     "minutes": 360,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 133",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8002bc0f-26dd-412b-bf6c-5fc8ba8770dc.png"
-      }
-     ]
-    },
-    {
-     "name": "twitch_drops_crate_jr_ms_7",
-     "minutes": 420,
-     "startAt": "2026-11-09T08:45:00Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "\"Jumble Rumble\" Crate 134",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7a456732-a126-4372-a844-2f1949f9b03d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6b4775dd-653d-4e90-a6d8-13f05de43604",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-09T12:08:21Z",
-   "endAt": "2026-11-09T20:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1de968d5-dff7-4c98-aee9-5d6275d4c775.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C-Coins",
-     "minutes": 120,
-     "startAt": "2026-11-09T12:08:21Z",
-     "endAt": "2026-11-09T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e8473923-6a07-4c8d-a147-d76a249c15a6",
-   "name": "Aldrin",
-   "status": "ACTIVE",
-   "startAt": "2026-11-02T05:27:31Z",
-   "endAt": "2026-11-09T23:29:59.999Z",
-   "description": "Kirka.io drop for the Aldrin Unobtainable",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2dfdf04c-5ad2-40e6-aa48-dcab319688d0.png",
-   "detailsURL": "https://kirka.io/connectTwitch=1",
-   "linkURL": "https://kirka.io/connectTwitch=1",
-   "owner": "Kirka.io",
-   "game": {
-    "id": "356609813",
-    "name": "Kirka.io",
-    "slug": "kirka-io",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/356609813_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-kirka-io"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Aldrin",
-     "minutes": 900,
-     "startAt": "2026-11-02T05:27:31Z",
-     "endAt": "2026-11-09T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Aldrin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c4cf8fb2-b011-40e8-9c5a-71cccc70b69b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3bdf4153-deb3-41b4-b24e-c8d67c5f59ac",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-09T00:00:00Z",
-   "endAt": "2026-11-09T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f49807d9-39ae-45b1-bbd6-a3f3d4f21f4a.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-09T00:00:00Z",
-     "endAt": "2026-11-09T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4639ddda-11fa-42b9-a808-03edf1f6b9bc",
-   "name": "SEASON AURORA PREVIEW SUB",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T14:50:00Z",
-   "endAt": "2026-11-09T23:59:59.999Z",
-   "description": "Join the streamer subscription program and earn high-value rewards.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e8c8774-fe17-477a-b2c5-23370ef7bd23.jpeg",
-   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "1282866981",
-    "name": "Delta Force",
-    "slug": "delta-force-hawk-ops",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "PTR-32 - Golden Age",
-     "minutes": 0,
-     "startAt": "2026-10-30T14:50:00Z",
-     "endAt": "2026-11-09T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PTR-32 - Golden Age",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/638993fb-c169-4253-8fd6-d91408dad9f7.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "b10e58c6-3e59-42bb-b40c-a0434b6f2a30",
    "name": "AOCP Flamescale 7 - #1/7",
@@ -1508,6 +1223,41 @@
    ]
   },
   {
+   "id": "f53ae179-d2ea-4c99-8b33-09c023874dbf",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T00:00:00Z",
+   "endAt": "2026-11-10T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3605bdc-fcc4-4b14-b86a-99720e4bd4ae.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-10T00:00:00Z",
+     "endAt": "2026-11-10T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "1e876aca-9af6-451d-b744-21cdc44e73c9",
    "name": "Season 21 Drops 3",
    "status": "ACTIVE",
@@ -1710,6 +1460,202 @@
       {
        "name": "Hidden Treasures Hat",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/76174454-4723-4797-ad2b-3365b21693fa.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "44ad475b-2a07-426f-bf54-e9ee27b68080",
+   "name": "Osaka 2026 Swiss 2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T00:30:00Z",
+   "endAt": "2026-11-11T13:59:59.999Z",
+   "description": "Rainbow Six Siege - OSAKA MAJOR 2026",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35d72c00-0168-4205-999e-6c3eaec403e0.png",
+   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+   "linkURL": "https://drops-register.ubi.com/#/en-US",
+   "owner": "Ubisoft",
+   "game": {
+    "id": "460630",
+    "name": "Rainbow Six Siege",
+    "slug": "tom-clancys-rainbow-six-siege",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460630-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
+   },
+   "channels": [
+    "ssizer",
+    "iloveximm",
+    "gameaddictsstudios",
+    "ricci",
+    "raulyny",
+    "wiliis_",
+    "pestily",
+    "oneshooter",
+    "meepsnz",
+    "royalpenguin",
+    "dreamleslife",
+    "bulletthekrazygamer",
+    "boooe",
+    "sunburntspartan",
+    "varsitygaming",
+    "justryuk",
+    "t3bbb",
+    "kinggeorge",
+    "rezina",
+    "esl_verdipwnz",
+    "bonesonly",
+    "maciejay",
+    "mint",
+    "adsus123445",
+    "sirpineapple",
+    "crossarchon",
+    "pascal0_4",
+    "obloga_ua",
+    "royza",
+    "gwenpostingttv",
+    "yo_boy_roy",
+    "minato_yu_",
+    "hamcheese",
+    "omgitspriest",
+    "bikinibodhi",
+    "supremisis",
+    "skittlz",
+    "garfield",
+    "rainbow6br",
+    "mingo",
+    "rurumin",
+    "chrisgodly",
+    "bommax",
+    "jager_clutch",
+    "amethystmaps",
+    "dangleberriestv",
+    "pingman",
+    "adventuremerchants",
+    "anifex",
+    "rainbow6itacom",
+    "jenz",
+    "jerichofive",
+    "senvale",
+    "korochu",
+    "eaglex99",
+    "n3phr3nnn",
+    "breeze2k",
+    "coconutbrah",
+    "enduxfps",
+    "spawntaneous",
+    "kamikazer6",
+    "poxonlox",
+    "paladinamber",
+    "tebi10",
+    "s1lverwolf94",
+    "bimil",
+    "icecold",
+    "berticuss",
+    "jost",
+    "keto",
+    "huskysquad",
+    "zuffiz",
+    "freshondesk",
+    "yeti_sa",
+    "fastanne",
+    "r6hub",
+    "baikinmen",
+    "kudos",
+    "mrmitty",
+    "rainbow6jp",
+    "rasco",
+    "justelliewilldo",
+    "andruwu",
+    "viperous",
+    "sandrakaz",
+    "franklin",
+    "jessgoat",
+    "chixttt",
+    "jayyguns",
+    "itswrenn",
+    "rainbow6fr",
+    "gnargl3ator",
+    "tacularr",
+    "rangagirlnads",
+    "athieno",
+    "rainbow6bravo",
+    "cr_wokka",
+    "deadbydalelight",
+    "itzuragan",
+    "sha77e"
+   ],
+   "channelCount": 197,
+   "drops": [
+    {
+     "name": "Esports Pack",
+     "minutes": 60,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 120,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 240,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Esports Pack",
+     "minutes": 360,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Esport Pack Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/342a0ef2-bb8d-49af-8a57-72ca74fe68e1.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Osaka 26 Smoke Headgear",
+     "minutes": 420,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Smoke HG Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/739758a7-8c45-4c7f-9692-75dda28e46bf.png"
+      }
+     ]
+    },
+    {
+     "name": "Osaka 26 Smoke Uniform",
+     "minutes": 480,
+     "startAt": "2026-11-10T00:30:00Z",
+     "endAt": "2026-11-11T13:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Smoke UNF Osaka 2026",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1e3a8691-7a7f-4aa6-a15a-bfb8ffb0e271.png"
       }
      ]
     }
@@ -5901,6 +5847,41 @@
    ]
   },
   {
+   "id": "ce1d6b04-a088-4e28-8bcf-a6db477b8a7b",
+   "name": "MSF | Nov Week 2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-09T21:00:00Z",
+   "endAt": "2026-11-16T20:59:59.999Z",
+   "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b678a79-83de-4708-b1e6-4fddc3a21843.png",
+   "detailsURL": "https://marvelstrikeforce.com/twitch",
+   "linkURL": "https://marvelstrikeforce.com/twitch",
+   "owner": "Scopely",
+   "game": {
+    "id": "504651",
+    "name": "MARVEL Strike Force",
+    "slug": "marvel-strike-force",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/504651_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-marvel-strike-force"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "1",
+     "minutes": 60,
+     "startAt": "2026-11-09T21:00:00Z",
+     "endAt": "2026-11-16T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "100 L4 Training Modules",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36c551ac-7fad-428d-9a0e-3a63458d7ba9.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "96bdfce5-e774-457f-aa8f-f693144ee50f",
    "name": "Anno 117 - DLC3 Drops",
    "status": "ACTIVE",
@@ -7278,6 +7259,297 @@
       {
        "name": "Spectator's Clockwork Cat",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/94b9d063-eabc-443a-9d88-a299e0255ed5.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc",
+   "name": "SEASON AURORA-OPERATIONS",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T02:00:00Z",
+   "endAt": "2026-11-25T23:59:59.999Z",
+   "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/16a1f6ce-cedc-4851-9813-f9d798514b0e.png",
+   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+   "owner": "Level Infinite",
+   "game": {
+    "id": "1282866981",
+    "name": "Delta Force",
+    "slug": "delta-force-hawk-ops",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "S12 Adv Arm Select Pack",
+     "minutes": 60,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S12 Adv Arm Select Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/153122bb-2092-470b-a0bb-668f7ba535d3.png"
+      }
+     ]
+    },
+    {
+     "name": "Spray Paint - Core Group",
+     "minutes": 120,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Spray Paint - Core Group",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c89b7ec0-b024-4e38-9baf-28bb6258873f.png"
+      }
+     ]
+    },
+    {
+     "name": "Standard Gear Ticket",
+     "minutes": 180,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Standard Gear Ticket",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a337f8e3-751e-4d26-ba5d-cd05fa5cf1ca.png"
+      }
+     ]
+    },
+    {
+     "name": "S12 Adv Supply Pack",
+     "minutes": 240,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "S12 Adv Supply Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8c016e2d-34c5-4713-9056-e385f8419eac.png"
+      }
+     ]
+    },
+    {
+     "name": "Avatar - Heart Hands",
+     "minutes": 300,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Avatar - Heart Hands",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b29684f6-b848-48d0-a757-764153359761.png"
+      }
+     ]
+    },
+    {
+     "name": "SG552 - Purr Baby",
+     "minutes": 360,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "SG552 - Purr Baby",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2bc6f9ba-244a-4872-a784-06c9c0f84f8c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e35e85d5-d647-4906-a3df-5a4d0620a58b",
+   "name": "SEASON AURORA - WARFARE",
+   "status": "ACTIVE",
+   "startAt": "2026-11-10T02:00:00Z",
+   "endAt": "2026-11-25T23:59:59.999Z",
+   "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7f386b7b-c0b7-4a0a-8de8-499325369009.png",
+   "detailsURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+   "linkURL": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+   "owner": "Level Infinite",
+   "game": {
+    "id": "1282866981",
+    "name": "Delta Force",
+    "slug": "delta-force-hawk-ops",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-delta-force-hawk-ops"
+   },
+   "channels": [
+    "terasite",
+    "nekomitumia",
+    "rcckmaybe",
+    "topzzs",
+    "smittystone",
+    "voet",
+    "majorpar",
+    "feneliaqtx",
+    "kaanguns",
+    "opi_pie_sunpaul",
+    "rush_runner",
+    "rolloneup",
+    "ricksaysthat",
+    "chucky_jv",
+    "stormen",
+    "fenya",
+    "mikami_kon",
+    "itzmaxiq",
+    "riuc_tv",
+    "karma",
+    "chichine_",
+    "aomiyamonaka",
+    "aznslickslaya",
+    "roqueeearg",
+    "michaelwhitberry",
+    "prelbori",
+    "celestiayukihime",
+    "pestily",
+    "lennyletto",
+    "lelemochila",
+    "tsdork",
+    "silowa",
+    "captainarmine",
+    "metalgunner94",
+    "gabrielmcs",
+    "cunami",
+    "guirlyyy",
+    "rushgreedzz",
+    "ehot1k",
+    "aqerits",
+    "deltaforcegameofficial",
+    "delta_fix",
+    "albralelie",
+    "dahmien7",
+    "oshezii",
+    "imow",
+    "matamoscapuq",
+    "narithekitsu",
+    "taisontv",
+    "ktvsky",
+    "mallow_n21",
+    "cneytas",
+    "emreabiofficial",
+    "ssaab",
+    "yakuposeidon",
+    "chowh1",
+    "areko556",
+    "mrwormydf",
+    "willerz",
+    "alvaena",
+    "punishercj",
+    "ponsukech",
+    "shinichirooo",
+    "trey24k",
+    "onezeratv",
+    "precision",
+    "chodumal07",
+    "sitranova",
+    "littlebigwhale",
+    "greevie",
+    "kusanohito",
+    "dedarmy1",
+    "zakuna_",
+    "oribia999",
+    "rqsdevine",
+    "xhazmathuman",
+    "taishi0822ttv",
+    "th1nk_",
+    "shukznorris",
+    "chestgamers",
+    "jimmyboiyo",
+    "gamepassdad",
+    "wanesstt0",
+    "dionakrist",
+    "hiagguin",
+    "jorlmx",
+    "tsukimi_sena",
+    "dng64bawobawowowowowowow",
+    "ryzme",
+    "drwickk",
+    "phylos096ttv",
+    "ririri_uruwashi",
+    "jovemhorta",
+    "gh0rilla",
+    "mukai_fps",
+    "rlaw",
+    "soy_kasper",
+    "polmrn1",
+    "deejayknight",
+    "szfak"
+   ],
+   "channelCount": 638,
+   "drops": [
+    {
+     "name": "Prem. Weapon EXP Token x2",
+     "minutes": 60,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Prem. Weapon EXP Token x2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e68cc9a5-b577-4604-b0f8-d36706c6ee88.png"
+      }
+     ]
+    },
+    {
+     "name": "Avatar - Core Group",
+     "minutes": 120,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Avatar - Core Group",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3862e87b-225f-44ac-b73d-e65e8bd340c3.png"
+      }
+     ]
+    },
+    {
+     "name": "Season Merit Protectionx2",
+     "minutes": 180,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Season Merit Protectionx2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fbfb5bd-3432-421d-a1c3-a6035e07ae7e.png"
+      }
+     ]
+    },
+    {
+     "name": "Warfare 2x EXP Card x2",
+     "minutes": 240,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Warfare 2x EXP Card x2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4decc644-42c1-4771-8855-4888c425be97.png"
+      }
+     ]
+    },
+    {
+     "name": "Spray Paint - Nice Try",
+     "minutes": 300,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Spray Paint - Nice Try",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6e4895a2-12c6-454c-b324-1d3c062a0149.png"
+      }
+     ]
+    },
+    {
+     "name": "IFV - Holiday To-Do",
+     "minutes": 360,
+     "startAt": "2026-11-10T02:00:00Z",
+     "endAt": "2026-11-25T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "IFV - Holiday To-Do",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/301b46c9-31b3-403e-b4d6-f56eb0dc81c3.png"
       }
      ]
     }
