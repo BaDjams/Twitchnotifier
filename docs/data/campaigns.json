@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T21:53:26Z",
+ "updatedAt": "2026-11-12T02:52:22Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,298 +7,85 @@
  },
  "campaigns": [
   {
-   "id": "1602c51f-89fa-46a5-8d1a-fff1dc7deb3b",
-   "name": "Emisión Tenno 353 Raid",
+   "id": "f128c4a1-6bf8-4ef1-a957-63bf385a8ead",
+   "name": "Most Feared Pro League",
    "status": "ACTIVE",
-   "startAt": "2026-11-11T21:00:00Z",
-   "endAt": "2026-11-11T22:29:59.999Z",
-   "description": "Watch this week's Emisión Tenno raid for 30 minutes to receive a Lotus Noggle decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ffcd67d5-9964-4fb5-a333-d04687bfbac5.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1532109-community-stream-schedule-november-9-13-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
+   "startAt": "2026-11-11T23:00:00Z",
+   "endAt": "2026-11-12T03:59:59.999Z",
+   "description": "Watch the third week of the Pro League and Most Feared Finals and earn some Twitch Drops to power up your Ultimate Team in Madden NFL 27!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3d17152e-d796-4bd2-8fd7-1957072964d5.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
    "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
+    "id": "670138298",
+    "name": "Madden NFL 27",
+    "slug": "madden-nfl-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
    },
    "channels": [
-    "secriot_mcfly"
+    "eamaddennfl"
    ],
    "channelCount": 1,
    "drops": [
     {
-     "name": "Lotus Noggle",
-     "minutes": 30,
-     "startAt": "2026-11-11T21:00:00Z",
-     "endAt": "2026-11-11T22:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Lotus Noggle",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5f3b0a15-be70-4366-916c-c8a7512ef54f.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ea6f5619-1fa6-448b-9904-2064ad17d51a",
-   "name": "15.10 Mystery Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T23:00:00Z",
-   "endAt": "2026-11-11T22:59:59.999Z",
-   "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d82e7eeb-fbbd-494e-b608-2dbbff0521de.png",
-   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
-   "linkURL": "https://wargaming.net/personal/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "32502",
-    "name": "World of Warships",
-    "slug": "world-of-warships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-warships"
-   },
-   "channels": [
-    "worldofwarships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "15.10 Mystery Drop",
-     "minutes": 90,
-     "startAt": "2026-11-04T23:00:00Z",
-     "endAt": "2026-11-11T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "15.10 Mystery Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a2797953-307c-4a40-916e-2270ea0726fd.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fd7815d6-4aa9-442c-9e6e-f1b3919b9ce3",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T18:30:00Z",
-   "endAt": "2026-11-11T23:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/17c75b57-9bc8-4e47-b858-94705b9fdc69.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "F",
-     "minutes": 90,
-     "startAt": "2026-11-11T18:30:00Z",
-     "endAt": "2026-11-11T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dd4c7bbc-d31d-40db-ac89-0b0913d119fb",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T00:00:00Z",
-   "endAt": "2026-11-11T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7087e42a-4232-4ab1-b142-e52e9363b6a6.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-11T00:00:00Z",
-     "endAt": "2026-11-11T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "68a2b071-2498-49ed-8c68-8873534841ea",
-   "name": "Crimson Desert DLC Week 2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-05T00:00:00Z",
-   "endAt": "2026-11-11T23:59:59.999Z",
-   "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/264f2fea-88b6-4dca-a633-00eb0d079fee.jpeg",
-   "detailsURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
-   "linkURL": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "515186",
-    "name": "Crimson Desert",
-    "slug": "crimson-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515186_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-crimson-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "60 min.",
-     "minutes": 60,
-     "startAt": "2026-11-05T00:00:00Z",
-     "endAt": "2026-11-11T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Lantern & Meat Dish",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6fb510c8-189a-4232-8552-0f662f1b2ad2.png"
-      },
-      {
-       "name": "Fair Wind Figurehead",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/028b90d9-1885-4e99-ac12-fbbd9d31b04a.png"
-      }
-     ]
-    },
-    {
-     "name": "120 min.",
-     "minutes": 120,
-     "startAt": "2026-11-05T00:00:00Z",
-     "endAt": "2026-11-11T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pirate Eyepatch & Sword",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a018ac8f-47c3-45d3-b4e7-d5442f9742a1.png"
-      },
-      {
-       "name": "Fair Wind Stern",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b136767-6bce-496f-b66a-aadd80909d64.png"
-      }
-     ]
-    },
-    {
-     "name": "180 min.",
-     "minutes": 180,
-     "startAt": "2026-11-05T00:00:00Z",
-     "endAt": "2026-11-11T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pet Parrot in Pirate Hat",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8923aee2-68a7-489e-aee0-e153381878af.png"
-      },
-      {
-       "name": "Fair Wind Sail",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7f7eecae-9091-43fb-9001-41d5b6b40012.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "853eaf12-2ecb-446c-b382-717c278f8af2",
-   "name": "Sanctuary of Ink",
-   "status": "ACTIVE",
-   "startAt": "2026-10-15T02:00:00Z",
-   "endAt": "2026-11-12T01:59:59.999Z",
-   "description": "Join the Arknights: Endfield Twitch Drops event and treat your community to exclusive rewards just for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/90d47ce9-ba2e-401f-b6b5-5b11fd4be7bc.png",
-   "detailsURL": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
-   "linkURL": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
-   "owner": "GRYPHLINE",
-   "game": {
-    "id": "1448964995",
-    "name": "ARKNIGHTS: ENDFIELD",
-    "slug": "arknights-endfield",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1448964995_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-arknights-endfield"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Talosian Credit*10000",
+     "name": "Twitch Pack",
      "minutes": 15,
-     "startAt": "2026-10-15T02:00:00Z",
-     "endAt": "2026-11-12T01:59:59.999Z",
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-12T03:59:59.999Z",
      "rewards": [
       {
-       "name": "T-Credit*10000",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cef03052-563c-4346-b591-c4c224044d03.png"
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/77453543-9040-4a1e-858e-2970b18f9ba9.png"
       }
      ]
     },
     {
-     "name": "Intermediate Combat Record*15",
+     "name": "Twitch Pack",
      "minutes": 30,
-     "startAt": "2026-10-15T02:00:00Z",
-     "endAt": "2026-11-12T01:59:59.999Z",
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-12T03:59:59.999Z",
      "rewards": [
       {
-       "name": "I-Combat Record*15",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9028f71b-03ad-4644-b383-d7b19898a29a.png"
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6a05a5ba-dbb0-49a2-af3d-0005c35ff3e9.png"
       }
      ]
     },
     {
-     "name": "Arms INSP Set*3",
+     "name": "Twitch Pack",
      "minutes": 60,
-     "startAt": "2026-10-15T02:00:00Z",
-     "endAt": "2026-11-12T01:59:59.999Z",
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-12T03:59:59.999Z",
      "rewards": [
       {
-       "name": "Arms INSP Set*3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b5fe20ce-7256-4ed0-852a-ffa9dd2921f1.png"
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5d599c6d-d257-4fe0-a433-70bb3947ca59.png"
       }
      ]
     },
     {
-     "name": "Elementary Cognitive Carrier*10",
+     "name": "Jake Bobo Pack",
      "minutes": 90,
-     "startAt": "2026-10-15T02:00:00Z",
-     "endAt": "2026-11-12T01:59:59.999Z",
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-12T03:59:59.999Z",
      "rewards": [
       {
-       "name": "E-Cognitive Carrier*10",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/be5c1531-5347-4f31-87ef-0117f59f3cc8.png"
+       "name": "Jake Bobo Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ee88468c-9bff-4b73-a8a8-1bc49626b8c0.png"
       }
      ]
     },
     {
-     "name": "Oroberyl*150",
+     "name": "Twitch Pack",
      "minutes": 120,
-     "startAt": "2026-10-15T02:00:00Z",
-     "endAt": "2026-11-12T01:59:59.999Z",
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-12T03:59:59.999Z",
      "rewards": [
       {
-       "name": "Oroberyl*150",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/40b2e45b-d3ee-4619-beea-7fb741b87b3e.png"
+       "name": "Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/81d6a0b0-f8de-4e2c-9f9e-38ec1225e629.png"
       }
      ]
     }
@@ -1898,6 +1685,41 @@
       {
        "name": "Allrounder Package",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0a700720-5536-4e26-9e88-e7acd65fa50d.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c2163ec2-e2c2-4ad8-9bc4-fd347ad30b1c",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-12T00:00:00Z",
+   "endAt": "2026-11-12T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/164809f4-51cd-493c-b169-8bbdc2bf43eb.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-12T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -6494,6 +6316,43 @@
    ]
   },
   {
+   "id": "6af2bd14-ca96-46a9-a492-41dac025c409",
+   "name": "15.10 WOWS Channel Drop",
+   "status": "ACTIVE",
+   "startAt": "2026-11-11T23:00:00Z",
+   "endAt": "2026-11-18T22:59:59.999Z",
+   "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c406820-c908-49cc-8aab-1d504c42e853.png",
+   "detailsURL": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
+   "linkURL": "https://wargaming.net/personal/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "32502",
+    "name": "World of Warships",
+    "slug": "world-of-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/32502_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-warships"
+   },
+   "channels": [
+    "worldofwarships"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Week 2: 250 Community Tokens",
+     "minutes": 60,
+     "startAt": "2026-11-11T23:00:00Z",
+     "endAt": "2026-11-18T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Update 15.10: 250 CT",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c719d572-4ec6-4c03-9e48-1ae712f4d5af.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "69f32da3-7abf-4716-b051-085a879cb112",
    "name": "UNO! Mobile Twitch Drops",
    "status": "ACTIVE",
@@ -7949,6 +7808,141 @@
       {
        "name": "Warrior Jar Alexander",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cf0557f4-94de-4238-96ab-9e576c45d331.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a8b29630-1150-4bab-bdf5-176062225b55",
+   "name": "MW: The Big Deal",
+   "status": "ACTIVE",
+   "startAt": "2026-11-12T00:00:00Z",
+   "endAt": "2026-11-30T23:29:59.999Z",
+   "description": "Commanders, from November 12 to 30, watch selected Modern Warships streams on Twitch and earn rewards during the Big Deal event.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d2c71274-e9ce-4258-8612-c9db8482d88e.png",
+   "detailsURL": "https://artstorm.com/news/twitch-drops-the-big-deal",
+   "linkURL": "https://artstorm.com/cabinet/connect-twitch",
+   "owner": "Artstorm FZE",
+   "game": {
+    "id": "423797288",
+    "name": "Modern Warships",
+    "slug": "modern-warships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/423797288_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-modern-warships"
+   },
+   "channels": [
+    "alexshikaka",
+    "rizkiramadhan_ch",
+    "by_mitso",
+    "spartakusmw",
+    "stealthmwgamer",
+    "standartion_game",
+    "bulletthekrazygamer",
+    "gaming_tip_mw",
+    "kpuch1n0",
+    "scyther_warship",
+    "diablobeelzebub",
+    "nrnsgamer",
+    "imtimetraveler",
+    "cdresparrow",
+    "andriy_1725",
+    "mwbee1",
+    "officialtylermw",
+    "djadjastepa",
+    "ktgirlgaming",
+    "theoldestnewb",
+    "joehawyt",
+    "garry_4poker",
+    "jx4daddy",
+    "le_guepard_perdu",
+    "grujicicm",
+    "canonicallyaverage",
+    "killanoa",
+    "arudie",
+    "remix_prime",
+    "poldazzo_xvii",
+    "t3d_fx",
+    "bitbybit_bln",
+    "mrproper_mw",
+    "ncturnal_gaming",
+    "ibragodyt",
+    "theghostgeneral",
+    "iosif_mw",
+    "noa_mizuchi",
+    "gematman",
+    "admiral1mw",
+    "codenamedferret",
+    "mr_oroplat",
+    "eptomoon",
+    "generalofmw",
+    "geecknes",
+    "rplayer91",
+    "kirixava",
+    "gatillin830",
+    "celestiallexi",
+    "gnoddah",
+    "confrerie_navale_fr"
+   ],
+   "channelCount": 51,
+   "drops": [
+    {
+     "name": "2 Days of Premium",
+     "minutes": 30,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-30T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "2 Days of Premium",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb9f8a10-c2d1-4e23-aa2b-3c80cd748628.png"
+      }
+     ]
+    },
+    {
+     "name": "Advanced Consumables",
+     "minutes": 60,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-30T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Advanced Consumables",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/66773b40-f5d7-4305-a70e-8f44005e57ff.png"
+      }
+     ]
+    },
+    {
+     "name": "200 UP's",
+     "minutes": 120,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-30T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "200 UP's",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5f2f3e42-ed5c-4586-b90d-569deeb72978.png"
+      }
+     ]
+    },
+    {
+     "name": "15 Authorization Keys",
+     "minutes": 240,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-30T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "15 Authorization Keys",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/abea149b-1282-41f0-ab0b-1d25bb9e9517.png"
+      }
+     ]
+    },
+    {
+     "name": "Camo Unstoppable",
+     "minutes": 300,
+     "startAt": "2026-11-12T00:00:00Z",
+     "endAt": "2026-11-30T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Camo Unstoppable",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a39d13c1-a1e6-4711-9c04-5025629db7d5.png"
       }
      ]
     }
