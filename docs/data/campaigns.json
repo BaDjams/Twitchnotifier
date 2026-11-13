@@ -1,372 +1,11 @@
 {
- "updatedAt": "2026-11-12T18:49:46Z",
+ "updatedAt": "2026-11-13T00:10:54Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "cc721e50-8eae-4210-9a71-d7d0817fb82e",
-   "name": "Knights of Avalon Drops!",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T19:00:00Z",
-   "endAt": "2026-11-12T18:59:59.999Z",
-   "description": "Watch your favorite creators to earn and claim great rewards.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c5448ad2-d703-4530-bba0-91fa48433ac8.png",
-   "detailsURL": "https://portal.marvelsnap.com/api/twitch/login",
-   "linkURL": "https://portal.marvelsnap.com/api/twitch/login",
-   "owner": "Second Dinner",
-   "game": {
-    "id": "1743359147",
-    "name": "MARVEL SNAP",
-    "slug": "marvel-snap",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1743359147_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-marvel-snap"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "155 Boosters",
-     "minutes": 120,
-     "startAt": "2026-11-06T19:00:00Z",
-     "endAt": "2026-11-12T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "155 Boosters",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/80c547ce-4c02-403e-881b-0185a1fe4131.png"
-      }
-     ]
-    },
-    {
-     "name": "Premium Mystery Border",
-     "minutes": 240,
-     "startAt": "2026-11-06T19:00:00Z",
-     "endAt": "2026-11-12T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PMB",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7afff8e4-2fc8-43f6-b0ac-ad682ab974f7.png"
-      }
-     ]
-    },
-    {
-     "name": "Premium Mystery Variant",
-     "minutes": 360,
-     "startAt": "2026-11-06T19:00:00Z",
-     "endAt": "2026-11-12T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PMV",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d43ba6de-39c5-4bfb-a19d-4d7e10ae0c7c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "412e5c7e-a6e9-4bb6-ad70-0d1c03c52aca",
-   "name": "S13 Glory Drops Tokens",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T20:00:00Z",
-   "endAt": "2026-11-12T19:59:59.999Z",
-   "description": "https://twitch.playeternalreturn.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5588fdbd-8988-4498-bd19-dfe1a2823ae6.png",
-   "detailsURL": "https://twitch.playeternalreturn.com/",
-   "linkURL": "https://twitch.playeternalreturn.com/",
-   "owner": "Nimble Neuron Games",
-   "game": {
-    "id": "512864",
-    "name": "Eternal Return",
-    "slug": "eternal-return",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eternal-return"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 60,
-     "startAt": "2026-11-11T20:00:00Z",
-     "endAt": "2026-11-12T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 120,
-     "startAt": "2026-11-11T20:00:00Z",
-     "endAt": "2026-11-12T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "DROPS TOKEN",
-     "minutes": 180,
-     "startAt": "2026-11-11T20:00:00Z",
-     "endAt": "2026-11-12T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2437ec8c-8aa0-42e1-9b6e-95cd90219896",
-   "name": "S&F Droplets",
-   "status": "ACTIVE",
-   "startAt": "2026-11-06T15:00:00Z",
-   "endAt": "2026-11-12T22:58:59.999Z",
-   "description": "Droplets are additional drops to our main drop campaigns.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a54f45d7-15eb-4c51-b484-e18a70425d31.png",
-   "detailsURL": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-   "linkURL": "https://sfgame.net/",
-   "owner": "Playa-Games",
-   "game": {
-    "id": "510389",
-    "name": "Shakes and Fidget",
-    "slug": "shakes-and-fidget",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-shakes-and-fidget"
-   },
-   "channels": [
-    "thedennis42",
-    "muralink",
-    "aks_n1",
-    "demonzz1",
-    "derhardi",
-    "ud_sierra",
-    "uwereinholzen",
-    "husker_the_black_cat",
-    "iiprime2k",
-    "skuuii",
-    "powie",
-    "animaoscura1402",
-    "aurikos_zonestos",
-    "greq_tw",
-    "j4nczv",
-    "maskencontakt",
-    "crappa",
-    "obywatelmg",
-    "worldwidegiino",
-    "janoooschtv",
-    "sobratv",
-    "keylixtv",
-    "kleiner_bandit",
-    "sirdariush01",
-    "zouzi10",
-    "acid_fired",
-    "feena1986",
-    "yvraldis",
-    "zeusspezial",
-    "dreibeinsandro",
-    "formulalena",
-    "karolinger",
-    "pe4rl_4u",
-    "katazuri",
-    "kirru0_0",
-    "w70werner",
-    "hejtojapawu",
-    "mrmoregame",
-    "fuxelbau",
-    "jeffoouu",
-    "adikos_stream",
-    "killr4in",
-    "jbufflive",
-    "dakieksde",
-    "knackigebulu",
-    "thekloeschen",
-    "flyguncz",
-    "xtitanxiskox",
-    "terste",
-    "feinekatze",
-    "patrikturi",
-    "sintica",
-    "haiset",
-    "trovarion",
-    "craft12354",
-    "g0dmancz",
-    "vojta2684",
-    "flowaygames",
-    "ch4rliesfgame",
-    "kysuel",
-    "altairri",
-    "autophil",
-    "veseriann",
-    "dennsen86",
-    "nikoletaa",
-    "niosf",
-    "karthas",
-    "feketemiklos",
-    "c4rb0nsf",
-    "m4cm4nus",
-    "blackhammerplay",
-    "ogdar0",
-    "enorbiii",
-    "chudy773",
-    "rilesikk",
-    "donpretti",
-    "feli",
-    "milschbaum",
-    "metashi12",
-    "dirkneuenfelszwo",
-    "slayproxx",
-    "angela35",
-    "zirotv",
-    "radimx61",
-    "der_cyberpunk",
-    "holladiewaldfee",
-    "suun",
-    "gerrit",
-    "kimuh",
-    "flyingj3susss",
-    "gerbrowny",
-    "kptlangstrumpf_sf",
-    "tribcha",
-    "juliversal",
-    "spajkk",
-    "lordkokocrc",
-    "gaijin1up",
-    "greifenberg",
-    "lemon_2be3",
-    "erd3nfeuer"
-   ],
-   "channelCount": 110,
-   "drops": [
-    {
-     "name": "Gilded Package",
-     "minutes": 15,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Gilded Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47c0dba2-cba2-4e95-9275-7a90e5001e7b.png"
-      }
-     ]
-    },
-    {
-     "name": "Construction Package",
-     "minutes": 30,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Construction Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1ade6cce-9bc6-439e-b10a-96e316ae7ab7.png"
-      }
-     ]
-    },
-    {
-     "name": "Arcane Package",
-     "minutes": 60,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Arcane Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/afdebe30-7182-479d-9a0a-625aaf572892.png"
-      }
-     ]
-    },
-    {
-     "name": "Soul Taker Package",
-     "minutes": 90,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Soul Taker Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e79e0a45-6818-487b-8f82-5b07e9984c61.png"
-      }
-     ]
-    },
-    {
-     "name": "Fortification Package",
-     "minutes": 120,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Fortification Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/49697d01-d7a2-404e-b45a-a05dec0932a2.png"
-      }
-     ]
-    },
-    {
-     "name": "Smith Package",
-     "minutes": 150,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Smith Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52713587-b18e-4fb5-98e7-98d18ac8a90c.png"
-      }
-     ]
-    },
-    {
-     "name": "Allrounder Package",
-     "minutes": 180,
-     "startAt": "2026-11-06T15:00:00Z",
-     "endAt": "2026-11-12T22:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Allrounder Package",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0a700720-5536-4e26-9e88-e7acd65fa50d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c2163ec2-e2c2-4ad8-9bc4-fd347ad30b1c",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-12T00:00:00Z",
-   "endAt": "2026-11-12T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/164809f4-51cd-493c-b169-8bbdc2bf43eb.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-12T00:00:00Z",
-     "endAt": "2026-11-12T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "b67d9284-4986-4b8e-9d14-e7dd08a6ff1c",
    "name": "Prime Time #504",
@@ -617,6 +256,91 @@
       {
        "name": "Blessed Soulstone",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/130ded95-02bd-4049-84d1-683696dd3517.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1f77004-695a-40f7-8dc7-270fd3035ac4",
+   "name": "Army-Navy Game Tournament",
+   "status": "ACTIVE",
+   "startAt": "2026-11-12T23:00:00Z",
+   "endAt": "2026-11-13T03:59:59.999Z",
+   "description": "Watch the Army-Navy Game Tournament presented by USAA in College Football 27 and earn some Twitch Drops to power up your Ultimate Team!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00bfe616-1ec5-459f-ad70-f17067e9bf36.png",
+   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+   "owner": "Electronic Arts",
+   "game": {
+    "id": "1678532194",
+    "name": "EA Sports College Football 27",
+    "slug": "ea-sports-college-football-27",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1678532194_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-ea-sports-college-football-27"
+   },
+   "channels": [
+    "easportscollege"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 15,
+     "startAt": "2026-11-12T23:00:00Z",
+     "endAt": "2026-11-13T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "CFB Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/24125781-4a64-4468-b5dd-45864c497ad7.png"
+      }
+     ]
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 30,
+     "startAt": "2026-11-12T23:00:00Z",
+     "endAt": "2026-11-13T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "CFB Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb22525a-e372-4c1d-8e7a-6be04d54e9b4.png"
+      }
+     ]
+    },
+    {
+     "name": "Super Token Pack",
+     "minutes": 60,
+     "startAt": "2026-11-12T23:00:00Z",
+     "endAt": "2026-11-13T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "CFB Super Token Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1f1dc032-8b38-40e2-9a9d-3977dd31d3c5.png"
+      }
+     ]
+    },
+    {
+     "name": "Carson Smith/Vic Listorti Pack",
+     "minutes": 90,
+     "startAt": "2026-11-12T23:00:00Z",
+     "endAt": "2026-11-13T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "USAA Player Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4b153aa7-5f47-4737-8678-1e850b61b376.png"
+      }
+     ]
+    },
+    {
+     "name": "CFB Twitch Pack",
+     "minutes": 120,
+     "startAt": "2026-11-12T23:00:00Z",
+     "endAt": "2026-11-13T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "CFB Twitch Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8677a007-9245-4d96-9e9a-c3e7529b6832.png"
       }
      ]
     }
@@ -2542,6 +2266,100 @@
       {
        "name": "Madden Twitch Pack",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/77b1d5de-a265-41a8-a659-217f8252768f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5053ec5b-8c30-4e21-87c9-d29db02eaca1",
+   "name": "S13 Glory Drops Tokens",
+   "status": "ACTIVE",
+   "startAt": "2026-11-12T20:00:00Z",
+   "endAt": "2026-11-13T19:59:59.999Z",
+   "description": "https://twitch.playeternalreturn.com/",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/defb57bc-14dc-4c84-a4d8-46f845b08ec7.png",
+   "detailsURL": "https://twitch.playeternalreturn.com/",
+   "linkURL": "https://twitch.playeternalreturn.com/",
+   "owner": "Nimble Neuron Games",
+   "game": {
+    "id": "512864",
+    "name": "Eternal Return",
+    "slug": "eternal-return",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eternal-return"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 60,
+     "startAt": "2026-11-12T20:00:00Z",
+     "endAt": "2026-11-13T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 120,
+     "startAt": "2026-11-12T20:00:00Z",
+     "endAt": "2026-11-13T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    },
+    {
+     "name": "DROPS TOKEN",
+     "minutes": 180,
+     "startAt": "2026-11-12T20:00:00Z",
+     "endAt": "2026-11-13T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27edc93c-a3ff-459f-9c17-7d5cd175c2fd",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-13T00:00:00Z",
+   "endAt": "2026-11-13T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4abccfed-580b-467d-a3cc-1ebe5939313c.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-13T00:00:00Z",
+     "endAt": "2026-11-13T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
