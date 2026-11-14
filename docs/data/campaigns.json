@@ -1,242 +1,11 @@
 {
- "updatedAt": "2026-11-13T21:55:46Z",
+ "updatedAt": "2026-11-14T02:16:38Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "e2536322-2711-4d61-8bdc-400214ec79ca",
-   "name": "Jordan x Space Jam",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T20:25:00Z",
-   "endAt": "2026-11-13T21:59:59.999Z",
-   "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/726186ed-9f38-46e2-9fe2-65310d696848.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "509672",
-    "name": "IRL",
-    "slug": "irl",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509672-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-irl"
-   },
-   "channels": [
-    "samham"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Jordan x Space Jam",
-     "minutes": 15,
-     "startAt": "2026-11-13T20:25:00Z",
-     "endAt": "2026-11-13T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Jordan x Space Jam",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e97df41-541b-4828-8cf5-c7a69970b370.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3e87f645-f151-4292-8a2b-9f0817e8e58a",
-   "name": "Enchanted Wilds Tac Crown",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T12:00:00Z",
-   "endAt": "2026-11-13T22:59:59.999Z",
-   "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \"Womp Gromp\": Available to claim November 13 \"Murkwolf, Shmurkwolf\": Available to claim November 14 \"Golden Crab-tula\": Available to claim November 15 Tune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f62ef265-b2a4-4c8d-81c1-84b3e04cc911.png",
-   "detailsURL": "https://competetft.com/en-US/",
-   "linkURL": "https://twitch.tv/settings/connections#riot-connection",
-   "owner": "Riot Games",
-   "game": {
-    "id": "513143",
-    "name": "Teamfight Tactics",
-    "slug": "teamfight-tactics",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513143-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-teamfight-tactics"
-   },
-   "channels": [
-    "layladocinhoo",
-    "araye__",
-    "naudytft",
-    "glowyjelly",
-    "dalesomtft",
-    "strongestet",
-    "urg0d",
-    "toontv",
-    "gtroubleinc",
-    "rommypandatomic",
-    "balotelli777",
-    "snoodyboo",
-    "puricoasa",
-    "elonchess",
-    "xpwt",
-    "flamienx1",
-    "azarea3",
-    "mister_polo",
-    "pamelishaa",
-    "aliicx",
-    "miguelkcrs",
-    "dandipasta",
-    "manutegaming",
-    "artyn",
-    "metzauh",
-    "leofloresdc",
-    "youbetterknowme",
-    "janelleyace",
-    "juand_lapras",
-    "altenahue",
-    "dokhy",
-    "h20_henry",
-    "loescherdinger",
-    "kezman22",
-    "lokenxs",
-    "cosmossc2",
-    "teamfighttactics",
-    "blackfireice",
-    "brozilla_tv",
-    "luuluts",
-    "faraei",
-    "elperfumess",
-    "grim_bg",
-    "shikamemadokaaa",
-    "kappitayipyip",
-    "chibiunu",
-    "silb3r__",
-    "dominus_tft",
-    "clorka",
-    "oberbayer",
-    "un33d",
-    "clavetft",
-    "syphuvt",
-    "alestilorysord",
-    "juswa___",
-    "a_zeel",
-    "crazyghsot",
-    "justremikun",
-    "giorgia_falci",
-    "theoriginalgriefer",
-    "suntoryboss",
-    "qadrienne",
-    "nsoju",
-    "send",
-    "ohgawdkate",
-    "guardianangelgg",
-    "nrvn5",
-    "loonirium",
-    "zacmantft",
-    "justkiryy",
-    "hmoon76",
-    "lpgjustjohnny",
-    "opesanec",
-    "pssharpshine",
-    "sagedesempregada",
-    "merci_raph"
-   ],
-   "channelCount": 76,
-   "drops": [
-    {
-     "name": "Womp Gromp Emote",
-     "minutes": 30,
-     "startAt": "2026-11-13T12:00:00Z",
-     "endAt": "2026-11-13T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Womp Gromp Emote",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/279c7e95-534c-4a02-88d9-59aac7785bc5.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "27edc93c-a3ff-459f-9c17-7d5cd175c2fd",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T00:00:00Z",
-   "endAt": "2026-11-13T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4abccfed-580b-467d-a3cc-1ebe5939313c.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-13T00:00:00Z",
-     "endAt": "2026-11-13T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b42d9f22-e860-4f26-bdd8-bd0a6b8a4b9f",
-   "name": "NeighbOooOos Halloween",
-   "status": "ACTIVE",
-   "startAt": "2026-10-23T12:00:00Z",
-   "endAt": "2026-11-13T23:59:59.999Z",
-   "description": "Halloween has reached the neighborhood. Commit light vandalism and get treats in the shape of the Gwen and Kevin ghost skins",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7af2ae4b-8374-4a21-81b5-50381846f719.png",
-   "detailsURL": "https://neighborsgame.com/drops",
-   "linkURL": "https://neighborsgame.com/drops",
-   "owner": "Invisible Walls",
-   "game": {
-    "id": "914381364",
-    "name": "Neighbors: Suburban Warfare",
-    "slug": "just-perfect",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/914381364_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-just-perfect"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Gwen Ghastly Skin",
-     "minutes": 30,
-     "startAt": "2026-10-23T12:00:00Z",
-     "endAt": "2026-11-13T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ghost Gwen",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a9005545-e4e5-49d4-89ea-65b637542504.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Kevin Spooky Skin",
-     "minutes": 60,
-     "startAt": "2026-10-23T12:00:00Z",
-     "endAt": "2026-11-13T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ghost Kevin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a9893368-861e-4aa4-b6fd-02b549d13d0c.jpeg"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "13c7c040-e40b-40c8-b041-3ddb14098683",
    "name": "Brawlhalla World Champ. 1",
@@ -505,6 +274,43 @@
    ]
   },
   {
+   "id": "c5199969-0458-41d7-a839-5c55542028c0",
+   "name": "Community Drops #222",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T02:00:00Z",
+   "endAt": "2026-11-14T03:59:59.999Z",
+   "description": "Watch egirltenno for 30 minutes to receive a Domestik Zoney Drone decoration!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b4eefe1-2c67-4b54-a8e8-aea74eb5a78a.jpeg",
+   "detailsURL": "https://forums.warframe.com/topic/1532109-community-stream-schedule-november-9-13-2026/",
+   "linkURL": "https://www.warframe.com/user",
+   "owner": "Digital Extremes",
+   "game": {
+    "id": "66170",
+    "name": "Warframe",
+    "slug": "warframe",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-warframe"
+   },
+   "channels": [
+    "egirltenno"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Domestik Zoney Drone",
+     "minutes": 30,
+     "startAt": "2026-11-14T02:00:00Z",
+     "endAt": "2026-11-14T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Domestik Zoney Drone",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/10b1d7cd-c8db-4fe0-87da-9ccc7c22e1da.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "89928a5f-910f-4be9-b46c-f652d60df981",
    "name": "Wild Rift Worlds Fan Fest",
    "status": "ACTIVE",
@@ -536,6 +342,43 @@
       {
        "name": "Wild Rift Worlds FanFest",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aa6ecdd1-745e-4d10-ab80-71136ab09d04.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "25dbc31a-9c1b-4cb6-b635-fa2c1dcd056c",
+   "name": "Jordan x Space Jam",
+   "status": "ACTIVE",
+   "startAt": "2026-11-13T23:10:00Z",
+   "endAt": "2026-11-14T07:59:59.999Z",
+   "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/26fcfd01-beb0-4879-9523-4f7591f7af65.png",
+   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+   "linkURL": "https://www.twitch.tv/",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "509672",
+    "name": "IRL",
+    "slug": "irl",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509672-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-irl"
+   },
+   "channels": [
+    "samham"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "Jordan x Space Jam",
+     "minutes": 15,
+     "startAt": "2026-11-13T23:10:00Z",
+     "endAt": "2026-11-14T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Jordan x Space Jam",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e97df41-541b-4828-8cf5-c7a69970b370.png"
       }
      ]
     }
@@ -1213,9 +1056,108 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "rainbow6bravo"
+    "iki_",
+    "fancy_pixel",
+    "xoneshotmx_",
+    "eondaddy",
+    "gameaddictsstudios",
+    "hungrike",
+    "ricci",
+    "bazoor6",
+    "raulyny",
+    "wiliis_",
+    "wsp2w",
+    "akamarci",
+    "pestily",
+    "oneshooter",
+    "meepsnz",
+    "donmiwell",
+    "beenor6",
+    "wettables",
+    "drydalia",
+    "kiuqsxn",
+    "thedekureal",
+    "scholarlyr6",
+    "royalpenguin",
+    "dreamleslife",
+    "chillkey__",
+    "bulletthekrazygamer",
+    "cr4ckmaster",
+    "xweebmaster",
+    "rono183b",
+    "hawkeygaming47",
+    "hamumuma",
+    "boooe",
+    "sunburntspartan",
+    "sprlarc",
+    "varsitygaming",
+    "justryuk",
+    "poisenlul",
+    "llwinsll",
+    "segiiiog",
+    "t3bbb",
+    "duuuuuuuckhugh",
+    "kamiomega",
+    "lagonis",
+    "xreadyaimmissx",
+    "kinggeorge",
+    "cerdetagamer",
+    "cr4sh_override",
+    "redaldx",
+    "ninjakemp",
+    "kop_tv",
+    "esl_verdipwnz",
+    "aonagi_suna",
+    "dr_wolflow_",
+    "fuuuuw_n",
+    "budegadeleao",
+    "bonesonly",
+    "maciejay",
+    "krunice",
+    "mrsbruna__",
+    "mint",
+    "adsus123445",
+    "blarglive",
+    "sirpineapple",
+    "crossarchon",
+    "pascal0_4",
+    "ash12tyn",
+    "obloga_ua",
+    "miukena",
+    "gwenpostingttv",
+    "yo_boy_roy",
+    "minato_yu_",
+    "freisslingo",
+    "uncahsaurusrex",
+    "bigbaby17902",
+    "gremiodelassombras",
+    "hamcheese",
+    "omgitspriest",
+    "gronkbabyy",
+    "runoutofaname",
+    "bikinibodhi",
+    "supremisis",
+    "mymildeiei",
+    "skittlz",
+    "of4lcon",
+    "garfield",
+    "futurfax",
+    "rainbow6br",
+    "kolter9eist",
+    "mingo",
+    "muchachina",
+    "seekerassault",
+    "madduckranger",
+    "micio_b",
+    "xkingpredx",
+    "divna33",
+    "liulian_channel",
+    "skasunlbv",
+    "gebruedergames",
+    "chrisgodly",
+    "flankthomas"
    ],
-   "channelCount": 1,
+   "channelCount": 655,
    "drops": [
     {
      "name": "Esports Pack",
@@ -1697,6 +1639,53 @@
       {
        "name": "Drops Token",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "32d9f384-1cf8-490c-ade3-b614db397a23",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T00:00:00Z",
+   "endAt": "2026-11-14T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/695f17bb-32af-4922-8342-d7df8d368261.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-11-14T00:00:00Z",
+     "endAt": "2026-11-14T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-11-14T00:00:00Z",
+     "endAt": "2026-11-14T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -3170,9 +3159,12 @@
     "topic": "twitchnotifier-dz7n7k-halo-infinite"
    },
    "channels": [
-    "lvthalo"
+    "lvthalo",
+    "eli_x",
+    "stresss",
+    "reclximer"
    ],
-   "channelCount": 1,
+   "channelCount": 4,
    "drops": [
     {
      "name": "Visor Collection ",
