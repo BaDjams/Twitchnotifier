@@ -1,389 +1,11 @@
 {
- "updatedAt": "2026-11-14T02:16:38Z",
+ "updatedAt": "2026-11-14T09:21:09Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "13c7c040-e40b-40c8-b041-3ddb14098683",
-   "name": "Brawlhalla World Champ. 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T11:00:00Z",
-   "endAt": "2026-11-14T03:58:59.999Z",
-   "description": "Brawlhalla World Championship Day 1  Orion v6 1 Hour, Ezio v6 2 Hours, Loki v6 3Hours, Priya v6 4 Hours,  \"Your Rival\" In-Game Title 5 Hours",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8ac19686-aa55-46c7-86d9-3898beff6daf.png",
-   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-   "linkURL": "https://drops-register.ubi.com/",
-   "owner": "Ubisoft",
-   "game": {
-    "id": "460316",
-    "name": "Brawlhalla",
-    "slug": "brawlhalla",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460316_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-brawlhalla"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Orion Esports V6 Color",
-     "minutes": 60,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Orion Esports V6 Color",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0c08de1c-d48f-42c3-96b9-71ed4b90d469.png"
-      }
-     ]
-    },
-    {
-     "name": "Ezio Esports V6 Color",
-     "minutes": 120,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Ezio Esports V6 Color",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f8974d29-e194-4a85-bcb6-e409098dda25.png"
-      }
-     ]
-    },
-    {
-     "name": "Loki Esports V6 Color",
-     "minutes": 180,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Loki Esports V6 Color",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f92b2d7a-8186-4642-9836-63f68d89c69d.png"
-      }
-     ]
-    },
-    {
-     "name": "Priya Esports V6 Color",
-     "minutes": 240,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Priya Esports V6 Color",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/082ae760-835b-4fed-89b5-2362e5648ebd.png"
-      }
-     ]
-    },
-    {
-     "name": "Your Rival",
-     "minutes": 300,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Your Rival",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2d91f3a6-b3ce-4ce6-94bc-02434ea7deec.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "62dd594c-cfac-4892-8078-0939ac798bc5",
-   "name": "Brawlhalla BCX - Day 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T11:00:00Z",
-   "endAt": "2026-11-14T03:59:59.999Z",
-   "description": "1H = v6 Tezca | 2H = v6 Cassidy | 3H = v6 Vector | 4H = v7 Kor | 5H = Neo-City Boots ",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/72e775cb-9f30-4a99-a688-60d585ab8fd3.png",
-   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
-   "linkURL": "https://drops-register.ubi.com/#/en-US",
-   "owner": "Ubisoft",
-   "game": {
-    "id": "460316",
-    "name": "Brawlhalla",
-    "slug": "brawlhalla",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460316_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-brawlhalla"
-   },
-   "channels": [
-    "vecinaa",
-    "nsigofficial",
-    "bulletthekrazygamer",
-    "ifrosy4",
-    "magix_rl",
-    "llwinsll",
-    "dopey5007",
-    "kinggeorge",
-    "boomiexd",
-    "mounir_bh",
-    "pamepaz_",
-    "lynxwagner",
-    "crashsmash01",
-    "tpacno",
-    "simuverseden",
-    "jagsman",
-    "bevans1221",
-    "xkingpredx",
-    "flankthomas",
-    "wascho84",
-    "dmct_zefrianotm",
-    "clubchick",
-    "stingray516",
-    "famouswolluf",
-    "nlbawz",
-    "axzanar",
-    "aizkalttv",
-    "demtson",
-    "alextheegamer",
-    "ricky03",
-    "sporerose",
-    "fezaru80",
-    "probrawlhalla",
-    "junito_gaming",
-    "osorawrr",
-    "sya9ide",
-    "swirftbh",
-    "pavelskibh",
-    "discodevli",
-    "experience",
-    "livevilxanimal",
-    "gwkennie",
-    "brandynleveling",
-    "jirotodeath",
-    "g4mehouse",
-    "iiateneaii",
-    "amblee2929",
-    "skixex",
-    "gothicsnowangel",
-    "joel_alejo_",
-    "theposse_",
-    "yourhostcj",
-    "gaming_uae",
-    "kemz",
-    "seasonalgeno",
-    "spaceatronix",
-    "ssjaymusic",
-    "pandamanx0901",
-    "sevendla",
-    "wesleybh",
-    "tanksgaminghd",
-    "kudos",
-    "skreamixtv",
-    "idleadventure0",
-    "aprentis_live",
-    "kuvy_bh",
-    "thepandaleo",
-    "rio_bh",
-    "m4sko3",
-    "paikors",
-    "kuroganashi",
-    "gin_yoku3",
-    "thefoxhound",
-    "thee_miggy",
-    "msladyluck82",
-    "odocerato",
-    "reviewsito",
-    "moonthamofo",
-    "umbritac",
-    "mr__kenway",
-    "de_fect",
-    "mr_szillaz",
-    "pectorel",
-    "waynexenterprise",
-    "aioyy",
-    "guynamemike",
-    "wubz",
-    "jrow_x2",
-    "estacaobh",
-    "subzero2k",
-    "koalacrockie",
-    "smirky",
-    "imaidiot19",
-    "meligeni",
-    "omniarthur",
-    "nuclearqueso",
-    "moderngamingus",
-    "sirzave24",
-    "sxniityy",
-    "kappabone"
-   ],
-   "channelCount": 217,
-   "drops": [
-    {
-     "name": "v6 Tezca",
-     "minutes": 60,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "v6 Tezca",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b91087ea-22d9-4d88-a410-1ace7341c1fe.png"
-      }
-     ]
-    },
-    {
-     "name": "v6 Cassidy",
-     "minutes": 120,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "v6 Cassidy ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a2d081b0-e3cd-404d-a421-3eb3d4fa0bde.png"
-      }
-     ]
-    },
-    {
-     "name": "v6 Vector",
-     "minutes": 180,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "v6 Vector",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e5fb876d-7f00-4427-ad16-610b867ef50f.png"
-      }
-     ]
-    },
-    {
-     "name": "v7 Kor",
-     "minutes": 240,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "v7 Kor",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1c4a83e5-6012-4cd1-a1a6-0bcc847adeaa.png"
-      }
-     ]
-    },
-    {
-     "name": "Neo-City Boots",
-     "minutes": 300,
-     "startAt": "2026-11-13T11:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Neo City Boots",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fda6cbae-b152-44b1-af44-56926ea11134.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c5199969-0458-41d7-a839-5c55542028c0",
-   "name": "Community Drops #222",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T02:00:00Z",
-   "endAt": "2026-11-14T03:59:59.999Z",
-   "description": "Watch egirltenno for 30 minutes to receive a Domestik Zoney Drone decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8b4eefe1-2c67-4b54-a8e8-aea74eb5a78a.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1532109-community-stream-schedule-november-9-13-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "egirltenno"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Domestik Zoney Drone",
-     "minutes": 30,
-     "startAt": "2026-11-14T02:00:00Z",
-     "endAt": "2026-11-14T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Domestik Zoney Drone",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/10b1d7cd-c8db-4fe0-87da-9ccc7c22e1da.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "89928a5f-910f-4be9-b46c-f652d60df981",
-   "name": "Wild Rift Worlds Fan Fest",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T16:00:00Z",
-   "endAt": "2026-11-14T06:59:59.999Z",
-   "description": "Celebrate Worlds Fan Fest with Wild Rift and Mrs. Chim Chim! Join us live from New York City as we bring the Wild Rift community together for a special K/DA-themed celebration. Tune in for the festivities, catch the action, and earn exclusive in-game rewards just for watching!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1974aa72-f44a-4706-ae0f-a181602c3ede.png",
-   "detailsURL": "https://wildrift.leagueoflegends.com/en-us/",
-   "linkURL": "https://twitch.tv/settings/connections#riot-connection\t\t\t\t\t",
-   "owner": "Riot Games",
-   "game": {
-    "id": "514858",
-    "name": "League of Legends: Wild Rift",
-    "slug": "league-of-legends-wild-rift",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514858-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-league-of-legends-wild-rift"
-   },
-   "channels": [
-    "mrschimchim"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Wild Rift Worlds FanFest Drop \t\t\t\t\t",
-     "minutes": 30,
-     "startAt": "2026-11-13T16:00:00Z",
-     "endAt": "2026-11-14T06:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Wild Rift Worlds FanFest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aa6ecdd1-745e-4d10-ab80-71136ab09d04.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "25dbc31a-9c1b-4cb6-b635-fa2c1dcd056c",
-   "name": "Jordan x Space Jam",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T23:10:00Z",
-   "endAt": "2026-11-14T07:59:59.999Z",
-   "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/26fcfd01-beb0-4879-9523-4f7591f7af65.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-   "linkURL": "https://www.twitch.tv/",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "509672",
-    "name": "IRL",
-    "slug": "irl",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/509672-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-irl"
-   },
-   "channels": [
-    "samham"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Jordan x Space Jam",
-     "minutes": 15,
-     "startAt": "2026-11-13T23:10:00Z",
-     "endAt": "2026-11-14T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Jordan x Space Jam",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8e97df41-541b-4828-8cf5-c7a69970b370.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "3692aff1-55ba-49f9-aa8a-db9ec32eb1e9",
    "name": "AOCP Flamescale 7 - #5/7",
@@ -1056,108 +678,9 @@
     "topic": "twitchnotifier-dz7n7k-tom-clancys-rainbow-six-siege"
    },
    "channels": [
-    "iki_",
-    "fancy_pixel",
-    "xoneshotmx_",
-    "eondaddy",
-    "gameaddictsstudios",
-    "hungrike",
-    "ricci",
-    "bazoor6",
-    "raulyny",
-    "wiliis_",
-    "wsp2w",
-    "akamarci",
-    "pestily",
-    "oneshooter",
-    "meepsnz",
-    "donmiwell",
-    "beenor6",
-    "wettables",
-    "drydalia",
-    "kiuqsxn",
-    "thedekureal",
-    "scholarlyr6",
-    "royalpenguin",
-    "dreamleslife",
-    "chillkey__",
-    "bulletthekrazygamer",
-    "cr4ckmaster",
-    "xweebmaster",
-    "rono183b",
-    "hawkeygaming47",
-    "hamumuma",
-    "boooe",
-    "sunburntspartan",
-    "sprlarc",
-    "varsitygaming",
-    "justryuk",
-    "poisenlul",
-    "llwinsll",
-    "segiiiog",
-    "t3bbb",
-    "duuuuuuuckhugh",
-    "kamiomega",
-    "lagonis",
-    "xreadyaimmissx",
-    "kinggeorge",
-    "cerdetagamer",
-    "cr4sh_override",
-    "redaldx",
-    "ninjakemp",
-    "kop_tv",
-    "esl_verdipwnz",
-    "aonagi_suna",
-    "dr_wolflow_",
-    "fuuuuw_n",
-    "budegadeleao",
-    "bonesonly",
-    "maciejay",
-    "krunice",
-    "mrsbruna__",
-    "mint",
-    "adsus123445",
-    "blarglive",
-    "sirpineapple",
-    "crossarchon",
-    "pascal0_4",
-    "ash12tyn",
-    "obloga_ua",
-    "miukena",
-    "gwenpostingttv",
-    "yo_boy_roy",
-    "minato_yu_",
-    "freisslingo",
-    "uncahsaurusrex",
-    "bigbaby17902",
-    "gremiodelassombras",
-    "hamcheese",
-    "omgitspriest",
-    "gronkbabyy",
-    "runoutofaname",
-    "bikinibodhi",
-    "supremisis",
-    "mymildeiei",
-    "skittlz",
-    "of4lcon",
-    "garfield",
-    "futurfax",
-    "rainbow6br",
-    "kolter9eist",
-    "mingo",
-    "muchachina",
-    "seekerassault",
-    "madduckranger",
-    "micio_b",
-    "xkingpredx",
-    "divna33",
-    "liulian_channel",
-    "skasunlbv",
-    "gebruedergames",
-    "chrisgodly",
-    "flankthomas"
+    "rainbow6bravo"
    ],
-   "channelCount": 655,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Esports Pack",
@@ -1216,6 +739,78 @@
       {
        "name": "PARA-308 Osaka 2026",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/96f5c3c7-8a0d-4f6a-afee-f180887bd3ba.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4eaae4f-1da6-49c7-a307-36067416a6c8",
+   "name": "[JP] MC Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T03:00:00Z",
+   "endAt": "2026-11-14T14:59:59.999Z",
+   "description": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1e7e08bc-30cf-4dfa-96b8-0414f19ee8d2.jpeg",
+   "detailsURL": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "pearlabyss_jp"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "2 Hour (Nov 14)",
+     "minutes": 120,
+     "startAt": "2026-11-14T03:00:00Z",
+     "endAt": "2026-11-14T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[JP] MC Finals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cf4e03ce-9aad-459b-8495-e95d55456f5d.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a8202fdf-11e9-4834-a629-d79fb20f2481",
+   "name": "E7WC 2026 Knockout Stage",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T03:00:00Z",
+   "endAt": "2026-11-14T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6111693e-6a8f-4c7c-9366-7afa9b70366d.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Knockout Stage",
+     "minutes": 15,
+     "startAt": "2026-11-14T03:00:00Z",
+     "endAt": "2026-11-14T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Knockout Stage",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/137e9ba6-e93a-4b86-8217-ac0e21a5fcb4.png"
       }
      ]
     }
@@ -1314,6 +909,44 @@
       {
        "name": "3x decals",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f32b3160-0335-4d63-890b-fb4af2973df5.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "199b7b47-c236-4efe-a146-5a974a7f60bc",
+   "name": "[ASIA] MC Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T05:00:00Z",
+   "endAt": "2026-11-14T16:59:59.999Z",
+   "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4949a156-c323-45dd-85fc-df0c3c34dc8b.jpeg",
+   "detailsURL": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "futsukachannel",
+    "iwan_kung"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "2 Hour (Nov 14)",
+     "minutes": 120,
+     "startAt": "2026-11-14T05:00:00Z",
+     "endAt": "2026-11-14T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[SEA] MC Finals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a93481e5-b089-45d7-acae-6d746c0c9855.jpeg"
       }
      ]
     }
