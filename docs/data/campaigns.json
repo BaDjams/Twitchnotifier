@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T20:39:19Z",
+ "updatedAt": "2026-11-15T00:58:33Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,356 +7,83 @@
  },
  "campaigns": [
   {
-   "id": "21b0184c-ff47-4e37-8c99-e0183389e3be",
-   "name": "[TW] MC Qualifiers",
+   "id": "0f49fa05-46a2-4e77-b4dc-0a2bef7aa97c",
+   "name": "OSCS - RL Roulette",
    "status": "ACTIVE",
-   "startAt": "2026-11-14T10:00:00Z",
-   "endAt": "2026-11-14T21:59:59.999Z",
-   "description": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20448&countryType=zh-TW",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d3e49cfb-2b45-4313-ba42-446a78de222a.jpeg",
-   "detailsURL": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20448&countryType=zh-TW",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
+   "startAt": "2026-11-14T23:15:00Z",
+   "endAt": "2026-11-15T02:59:59.999Z",
+   "description": "OSCS takes over TwitchCon with the Rocket League Roulette! Watch any participating channel to earn drops. ",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e7d17fcd-8749-4ea6-8a0d-2aa592b3022c.png",
+   "detailsURL": "https://www.epicgames.com/account/connections",
+   "linkURL": "https://www.epicgames.com/account/connections",
+   "owner": "Epic Games",
    "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
+    "id": "30921",
+    "name": "Rocket League",
+    "slug": "rocket-league",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/30921-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rocket-league"
    },
    "channels": [
-    "blackdesert_tw_official"
+    "arky",
+    "twitchrivals",
+    "herculyse",
+    "modelmorg",
+    "meesterkeem",
+    "santipulgaz",
+    "wakewilder",
+    "joe_bartolozzi",
+    "sunnys",
+    "bigmonraph",
+    "e11ysa",
+    "russel",
+    "officedrummer",
+    "redify",
+    "yusuf7n",
+    "vegas",
+    "1jdab1",
+    "nosiiree",
+    "primatepaige",
+    "wavepunk",
+    "yugi2x",
+    "zoil",
+    "erobb221"
    ],
-   "channelCount": 1,
+   "channelCount": 23,
    "drops": [
     {
-     "name": "1 Hour (Nov 14)",
-     "minutes": 60,
-     "startAt": "2026-11-14T10:00:00Z",
-     "endAt": "2026-11-14T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[TW] MC Qualifiers",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0ea45d7f-dc47-4a18-8285-2990dd2150a2.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "10ecb7d6-ce1c-401e-b2ec-ee2b4ef3437f",
-   "name": "[RU] MC Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T10:00:00Z",
-   "endAt": "2026-11-14T21:59:59.999Z",
-   "description": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c61a9c73-65fc-4f7c-b14b-91abc57af356.jpeg",
-   "detailsURL": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "alesha_kotik",
-    "dennybritva"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "2 Hour (Nov 14)",
-     "minutes": 120,
-     "startAt": "2026-11-14T10:00:00Z",
-     "endAt": "2026-11-14T21:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[RU] MC Finals",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc78f4d2-453a-42d9-afce-417fdb4a3180.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "123c99e7-79dd-428f-8ea2-64dd7f22d395",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T17:07:26Z",
-   "endAt": "2026-11-14T22:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e33b5881-7b56-4cfd-a2ed-b07b6fa4149b.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C",
-     "minutes": 90,
-     "startAt": "2026-11-14T17:07:26Z",
-     "endAt": "2026-11-14T22:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b7782739-e09a-4b4b-bfba-09810f7dc0b4",
-   "name": "Walker MINICUP day 3",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T16:30:00Z",
-   "endAt": "2026-11-14T22:59:59.999Z",
-   "description": "We are back in action with MINICUP Escape from Tarkov: Arena. Six of North America's strongest teams will face off to see who will be crowned champion. Tune in to catch all the matches and earn your Twitch Drops!\n\n",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fd84bd47-9e6f-46fa-9949-8020962723a3.png",
-   "detailsURL": "https://www.twitch.tv/",
-   "linkURL": "https://www.escapefromtarkov.com/profile",
-   "owner": "Battlestate Games",
-   "game": {
-    "id": "380978759",
-    "name": "Escape from Tarkov: Arena",
-    "slug": "escape-from-tarkov-arena",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/380978759_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov-arena"
-   },
-   "channels": [
-    "walker",
-    "dezzy_hhg",
-    "huntpremier"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "Drop 1",
+     "name": "RLCS Very Rare Drop",
      "minutes": 30,
-     "startAt": "2026-11-14T16:30:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
+     "startAt": "2026-11-14T23:15:00Z",
+     "endAt": "2026-11-15T02:59:59.999Z",
      "rewards": [
       {
-       "name": "Drop 1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9c7e2663-4f13-484c-979a-1cf1e3b908a4.png"
+       "name": "RLCS 2025 Very Rare Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9695bf74-ff0f-4a31-b469-1e9de6d29441.jpeg"
       }
      ]
     },
     {
-     "name": "Drop 2",
+     "name": "RLCS Exotic Drop",
      "minutes": 60,
-     "startAt": "2026-11-14T16:30:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
+     "startAt": "2026-11-14T23:15:00Z",
+     "endAt": "2026-11-15T02:59:59.999Z",
      "rewards": [
       {
-       "name": "Drop 2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c6cad117-b9bd-4408-8617-9c449d2e36c2.png"
+       "name": "RLCS 2025 Exotic Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5de5791-aa6d-411c-b06e-92d8fd8766f9.jpeg"
       }
      ]
     },
     {
-     "name": "Drop 3",
+     "name": "RLCS Import Drop",
      "minutes": 90,
-     "startAt": "2026-11-14T16:30:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
+     "startAt": "2026-11-14T23:15:00Z",
+     "endAt": "2026-11-15T02:59:59.999Z",
      "rewards": [
       {
-       "name": "Drop 3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4f9d1dce-32d4-4fa9-afab-5d3625637bf7.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 120,
-     "startAt": "2026-11-14T16:30:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aa63df31-f478-43ca-ac6c-e64df0929abd.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 150,
-     "startAt": "2026-11-14T16:30:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drop 5",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba9a08ef-1601-4199-a45b-a28024a1aebe.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e2e62852-a98a-420f-a984-52a0f15ca55e",
-   "name": "Enchanted Wilds Tac Crown",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T12:00:00Z",
-   "endAt": "2026-11-14T22:59:59.999Z",
-   "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \n\"Womp Gromp\": Available to claim November 13 \n\"Murkwolf, Shmurkwolf\": Available to claim November 14 \n\"Golden Crab-tula\": Available to claim November 15 \nTune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/65b4d8e7-1c26-4f47-bf72-961fbc7d8398.png",
-   "detailsURL": "https://competetft.com/en-US/",
-   "linkURL": "https://twitch.tv/settings/connections#riot-connection",
-   "owner": "Riot Games",
-   "game": {
-    "id": "513143",
-    "name": "Teamfight Tactics",
-    "slug": "teamfight-tactics",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513143-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-teamfight-tactics"
-   },
-   "channels": [
-    "layladocinhoo",
-    "araye__",
-    "naudytft",
-    "glowyjelly",
-    "dalesomtft",
-    "strongestet",
-    "urg0d",
-    "toontv",
-    "gtroubleinc",
-    "rommypandatomic",
-    "balotelli777",
-    "snoodyboo",
-    "puricoasa",
-    "elonchess",
-    "xpwt",
-    "flamienx1",
-    "azarea3",
-    "mister_polo",
-    "pamelishaa",
-    "aliicx",
-    "miguelkcrs",
-    "dandipasta",
-    "manutegaming",
-    "artyn",
-    "metzauh",
-    "leofloresdc",
-    "youbetterknowme",
-    "janelleyace",
-    "juand_lapras",
-    "altenahue",
-    "dokhy",
-    "h20_henry",
-    "loescherdinger",
-    "kezman22",
-    "lokenxs",
-    "cosmossc2",
-    "teamfighttactics",
-    "blackfireice",
-    "brozilla_tv",
-    "luuluts",
-    "faraei",
-    "elperfumess",
-    "grim_bg",
-    "shikamemadokaaa",
-    "kappitayipyip",
-    "chibiunu",
-    "silb3r__",
-    "dominus_tft",
-    "clorka",
-    "oberbayer",
-    "un33d",
-    "clavetft",
-    "syphuvt",
-    "alestilorysord",
-    "juswa___",
-    "a_zeel",
-    "crazyghsot",
-    "justremikun",
-    "giorgia_falci",
-    "theoriginalgriefer",
-    "suntoryboss",
-    "qadrienne",
-    "nsoju",
-    "send",
-    "ohgawdkate",
-    "guardianangelgg",
-    "nrvn5",
-    "loonirium",
-    "zacmantft",
-    "justkiryy",
-    "hmoon76",
-    "lpgjustjohnny",
-    "opesanec",
-    "pssharpshine",
-    "sagedesempregada",
-    "merci_raph"
-   ],
-   "channelCount": 76,
-   "drops": [
-    {
-     "name": "Murkwolf, Shmurkwolf Emote",
-     "minutes": 30,
-     "startAt": "2026-11-14T12:00:00Z",
-     "endAt": "2026-11-14T22:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Murkwolf, Shmurkwolf Emot",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/80be0f28-28ee-48d1-a095-80534040925d.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "32d9f384-1cf8-490c-ade3-b614db397a23",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T00:00:00Z",
-   "endAt": "2026-11-14T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/695f17bb-32af-4922-8342-d7df8d368261.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 150,
-     "startAt": "2026-11-14T00:00:00Z",
-     "endAt": "2026-11-14T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 300,
-     "startAt": "2026-11-14T00:00:00Z",
-     "endAt": "2026-11-14T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+       "name": "RLCS 2025 Import Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/39e9ee43-b4ce-481d-a026-4d4bbbdf9a83.jpeg"
       }
      ]
     }
@@ -440,43 +167,6 @@
       {
        "name": "Frame Perfect Title",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4d8082ec-8bf3-42c3-ad13-f22a9afa4379.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a13c0a02-618a-47e8-8e79-c52ec6684f7f",
-   "name": "[NAEU] MC Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T14:00:00Z",
-   "endAt": "2026-11-15T03:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f74a56b-8866-4a82-812a-bd4ccdf927fb.jpeg",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "blackdesertgame"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "2 Hour (Nov 14)",
-     "minutes": 120,
-     "startAt": "2026-11-14T14:00:00Z",
-     "endAt": "2026-11-15T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[NAEU] MC Finals",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1a23d8d3-1b13-4c31-9127-cef1fc6f1d61.jpeg"
       }
      ]
     }
@@ -661,6 +351,43 @@
       {
        "name": "Neo-City Axe",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/536ef77a-09a2-47df-b4c6-bf5a5a430a94.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a13c0a02-618a-47e8-8e79-c52ec6684f7f",
+   "name": "[NAEU] MC Finals",
+   "status": "ACTIVE",
+   "startAt": "2026-11-14T14:00:00Z",
+   "endAt": "2026-11-15T03:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f74a56b-8866-4a82-812a-bd4ccdf927fb.jpeg",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [
+    "blackdesertgame"
+   ],
+   "channelCount": 1,
+   "drops": [
+    {
+     "name": "2 Hour (Nov 14)",
+     "minutes": 120,
+     "startAt": "2026-11-14T14:00:00Z",
+     "endAt": "2026-11-15T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "[NAEU] MC Finals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1a23d8d3-1b13-4c31-9127-cef1fc6f1d61.jpeg"
       }
      ]
     }
@@ -2801,6 +2528,53 @@
    ]
   },
   {
+   "id": "4d82c7a0-bbe9-4916-9692-fab5682212f1",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-15T00:00:00Z",
+   "endAt": "2026-11-15T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3a091b55-2147-4c83-9e44-376d1793b641.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-11-15T00:00:00Z",
+     "endAt": "2026-11-15T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-11-15T00:00:00Z",
+     "endAt": "2026-11-15T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "f126a55c-acae-4369-ae75-69278bc6a724",
    "name": "26.11 Patch",
    "status": "ACTIVE",
@@ -3029,15 +2803,20 @@
     "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game-live"
    },
    "channels": [
-    "senor_doom",
-    "xatumipm",
-    "littledarkfury",
-    "auralaur67",
+    "peeshh",
+    "harprtcg",
     "azulgg",
+    "juliang835",
+    "alloutblitzle",
+    "senor_doom",
     "reakka",
-    "attica"
+    "xatumipm",
+    "auralaur67",
+    "littledarkfury",
+    "attica",
+    "liamhalliburton"
    ],
-   "channelCount": 7,
+   "channelCount": 12,
    "drops": [
     {
      "name": "Collector's Crate",
