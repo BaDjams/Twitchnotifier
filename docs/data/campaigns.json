@@ -1,200 +1,11 @@
 {
- "updatedAt": "2026-11-17T01:01:43Z",
+ "updatedAt": "2026-11-17T09:05:45Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "c81e1c5b-b7b1-4308-9098-5505cec75f69",
-   "name": "CreatorDrop 11/11-11/17",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T08:00:00Z",
-   "endAt": "2026-11-17T07:59:59.999Z",
-   "description": "CreatorDrop 11/11-11/17",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ba0872e8-cd5f-4e1e-b016-62b125f2c8cc.jpeg",
-   "detailsURL": "https://mistfallhunter.com/twitchdrops",
-   "linkURL": "https://mistfallhunter.com/twitchdrops",
-   "owner": "Bellring Games",
-   "game": {
-    "id": "852009328",
-    "name": "Mistfall Hunter",
-    "slug": "mistfall-hunter",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/852009328_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-mistfall-hunter"
-   },
-   "channels": [
-    "pausenapfel",
-    "feneliaqtx",
-    "huntsgg",
-    "sillygoose0411",
-    "fluffy_fr0zr",
-    "srlenny",
-    "enchantressdani",
-    "lichkarthus",
-    "amargomate",
-    "emreabiofficial",
-    "happyf33t",
-    "baltodermo",
-    "sonnyq1",
-    "dre3dd",
-    "masterdeemosenpai",
-    "theuzikat",
-    "firebox720",
-    "yz12139",
-    "tesaa11",
-    "dreamthief",
-    "jhoolna",
-    "bigdmofficial",
-    "neossil",
-    "shinyatheninja",
-    "saimusgaming",
-    "asymmetricalsoul",
-    "zabenafff",
-    "thesima0gg",
-    "vampyrette",
-    "miintytv",
-    "swanifier",
-    "namifell",
-    "olivotec",
-    "molonel_coutarde",
-    "gamehauntings",
-    "chaoskingtru",
-    "xperez882",
-    "sw1tchtv",
-    "stlk",
-    "xzyss",
-    "appetitegg",
-    "daeldir",
-    "violetshade",
-    "reclaimjoey",
-    "borsuchka",
-    "bushidoyu",
-    "pate",
-    "iskys",
-    "madiakz",
-    "scaremdoll",
-    "mainquestt",
-    "foythtv",
-    "tj_sk1per",
-    "nahgato",
-    "nytefalll",
-    "namoratow",
-    "wolfdnc",
-    "xhankyy",
-    "ghoulxghoul",
-    "viciuslab",
-    "id_kurosuke",
-    "dmgextreme",
-    "toonafeesh",
-    "realasianrobot",
-    "ralisco",
-    "ritmictv",
-    "vorzs",
-    "laniioficial",
-    "ovcian",
-    "passatigy",
-    "sobadstrange",
-    "sermedieval",
-    "zenkiu_87",
-    "hemish",
-    "wkeytherapy",
-    "arrowli",
-    "yaboiwiilly",
-    "lildjeyy1",
-    "darkveyd",
-    "kitohhhh",
-    "id3athwishi",
-    "nouvelle"
-   ],
-   "channelCount": 82,
-   "drops": [
-    {
-     "name": "卓越武器自选箱",
-     "minutes": 60,
-     "startAt": "2026-11-11T08:00:00Z",
-     "endAt": "2026-11-17T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Excellent Weapon Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d572a9d9-5499-442e-a317-6769b45122fd.png"
-      }
-     ]
-    },
-    {
-     "name": "材料抽奖箱",
-     "minutes": 120,
-     "startAt": "2026-11-11T08:00:00Z",
-     "endAt": "2026-11-17T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Material Lucky Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e53e7f72-76b8-4c6b-9548-5acfa0f0b383.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c4ce70e7-0f5e-48e6-9cc0-e71272244966",
-   "name": "Drop 11/11-11/17",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T08:00:00Z",
-   "endAt": "2026-11-17T07:59:59.999Z",
-   "description": "Drop 11/11-11/17",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4bb920f2-3e0a-4c53-b42e-ef3d53bb5175.jpeg",
-   "detailsURL": "https://mistfallhunter.com/twitchdrops",
-   "linkURL": "https://mistfallhunter.com/twitchdrops",
-   "owner": "Bellring Games",
-   "game": {
-    "id": "852009328",
-    "name": "Mistfall Hunter",
-    "slug": "mistfall-hunter",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/852009328_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-mistfall-hunter"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "猎人补给箱",
-     "minutes": 30,
-     "startAt": "2026-11-11T08:00:00Z",
-     "endAt": "2026-11-17T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "30-Minutes Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/14c4a1f2-7f6b-4338-8a72-788a544f3189.png"
-      }
-     ]
-    },
-    {
-     "name": "躯壳头像",
-     "minutes": 60,
-     "startAt": "2026-11-11T08:00:00Z",
-     "endAt": "2026-11-17T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Avatar: Husk",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f2af8334-318c-40c4-bbc5-ee03b7d7cb74.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "玉石引魂时装抽奖箱",
-     "minutes": 240,
-     "startAt": "2026-11-11T08:00:00Z",
-     "endAt": "2026-11-17T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Outfit Lucky Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06eccd7e-dbd0-4692-bf87-67b5273a0473.jpeg"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "93813527-8d39-45cf-9665-ed7b8642287b",
    "name": "Dragonfire 12 - #1/7",
@@ -4782,6 +4593,195 @@
       {
        "name": "Hero's Wit*3",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/19c80b97-382d-493d-80b7-3f3abdb91d04.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fb4fdeef-7147-48df-8e71-54fbb07bcc5f",
+   "name": "Drop 11/17-11/24",
+   "status": "ACTIVE",
+   "startAt": "2026-11-17T08:00:00Z",
+   "endAt": "2026-11-24T07:59:59.999Z",
+   "description": "Drop 11/17-11/24",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/35ef1d73-79e9-44cf-8665-de5ab2402d6a.jpeg",
+   "detailsURL": "https://mistfallhunter.com/twitchdrops",
+   "linkURL": "https://mistfallhunter.com/twitchdrops",
+   "owner": "Bellring Games",
+   "game": {
+    "id": "852009328",
+    "name": "Mistfall Hunter",
+    "slug": "mistfall-hunter",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/852009328_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-mistfall-hunter"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "猎人补给箱",
+     "minutes": 30,
+     "startAt": "2026-11-17T08:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "30-Minutes Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/14c4a1f2-7f6b-4338-8a72-788a544f3189.png"
+      }
+     ]
+    },
+    {
+     "name": "瓦尔格头像",
+     "minutes": 60,
+     "startAt": "2026-11-17T08:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Avatar: Velgr",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fe2d7054-7761-499b-b8bb-00429a0778f2.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "玉石引魂时装抽奖箱",
+     "minutes": 240,
+     "startAt": "2026-11-17T08:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Outfit Lucky Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06eccd7e-dbd0-4692-bf87-67b5273a0473.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "449b7d20-6674-46bd-930f-a8116d3e1024",
+   "name": "CreatorDrop 11/17-11/24",
+   "status": "ACTIVE",
+   "startAt": "2026-11-17T08:00:00Z",
+   "endAt": "2026-11-24T07:59:59.999Z",
+   "description": "CreatorDrop 11/17-11/24",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://mistfallhunter.com/twitchdrops",
+   "linkURL": "https://mistfallhunter.com/twitchdrops",
+   "owner": "Bellring Games",
+   "game": {
+    "id": "852009328",
+    "name": "Mistfall Hunter",
+    "slug": "mistfall-hunter",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/852009328_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-mistfall-hunter"
+   },
+   "channels": [
+    "pausenapfel",
+    "feneliaqtx",
+    "huntsgg",
+    "sillygoose0411",
+    "fluffy_fr0zr",
+    "srlenny",
+    "enchantressdani",
+    "lichkarthus",
+    "amargomate",
+    "emreabiofficial",
+    "happyf33t",
+    "baltodermo",
+    "sonnyq1",
+    "dre3dd",
+    "masterdeemosenpai",
+    "theuzikat",
+    "firebox720",
+    "yz12139",
+    "tesaa11",
+    "dreamthief",
+    "jhoolna",
+    "bigdmofficial",
+    "neossil",
+    "shinyatheninja",
+    "saimusgaming",
+    "asymmetricalsoul",
+    "zabenafff",
+    "thesima0gg",
+    "vampyrette",
+    "miintytv",
+    "swanifier",
+    "namifell",
+    "olivotec",
+    "molonel_coutarde",
+    "gamehauntings",
+    "chaoskingtru",
+    "xperez882",
+    "sw1tchtv",
+    "stlk",
+    "xzyss",
+    "appetitegg",
+    "daeldir",
+    "violetshade",
+    "reclaimjoey",
+    "borsuchka",
+    "bushidoyu",
+    "pate",
+    "iskys",
+    "madiakz",
+    "scaremdoll",
+    "mainquestt",
+    "foythtv",
+    "tj_sk1per",
+    "nahgato",
+    "nytefalll",
+    "namoratow",
+    "wolfdnc",
+    "xhankyy",
+    "ghoulxghoul",
+    "viciuslab",
+    "id_kurosuke",
+    "dmgextreme",
+    "toonafeesh",
+    "realasianrobot",
+    "ralisco",
+    "ritmictv",
+    "vorzs",
+    "laniioficial",
+    "ovcian",
+    "passatigy",
+    "sobadstrange",
+    "sermedieval",
+    "zenkiu_87",
+    "hemish",
+    "wkeytherapy",
+    "arrowli",
+    "yaboiwiilly",
+    "lildjeyy1",
+    "darkveyd",
+    "kitohhhh",
+    "id3athwishi",
+    "nouvelle"
+   ],
+   "channelCount": 82,
+   "drops": [
+    {
+     "name": "卓越武器自选箱",
+     "minutes": 60,
+     "startAt": "2026-11-17T08:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Excellent Weapon Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d572a9d9-5499-442e-a317-6769b45122fd.png"
+      }
+     ]
+    },
+    {
+     "name": "材料抽奖箱",
+     "minutes": 120,
+     "startAt": "2026-11-17T08:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Material Lucky Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e53e7f72-76b8-4c6b-9548-5acfa0f0b383.png"
       }
      ]
     }
