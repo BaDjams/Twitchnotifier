@@ -1,387 +1,11 @@
 {
- "updatedAt": "2026-11-18T01:15:34Z",
+ "updatedAt": "2026-11-18T09:03:17Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "c081aac5-a9eb-4a20-ad13-d5190f2006e9",
-   "name": "In The Huddle",
-   "status": "ACTIVE",
-   "startAt": "2026-11-18T01:00:00Z",
-   "endAt": "2026-11-18T03:59:59.999Z",
-   "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c3968b6-7104-4f8b-8341-a31c52dde752.png",
-   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "670138298",
-    "name": "Madden NFL 27",
-    "slug": "madden-nfl-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
-   },
-   "channels": [
-    "huddlegg"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Twitch Pack",
-     "minutes": 30,
-     "startAt": "2026-11-18T01:00:00Z",
-     "endAt": "2026-11-18T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2ae28c22-b094-46de-b995-ffb308c5e753.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 60,
-     "startAt": "2026-11-18T01:00:00Z",
-     "endAt": "2026-11-18T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b6fc2b74-c15f-4012-bc0a-040c040da80c.png"
-      }
-     ]
-    },
-    {
-     "name": "Twitch Pack",
-     "minutes": 90,
-     "startAt": "2026-11-18T01:00:00Z",
-     "endAt": "2026-11-18T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1ba68da8-4bf2-485d-b19b-0eed7d5fe711.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fab904fd-96c0-4b4c-8775-d2cb829f4563",
-   "name": "Ludra Awakens",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T14:00:00Z",
-   "endAt": "2026-11-18T07:59:59.999Z",
-   "description": "Ludra has arrived! Watch any AION 2 stream to earn exclusive in-game rewards and get ready for the fight.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/08590c33-7b0e-4dae-90fe-6e99dd6a2868.png",
-   "detailsURL": "https://aion2.plaync.com/en-us/twitchdrops/index",
-   "linkURL": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-   "owner": "NC",
-   "game": {
-    "id": "771448419",
-    "name": "AION 2",
-    "slug": "aion-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/771448419_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-aion-2"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": " Battle Support Chest x1",
-     "minutes": 60,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Battle Support Chest x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0064d971-7b4c-4a53-954f-04500f8475bb.png"
-      }
-     ]
-    },
-    {
-     "name": " Skin Chest (10 Times) x3",
-     "minutes": 120,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Skin Chest (10 Times) x3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/53d41b6b-0ad5-4935-9b7f-ca43ca5e19ea.png"
-      }
-     ]
-    },
-    {
-     "name": "Mysterious Pet Chest x3",
-     "minutes": 180,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Mysterious Pet Chest x3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4c8b1f70-699a-4653-876d-45de6846e63d.png"
-      }
-     ]
-    },
-    {
-     "name": "Customization Chest x1",
-     "minutes": 240,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Customization Chest x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/75c796a1-552d-4f97-8d60-71c7b604473c.png"
-      }
-     ]
-    },
-    {
-     "name": "Soul Codex Chest x1",
-     "minutes": 360,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Soul Codex Chest x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2df23ff4-995f-4035-bd7d-d8016944d41e.png"
-      }
-     ]
-    },
-    {
-     "name": "Odyle Energy x6",
-     "minutes": 480,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Odyle Energy x6",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f4d65340-16dc-4d96-91dc-08e7ebe95b88.png"
-      }
-     ]
-    },
-    {
-     "name": "Content Usage Ticket Selection Chest x1",
-     "minutes": 600,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Content Usage Ticket x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c86eb2c1-b8ac-4139-b43e-c10c2574708d.png"
-      }
-     ]
-    },
-    {
-     "name": "Pixel Glasses x1",
-     "minutes": 720,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pixel Glasses x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8b85a078-d5ea-4da8-8128-c07e6675ac76.png"
-      }
-     ]
-    },
-    {
-     "name": "Rare Theostone Chest x1",
-     "minutes": 780,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare Theostone Chest x2",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dc400eaa-c42f-4d05-bcdc-96dd032c2387.png"
-      }
-     ]
-    },
-    {
-     "name": "Black Conical Hat x1",
-     "minutes": 840,
-     "startAt": "2026-11-04T14:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Black Conical Hat x1",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0e608b1b-6589-461e-81e2-ce3ac2b9ab26.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c67997fb-e0e5-4678-afe7-aea6528bc126",
-   "name": "BF Creator Program Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-10T12:00:00Z",
-   "endAt": "2026-11-18T07:59:59.999Z",
-   "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4c8d3899-a475-45b6-a4ba-a47215faad10.png",
-   "detailsURL": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-   "linkURL": "https://ea.com/twitchlinking",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "168648543",
-    "name": "Battlefield 6",
-    "slug": "battlefield-6",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/168648543_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-battlefield-6"
-   },
-   "channels": [
-    "arionefr",
-    "rcckmaybe",
-    "msgemmarambeta",
-    "chasenoface",
-    "yourbigbrothersteve",
-    "p90princess",
-    "itzmaxiq",
-    "lyric",
-    "mirreytv",
-    "denpride",
-    "revealingtoomuch",
-    "pezza",
-    "monstersreturn",
-    "benbit13",
-    "hitmannh_",
-    "angelsmindnl",
-    "kayzahr",
-    "pag3",
-    "maximemxm",
-    "testyment",
-    "bhorgal",
-    "dreeykb",
-    "siegismund",
-    "varsitygaming",
-    "thetacticalbrit",
-    "taisontv",
-    "twitty",
-    "kinggeorge",
-    "swavilo",
-    "killerkm4200",
-    "samoylov___",
-    "nanak",
-    "kemonds",
-    "chefdoyerdee",
-    "littlebigwhale",
-    "privitalino",
-    "neon_pwa",
-    "hambinooo",
-    "obiwanncoyote",
-    "omgitspriest",
-    "squid_g_yt",
-    "eskea",
-    "deejayknight",
-    "irby007",
-    "leviathan",
-    "lbdecoy",
-    "athenawarqueen",
-    "rockynohands",
-    "adisbak",
-    "creatyxx",
-    "behavingbeardly",
-    "klass",
-    "futives",
-    "2twistedtv",
-    "kromkachleba",
-    "flemis",
-    "onepeg",
-    "omaha01",
-    "alyek",
-    "swanyplaysgameslive",
-    "berxor",
-    "sidezz",
-    "xande",
-    "ricky03",
-    "rabblewrangler",
-    "lazysundayss",
-    "luciano_recruta",
-    "impwnstar",
-    "hardtrevs",
-    "primevladi",
-    "x8reaps",
-    "luckychappy",
-    "coconutbrah",
-    "silk",
-    "duckfilmstv",
-    "simplymatthias",
-    "fatzeblack",
-    "maplewood_tv",
-    "princeraso",
-    "luc001gaming",
-    "richie0717_",
-    "sovault",
-    "paladinamber",
-    "cpt_catyyt",
-    "aegis_and_pred",
-    "garciia",
-    "jobbo",
-    "gaming_uae",
-    "feyd",
-    "taveraco",
-    "a1jazzzz",
-    "hollywoodbob",
-    "jsavagew",
-    "ghostofcaldera",
-    "geekypastimes",
-    "sp00nerism",
-    "kiilanie",
-    "blackcat_28",
-    "misa",
-    "segal"
-   ],
-   "channelCount": 352,
-   "drops": [
-    {
-     "name": "Radiant Menace",
-     "minutes": 60,
-     "startAt": "2026-11-10T12:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Radiant Menace",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0213efaf-b261-4cd8-9da5-11cdabb402a7.png"
-      }
-     ]
-    },
-    {
-     "name": "Cranium Radium",
-     "minutes": 120,
-     "startAt": "2026-11-10T12:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Cranium Radium",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5c717af1-60b5-4c89-afd3-e26923c28b1e.png"
-      }
-     ]
-    },
-    {
-     "name": "Ground Truth",
-     "minutes": 180,
-     "startAt": "2026-11-10T12:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ground Truth",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d0110b85-4577-41bb-a191-22fb30642dde.png"
-      }
-     ]
-    },
-    {
-     "name": "Red Ghost Saboteur",
-     "minutes": 240,
-     "startAt": "2026-11-10T12:00:00Z",
-     "endAt": "2026-11-18T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Red Ghost Saboteur",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d84ab29b-6fa3-488d-824e-2d3c58677a78.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "7879dc5f-9fa6-4a50-a680-aeac8e6e4ba2",
    "name": "Dragonfire 12 - #2/7",
@@ -7080,6 +6704,77 @@
       {
        "name": "Stellar Jade*30",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/35243e27-46dd-438a-b460-7bfafe547f18.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "101c5286-f541-4183-bfa7-dd8eea691ed9",
+   "name": "Season 4 Episode 2 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T05:00:00Z",
+   "endAt": "2026-12-09T14:59:59.999Z",
+   "description": "The First Descendant's Season 4 Episode 2 is now available! Tune in to our Twitch livestreams and earn exclusive Drops while you watch. Don't miss out on all the rewards waiting for you.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
+   "detailsURL": "https://tfd.nexon.com/drops/twitch",
+   "linkURL": "https://tfd.nexon.com/drops/twitch",
+   "owner": "Nexon",
+   "game": {
+    "id": "2104758320",
+    "name": "The First Descendant",
+    "slug": "the-first-descendant",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2104758320_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-first-descendant"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Matte Black & Clear Vivid Blue Paints",
+     "minutes": 30,
+     "startAt": "2026-11-18T05:00:00Z",
+     "endAt": "2026-12-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Matte Black & Vivid Blue",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dcc7b55a-6e6e-46da-9909-13bdbaab09ad.png"
+      }
+     ]
+    },
+    {
+     "name": "EXP Boosts",
+     "minutes": 60,
+     "startAt": "2026-11-18T05:00:00Z",
+     "endAt": "2026-12-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "EXP Boost Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/590f759f-759f-49a9-80cc-a2574a356a0e.png"
+      }
+     ]
+    },
+    {
+     "name": "Energy Activator & Crystallization Catalyst",
+     "minutes": 90,
+     "startAt": "2026-11-18T05:00:00Z",
+     "endAt": "2026-12-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Activator & Catalyst",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b57b726e-1bfb-401e-ad2e-2cdf4db8a1e9.png"
+      }
+     ]
+    },
+    {
+     "name": "Descendant Slot, Transcendent Alignment Device & Transcendent Weapon Acquisition Boost ",
+     "minutes": 120,
+     "startAt": "2026-11-18T05:00:00Z",
+     "endAt": "2026-12-09T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Slot + Alighnment + Boost",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/509ff571-32a3-4a01-baea-5656d1423df2.png"
       }
      ]
     }
