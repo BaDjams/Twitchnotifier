@@ -1,720 +1,11 @@
 {
- "updatedAt": "2026-11-18T09:03:17Z",
+ "updatedAt": "2026-11-18T17:57:44Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "7879dc5f-9fa6-4a50-a680-aeac8e6e4ba2",
-   "name": "Dragonfire 12 - #2/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-17T10:00:00Z",
-   "endAt": "2026-11-18T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e3485640-9c39-4d15-a989-66fab5eae529.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-17T10:00:00Z",
-     "endAt": "2026-11-18T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e62191e6-7839-40cb-969c-e76b6593bd0b",
-   "name": "Fractured Skies Drop 2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-14T11:00:00Z",
-   "endAt": "2026-11-18T10:57:59.999Z",
-   "description": "The shiny Mandate of Faith SKIN for your Dragoon Navy Issue!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6e625c0c-d6ce-4d52-ba59-d4698099ae79.jpeg",
-   "detailsURL": "https://www.eveonline.com/twitch",
-   "linkURL": "https://www.eveonline.com/twitch",
-   "owner": "CCP Games",
-   "game": {
-    "id": "13263",
-    "name": "EVE Online",
-    "slug": "eve-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/13263-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eve-online"
-   },
-   "channels": [
-    "boolum1",
-    "jelleemac",
-    "dsmwiks",
-    "jaygrizzly69",
-    "czins_",
-    "chesbenning",
-    "poppop_live",
-    "lynnerankin",
-    "chilldadgaming64",
-    "scootieloo",
-    "ulqi",
-    "avilixis",
-    "ludiks_",
-    "beefonthemic",
-    "themadrambo",
-    "ameribrit1",
-    "elena701",
-    "fuitck",
-    "tyaggy",
-    "theportersavage",
-    "parsifalru",
-    "deadlystm",
-    "firemarine911",
-    "wazitsay",
-    "er1ck_parker",
-    "merulaalba",
-    "themajormayer",
-    "galaxiasai",
-    "liliumcobra",
-    "cococomputer",
-    "garakgermany",
-    "serpent_power",
-    "rampageinc",
-    "eaglefirefly",
-    "horrorble",
-    "doublewidejoe",
-    "arhont_sibirskii",
-    "kpassi911",
-    "laidback_daddio",
-    "corvus_uk",
-    "andy_virus",
-    "dorrian",
-    "lextv",
-    "ludacr0us",
-    "kaelykakes81",
-    "mrblack0ne",
-    "abysspaul",
-    "doseatm",
-    "opencommsshow",
-    "yoioji_tv",
-    "frippyuk",
-    "gidiang",
-    "zehpando",
-    "schlaflos78",
-    "walldeck",
-    "autonomousdonk",
-    "0g_mcfadden",
-    "takuyagogiko",
-    "talkinginstations",
-    "tenshi_x",
-    "nastramoonlight",
-    "vanlenlindsao",
-    "troublesandstrife",
-    "contempoenterprises",
-    "reckage668",
-    "apex262",
-    "theflowerfallen",
-    "hawkgbgaming",
-    "kaziro84",
-    "bombeldothewizard",
-    "darkshineseve",
-    "stuffeddog88",
-    "sniperwolfr",
-    "alodar",
-    "ladywigglewomp",
-    "giraffe_monster",
-    "shadowf1ux",
-    "wristy1627",
-    "midas_bartholomew",
-    "religioved",
-    "vfluffypeanuttsv",
-    "krisoh7",
-    "tx_phoenix",
-    "perfecttarget07",
-    "blitzd86",
-    "justaveragematt",
-    "king_of_anywhere",
-    "bushkittyoneshot",
-    "mrbigbizzness",
-    "siniykits",
-    "mortysnerd",
-    "crispybunnyuk",
-    "gaisplay",
-    "knightserrantx",
-    "sernub",
-    "shyt33",
-    "chloroken",
-    "ikarosfaln",
-    "joelost1",
-    "bondrjr"
-   ],
-   "channelCount": 369,
-   "drops": [
-    {
-     "name": "Dragoon Navy Mandate SKIN",
-     "minutes": 240,
-     "startAt": "2026-11-14T11:00:00Z",
-     "endAt": "2026-11-18T10:57:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragoon Navy Mandate SKIN",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/bc67bae5-5b19-4c3c-b1e3-386da6bb7bf2.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1f613a15-b700-4880-bdcd-abacb89511a0",
-   "name": "2026 BDO Drops (Nov 17)",
-   "status": "ACTIVE",
-   "startAt": "2026-11-17T12:00:00Z",
-   "endAt": "2026-11-18T11:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/032f9623-fa24-436b-a659-1b87b3115510.png",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "2 Hour (Nov 17)",
-     "minutes": 120,
-     "startAt": "2026-11-17T12:00:00Z",
-     "endAt": "2026-11-18T11:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2 Hour Reward",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0d0b7138-509b-46ee-8cd2-4b1056046d1b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d",
-   "name": "Quackity's QSMP2 Season 2",
-   "status": "ACTIVE",
-   "startAt": "2026-10-21T13:00:00Z",
-   "endAt": "2026-11-18T12:59:59.999Z",
-   "description": "This badge was earned for watching QSMP during the initial 2026 launch!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/cf995e62-d185-4927-b375-5160c8005cc0.png",
-   "detailsURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-   "linkURL": "https://twitch.tv",
-   "owner": "Twitch Gaming",
-   "game": {
-    "id": "1422023940",
-    "name": "QSMP",
-    "slug": "qsmp",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1422023940-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-qsmp"
-   },
-   "channels": [
-    "qsmp",
-    "quackitytoo",
-    "quackity"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "QSMP2",
-     "minutes": 60,
-     "startAt": "2026-10-21T13:00:00Z",
-     "endAt": "2026-11-18T12:59:59.999Z",
-     "rewards": [
-      {
-       "name": "QSMP2",
-       "image": "https://static-cdn.jtvnw.net/badges/v1/2fa68fb9-fcdd-4795-bfab-f408e10efaef/3"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eb33870b-d88d-4578-8ddb-bf47ca7d01aa",
-   "name": "Affiliate11/17/26",
-   "status": "ACTIVE",
-   "startAt": "2026-11-17T14:00:00Z",
-   "endAt": "2026-11-18T13:59:59.999Z",
-   "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-   "detailsURL": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-   "linkURL": "https://pt27.ootpdevelopments.com/twitch",
-   "owner": "Out of the Park Developments",
-   "game": {
-    "id": "2099590881",
-    "name": "Out of the Park Baseball 27",
-    "slug": "out-of-the-park-baseball-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2099590881_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-out-of-the-park-baseball-27"
-   },
-   "channels": [
-    "shawncurtis430",
-    "aydubby",
-    "franchisetimemachine",
-    "nershabainco",
-    "cwhitdcfc",
-    "angered_unicorn",
-    "esc_v",
-    "sporer",
-    "bullleague",
-    "drdynastic",
-    "tougie24",
-    "hollywoodty24",
-    "pbesim",
-    "maxlp80",
-    "dishnet34",
-    "supr",
-    "ezradenney",
-    "yukarinkazami",
-    "skyrolla",
-    "thatsportsgamer",
-    "xtoforas",
-    "irockths",
-    "azaxle",
-    "thenolannetwork",
-    "will_beh",
-    "nasbase",
-    "evcinnyc2",
-    "carini_harpua",
-    "crazycanuck1985",
-    "fkncommishlb",
-    "baseball_dreamland",
-    "acomeyoferrors",
-    "ripleytheoriole",
-    "tehsuigi",
-    "teeclev",
-    "cavacom",
-    "jbiggs78"
-   ],
-   "channelCount": 37,
-   "drops": [
-    {
-     "name": "1",
-     "minutes": 15,
-     "startAt": "2026-11-17T14:00:00Z",
-     "endAt": "2026-11-18T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "2",
-     "minutes": 30,
-     "startAt": "2026-11-17T14:00:00Z",
-     "endAt": "2026-11-18T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "3",
-     "minutes": 45,
-     "startAt": "2026-11-17T14:00:00Z",
-     "endAt": "2026-11-18T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "4",
-     "minutes": 60,
-     "startAt": "2026-11-17T14:00:00Z",
-     "endAt": "2026-11-18T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Standard Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43746f49-2066-4c4b-a847-1c8d749b39dc.png"
-      }
-     ]
-    },
-    {
-     "name": "5",
-     "minutes": 90,
-     "startAt": "2026-11-17T14:00:00Z",
-     "endAt": "2026-11-18T13:59:59.999Z",
-     "rewards": [
-      {
-       "name": "PT27 Silver Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ff039d2e-c867-4180-9949-41a1e7eb64ff.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "51d79d4f-fa56-4dff-9ff2-b133ebde6566",
-   "name": "Tarkov City day 2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-17T15:00:00Z",
-   "endAt": "2026-11-18T14:59:59.999Z",
-   "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5a4159a6-8301-4d77-8cac-b33a0bd38719.jpeg",
-   "detailsURL": "https://www.escapefromtarkov.com/news/id/419",
-   "linkURL": "https://www.escapefromtarkov.com/profile",
-   "owner": "Battlestate Games",
-   "game": {
-    "id": "491931",
-    "name": "Escape from Tarkov",
-    "slug": "escape-from-tarkov",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 60,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/cbc87f8b-88a5-4c78-bd80-e7ab7e81d923.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1cb84255-2399-4f45-989d-dcd6df81f9ab.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 180,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e85c8fce-c976-4fb0-9d14-ba968a7f501f.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 4",
-     "minutes": 240,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2793dafb-0cf3-4d0b-bc92-767e87bf44f8.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 5",
-     "minutes": 300,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Legendary",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b1e037d-cb38-4f7c-abba-baa790deda41.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 6",
-     "minutes": 360,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b9faf371-765c-43ad-b749-a00251332b8a.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 7",
-     "minutes": 420,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Rare",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/64b9ab0a-40ab-4a20-99f7-abe166b754fd.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 8",
-     "minutes": 480,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Common",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/31d8fa24-458a-4b82-bfc5-035d57cecac6.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 9",
-     "minutes": 540,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Legendary",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e4f1c35e-286a-4f50-b5a6-9748318b5d11.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 10",
-     "minutes": 600,
-     "startAt": "2026-11-17T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "BEAR Cocktail Criminal",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/84ec16d9-535a-4bf6-98aa-a008f61a4f1f.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b",
-   "name": "NIKKE 4th Anniv. Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-10-28T15:00:00Z",
-   "endAt": "2026-11-18T14:59:59.999Z",
-   "description": "Celebrate the 4th Anniversary of GODDESS OF VICTORY: NIKKE with Twitch Drops!\nFrom October 29 to November 18, 2026 (UTC+9), watch Drops-enabled streams in the GODDESS OF VICTORY: NIKKE category to earn exclusive in-game rewards!\nWatch for up to 2 hours to earn Gems, Ultra Boost Modules, and more!\nPlease Note: Rewards can only be claimed from either the Twitch Drops event or the CHZZK Drops event, not both. ",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/36b3dbf6-2986-4680-b4cb-251478fa5b74.png",
-   "detailsURL": "https://nikke-en.com/act/a2026twitchdrops/index.html",
-   "linkURL": "https://nikke-en.com/act/a2026twitchdrops/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "512033",
-    "name": "GODDESS OF VICTORY: NIKKE",
-    "slug": "goddess-of-victory-nikke",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512033_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-goddess-of-victory-nikke"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Ultra Boost Module ×20",
-     "minutes": 30,
-     "startAt": "2026-10-28T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Ultra Boost Module ×20",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/17ef9917-0cab-4f85-bc6b-b0023a5d5b4e.png"
-      }
-     ]
-    },
-    {
-     "name": "Gems ×150",
-     "minutes": 60,
-     "startAt": "2026-10-28T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Gems ×150",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b82a1150-18ac-4ac9-ba42-52879541a125.png"
-      }
-     ]
-    },
-    {
-     "name": "Gem150&2HBattle Data Case",
-     "minutes": 90,
-     "startAt": "2026-10-28T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Gem150&2HBattle Data Case",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/202669ec-1d6f-475b-b084-d795fb391c12.png"
-      }
-     ]
-    },
-    {
-     "name": "Gem300&2H Core Dust Case",
-     "minutes": 120,
-     "startAt": "2026-10-28T15:00:00Z",
-     "endAt": "2026-11-18T14:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Gem300&2H Core Dust Case",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/97dc62cb-2864-4cee-bc22-e4c396d3204b.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ebd5cbea-eeaf-4589-ac3f-10bb141bf2e9",
-   "name": "WoT A Thrill Store #15",
-   "status": "ACTIVE",
-   "startAt": "2026-11-16T16:00:00Z",
-   "endAt": "2026-11-18T15:59:59.999Z",
-   "description": "WoT A Thrill Store #15",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c0dc091e-a887-48a9-8550-3860ba930256.jpeg",
-   "detailsURL": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
-   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 180,
-     "startAt": "2026-11-16T16:00:00Z",
-     "endAt": "2026-11-18T15:59:59.999Z",
-     "rewards": [
-      {
-       "name": "5x Pumpkin Tokens",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c9fe2976-5c92-4769-8294-aa8c70096f34.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 240,
-     "startAt": "2026-11-16T16:00:00Z",
-     "endAt": "2026-11-18T15:59:59.999Z",
-     "rewards": [
-      {
-       "name": "5x directives",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/11ec473c-7379-4ba3-8838-f283b47a4764.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c5e5162-f8bb-478a-a78a-610f7036f729",
-   "name": "Scape Launch: Cloud Nine",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T16:00:00Z",
-   "endAt": "2026-11-18T15:59:59.999Z",
-   "description": "Watch any live stream in the Scape category while this campaign runs to get the Cloud Nine player title after 30 minutes of watching. Your watch time adds up across streams. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your reward in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The reward is tied to your Scape account and can't be traded.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/efc20b6d-b1ef-4bcb-83cb-7c336f8ae7da.png",
-   "detailsURL": "https://scapethegame.com",
-   "linkURL": "https://portal.scapethegame.com/connect/twitch",
-   "owner": "ScapeWorld Entertainment AB",
-   "game": {
-    "id": "354447144",
-    "name": "Scape",
-    "slug": "scape-1",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/354447144_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-scape-1"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Cloud Nine",
-     "minutes": 30,
-     "startAt": "2026-11-11T16:00:00Z",
-     "endAt": "2026-11-18T15:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Cloud Nine",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e9d9ac92-a77f-4d69-b077-5bd3a4b44f51.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6f160a57-3752-47a3-84d6-a0032195f978",
-   "name": "HEAT Season 2 - Week 11",
-   "status": "ACTIVE",
-   "startAt": "2026-11-11T17:00:00Z",
-   "endAt": "2026-11-18T16:59:59.999Z",
-   "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/0b785b17-c125-4df7-a76c-d483c8f42b12.png",
-   "detailsURL": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
-   "linkURL": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-   "owner": "Wargaming",
-   "game": {
-    "id": "767133634",
-    "name": "World of Tanks: HEAT",
-    "slug": "world-of-tanks-heat",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/767133634_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks-heat"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Vehicle XP Booster",
-     "minutes": 30,
-     "startAt": "2026-11-11T17:00:00Z",
-     "endAt": "2026-11-18T16:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Vehicle XP Booster",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5ef33d5b-e1e9-4585-b638-3284ff05d8a8.png"
-      }
-     ]
-    },
-    {
-     "name": "Booster Pack",
-     "minutes": 120,
-     "startAt": "2026-11-11T17:00:00Z",
-     "endAt": "2026-11-18T16:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Booster Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36983350-7c59-4dcf-8a1f-828e3c088e9b.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "8c826ea3-6c70-49e7-a9db-1ca537e2857e",
    "name": "ROW Drop 651",
@@ -946,13 +237,48 @@
    ]
   },
   {
-   "id": "35e2271a-c7df-4ac8-872e-080dfb7d6779",
-   "name": "S&F Drops 1/2",
+   "id": "6de7bf00-9f2b-4879-a420-0f51dffa13d1",
+   "name": "November Drops ",
    "status": "ACTIVE",
-   "startAt": "2026-11-16T15:00:00Z",
+   "startAt": "2026-11-18T17:00:00Z",
+   "endAt": "2026-11-18T20:59:59.999Z",
+   "description": "Coryphaeus Fall Drops",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00cbbe57-9119-401e-b564-19b133ae061c.png",
+   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+   "owner": "Coryphaeus Corp",
+   "game": {
+    "id": "707002701",
+    "name": "Coryphaeus Championships",
+    "slug": "coryphaeus-championships",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "C",
+     "minutes": 90,
+     "startAt": "2026-11-18T17:00:00Z",
+     "endAt": "2026-11-18T20:59:59.999Z",
+     "rewards": [
+      {
+       "name": "💰 500 C-Coins ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3ab3b4b3-60bf-4cd6-bfa9-971638a449be",
+   "name": "S&F Drops 2/2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T15:00:00Z",
    "endAt": "2026-11-18T22:58:59.999Z",
    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbd54bb6-2834-4a5c-acd5-7090b3a68361.png",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c7f064cb-4e00-4f6f-b67b-0b4f04199442.png",
    "detailsURL": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
    "linkURL": "https://sfgame.net/",
    "owner": "Playa-Games",
@@ -993,6 +319,143 @@
     "gorgoss"
    ],
    "channelCount": 27,
+   "drops": [
+    {
+     "name": "Gilded Package",
+     "minutes": 15,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Gilded Package",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47c0dba2-cba2-4e95-9275-7a90e5001e7b.png"
+      }
+     ]
+    },
+    {
+     "name": "Winged Package",
+     "minutes": 30,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Winged Package",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7cb69da8-da4a-4c7f-88e3-96f8baf73835.png"
+      }
+     ]
+    },
+    {
+     "name": "Metal Package",
+     "minutes": 60,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Metal Package",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c49543aa-42f0-41fe-b0f4-0ab083fb9fb7.png"
+      }
+     ]
+    },
+    {
+     "name": "Smith Package",
+     "minutes": 90,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Smith Package",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/52713587-b18e-4fb5-98e7-98d18ac8a90c.png"
+      }
+     ]
+    },
+    {
+     "name": "Construction Package",
+     "minutes": 120,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Construction Package",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1ade6cce-9bc6-439e-b10a-96e316ae7ab7.png"
+      }
+     ]
+    },
+    {
+     "name": "Fruit Basket",
+     "minutes": 150,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Fruit Basket",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/532077d5-4762-4658-958d-3ce63cdda7ca.png"
+      }
+     ]
+    },
+    {
+     "name": "Random Twitch Epic",
+     "minutes": 180,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-18T22:58:59.999Z",
+     "rewards": [
+      {
+       "name": "Random Twitch Epic",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/47491620-58c2-42a6-a39c-3b997717cca9.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35e2271a-c7df-4ac8-872e-080dfb7d6779",
+   "name": "S&F Drops 1/2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-16T15:00:00Z",
+   "endAt": "2026-11-18T22:58:59.999Z",
+   "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bbd54bb6-2834-4a5c-acd5-7090b3a68361.png",
+   "detailsURL": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+   "linkURL": "https://sfgame.net/",
+   "owner": "Playa-Games",
+   "game": {
+    "id": "510389",
+    "name": "Shakes and Fidget",
+    "slug": "shakes-and-fidget",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510389_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-shakes-and-fidget"
+   },
+   "channels": [
+    "haloxmd",
+    "lootenant",
+    "zsombey",
+    "maexel",
+    "knightisko",
+    "n3utr4lsf",
+    "karolinger",
+    "domcaofficial",
+    "niisa",
+    "tunyghost",
+    "sfgameofficial",
+    "dorzer",
+    "nayfal",
+    "bylebajlo",
+    "gilmacek",
+    "miss_hellbunny",
+    "waves",
+    "spielestyler",
+    "chaze",
+    "egoleipzig",
+    "drarteck",
+    "ricares",
+    "banditsf",
+    "sadeg_sf_official",
+    "geerzson",
+    "mozonetv",
+    "salz_live",
+    "chris2000_sf",
+    "gorgoss"
+   ],
+   "channelCount": 29,
    "drops": [
     {
      "name": "Gilded Package",
@@ -1366,6 +829,41 @@
    ]
   },
   {
+   "id": "d6bcd23c-c0b5-41e3-af62-a74fce88a140",
+   "name": "Dragonfire 12 - #3/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T10:00:00Z",
+   "endAt": "2026-11-19T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6cbe421e-b85d-4d10-a606-594b3847af28.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-11-18T10:00:00Z",
+     "endAt": "2026-11-19T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "17de3088-e3f3-423d-aa84-101002ac41df",
    "name": "Quadra Paintjobs",
    "status": "ACTIVE",
@@ -1590,6 +1088,184 @@
       {
        "name": "Camo EF-2000 (AESA) ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fc2ee320-e3e3-4219-a617-30649d324a56.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fc1f2b5b-db22-433d-a545-a5f19ba319a7",
+   "name": "2026 BDO Drops (Nov 18)",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T12:00:00Z",
+   "endAt": "2026-11-19T11:59:59.999Z",
+   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f8fb81a9-3be0-40ba-9e3c-f42379a54d7d.png",
+   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+   "owner": "Pearl Abyss",
+   "game": {
+    "id": "386821",
+    "name": "Black Desert",
+    "slug": "black-desert",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-black-desert"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "2 Hour (Nov 18)",
+     "minutes": 120,
+     "startAt": "2026-11-18T12:00:00Z",
+     "endAt": "2026-11-19T11:59:59.999Z",
+     "rewards": [
+      {
+       "name": "2 Hour Reward",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0d0b7138-509b-46ee-8cd2-4b1056046d1b.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "205df32c-52db-44be-aa8d-847f9663fa65",
+   "name": "Tarkov City day 3",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T15:00:00Z",
+   "endAt": "2026-11-19T14:59:59.999Z",
+   "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b0f36763-1793-4ad5-b99b-697e6effc8a0.jpeg",
+   "detailsURL": "https://www.escapefromtarkov.com/news/id/419",
+   "linkURL": "https://www.escapefromtarkov.com/profile",
+   "owner": "Battlestate Games",
+   "game": {
+    "id": "491931",
+    "name": "Escape from Tarkov",
+    "slug": "escape-from-tarkov",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-escape-from-tarkov"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 60,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Common",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/77ba94d6-efe5-44b0-8ea9-1856559d5ee5.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Rare",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ca2232dd-6f59-4cb9-8dd6-dda0b93c1032.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 180,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Common",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fae13569-9cc4-4083-8a81-5a4fbd110d6d.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 4",
+     "minutes": 240,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Rare",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/37dffe0a-c6ec-4da4-9750-2932f8dee7d9.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 5",
+     "minutes": 300,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Legendary",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3e8db686-f8af-4c89-8d28-610e90131418.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 6",
+     "minutes": 360,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Common",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/939e4a6b-c4de-46dd-93c5-443f78c49472.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 7",
+     "minutes": 420,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Rare",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fd451ca8-e988-421f-b68f-d3c796d639c8.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 8",
+     "minutes": 480,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Common",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7f1489b6-3cd0-49a9-b0cb-e9557c7104f9.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 9",
+     "minutes": 540,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Legendary",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2664816d-27ff-4dae-b831-c429199b06ea.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 10",
+     "minutes": 600,
+     "startAt": "2026-11-18T15:00:00Z",
+     "endAt": "2026-11-19T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "USEC Hangover Avenger",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/55bc6e9a-5bb6-4992-85a4-250e215604bc.png"
       }
      ]
     }
@@ -1857,6 +1533,7 @@
     "karolinger",
     "pe4rl_4u",
     "katazuri",
+    "inglorizz",
     "kirru0_0",
     "w70werner",
     "hejtojapawu",
@@ -1919,10 +1596,9 @@
     "juliversal",
     "spajkk",
     "lordkokocrc",
-    "gaijin1up",
-    "greifenberg"
+    "gaijin1up"
    ],
-   "channelCount": 112,
+   "channelCount": 113,
    "drops": [
     {
      "name": "Gilded Package",
@@ -2495,6 +2171,53 @@
    ]
   },
   {
+   "id": "2b607c12-6447-4666-a2a4-708cd4289fcf",
+   "name": "WoT A Thrill Store #16",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T16:00:00Z",
+   "endAt": "2026-11-20T15:59:59.999Z",
+   "description": "WoT A Thrill Store #16",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/af135bd7-6b63-4bbd-a653-38472a3c37f1.jpeg",
+   "detailsURL": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
+   "linkURL": "https://worldoftanks.eu/content/guide/twitch-drops/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "27546",
+    "name": "World of Tanks",
+    "slug": "world-of-tanks",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 180,
+     "startAt": "2026-11-18T16:00:00Z",
+     "endAt": "2026-11-20T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "5x Pumpkin Tokens",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2b8eb0db-a71a-4b6b-81fc-90002b4be9b3.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 240,
+     "startAt": "2026-11-18T16:00:00Z",
+     "endAt": "2026-11-20T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "5x directives",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5f9fbcdc-4dc0-4150-8acc-cdde5f4628e3.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "c0f8da20-52fa-4c61-80b4-d48ff28cf306",
    "name": "November Week 3",
    "status": "ACTIVE",
@@ -2951,6 +2674,142 @@
       {
        "name": "Umbral Tentacle Finisher",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/892c8e8c-5ac7-47b6-a809-e2372f81e069.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "07958242-3e68-4552-8133-ffec41b7647d",
+   "name": "Fractured Skies Drop 3",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T11:00:00Z",
+   "endAt": "2026-11-22T10:59:59.999Z",
+   "description": "Pick up this gorgeous State Regulator SKIN for the Corax Navy Issue!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bc408e94-e180-4b79-9c56-57f5ebe125e6.jpeg",
+   "detailsURL": "https://www.eveonline.com/twitch",
+   "linkURL": "https://www.eveonline.com/twitch",
+   "owner": "CCP Games",
+   "game": {
+    "id": "13263",
+    "name": "EVE Online",
+    "slug": "eve-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/13263-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eve-online"
+   },
+   "channels": [
+    "boolum1",
+    "jelleemac",
+    "dsmwiks",
+    "jaygrizzly69",
+    "czins_",
+    "chesbenning",
+    "poppop_live",
+    "lynnerankin",
+    "chilldadgaming64",
+    "scootieloo",
+    "ulqi",
+    "avilixis",
+    "ludiks_",
+    "beefonthemic",
+    "themadrambo",
+    "ameribrit1",
+    "elena701",
+    "fuitck",
+    "tyaggy",
+    "theportersavage",
+    "parsifalru",
+    "deadlystm",
+    "firemarine911",
+    "wazitsay",
+    "er1ck_parker",
+    "merulaalba",
+    "themajormayer",
+    "galaxiasai",
+    "liliumcobra",
+    "cococomputer",
+    "garakgermany",
+    "serpent_power",
+    "rampageinc",
+    "eaglefirefly",
+    "horrorble",
+    "doublewidejoe",
+    "arhont_sibirskii",
+    "kpassi911",
+    "laidback_daddio",
+    "corvus_uk",
+    "andy_virus",
+    "dorrian",
+    "lextv",
+    "ludacr0us",
+    "kaelykakes81",
+    "mrblack0ne",
+    "abysspaul",
+    "doseatm",
+    "opencommsshow",
+    "yoioji_tv",
+    "frippyuk",
+    "gidiang",
+    "zehpando",
+    "schlaflos78",
+    "walldeck",
+    "autonomousdonk",
+    "0g_mcfadden",
+    "takuyagogiko",
+    "talkinginstations",
+    "tenshi_x",
+    "nastramoonlight",
+    "vanlenlindsao",
+    "troublesandstrife",
+    "contempoenterprises",
+    "reckage668",
+    "apex262",
+    "theflowerfallen",
+    "hawkgbgaming",
+    "kaziro84",
+    "bombeldothewizard",
+    "darkshineseve",
+    "stuffeddog88",
+    "sniperwolfr",
+    "alodar",
+    "ladywigglewomp",
+    "giraffe_monster",
+    "shadowf1ux",
+    "wristy1627",
+    "midas_bartholomew",
+    "religioved",
+    "vfluffypeanuttsv",
+    "krisoh7",
+    "tx_phoenix",
+    "perfecttarget07",
+    "blitzd86",
+    "justaveragematt",
+    "king_of_anywhere",
+    "bushkittyoneshot",
+    "mrbigbizzness",
+    "siniykits",
+    "mortysnerd",
+    "crispybunnyuk",
+    "gaisplay",
+    "knightserrantx",
+    "sernub",
+    "shyt33",
+    "chloroken",
+    "ikarosfaln",
+    "joelost1",
+    "bondrjr"
+   ],
+   "channelCount": 369,
+   "drops": [
+    {
+     "name": "Corax Navy Regulator SKIN",
+     "minutes": 240,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-11-22T10:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Corax Navy Regulator SKIN",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/aea65389-88c0-475b-b264-75fb6b72fb7b.jpeg"
       }
      ]
     }
@@ -4271,6 +4130,53 @@
       {
        "name": "Spectator's Clockwork Cat",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/94b9d063-eabc-443a-9d88-a299e0255ed5.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dba36145-f1ae-4a0d-9d11-f4d2173bb773",
+   "name": "HEAT Season 2 - Week 12",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T17:00:00Z",
+   "endAt": "2026-11-25T16:59:59.999Z",
+   "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/64aecdf1-55e3-4dc2-8042-8322bf6226fe.png",
+   "detailsURL": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
+   "linkURL": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
+   "owner": "Wargaming",
+   "game": {
+    "id": "767133634",
+    "name": "World of Tanks: HEAT",
+    "slug": "world-of-tanks-heat",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/767133634_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks-heat"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Vehicle XP Booster",
+     "minutes": 30,
+     "startAt": "2026-11-18T17:00:00Z",
+     "endAt": "2026-11-25T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Vehicle XP Booster",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5ef33d5b-e1e9-4585-b638-3284ff05d8a8.png"
+      }
+     ]
+    },
+    {
+     "name": "Booster Pack",
+     "minutes": 120,
+     "startAt": "2026-11-18T17:00:00Z",
+     "endAt": "2026-11-25T16:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Booster Pack",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/36983350-7c59-4dcf-8a1f-828e3c088e9b.png"
       }
      ]
     }
@@ -5676,6 +5582,7 @@
     "bluemonsster",
     "deviatingg",
     "soulre4p3r",
+    "siimba",
     "datguy_kill",
     "g3ral2",
     "bigcat188",
@@ -5684,7 +5591,7 @@
     "lancececil",
     "kevkaioken"
    ],
-   "channelCount": 71,
+   "channelCount": 72,
    "drops": [
     {
      "name": "Ion Core",
@@ -5778,6 +5685,76 @@
       {
        "name": "Twitch gravestone",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/16cb787a-2141-4faf-9d2b-b9c26d14be77.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a8ce1281-5c82-4fbe-9a18-3e7d02e1e7b6",
+   "name": "OSRS Hardcore Worlds",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T13:06:33Z",
+   "endAt": "2026-11-30T23:59:59.999Z",
+   "description": "This badge was awarded to people who viewed any eligible channel in the Old School RuneScape category for one hour.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/facbef0f-30a9-4652-be8e-3706e72b1fb7.png",
+   "detailsURL": "https://www.twitch.tv/drops/campaigns",
+   "linkURL": "https://www.twitch.tv",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "459931",
+    "name": "Old School RuneScape",
+    "slug": "old-school-runescape",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/459931_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-old-school-runescape"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "RuneScape Bones",
+     "minutes": 60,
+     "startAt": "2026-11-18T13:06:33Z",
+     "endAt": "2026-11-30T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "RuneScape Bones",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3f8997fa-c97e-4f13-8d6c-1fd689a84d9f.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1f04121b-9c6b-4ae8-bdd5-9833c96a64ae",
+   "name": "OSRS Hardcore Worlds",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T13:04:32Z",
+   "endAt": "2026-11-30T23:59:59.999Z",
+   "description": "This badge was earned by subscribing or gifting a sub to any Old School RuneScape broadcast in 2026 during the release of Hardcore Worlds.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f1d68ca7-00f6-49a4-a1d0-02b44948e5ec.png",
+   "detailsURL": "https://www.twitch.tv/drops/campaigns",
+   "linkURL": "https://www.twitch.tv",
+   "owner": "Twitch Gaming",
+   "game": {
+    "id": "459931",
+    "name": "Old School RuneScape",
+    "slug": "old-school-runescape",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/459931_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-old-school-runescape"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "RuneScape GnomePlush",
+     "minutes": 0,
+     "startAt": "2026-11-18T13:04:32Z",
+     "endAt": "2026-11-30T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "RuneScape GnomePlush",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/61485d82-616b-44c0-9130-a38736009910.png"
       }
      ]
     }
@@ -6474,6 +6451,109 @@
    ]
   },
   {
+   "id": "7ff32cbb-45b1-42c3-95a4-ff18bd42277b",
+   "name": "DDV: The Keepsake Sea",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T14:00:00Z",
+   "endAt": "2026-12-03T04:59:59.999Z",
+   "description": "Earn exclusive in-game rewards by watching any participating streams of Disney Dreamlight Valley!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b47373ee-8c8b-4f4f-b790-345af911706a.png",
+   "detailsURL": "https://disneydreamlightvalley.com/twitch-drops",
+   "linkURL": "https://disneydreamlightvalley.com/twitch-drops",
+   "owner": "Gameloft",
+   "game": {
+    "id": "1515862749",
+    "name": "Disney Dreamlight Valley",
+    "slug": "disney-dreamlight-valley",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1515862749_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-disney-dreamlight-valley"
+   },
+   "channels": [
+    "mrstarinsky",
+    "unphotojennic",
+    "fluffy",
+    "hollypocketland",
+    "kirschbecher97",
+    "littlebigwhale",
+    "vixella",
+    "ladylunagaming",
+    "amirufe",
+    "pixelsandsheepz",
+    "richhomieeevee",
+    "jupieverse",
+    "consolecaito",
+    "risshella",
+    "miladyconfetti",
+    "slevshow",
+    "simfinity_nina",
+    "hyliandescent",
+    "danparadis",
+    "rikkichuu",
+    "schumigirl4everr",
+    "insanedra",
+    "simmarysims",
+    "brandywinestyle",
+    "teegstah",
+    "serroh",
+    "olivescrossing",
+    "lauryn",
+    "ryeua",
+    "drgluon",
+    "cozyycozette",
+    "lauwiny",
+    "ultia",
+    "erdbeerquaark",
+    "ronnie",
+    "springsims",
+    "mylittlelakes",
+    "probably_senpai",
+    "faeshani",
+    "meghann_with2ns",
+    "disneydreamlightvalley",
+    "olithinoa",
+    "staish"
+   ],
+   "channelCount": 43,
+   "drops": [
+    {
+     "name": "Keepsake Sea Photo Frame",
+     "minutes": 60,
+     "startAt": "2026-11-18T14:00:00Z",
+     "endAt": "2026-12-03T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Keepsake Sea Photo Frame",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2791a0aa-2b1b-485c-b5e3-3bccdc1c5230.png"
+      }
+     ]
+    },
+    {
+     "name": "Pirate Crocodile",
+     "minutes": 90,
+     "startAt": "2026-11-18T14:00:00Z",
+     "endAt": "2026-12-03T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Pirate Crocodile",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/23b1a3af-5645-4ec7-a206-4237bfbf5b58.png"
+      }
+     ]
+    },
+    {
+     "name": "Sea Witch Ship",
+     "minutes": 120,
+     "startAt": "2026-11-18T14:00:00Z",
+     "endAt": "2026-12-03T04:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Sea Witch Ship",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1da1d2cd-3c3a-4748-8d2f-0b2dcff392ea.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "eb9156b6-649e-4e03-9cd1-989d9a89717e",
    "name": "Cash Is King! Release",
    "status": "ACTIVE",
@@ -6621,6 +6701,190 @@
       {
        "name": "1 Sunshine Lucky Bag",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/06c64380-5cad-4454-8e59-d891109068e9.jpeg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19dca767-724a-4117-ab36-c04f05018a80",
+   "name": "Brawl Esport New Legend",
+   "status": "ACTIVE",
+   "startAt": "2026-11-18T11:00:00Z",
+   "endAt": "2026-12-08T22:59:59.999Z",
+   "description": "BRAWLHALLA ESPORT UCP New Legend Celebration1h | Lord Vraxx Community Colors v2 Color Scheme |  2h | Dusk Community Colors v2 Color Scheme |  3h | Ransom Community Colors v2 Color Scheme|  4h | Morgwyn Community Colors v3 Color Scheme |  5h | Soulless In-game title | ",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/771d0116-d000-4cd0-a69f-3190b8a2dd07.png",
+   "detailsURL": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+   "linkURL": "https://drops-register.ubi.com/",
+   "owner": "Ubisoft",
+   "game": {
+    "id": "460316",
+    "name": "Brawlhalla",
+    "slug": "brawlhalla",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/460316_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-brawlhalla"
+   },
+   "channels": [
+    "vecinaa",
+    "bulletthekrazygamer",
+    "official",
+    "ifrosy4",
+    "magix_rl",
+    "llwinsll",
+    "dopey5007",
+    "kinggeorge",
+    "boomiexd",
+    "mounir_bh",
+    "pamepaz_",
+    "lynxwagner",
+    "crashsmash01",
+    "tpacno",
+    "simuverseden",
+    "jagsman",
+    "bevans1221",
+    "xkingpredx",
+    "flankthomas",
+    "wascho84",
+    "dmct_zefrianotm",
+    "clubchick",
+    "stingray516",
+    "famouswolluf",
+    "nlbawz",
+    "axzanar",
+    "aizkalttv",
+    "demtson",
+    "alextheegamer",
+    "ricky03",
+    "sporerose",
+    "fezaru80",
+    "probrawlhalla",
+    "junito_gaming",
+    "osorawrr",
+    "sya9ide",
+    "swirftbh",
+    "pavelskibh",
+    "discodevli",
+    "experience",
+    "livevilxanimal",
+    "gwkennie",
+    "brandynleveling",
+    "jirotodeath",
+    "g4mehouse",
+    "iiateneaii",
+    "amblee2929",
+    "skixex",
+    "gothicsnowangel",
+    "joel_alejo_",
+    "theposse_",
+    "yourhostcj",
+    "gaming_uae",
+    "kemz",
+    "seasonalgeno",
+    "ssjaymusic",
+    "pandamanx0901",
+    "sevendla",
+    "wesleybh",
+    "tanksgaminghd",
+    "kudos",
+    "skreamixtv",
+    "idleadventure0",
+    "aprentis_live",
+    "kuvy_bh",
+    "thepandaleo",
+    "rio_bh",
+    "m4sko3",
+    "paikors",
+    "kuroganashi",
+    "gin_yoku3",
+    "thefoxhound",
+    "thee_miggy",
+    "msladyluck82",
+    "odocerato",
+    "reviewsito",
+    "moonthamofo",
+    "umbritac",
+    "mr__kenway",
+    "de_fect",
+    "mr_szillaz",
+    "pectorel",
+    "waynexenterprise",
+    "aioyy",
+    "guynamemike",
+    "wubz",
+    "jrow_x2",
+    "estacaobh",
+    "subzero2k",
+    "koalacrockie",
+    "smirky",
+    "imaidiot19",
+    "meligeni",
+    "omniarthur",
+    "nuclearqueso",
+    "moderngamingus",
+    "sirzave24",
+    "sxniityy",
+    "kappabone",
+    "teteia"
+   ],
+   "channelCount": 216,
+   "drops": [
+    {
+     "name": "Lord Vraxx Comm Colors V2",
+     "minutes": 60,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-12-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Lord Vraxx Comm Colors V2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/200e8b25-879b-4e10-b332-589ee3dc637a.png"
+      }
+     ]
+    },
+    {
+     "name": "Dusk Community Colors v2",
+     "minutes": 120,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-12-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Dusk Community Colors v2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4cb6d880-430f-46cc-893c-6d23992bb9ee.png"
+      }
+     ]
+    },
+    {
+     "name": "Ransom Commun. Colors v2",
+     "minutes": 180,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-12-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Ransom Commun. Colors v2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/307cc90c-d349-4c71-bccf-3a9ea8c609a1.png"
+      }
+     ]
+    },
+    {
+     "name": "Morgwyn Commun. Colors V3",
+     "minutes": 240,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-12-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Morgwyn Commun. Colors V3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6d3dc3ff-d8f9-4382-a875-5ba54de51cc9.png"
+      }
+     ]
+    },
+    {
+     "name": "Soulless title",
+     "minutes": 300,
+     "startAt": "2026-11-18T11:00:00Z",
+     "endAt": "2026-12-08T22:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Soulless title ",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/72381dad-1ef3-47d1-b125-a797286cc332.png"
       }
      ]
     }
