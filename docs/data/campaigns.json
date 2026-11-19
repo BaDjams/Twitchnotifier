@@ -1,167 +1,11 @@
 {
- "updatedAt": "2026-11-19T00:15:13Z",
+ "updatedAt": "2026-11-19T07:51:39Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "14b3d7b9-6ba3-44b3-91dc-9f6911fad493",
-   "name": "Community Drops #224",
-   "status": "ACTIVE",
-   "startAt": "2026-11-18T23:00:00Z",
-   "endAt": "2026-11-19T00:59:59.999Z",
-   "description": "Watch Asura_Tenshi for 30 minutes to receive a Protector Stalker Floof decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f4772a35-dbae-42f8-814d-e3456d852083.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1532757-community-stream-schedule-november-16-22-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "asura_tenshi"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Protector Stalker Floof",
-     "minutes": 30,
-     "startAt": "2026-11-18T23:00:00Z",
-     "endAt": "2026-11-19T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Protector Stalker Floof",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9fea6396-1fd1-47dd-a2ad-26388de8cda1.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1cc8f5d4-eebb-4cb5-a092-fd9c0912cff4",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-18T21:00:00Z",
-   "endAt": "2026-11-19T00:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c36db1a1-f9ad-485c-91bc-41b1e3953abe.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C",
-     "minutes": 90,
-     "startAt": "2026-11-18T21:00:00Z",
-     "endAt": "2026-11-19T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e7d43a1-ed66-4864-bab1-11e5207d84f2",
-   "name": "Good Morning Madden",
-   "status": "ACTIVE",
-   "startAt": "2026-11-18T23:30:00Z",
-   "endAt": "2026-11-19T01:29:59.999Z",
-   "description": "Watch the Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5f96240f-9957-4434-aed7-844511de75ba.png",
-   "detailsURL": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-   "linkURL": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-   "owner": "Electronic Arts",
-   "game": {
-    "id": "670138298",
-    "name": "Madden NFL 27",
-    "slug": "madden-nfl-27",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-madden-nfl-27"
-   },
-   "channels": [
-    "eamaddennfl"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 15,
-     "startAt": "2026-11-18T23:30:00Z",
-     "endAt": "2026-11-19T01:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Madden Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/91c73240-22a1-4128-8eeb-4fda6a99829b.png"
-      }
-     ]
-    },
-    {
-     "name": "Madden Twitch Pack",
-     "minutes": 30,
-     "startAt": "2026-11-18T23:30:00Z",
-     "endAt": "2026-11-19T01:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Madden Twitch Pack",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ec114bd7-bb3f-45d0-b6c1-cab25a706a67.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7755dd9f-b2aa-4745-8250-b76587881383",
-   "name": "Exterminauts: First drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T02:00:00Z",
-   "endAt": "2026-11-19T01:58:59.999Z",
-   "description": "Watch eligible Exterminauts livestreams on Twitch and get beta access! Suit up and join Exterminauts, the ultimate 3-player co-op PvE shooter! Dive into alien nests, exterminate deadly infestations, and get paid for the dirty work. Link your Level Infinite Pass and Twitch accounts to get started!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b3e549fe-c14b-4e41-a720-177ce18d30de.png",
-   "detailsURL": "https://www.exterminauts.com/twitchdrops/en/index.html",
-   "linkURL": "https://www.exterminauts.com/twitchdrops/en/index.html",
-   "owner": "Level Infinite",
-   "game": {
-    "id": "791047566",
-    "name": "Exterminauts",
-    "slug": "exterminauts",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/791047566_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-exterminauts"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Exterminauts Beta Access",
-     "minutes": 15,
-     "startAt": "2026-11-13T02:00:00Z",
-     "endAt": "2026-11-19T01:58:59.999Z",
-     "rewards": [
-      {
-       "name": "Exterminauts Beta Access",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/48b8fdbf-8abf-4d00-952a-7571e98e716c.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "d6bcd23c-c0b5-41e3-af62-a74fce88a140",
    "name": "Dragonfire 12 - #3/7",
@@ -6346,6 +6190,77 @@
    ]
   },
   {
+   "id": "4a77ccb5-95e6-4bc6-8567-de0eb09b0214",
+   "name": "Once Human S5 Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-19T01:00:00Z",
+   "endAt": "2026-12-03T23:29:59.999Z",
+   "description": "Once Human S5 Drops event will be live on Nov 19 - Dec 3, 2026.Connect your Once Human character and Twitch account to receive the reward. Watch a participating stream channel to join the activity. You need to watch Once Human for 6 hours to claim all the rewards. The rewards will be sent to your account in 24 hours.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/7029a4c4-de3d-49d6-b13c-824ec912ae10.png",
+   "detailsURL": "https://www.oncehuman.game/twitch/",
+   "linkURL": "https://www.oncehuman.game/twitch/",
+   "owner": "Starry",
+   "game": {
+    "id": "1441208453",
+    "name": "Once Human",
+    "slug": "once-human",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1441208453_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-once-human"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Sticker: Let's Have Some Music",
+     "minutes": 60,
+     "startAt": "2026-11-19T01:00:00Z",
+     "endAt": "2026-12-03T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Let's Have Some Music",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b63280ce-dc26-419d-a01f-c14111fab3cd.png"
+      }
+     ]
+    },
+    {
+     "name": "Stinger Bulbfly",
+     "minutes": 120,
+     "startAt": "2026-11-19T01:00:00Z",
+     "endAt": "2026-12-03T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Stinger Bulbfly",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4a8517d0-3b47-4df0-b0cd-6a6af68dbb26.png"
+      }
+     ]
+    },
+    {
+     "name": "Stardust Secret Crate: S15 (Epic)",
+     "minutes": 240,
+     "startAt": "2026-11-19T01:00:00Z",
+     "endAt": "2026-12-03T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Secret Crate:S15（Epic）",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5674c857-201e-40cb-a79b-861c5242a4e2.png"
+      }
+     ]
+    },
+    {
+     "name": "Wilderness Outlaw Hood",
+     "minutes": 360,
+     "startAt": "2026-11-19T01:00:00Z",
+     "endAt": "2026-12-03T23:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Wilderness Outlaw Hood",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ccd7b8b2-e2b8-4075-aa78-f2693d9d08ad.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "a0e134ff-e391-46bc-9ac6-0b1b2c826795",
    "name": "Modern Warfare 4 Season 1",
    "status": "ACTIVE",
@@ -6387,6 +6302,89 @@
       {
        "name": "MW4 - Fated Duel",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/50e67e9e-0a57-4e99-ab4f-6791db6d39d7.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa",
+   "name": "Special Supply!",
+   "status": "ACTIVE",
+   "startAt": "2026-11-16T00:59:57Z",
+   "endAt": "2026-12-04T07:59:59.999Z",
+   "description": "Watch the official GunZ: The Duel stream on Twitch to obtain unique Drops.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d58b9401-8535-401a-ba2f-eb84025847ef.jpeg",
+   "detailsURL": "https://gz.ludenus.com/drops",
+   "linkURL": "https://gz-drops.masanggames.com/link",
+   "owner": "마상소프트",
+   "game": {
+    "id": "513567",
+    "name": "GunZ: The Duel",
+    "slug": "gunz-the-duel",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513567_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-gunz-the-duel"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Kit Box (7 Day)",
+     "minutes": 120,
+     "startAt": "2026-11-16T00:59:57Z",
+     "endAt": "2026-12-04T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Kit Box_7 Day",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/39bc9880-a692-409b-9e15-7b1010be4b81.png"
+      }
+     ]
+    },
+    {
+     "name": "Ampoule Box (7 Day)",
+     "minutes": 240,
+     "startAt": "2026-11-16T00:59:57Z",
+     "endAt": "2026-12-04T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Ampoule Box_7 Day",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/387024cd-6335-4667-95f5-c39f1ea814b3.png"
+      }
+     ]
+    },
+    {
+     "name": "Basic Ring Box (7 Day)",
+     "minutes": 360,
+     "startAt": "2026-11-16T00:59:57Z",
+     "endAt": "2026-12-04T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Basic Ring Box_7 Day",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/806338f4-3489-415e-802b-82addc20fa74.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Drops Box",
+     "minutes": 480,
+     "startAt": "2026-11-16T00:59:57Z",
+     "endAt": "2026-12-04T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Drops Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6eaf1318-6a82-4774-a876-156978c2e463.png"
+      }
+     ]
+    },
+    {
+     "name": "I'm pampow (Violet)",
+     "minutes": 600,
+     "startAt": "2026-11-16T00:59:57Z",
+     "endAt": "2026-12-04T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "I'm pampow (Violet)",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/98620bdc-e4ad-42f6-a33a-691290e2e90e.png"
       }
      ]
     }
