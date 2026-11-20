@@ -1,81 +1,11 @@
 {
- "updatedAt": "2026-11-19T23:46:12Z",
+ "updatedAt": "2026-11-20T07:00:03Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "a9e539e9-2e1e-4c53-8327-f0eee4d77ca2",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-19T00:00:00Z",
-   "endAt": "2026-11-19T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/00b5d25f-e7f9-41c2-b501-01a39411c019.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-19T00:00:00Z",
-     "endAt": "2026-11-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "307bd640-cc05-4db1-8b1d-dda348d40115",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-19T19:13:44Z",
-   "endAt": "2026-11-19T23:59:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/55b3e71a-b77b-46c0-8b0d-6cdbb504a95b.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "C",
-     "minutes": 90,
-     "startAt": "2026-11-19T19:13:44Z",
-     "endAt": "2026-11-19T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "f99b87ac-0b54-4402-9209-78a5d4d27744",
    "name": "Dragonfire 12 - #4/7",
@@ -1548,6 +1478,41 @@
       {
        "name": "Drops Token",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "990b09d7-b352-4fc3-968d-2752a91395b9",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-20T00:00:00Z",
+   "endAt": "2026-11-20T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a9077f39-2f76-4ce8-b8f5-459512c9508f.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-20T00:00:00Z",
+     "endAt": "2026-11-20T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -7218,6 +7183,48 @@
       {
        "name": "Gallica Badge",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2009c2c6-04f3-4f44-97f3-bb2d8c718f6a.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e9122172-1e78-4007-8182-18dd8ef378dd",
+   "name": "S5 with Datto and Leopard",
+   "status": "ACTIVE",
+   "startAt": "2026-11-19T00:00:00Z",
+   "endAt": "2026-12-16T23:59:59.999Z",
+   "description": "Datto and Leopard are playing Once Human! Tune in to their Season 5 stream and watch for a total of 4 hours to claim all the Exclusive Drops. Link your Once Human character to your Twitch account to receive the Drops in-game. Rewards will be delivered to your account within 24 hours.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/fb0a16cd-5881-4099-9902-4ab55af74850.png",
+   "detailsURL": "https://www.oncehuman.game/twitch/",
+   "linkURL": "https://www.oncehuman.game/twitch/",
+   "owner": "Starry",
+   "game": {
+    "id": "1441208453",
+    "name": "Once Human",
+    "slug": "once-human",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1441208453_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-once-human"
+   },
+   "channels": [
+    "datto",
+    "leopard"
+   ],
+   "channelCount": 2,
+   "drops": [
+    {
+     "name": "D&L 4-hour rewards",
+     "minutes": 240,
+     "startAt": "2026-11-19T00:00:00Z",
+     "endAt": "2026-12-16T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Formula: Happy Holiday",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/01d7f6b8-6e92-4bc7-ad41-25e6060022f7.png"
+      },
+      {
+       "name": "Party Booster Boots",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dda7db70-38cf-44ce-a74b-d78ef7346732.png"
       }
      ]
     }
