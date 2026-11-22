@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T15:37:36Z",
+ "updatedAt": "2026-11-22T21:42:02Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
@@ -7,13 +7,13 @@
  },
  "campaigns": [
   {
-   "id": "12cf6a1b-aa3c-46b1-a836-c928e5825209",
+   "id": "1e32ce44-ac49-4d34-8300-05b4518f2288",
    "name": "November Drops ",
    "status": "ACTIVE",
-   "startAt": "2026-11-22T13:00:00Z",
-   "endAt": "2026-11-22T17:29:59.999Z",
+   "startAt": "2026-11-22T17:30:00Z",
+   "endAt": "2026-11-22T21:59:59.999Z",
    "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/668a65a3-7667-453a-9d60-0739e314dc78.png",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/02a8c96d-bae9-49ed-a6ea-0bbea19aea81.png",
    "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
    "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
    "owner": "Coryphaeus Corp",
@@ -30,571 +30,12 @@
     {
      "name": "C",
      "minutes": 90,
-     "startAt": "2026-11-22T13:00:00Z",
-     "endAt": "2026-11-22T17:29:59.999Z",
+     "startAt": "2026-11-22T17:30:00Z",
+     "endAt": "2026-11-22T21:59:59.999Z",
      "rewards": [
       {
        "name": "💰 500 C-Coins ",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "733663ed-f43e-47a7-9def-e9b9a200ada4",
-   "name": "Mobile Drop 226",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T17:59:00Z",
-   "endAt": "2026-11-22T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bf0c1983-94b3-42fc-beae-fb8af121da28.png",
-   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Mobile Drop 226",
-     "minutes": 240,
-     "startAt": "2026-11-21T17:59:00Z",
-     "endAt": "2026-11-22T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Regalia of Awakening",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1c12f665-2eaa-461d-aa8a-4323ed84d99f",
-   "name": "ROW Drop 655",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T17:59:00Z",
-   "endAt": "2026-11-22T17:56:59.999Z",
-   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ad1aa558-d8c9-4ac7-b9b7-373ccc53d62a.jpeg",
-   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
-   "owner": "Roko Game Studios",
-   "game": {
-    "id": "516588",
-    "name": "Rise Online",
-    "slug": "rise-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rise-online"
-   },
-   "channels": [
-    "lunatic35",
-    "kenzooo59",
-    "rionli",
-    "eneswarleon",
-    "marlatv",
-    "iiqbe",
-    "hasanincee53",
-    "ozgur",
-    "bahadirakman",
-    "imvakkq",
-    "3enpl",
-    "mesutaktas",
-    "sameth_74",
-    "pwnage",
-    "fire55x",
-    "maadjaay",
-    "nottingham",
-    "fierroby",
-    "nyr01",
-    "sweitch",
-    "4lexy",
-    "sekuv1",
-    "katana51_",
-    "dunya",
-    "yaheljr",
-    "quietalpha",
-    "bloodydaggerselite",
-    "gameparodi",
-    "xegeberkx",
-    "reisbozo",
-    "uc4ronline",
-    "comple01",
-    "ratsbanee",
-    "salityandruil",
-    "lonedruider",
-    "kayagillerrr",
-    "xdreich",
-    "izeq361",
-    "xbekoo8",
-    "mrsakal24",
-    "hytronn",
-    "sherifftattooink",
-    "thierrymuqlerr",
-    "xkarayaman",
-    "explosiontw",
-    "emporioarmanl",
-    "tunsx",
-    "hanimagaa",
-    "imjosqua",
-    "kb7exe",
-    "wyperr0",
-    "mutblox",
-    "handler06",
-    "celtasmucoria",
-    "beytullahkozar",
-    "emisyoner",
-    "wwsero",
-    "xdumanizi",
-    "ninataless",
-    "chukubuk",
-    "dantelf",
-    "4cappynaturall",
-    "xsandoria",
-    "killforyouu",
-    "safakwashere",
-    "hedvein",
-    "xceyki",
-    "jemsnow",
-    "bagasangun",
-    "imyaizen",
-    "wondergaard",
-    "yasomuohanim",
-    "elgunx",
-    "actezcan",
-    "adv3nn",
-    "ogedaygirisken",
-    "gkutlak",
-    "xagloth",
-    "timurlengx",
-    "fissfis",
-    "benundis",
-    "fatihmanav",
-    "musturtv",
-    "phaldorian",
-    "nazdarovia",
-    "poinemaia",
-    "noktadll",
-    "rrealplayer",
-    "zennoxttv",
-    "imalkoc",
-    "melibon",
-    "xschizoooooo",
-    "gheeooo",
-    "thanos_tw",
-    "wayofgame",
-    "bludemre",
-    "heathertr",
-    "turkogluu",
-    "ju1zzt",
-    "noblesoul06"
-   ],
-   "channelCount": 186,
-   "drops": [
-    {
-     "name": "ROW Drop 655",
-     "minutes": 240,
-     "startAt": "2026-11-21T17:59:00Z",
-     "endAt": "2026-11-22T17:56:59.999Z",
-     "rewards": [
-      {
-       "name": "Regalia of True Faith",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7b49aee5-5bb2-4389-8d16-31d261f8df73.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2affb3ea-118a-471f-bcc5-ddd7f5e316ef",
-   "name": "WCI Drops #2",
-   "status": "ACTIVE",
-   "startAt": "2026-11-22T08:30:00Z",
-   "endAt": "2026-11-22T18:59:59.999Z",
-   "description": "WCI Drops #2",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8bb5bd2f-670c-449a-8e3a-445318d7cbbb.jpeg",
-   "detailsURL": "https://worldoftanks.eu//news/competitive-gaming/wci-announcement-2026/",
-   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-   "owner": "Wargaming",
-   "game": {
-    "id": "27546",
-    "name": "World of Tanks",
-    "slug": "world-of-tanks",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
-   },
-   "channels": [
-    "fr3ddy",
-    "dak_28",
-    "chessgenie",
-    "sakres_stream",
-    "dani2999_",
-    "0miki0_",
-    "dejdy_",
-    "worldoftanks",
-    "hectr888",
-    "shadow_thelonewolf",
-    "dakillzor",
-    "jxcr",
-    "skifler_wot",
-    "mrscheff",
-    "theruev",
-    "synop_s",
-    "mautz_",
-    "monsteryoo",
-    "cyganzor",
-    "iicoyote",
-    "sh0kerix",
-    "vgostiua",
-    "tankelit"
-   ],
-   "channelCount": 23,
-   "drops": [
-    {
-     "name": "Drop 1",
-     "minutes": 60,
-     "startAt": "2026-11-22T08:30:00Z",
-     "endAt": "2026-11-22T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/20ffd16f-80f1-4bd4-8ae7-e971e7c1c6fe.png"
-      },
-      {
-       "name": "2x Personal Reserves",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f0caceaa-260a-4c8a-8340-6d1790d55893.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 2",
-     "minutes": 120,
-     "startAt": "2026-11-22T08:30:00Z",
-     "endAt": "2026-11-22T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "6x Decals",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a1eda0b6-b20b-4131-88ec-37b78d17cb49.png"
-      },
-      {
-       "name": "6x Decals",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/67247cbf-63f0-46de-81a3-e52b60d12783.png"
-      }
-     ]
-    },
-    {
-     "name": "Drop 3",
-     "minutes": 240,
-     "startAt": "2026-11-22T08:30:00Z",
-     "endAt": "2026-11-22T18:59:59.999Z",
-     "rewards": [
-      {
-       "name": "5x X5 XP Missions",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/167c1180-8ed1-4b59-b2d7-3320137b4bd7.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "726be8b2-61ed-4d08-89e9-40fd60b2161d",
-   "name": "S13 Glory Drops Tokens",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T20:00:00Z",
-   "endAt": "2026-11-22T19:59:59.999Z",
-   "description": "https://twitch.playeternalreturn.com/",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6c3b2d7b-c41d-4634-b616-cc73eb89575e.png",
-   "detailsURL": "https://twitch.playeternalreturn.com/",
-   "linkURL": "https://twitch.playeternalreturn.com/",
-   "owner": "Nimble Neuron Games",
-   "game": {
-    "id": "512864",
-    "name": "Eternal Return",
-    "slug": "eternal-return",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-eternal-return"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Drops Token",
-     "minutes": 60,
-     "startAt": "2026-11-21T20:00:00Z",
-     "endAt": "2026-11-22T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "Drops Token",
-     "minutes": 120,
-     "startAt": "2026-11-21T20:00:00Z",
-     "endAt": "2026-11-22T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    },
-    {
-     "name": "Drops Token",
-     "minutes": 180,
-     "startAt": "2026-11-21T20:00:00Z",
-     "endAt": "2026-11-22T19:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Drops Token",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1c350e0c-d329-4347-8d62-39362db8bb5d",
-   "name": "Пятница 20.11.2026",
-   "status": "ACTIVE",
-   "startAt": "2026-11-20T15:00:00Z",
-   "endAt": "2026-11-22T20:59:59.999Z",
-   "description": "Смотри прямые трансляции и получай награды!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5370215e-bf82-4a3d-97de-8e2741e32e09.png",
-   "detailsURL": "https://playcaliber.com/",
-   "linkURL": "https://playcaliber.com/",
-   "owner": "1C-777 Limited",
-   "game": {
-    "id": "514013",
-    "name": "Caliber",
-    "slug": "caliber",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/514013_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-caliber"
-   },
-   "channels": [
-    "kodolov_",
-    "sk_explorer",
-    "13raum13",
-    "basist_games",
-    "demon_lestat_yt",
-    "enot_02_02",
-    "ii4ejiobod",
-    "vik__twitch",
-    "sawrway",
-    "brokenworldstm",
-    "shmodeyb",
-    "nesh1m",
-    "snegoff_show",
-    "pasha2222",
-    "alyona_ahapx19",
-    "0nlineru",
-    "6ackepbujijiuu",
-    "vladsafronow",
-    "zelehb_tv",
-    "mandarishmeow",
-    "dmitry_nobr",
-    "general_net",
-    "playcaliber",
-    "ulc3r_",
-    "4ejl_u3_geb9lhoctblx",
-    "spectr_streamtv",
-    "leoplaygg",
-    "4eptobka_54_",
-    "b0ssik___",
-    "pustoi_twitch",
-    "darkspiritdv",
-    "armir_game",
-    "diskateka_veka",
-    "hostilecrab2041"
-   ],
-   "channelCount": 34,
-   "drops": [
-    {
-     "name": "20 000 credits 20.11",
-     "minutes": 20,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e3a723ea-60c3-440f-84f4-82daf00d9152.png"
-      }
-     ]
-    },
-    {
-     "name": "50 fragments 20.11",
-     "minutes": 30,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "50 fragments 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c85bc0c7-8a96-40b7-a863-cb5c7ac43581.png"
-      }
-     ]
-    },
-    {
-     "name": "20 000 credits (2) 20.11",
-     "minutes": 45,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits (2) 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/b7aeff99-046a-4c84-9c06-24c3f7f1b023.png"
-      }
-     ]
-    },
-    {
-     "name": "Army Surplus 20.11",
-     "minutes": 60,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Army Surplus 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6897a2fe-4e86-4f73-a8f9-cb34e3a6b1d1.png"
-      }
-     ]
-    },
-    {
-     "name": "20 000 credits (3) 20.11",
-     "minutes": 90,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "20 000 credits (3) 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1b2eb4bc-38ad-493c-8d57-84a74d472acf.png"
-      }
-     ]
-    },
-    {
-     "name": "Weapon container 20.11",
-     "minutes": 120,
-     "startAt": "2026-11-20T15:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Weapon container 20.11",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ab8a77ec-c769-4125-96c3-946001f0be93.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fde1ca04-981e-44d1-badb-a808983ccf45",
-   "name": "Club Kick-Off EU Opens",
-   "status": "ACTIVE",
-   "startAt": "2026-11-20T14:30:00Z",
-   "endAt": "2026-11-22T20:59:59.999Z",
-   "description": "Watch the RLCS Club Championship Kick-off to earn Drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6021a62f-bb38-41d7-a184-0a53a6766fb8.png",
-   "detailsURL": "https://www.epicgames.com/account/connections",
-   "linkURL": "https://www.epicgames.com/account/connections",
-   "owner": "Epic Games",
-   "game": {
-    "id": "30921",
-    "name": "Rocket League",
-    "slug": "rocket-league",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/30921-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-rocket-league"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "RLCS Very Rare Drop",
-     "minutes": 45,
-     "startAt": "2026-11-20T14:30:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Very Rare Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9695bf74-ff0f-4a31-b469-1e9de6d29441.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Exotic Drop",
-     "minutes": 90,
-     "startAt": "2026-11-20T14:30:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Exotic Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f5de5791-aa6d-411c-b06e-92d8fd8766f9.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "RLCS Import Drop",
-     "minutes": 180,
-     "startAt": "2026-11-20T14:30:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "RLCS 2025 Import Drop",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/39e9ee43-b4ce-481d-a026-4d4bbbdf9a83.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a99cd3ff-5d55-4047-913f-bca0429d6c14",
-   "name": "Solo FNCS Reload ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T18:00:00Z",
-   "endAt": "2026-11-22T20:59:59.999Z",
-   "description": "We're back with Solo FNCS! Watch for 30 minutes to get the Teal Knight's Kick Spray!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/42566e6e-46d4-4a5d-adc9-b54172ed982f.png",
-   "detailsURL": "https://www.fortnite.com/twitch-drops",
-   "linkURL": "https://www.fortnite.com/twitch-drops",
-   "owner": "Epic Games",
-   "game": {
-    "id": "33214",
-    "name": "Fortnite",
-    "slug": "fortnite",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/33214-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-fortnite"
-   },
-   "channels": [
-    "oliverog",
-    "faxuty",
-    "khanada_",
-    "aussieantics",
-    "gripey",
-    "qlnek",
-    "eomzo",
-    "kraez",
-    "fortnite",
-    "coachboop",
-    "leothecrack",
-    "jaus1",
-    "suja"
-   ],
-   "channelCount": 13,
-   "drops": [
-    {
-     "name": "FNCS Shield",
-     "minutes": 30,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-22T20:59:59.999Z",
-     "rewards": [
-      {
-       "name": "FNCS Shield",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2d20422d-dfb7-4286-bd9f-1aafb038afce.jpeg"
       }
      ]
     }
@@ -1324,9 +765,16 @@
     "topic": "twitchnotifier-dz7n7k-overwatch-2"
    },
    "channels": [
-    "nacesports"
+    "ow_esports",
+    "nacesports",
+    "ml7support",
+    "hadi_ow",
+    "rakattack",
+    "emongg",
+    "zbra",
+    "unter"
    ],
-   "channelCount": 1,
+   "channelCount": 8,
    "drops": [
     {
      "name": "Collegiate 2026 Icon",
@@ -2140,6 +1588,177 @@
    ]
   },
   {
+   "id": "abe3a8b2-e5ee-4e58-bd0c-7514f742961b",
+   "name": "ROW Drop 656",
+   "status": "ACTIVE",
+   "startAt": "2026-11-22T17:59:00Z",
+   "endAt": "2026-11-23T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d45ffee8-bd84-45be-b457-78c6b2c5e41e.png",
+   "detailsURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://www.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [
+    "lunatic35",
+    "kenzooo59",
+    "rionli",
+    "eneswarleon",
+    "marlatv",
+    "iiqbe",
+    "hasanincee53",
+    "ozgur",
+    "bahadirakman",
+    "imvakkq",
+    "3enpl",
+    "mesutaktas",
+    "sameth_74",
+    "pwnage",
+    "fire55x",
+    "maadjaay",
+    "nottingham",
+    "fierroby",
+    "nyr01",
+    "sweitch",
+    "4lexy",
+    "sekuv1",
+    "katana51_",
+    "dunya",
+    "yaheljr",
+    "quietalpha",
+    "bloodydaggerselite",
+    "gameparodi",
+    "xegeberkx",
+    "reisbozo",
+    "uc4ronline",
+    "comple01",
+    "ratsbanee",
+    "salityandruil",
+    "lonedruider",
+    "kayagillerrr",
+    "xdreich",
+    "izeq361",
+    "xbekoo8",
+    "mrsakal24",
+    "hytronn",
+    "sherifftattooink",
+    "thierrymuqlerr",
+    "xkarayaman",
+    "explosiontw",
+    "emporioarmanl",
+    "tunsx",
+    "hanimagaa",
+    "imjosqua",
+    "kb7exe",
+    "wyperr0",
+    "mutblox",
+    "handler06",
+    "celtasmucoria",
+    "beytullahkozar",
+    "emisyoner",
+    "wwsero",
+    "xdumanizi",
+    "ninataless",
+    "chukubuk",
+    "dantelf",
+    "4cappynaturall",
+    "xsandoria",
+    "killforyouu",
+    "safakwashere",
+    "hedvein",
+    "xceyki",
+    "jemsnow",
+    "bagasangun",
+    "imyaizen",
+    "wondergaard",
+    "yasomuohanim",
+    "elgunx",
+    "actezcan",
+    "adv3nn",
+    "ogedaygirisken",
+    "gkutlak",
+    "xagloth",
+    "timurlengx",
+    "fissfis",
+    "benundis",
+    "fatihmanav",
+    "musturtv",
+    "phaldorian",
+    "nazdarovia",
+    "poinemaia",
+    "noktadll",
+    "rrealplayer",
+    "zennoxttv",
+    "imalkoc",
+    "melibon",
+    "xschizoooooo",
+    "gheeooo",
+    "thanos_tw",
+    "wayofgame",
+    "bludemre",
+    "heathertr",
+    "turkogluu",
+    "ju1zzt",
+    "noblesoul06"
+   ],
+   "channelCount": 185,
+   "drops": [
+    {
+     "name": "ROW Drop 656",
+     "minutes": 240,
+     "startAt": "2026-11-22T17:59:00Z",
+     "endAt": "2026-11-23T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Red Ribbon Cloak",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d8e7bfa0-04c5-4ab1-8d8b-9a92aaad1fc6.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4aa62ddf-10d7-45cc-b153-483901e1104f",
+   "name": "Mobile Drop 227",
+   "status": "ACTIVE",
+   "startAt": "2026-11-22T17:59:00Z",
+   "endAt": "2026-11-23T17:56:59.999Z",
+   "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c730ebec-a8f4-4242-8c3c-625d31f98cdc.png",
+   "detailsURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "linkURL": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+   "owner": "Roko Game Studios",
+   "game": {
+    "id": "516588",
+    "name": "Rise Online",
+    "slug": "rise-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/516588_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-rise-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Mobile Drop 227",
+     "minutes": 240,
+     "startAt": "2026-11-22T17:59:00Z",
+     "endAt": "2026-11-23T17:56:59.999Z",
+     "rewards": [
+      {
+       "name": "Regalia of Awakening",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e392028b-6942-49be-b212-714cdf476b4e.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "67d1a94d-4cd7-4be7-9a00-45562682aae9",
    "name": "The Heist Open Directory",
    "status": "ACTIVE",
@@ -2276,6 +1895,65 @@
       {
        "name": "CFB 27 SOTW Double Pack",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/4ade2865-a2fb-4c4f-a370-7b4031769bae.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7f737bca-e7c6-4d92-82bd-40d063d66680",
+   "name": "S13 Glory Drops Tokens",
+   "status": "ACTIVE",
+   "startAt": "2026-11-22T20:00:00Z",
+   "endAt": "2026-11-23T19:59:59.999Z",
+   "description": "https://twitch.playeternalreturn.com/",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/8c490fd7-5d1e-460b-9298-901f584c568a.png",
+   "detailsURL": "https://twitch.playeternalreturn.com/",
+   "linkURL": "https://twitch.playeternalreturn.com/",
+   "owner": "Nimble Neuron Games",
+   "game": {
+    "id": "512864",
+    "name": "Eternal Return",
+    "slug": "eternal-return",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/512864_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-eternal-return"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Drops Token",
+     "minutes": 60,
+     "startAt": "2026-11-22T20:00:00Z",
+     "endAt": "2026-11-23T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    },
+    {
+     "name": "Drops Token",
+     "minutes": 120,
+     "startAt": "2026-11-22T20:00:00Z",
+     "endAt": "2026-11-23T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
+      }
+     ]
+    },
+    {
+     "name": "Drops Token",
+     "minutes": 180,
+     "startAt": "2026-11-22T20:00:00Z",
+     "endAt": "2026-11-23T19:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Drops Token",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/247ed93a-a550-497f-9155-cb4ec0d5dfb4.png"
       }
      ]
     }
