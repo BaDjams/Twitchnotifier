@@ -1,48 +1,11 @@
 {
- "updatedAt": "2026-11-22T00:16:45Z",
+ "updatedAt": "2026-11-22T07:22:55Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "b4d651cd-b2bf-4508-bc3b-693527b6bad9",
-   "name": "[NAEU] MC Qualifiers",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T14:00:00Z",
-   "endAt": "2026-11-22T03:59:59.999Z",
-   "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/6f1fadaf-352e-4c98-9708-61e8a24d5c32.jpeg",
-   "detailsURL": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-   "linkURL": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-   "owner": "Pearl Abyss",
-   "game": {
-    "id": "386821",
-    "name": "Black Desert",
-    "slug": "black-desert",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-black-desert"
-   },
-   "channels": [
-    "blackdesertgame"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "2 Hour (Nov 21)",
-     "minutes": 120,
-     "startAt": "2026-11-21T14:00:00Z",
-     "endAt": "2026-11-22T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "[NAEU] MC Qualifiers",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3950d9f0-bd91-4351-a0c7-74983e2b0450.jpeg"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "566908b8-4297-42c4-80c9-cdb59987899d",
    "name": "Dragonfire 12 - #6/7",
@@ -2347,6 +2310,53 @@
    ]
   },
   {
+   "id": "afdd5f19-0305-4714-87a4-b5102b4bcbee",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-22T00:00:00Z",
+   "endAt": "2026-11-22T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/5b9f23a6-ba01-47a3-b5ed-c9aa75d6fdfe.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 120,
+     "startAt": "2026-11-22T00:00:00Z",
+     "endAt": "2026-11-22T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 240,
+     "startAt": "2026-11-22T00:00:00Z",
+     "endAt": "2026-11-22T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "53320415-7aab-41eb-84cd-f59a9e448cef",
    "name": "JS2 Weekly 11.16",
    "status": "ACTIVE",
@@ -2400,16 +2410,9 @@
     "topic": "twitchnotifier-dz7n7k-overwatch-2"
    },
    "channels": [
-    "ow_esports",
-    "nacesports",
-    "unter",
-    "hadi_ow",
-    "emongg",
-    "ml7support",
-    "somnus",
-    "rakattack"
+    "nacesports"
    ],
-   "channelCount": 8,
+   "channelCount": 1,
    "drops": [
     {
      "name": "Collegiate 2026 Icon",
