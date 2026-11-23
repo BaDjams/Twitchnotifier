@@ -1,320 +1,11 @@
 {
- "updatedAt": "2026-11-23T02:34:11Z",
+ "updatedAt": "2026-11-23T11:13:02Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "53320415-7aab-41eb-84cd-f59a9e448cef",
-   "name": "JS2 Weekly 11.16",
-   "status": "ACTIVE",
-   "startAt": "2026-11-16T04:00:00Z",
-   "endAt": "2026-11-23T03:59:59.999Z",
-   "description": "Watch livestreams to claim your drops!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e4710972-e345-469e-93c6-e6e9f88f9d40.png",
-   "detailsURL": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-   "linkURL": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-   "owner": "NetEase",
-   "game": {
-    "id": "515474",
-    "name": "NARAKA: BLADEPOINT",
-    "slug": "naraka-bladepoint",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-naraka-bladepoint"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Special Random Gift",
-     "minutes": 60,
-     "startAt": "2026-11-16T04:00:00Z",
-     "endAt": "2026-11-23T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Special Random Gift",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e195fb4-18a8-4700-8d30-fd628324dca6.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3ff79c12-67c2-4a76-97f0-a2af9287efde",
-   "name": "Collegiate Finals",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T18:00:00Z",
-   "endAt": "2026-11-23T07:59:59.999Z",
-   "description": "Celebrate the start of the Overwatch Collegiate Homecoming Playoffs with  special viewer rewards! Watch 30 minutes to get the Overwatch Collegiate 2026 Icon, watch 1 hours Zero-grav Studying Spray, watch 2 hours to get the Pachimarchives Name Card, watch 4 hours to get 1 Esports Loot Box, and watch 5 hours to get 1 Esports Loot Box",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3559021c-f6ad-4ff7-82b3-5b9ac2b14518.png",
-   "detailsURL": "https://esports.overwatch.com/en-us/rewards",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "515025",
-    "name": "Overwatch",
-    "slug": "overwatch-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-overwatch-2"
-   },
-   "channels": [
-    "ow_esports",
-    "nacesports",
-    "ml7support",
-    "hadi_ow",
-    "rakattack",
-    "emongg",
-    "zbra",
-    "unter",
-    "conormcleod17"
-   ],
-   "channelCount": 9,
-   "drops": [
-    {
-     "name": "Collegiate 2026 Icon",
-     "minutes": 30,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "OW Collegiate 2026 Icon",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c9a9b327-e625-469b-8ef7-fe8317b2c533.png"
-      }
-     ]
-    },
-    {
-     "name": "Zero-grav Studying Spray",
-     "minutes": 60,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Zero-grav Studying Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8011ec47-f19e-47ab-b1a6-108fbe6bac4c.png"
-      }
-     ]
-    },
-    {
-     "name": "Pachimarchives Name Card",
-     "minutes": 120,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Pachimarchives Name Card",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2194cc04-0fec-4698-bb50-22ba4e4bcbc0.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 180,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5d867cdf-7a3a-497f-bb34-10e6c8cedda7.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 300,
-     "startAt": "2026-11-21T18:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/604d8b30-1774-400e-b29d-5e2cc8153ec8.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5f277031-448e-4eb2-8817-45f56779633c",
-   "name": "OWCS Stage 3 Playoffs",
-   "status": "ACTIVE",
-   "startAt": "2026-10-30T07:00:00Z",
-   "endAt": "2026-11-23T07:59:59.999Z",
-   "description": "Celebrate the OWCS Stage 3 Playoffs with special viewer rewards! Watch 1 hour to get the Candlelit Satya Spray, 2 hours to get the Purrfect Evening Spray, 3 hours to get the Sophisticated Sparklers Spray, 4 hours to get an Esports Loot Box, 6 hours to get the Bua and Palak's Lanterns Spray, 8 hours to get the Lantern-Lit Night Name Card, 10 hours to get the OWCS Home Sombra Skin, 12 hours to get the OWCS Away Sombra Skin, 14 hours to get an Esports Loot Box and 15 hours to get an Esports Loot Box",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/167cbaa3-f803-456b-a90e-64d78da9fbe0.png",
-   "detailsURL": "https://esports.overwatch.com/en-us/rewards",
-   "linkURL": "https://account.battle.net/connections",
-   "owner": "Blizzard",
-   "game": {
-    "id": "515025",
-    "name": "Overwatch",
-    "slug": "overwatch-2",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515025-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-overwatch-2"
-   },
-   "channels": [
-    "ow_esports_jp",
-    "ow_esports"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "Candlelit Satya Spray",
-     "minutes": 60,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Candlelit Satya Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ac407c56-e9c2-463d-bd45-40d79ca505cd.png"
-      }
-     ]
-    },
-    {
-     "name": "Purrfect Evening Spray",
-     "minutes": 120,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Purrfect Evening Spray",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/a514e2e0-e7ed-48c8-bc42-91d40ec87a78.png"
-      }
-     ]
-    },
-    {
-     "name": "Sophisticated Sparklers Spray",
-     "minutes": 180,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Sophisticated Sparklers",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c18179a6-d751-4ee7-aea5-6263ead48cdf.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 240,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0b3013fe-b163-451a-908c-172f68b12dad.png"
-      }
-     ]
-    },
-    {
-     "name": "Bua and Palak's Lanterns Spray",
-     "minutes": 360,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Bua and Palak's Lanterns",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/708214c4-841c-4950-82dd-dc83e0d83d31.png"
-      }
-     ]
-    },
-    {
-     "name": "Lantern-Lit Night Name Card",
-     "minutes": 480,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Lantern-Lit Night NC",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/29b08930-31a7-4bf1-9dc4-b9ca39d4556d.png"
-      }
-     ]
-    },
-    {
-     "name": "OWCS Home Sombra Skin",
-     "minutes": 600,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "OWCS Home Sombra Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5bf9fb37-eb3f-49b2-a855-cb1e08c687a4.png"
-      }
-     ]
-    },
-    {
-     "name": "OWCS Away Sombra Skin",
-     "minutes": 720,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "OWCS Away Sombra Skin",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/21451e8a-1ab1-4f88-a13c-07e00f2a75f2.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 840,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/58277681-1b97-42b6-8e0d-2ef7ba5ac536.png"
-      }
-     ]
-    },
-    {
-     "name": "Esports Loot Box",
-     "minutes": 900,
-     "startAt": "2026-10-30T07:00:00Z",
-     "endAt": "2026-11-23T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Esports Loot Box",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08d53625-9560-4d9f-9a2b-41f4741676f0.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ff30cce0-bd37-4ad1-a99c-9a446a0c26c0",
-   "name": "Dragonfire 12 - #7/7",
-   "status": "ACTIVE",
-   "startAt": "2026-11-22T10:00:00Z",
-   "endAt": "2026-11-23T09:29:59.999Z",
-   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f7b898b3-e107-4ecd-b4f1-01fb26fa0750.png",
-   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-   "linkURL": "https://albiononline.com/twitch",
-   "owner": "Sandbox Interactive",
-   "game": {
-    "id": "417528",
-    "name": "Albion Online",
-    "slug": "albion-online",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-albion-online"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Dragonfire Chest",
-     "minutes": 180,
-     "startAt": "2026-11-22T10:00:00Z",
-     "endAt": "2026-11-23T09:29:59.999Z",
-     "rewards": [
-      {
-       "name": "Dragonfire Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "b5a147db-3413-4ecf-9a4f-2694d606ef4a",
    "name": "Master Class 26 (Nov 22)",
@@ -850,6 +541,96 @@
       {
        "name": "5x directives",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fa9d178e-198e-45ed-bebd-7c04848f14be.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ba028902-6b8d-4f95-a880-fd1e4f2eea94",
+   "name": "J cup 11.23",
+   "status": "ACTIVE",
+   "startAt": "2026-11-23T08:00:00Z",
+   "endAt": "2026-11-23T15:59:59.999Z",
+   "description": "Watch livestreams to claim your drops!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/db508e5f-6102-4015-9066-89bf8d842f67.png",
+   "detailsURL": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+   "linkURL": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+   "owner": "NetEase",
+   "game": {
+    "id": "515474",
+    "name": "NARAKA: BLADEPOINT",
+    "slug": "naraka-bladepoint",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-naraka-bladepoint"
+   },
+   "channels": [
+    "narakabladepoint",
+    "naraka_asia",
+    "narakaesports",
+    "servairyo",
+    "hypernova",
+    "cre8ives"
+   ],
+   "channelCount": 6,
+   "drops": [
+    {
+     "name": "Biding Dragon Token*1",
+     "minutes": 15,
+     "startAt": "2026-11-23T08:00:00Z",
+     "endAt": "2026-11-23T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Biding Dragon Token*1",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9d790882-182e-4dd3-9dd2-05796b8e56b4.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Biding Dragon Token*2",
+     "minutes": 30,
+     "startAt": "2026-11-23T08:00:00Z",
+     "endAt": "2026-11-23T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Biding Dragon Token*2",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/160e5289-0ee8-4384-88ab-d2581ea61da7.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Biding Dragon Token*3",
+     "minutes": 45,
+     "startAt": "2026-11-23T08:00:00Z",
+     "endAt": "2026-11-23T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Biding Dragon Token*3",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ab80e640-dde1-45e5-b732-f2d3dcdab6aa.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Biding Dragon Token*4",
+     "minutes": 60,
+     "startAt": "2026-11-23T08:00:00Z",
+     "endAt": "2026-11-23T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Biding Dragon Token*4",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d855c959-80db-4eb6-b1f0-42afec249da8.jpeg"
+      }
+     ]
+    },
+    {
+     "name": "Health*10",
+     "minutes": 90,
+     "startAt": "2026-11-23T08:00:00Z",
+     "endAt": "2026-11-23T15:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Health*10",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c857d281-a985-49ea-8242-076538c27b9c.jpeg"
       }
      ]
     }
@@ -1855,6 +1636,177 @@
       {
        "name": "LAIC '27 VGC Co-Stream",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7cb11578-6456-4d62-95c2-a9e889362160.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3b864859-e4c7-42e4-a231-fafa2f32afd6",
+   "name": "AOCP Flamescale 8 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-23T10:00:00Z",
+   "endAt": "2026-11-24T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/bfa4e6d4-d5eb-4fdb-a337-da788cd070f5.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [
+    "elfirefemale",
+    "char1ynn",
+    "momomonii",
+    "buffy_thelady",
+    "mehanco",
+    "popinkch",
+    "ambiustv",
+    "elalquimista_1989",
+    "efef_ao",
+    "shojifr",
+    "gankeronline",
+    "kachiralove",
+    "docplayztv",
+    "kpahj",
+    "crazzy_girl0",
+    "jaadezz",
+    "poleeson",
+    "sniperok2909",
+    "bordaozada",
+    "stiflerstream",
+    "farchasir",
+    "soykasumii",
+    "kabar24",
+    "blackboa",
+    "akromita",
+    "xheyte",
+    "nendysalbion",
+    "satanicmode_pe",
+    "majorz1",
+    "07_jamp",
+    "whithblade",
+    "querubinzz",
+    "scrappedonline",
+    "amelinnalive",
+    "kraizen_gaming",
+    "niviah_",
+    "crushyn",
+    "noefps_",
+    "vezia13",
+    "snickerd0odle",
+    "morcstartv",
+    "ocultogk",
+    "v1tona",
+    "derrick",
+    "daniely_rm",
+    "nomadponcho",
+    "alexc14",
+    "dongryff",
+    "murloka",
+    "victorzane",
+    "stdantewhale",
+    "neamhel",
+    "neymolima",
+    "arnelas",
+    "romaingold",
+    "batuhandagl",
+    "melaniejnd",
+    "beburi",
+    "feliperas",
+    "fancanth",
+    "sankt",
+    "izvalen",
+    "calamarei",
+    "amadodelmarmol",
+    "fakturka",
+    "vv4rren",
+    "bo4a167",
+    "sirabes",
+    "feeckz",
+    "duckii",
+    "molonel_coutarde",
+    "schrannk",
+    "pinchi_tv",
+    "nirvtv",
+    "diositolc",
+    "nazori",
+    "saggox",
+    "jonahveil",
+    "warden50",
+    "lewpac",
+    "t666ommy",
+    "robinhoodrsao",
+    "jhinkdgs",
+    "shinefujimoto",
+    "mrryden",
+    "zeroxdeath",
+    "feyreeb",
+    "nemezizyt",
+    "w0n23",
+    "megz",
+    "sadicaz",
+    "crossbowmantv",
+    "marwinich",
+    "summerseachels",
+    "madfiks",
+    "ninuschk",
+    "zyfraraider",
+    "a_big_koko",
+    "moondefendertv",
+    "einfachfriedrich93"
+   ],
+   "channelCount": 177,
+   "drops": [
+    {
+     "name": "Noble Community Chest",
+     "minutes": 240,
+     "startAt": "2026-11-23T10:00:00Z",
+     "endAt": "2026-11-24T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Noble Community Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/563de50c-4ad2-466d-9972-cac854ee1937.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de4f964a-1f45-4866-a70d-4746b0d1f8f0",
+   "name": "Dragonfire 13 - #1/7",
+   "status": "ACTIVE",
+   "startAt": "2026-11-23T10:00:00Z",
+   "endAt": "2026-11-24T09:29:59.999Z",
+   "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/1d3b8b5d-61d0-4c9a-90c8-120114776074.png",
+   "detailsURL": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+   "linkURL": "https://albiononline.com/twitch",
+   "owner": "Sandbox Interactive",
+   "game": {
+    "id": "417528",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-albion-online"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Dragonfire Chest",
+     "minutes": 180,
+     "startAt": "2026-11-23T10:00:00Z",
+     "endAt": "2026-11-24T09:29:59.999Z",
+     "rewards": [
+      {
+       "name": "Dragonfire Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/528cc0ce-24c3-436f-8377-c0bf317bb9bf.png"
       }
      ]
     }
@@ -4562,6 +4514,41 @@
       {
        "name": "Awakened Wolf's Cowl",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5b348faf-aee9-4570-891a-56233234c170.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9b4955cb-d777-4cdf-aea7-5b6369ac0937",
+   "name": "JS2 Weekly 11.23",
+   "status": "ACTIVE",
+   "startAt": "2026-11-23T04:00:00Z",
+   "endAt": "2026-11-30T03:59:59.999Z",
+   "description": "Watch livestreams to claim your drops!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f5a5acee-b81e-46fd-affc-5532368e879c.png",
+   "detailsURL": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+   "linkURL": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+   "owner": "NetEase",
+   "game": {
+    "id": "515474",
+    "name": "NARAKA: BLADEPOINT",
+    "slug": "naraka-bladepoint",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/515474_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-naraka-bladepoint"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Special Random Gift",
+     "minutes": 60,
+     "startAt": "2026-11-23T04:00:00Z",
+     "endAt": "2026-11-30T03:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Special Random Gift",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/5e195fb4-18a8-4700-8d30-fd628324dca6.png"
       }
      ]
     }
