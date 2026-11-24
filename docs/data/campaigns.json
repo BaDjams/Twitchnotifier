@@ -1,298 +1,11 @@
 {
- "updatedAt": "2026-11-23T22:53:27Z",
+ "updatedAt": "2026-11-24T06:54:30Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "100e9d20-54f1-4907-8820-29c0c9ef9e8e",
-   "name": "2027 LAIC TCG Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-20T11:30:00Z",
-   "endAt": "2026-11-23T23:29:59.999Z",
-   "description": "https://trainer.pokemon.com/rewards",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/545e055a-e887-4d7a-b40d-933e88a1ead0.png",
-   "detailsURL": "https://trainer.pokemon.com/rewards",
-   "linkURL": "https://trainer.pokemon.com/rewards",
-   "owner": "The Pokémon Company",
-   "game": {
-    "id": "9618",
-    "name": "Pokémon Trading Card Game",
-    "slug": "pokemon-trading-card-game",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game"
-   },
-   "channels": [
-    "pokemontcg",
-    "pokemon"
-   ],
-   "channelCount": 2,
-   "drops": [
-    {
-     "name": "'27 LAIC Booster Packs",
-     "minutes": 30,
-     "startAt": "2026-11-20T11:30:00Z",
-     "endAt": "2026-11-23T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "LAIC '27 Booster Packs",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1e8f8d6c-7e23-4ebf-91c6-8ff0bb8c43b6.png"
-      }
-     ]
-    },
-    {
-     "name": "'27 LAIC Raikou EX",
-     "minutes": 45,
-     "startAt": "2026-11-20T11:30:00Z",
-     "endAt": "2026-11-23T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "LAIC '27 Raikou ex set",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c7f12cee-af50-45cc-9f0f-79b41ef91125.png"
-      }
-     ]
-    },
-    {
-     "name": "'27 LAIC Cosmetics",
-     "minutes": 60,
-     "startAt": "2026-11-20T11:30:00Z",
-     "endAt": "2026-11-23T23:29:59.999Z",
-     "rewards": [
-      {
-       "name": "LAIC '27 TCGL Cosmetics",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c21a35dd-5b99-4375-8028-42424ee33e60.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b094def0-7132-4b44-b273-ff0b180cd282",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-23T00:00:00Z",
-   "endAt": "2026-11-23T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/b725e9ae-0304-439a-939b-56e5c88bd478.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-23T00:00:00Z",
-     "endAt": "2026-11-23T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "32c8544e-c7b9-4155-a8b8-17d910d41ecc",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-23T20:30:00Z",
-   "endAt": "2026-11-24T00:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/84202651-82b4-4b90-99bc-e85e8e308574.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [
-    "coryphaeuschampionships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "C",
-     "minutes": 90,
-     "startAt": "2026-11-23T20:30:00Z",
-     "endAt": "2026-11-24T00:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9844bbb4-2a3f-4525-80a6-e1b7c314d50c",
-   "name": "V7.2 Genshin Impact Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-04T03:00:00Z",
-   "endAt": "2026-11-24T03:59:59.999Z",
-   "description": "Genshin Impact Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e595d8db-e0f8-43ee-99f4-5beaf9c65722.png",
-   "detailsURL": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
-   "linkURL": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
-   "owner": "Cognosphere",
-   "game": {
-    "id": "513181",
-    "name": "Genshin Impact",
-    "slug": "genshin-impact",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-genshin-impact"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 15,
-     "startAt": "2026-11-04T03:00:00Z",
-     "endAt": "2026-11-24T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Geodes of Replication*160",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dc5e2f56-331b-4ee6-beb8-9a06f36d7257.png"
-      }
-     ]
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 30,
-     "startAt": "2026-11-04T03:00:00Z",
-     "endAt": "2026-11-24T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Primogem*20",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c3f2d97e-d444-4afb-b16c-1b16666970d1.png"
-      }
-     ]
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 45,
-     "startAt": "2026-11-04T03:00:00Z",
-     "endAt": "2026-11-24T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Mora*20000",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/1dc1e006-ebe5-4ac8-9657-ed9d09b8bcfa.png"
-      }
-     ]
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 60,
-     "startAt": "2026-11-04T03:00:00Z",
-     "endAt": "2026-11-24T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Sanctifying Unction*4",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e498c800-2cf4-4573-8f13-7c658b9264ff.png"
-      }
-     ]
-    },
-    {
-     "name": "Genshin Impact Drops",
-     "minutes": 90,
-     "startAt": "2026-11-04T03:00:00Z",
-     "endAt": "2026-11-24T03:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Hero's Wit*3",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/19c80b97-382d-493d-80b7-3f3abdb91d04.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7adbf085-048e-44fe-8c22-0a82b44bb94d",
-   "name": "2027 LAIC TCG Co-Stream",
-   "status": "ACTIVE",
-   "startAt": "2026-11-20T12:00:00Z",
-   "endAt": "2026-11-24T07:59:59.999Z",
-   "description": "https://trainer.pokemon.com/rewards",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8ee1c95-a3d5-4ccb-b4f0-d12804a4f354.png",
-   "detailsURL": "https://trainer.pokemon.com/rewards",
-   "linkURL": "https://trainer.pokemon.com/rewards",
-   "owner": "The Pokémon Company",
-   "game": {
-    "id": "9618",
-    "name": "Pokémon Trading Card Game",
-    "slug": "pokemon-trading-card-game",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game"
-   },
-   "channels": [
-    "tchagelado",
-    "sygmaulf",
-    "gendel_8",
-    "yalilitastcg",
-    "moonsrefuge",
-    "guti",
-    "shmon_",
-    "kiske1320",
-    "laslashy",
-    "legendslima",
-    "lgcn",
-    "momotcg_",
-    "spragels",
-    "beeluxi",
-    "angus_random",
-    "azulgg",
-    "ravenhs",
-    "elmikawas",
-    "duelistaaprendiz",
-    "capitaoserket",
-    "dsln",
-    "sonejilli",
-    "eltioalonin",
-    "metapodparapresidente",
-    "laurafavela",
-    "reakka",
-    "druwh48",
-    "khnix",
-    "fabsrage",
-    "vgcargentina",
-    "mariyolo",
-    "linblake",
-    "jjosuplayss",
-    "sierradawn"
-   ],
-   "channelCount": 34,
-   "drops": [
-    {
-     "name": "'27 LAIC CoStream Cards",
-     "minutes": 45,
-     "startAt": "2026-11-20T12:00:00Z",
-     "endAt": "2026-11-24T07:59:59.999Z",
-     "rewards": [
-      {
-       "name": "LAIC '27 TCG Co-Stream",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6ca1f7c3-4a46-4af3-b47a-3ac1c22810a6.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "fb4fdeef-7147-48df-8e71-54fbb07bcc5f",
    "name": "Drop 11/17-11/24",
@@ -636,6 +349,76 @@
       {
        "name": "LAIC '27 VGC Co-Stream",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/7cb11578-6456-4d62-95c2-a9e889362160.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7adbf085-048e-44fe-8c22-0a82b44bb94d",
+   "name": "2027 LAIC TCG Co-Stream",
+   "status": "ACTIVE",
+   "startAt": "2026-11-20T12:00:00Z",
+   "endAt": "2026-11-24T07:59:59.999Z",
+   "description": "https://trainer.pokemon.com/rewards",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/c8ee1c95-a3d5-4ccb-b4f0-d12804a4f354.png",
+   "detailsURL": "https://trainer.pokemon.com/rewards",
+   "linkURL": "https://trainer.pokemon.com/rewards",
+   "owner": "The Pokémon Company",
+   "game": {
+    "id": "9618",
+    "name": "Pokémon Trading Card Game",
+    "slug": "pokemon-trading-card-game",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-pokemon-trading-card-game"
+   },
+   "channels": [
+    "tchagelado",
+    "sygmaulf",
+    "gendel_8",
+    "yalilitastcg",
+    "moonsrefuge",
+    "guti",
+    "shmon_",
+    "kiske1320",
+    "laslashy",
+    "legendslima",
+    "lgcn",
+    "momotcg_",
+    "spragels",
+    "beeluxi",
+    "angus_random",
+    "azulgg",
+    "ravenhs",
+    "elmikawas",
+    "duelistaaprendiz",
+    "capitaoserket",
+    "dsln",
+    "sonejilli",
+    "eltioalonin",
+    "metapodparapresidente",
+    "laurafavela",
+    "reakka",
+    "druwh48",
+    "khnix",
+    "fabsrage",
+    "vgcargentina",
+    "mariyolo",
+    "linblake",
+    "jjosuplayss",
+    "sierradawn"
+   ],
+   "channelCount": 34,
+   "drops": [
+    {
+     "name": "'27 LAIC CoStream Cards",
+     "minutes": 45,
+     "startAt": "2026-11-20T12:00:00Z",
+     "endAt": "2026-11-24T07:59:59.999Z",
+     "rewards": [
+      {
+       "name": "LAIC '27 TCG Co-Stream",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/6ca1f7c3-4a46-4af3-b47a-3ac1c22810a6.png"
       }
      ]
     }
@@ -1377,6 +1160,41 @@
    ]
   },
   {
+   "id": "2ca76aff-14bd-49ff-8c9a-ddfca4257233",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-24T00:00:00Z",
+   "endAt": "2026-11-24T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e31eeebe-4f86-41e7-8640-403a18b69e02.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-24T00:00:00Z",
+     "endAt": "2026-11-24T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "73d9b4ef-a628-432d-8d1d-198d9ce15350",
    "name": "Spectator's Collection",
    "status": "ACTIVE",
@@ -1595,12 +1413,16 @@
    "channels": [
     "vanexxofficial",
     "smittystone",
+    "luketheninja",
     "vodible",
+    "bencerr_",
     "nautilifts",
     "tap_",
+    "jonvlogs",
     "neu_row",
     "patonicio",
     "starhabit",
+    "hellodesi",
     "crazykitty33",
     "lunarcece",
     "safiro_fk",
@@ -1615,86 +1437,82 @@
     "03_desu",
     "monteiroytb",
     "persixo",
+    "blair0nline",
+    "japanesecurry",
     "justmichiko",
     "snakecase2",
+    "cece_fps",
     "gale",
+    "fiveby",
     "shaneoshea",
+    "jubby",
     "gammasaurusrex",
     "aldo_geo",
     "sophy",
+    "darlingdollcraft",
     "spartan_tano",
     "hadi_ow",
+    "kira_hoeru",
     "shpeediry",
     "quela3232",
     "starrslinger",
     "hoshizorattv",
     "tiojarston",
     "mykanexp",
+    "rhyme",
+    "imkitsuki",
     "theamazingspiderfan31",
     "hanzothagod",
+    "aquaburstr",
+    "clever__ghosts",
     "knuten",
+    "andtgro",
     "trvbis",
     "averagejonas",
+    "egylou",
     "kragiee",
     "rakattack",
     "luckyzeal",
+    "rvotaenota",
+    "lariex",
     "lanteha",
     "captainrocket685",
+    "legallex",
     "crystalmolly",
     "tk_keem",
     "sisotarou3",
+    "nektagg",
     "purpzuki",
+    "jpenumbra",
     "mokeymr",
     "twotaptony",
+    "coachdsr",
+    "bhops",
     "necros",
     "cousingamerstv",
+    "chicknbros",
     "diables",
     "dmitry_bale",
     "yoojin",
     "aomi_matcha",
+    "bedtime5tory",
+    "jko_fps",
     "marvelrivalsamer",
     "froggerow",
     "thebestlandshark",
     "mystic_mynx",
     "adhdash1",
     "sjam",
+    "larem1n",
+    "maplexmocha",
     "jay3",
     "multiverso_rivals",
     "championggs",
-    "vicisity",
-    "xamaelruix",
-    "nerdcg",
-    "dokibird",
-    "baegumm",
-    "tminnzy",
-    "masque_rivals",
-    "thatpunchkid",
-    "lytepk",
-    "vaszomega",
-    "jaguarxc",
-    "sinatraa",
-    "adrimiravel",
-    "texastecher",
-    "ummdoc",
-    "nitrao",
-    "simplynickish",
-    "shadow_gg_",
-    "fogamr",
-    "parzaimz",
-    "kayjii",
-    "flats",
-    "princess",
-    "marvelrivalsesp",
-    "roguemr_",
-    "northernlion",
-    "aasokaa",
-    "dilascio_",
-    "colosso",
-    "stickyboa",
-    "marvelrivals_emea",
-    "qtsnac"
+    "eyyydavs",
+    "marvelobz",
+    "vicisity"
    ],
-   "channelCount": 425,
+   "channelCount": 636,
    "drops": [
     {
      "name": "Chrono Tokens *100",
