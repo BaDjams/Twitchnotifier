@@ -1,155 +1,11 @@
 {
- "updatedAt": "2026-11-26T23:15:11Z",
+ "updatedAt": "2026-11-27T05:18:19Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "eaed966d-d391-4548-bfd6-f23902992097",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-26T00:00:00Z",
-   "endAt": "2026-11-26T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4eb16f3b-1536-41d4-aea2-0b6e72dfeecc.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-26T00:00:00Z",
-     "endAt": "2026-11-26T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "597acc95-f2c2-4e54-8f42-b99764967174",
-   "name": "1000 Pearls Drop",
-   "status": "ACTIVE",
-   "startAt": "2026-11-21T01:30:34Z",
-   "endAt": "2026-11-26T23:59:59.999Z",
-   "description": "Watch VisionZ44 play SharkAttack to earn 1,000 Pearls - the in-game currency used to buy Shark DNA, combat buffs, and shop items. Connect your Twitch account below so your Pearls get credited automatically once you've watched long enough to unlock the drop.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4683b5b7-9cb5-4287-81ab-af7d7f9e696b.png",
-   "detailsURL": "https://visionz44.com",
-   "linkURL": "https://visionz44.com/login",
-   "owner": "V44 Gaming",
-   "game": {
-    "id": "1731048820",
-    "name": "SharkAttack",
-    "slug": "sharkattack",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/1731048820_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-sharkattack"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "1000 Pearls",
-     "minutes": 240,
-     "startAt": "2026-11-21T01:30:34Z",
-     "endAt": "2026-11-26T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "1000 Pearls",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/default.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "af7b2811-4856-4e2f-bc47-ccd23e5a8448",
-   "name": "Community Drops #230",
-   "status": "ACTIVE",
-   "startAt": "2026-11-26T23:00:00Z",
-   "endAt": "2026-11-27T00:59:59.999Z",
-   "description": "Watch VoidFissureBR for 30 minutes to receive a Noggle Statue - Erra decoration!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9bbe10d5-eebb-4583-a928-b2a7e1848028.jpeg",
-   "detailsURL": "https://forums.warframe.com/topic/1533310-community-stream-schedule-november-23-29-2026/",
-   "linkURL": "https://www.warframe.com/user",
-   "owner": "Digital Extremes",
-   "game": {
-    "id": "66170",
-    "name": "Warframe",
-    "slug": "warframe",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-warframe"
-   },
-   "channels": [
-    "voidfissurebr"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "Noggle Statue - Erra",
-     "minutes": 30,
-     "startAt": "2026-11-26T23:00:00Z",
-     "endAt": "2026-11-27T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Erra Noggle",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/0e9be6c3-443d-4dcf-95ee-e31916d01de5.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "242bf8a0-46b6-469e-b0ba-cae07b494cc2",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-26T21:38:20Z",
-   "endAt": "2026-11-27T01:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/512841a0-e7c0-4484-b138-3d3d49a27a71.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [
-    "coryphaeuschampionships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "c",
-     "minutes": 90,
-     "startAt": "2026-11-26T21:38:20Z",
-     "endAt": "2026-11-27T01:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "ae69875f-22fc-4925-a021-89137cef32a2",
    "name": "AOCP Flamescale 8 - #4/7",
@@ -1652,6 +1508,41 @@
       {
        "name": "Viewer Box 1.94",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/16f0f3e2-cfd6-4313-a802-87dd093fb31c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fe8949cb-2683-4e89-a81e-f32933ab718b",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-27T00:00:00Z",
+   "endAt": "2026-11-27T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9011e31a-ae02-4cca-ac76-1eb67f7749b8.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 180,
+     "startAt": "2026-11-27T00:00:00Z",
+     "endAt": "2026-11-27T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
@@ -3305,11 +3196,8 @@
     "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/498523-120x160.jpg",
     "topic": "twitchnotifier-dz7n7k-conquerors-blade"
    },
-   "channels": [
-    "624103470",
-    "icecolatat"
-   ],
-   "channelCount": 2,
+   "channels": [],
+   "channelCount": 0,
    "drops": [
     {
      "name": "Phase 1",
@@ -7191,6 +7079,101 @@
       {
        "name": "Oroberyl*150",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/e1064ca4-0a8d-4766-8fa0-7fd65a79f5ee.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a67d3f57-02bd-4b1e-817a-fa917c9c8f90",
+   "name": "V3.0 Infinity Nikki",
+   "status": "ACTIVE",
+   "startAt": "2026-11-27T03:00:00Z",
+   "endAt": "2026-12-25T01:59:59.999Z",
+   "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/2a732920-8dd9-4794-b4e2-3c4505bd096f.png",
+   "detailsURL": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+   "linkURL": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+   "owner": "INFOLD PTE. LTD.",
+   "game": {
+    "id": "2014795392",
+    "name": "Infinity Nikki",
+    "slug": "infinity-nikki",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2014795392_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-infinity-nikki"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Diamond×10",
+     "minutes": 15,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Diamond×10",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/af8f4ab0-c226-4968-84da-1ff971d2beb1.png"
+      }
+     ]
+    },
+    {
+     "name": "Diamond×20",
+     "minutes": 30,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Diamond×20",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/85d79d11-c4de-4c5c-a1f5-5ef727a55ad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Bling×20,000",
+     "minutes": 45,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Bling×20,000",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/33af7605-e178-4cf1-88df-e4d7cc1b1f25.png"
+      }
+     ]
+    },
+    {
+     "name": "Thread of Purity×100",
+     "minutes": 60,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Thread of Purity×100",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/2e8ffb3c-8998-4d7c-a9e4-014b03b35b82.png"
+      }
+     ]
+    },
+    {
+     "name": "Shining Particle×100",
+     "minutes": 90,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Shining Particle×100",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ae7fec60-582b-4508-9502-828fe9e69731.png"
+      }
+     ]
+    },
+    {
+     "name": "Shiny Bubbles x100",
+     "minutes": 120,
+     "startAt": "2026-11-27T03:00:00Z",
+     "endAt": "2026-12-25T01:59:59.999Z",
+     "rewards": [
+      {
+       "name": "3.0 Shiny Bubblesx100",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/fb872059-bd2e-4268-83a1-9a32635217fd.png"
       }
      ]
     }
