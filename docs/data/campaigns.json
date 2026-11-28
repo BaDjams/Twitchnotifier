@@ -1,289 +1,11 @@
 {
- "updatedAt": "2026-11-27T23:41:24Z",
+ "updatedAt": "2026-11-28T07:35:43Z",
  "ntfy": {
   "server": "https://ntfy.sh",
   "prefix": "twitchnotifier-dz7n7k",
   "newGames": "twitchnotifier-dz7n7k-nouveaux-jeux"
  },
  "campaigns": [
-  {
-   "id": "fe8949cb-2683-4e89-a81e-f32933ab718b",
-   "name": "November Drops",
-   "status": "ACTIVE",
-   "startAt": "2026-11-27T00:00:00Z",
-   "endAt": "2026-11-27T23:59:59.999Z",
-   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9011e31a-ae02-4cca-ac76-1eb67f7749b8.png",
-   "detailsURL": "https://www.quinfall.com/twitch-drops",
-   "linkURL": "https://www.quinfall.com/twitch-drops",
-   "owner": "Vawraek Technology",
-   "game": {
-    "id": "2128139746",
-    "name": "The Quinfall",
-    "slug": "the-quinfall",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-the-quinfall"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "Twitch Reward Chest",
-     "minutes": 180,
-     "startAt": "2026-11-27T00:00:00Z",
-     "endAt": "2026-11-27T23:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Twitch Reward Chest",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1059d9b6-e6d1-40b6-8f42-7b15ceddba4f",
-   "name": "November Drops ",
-   "status": "ACTIVE",
-   "startAt": "2026-11-27T20:30:00Z",
-   "endAt": "2026-11-28T00:29:59.999Z",
-   "description": "Coryphaeus Fall Drops",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/894180b8-4244-4594-a21b-8710196cc6ad.png",
-   "detailsURL": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-   "linkURL": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-   "owner": "Coryphaeus Corp",
-   "game": {
-    "id": "707002701",
-    "name": "Coryphaeus Championships",
-    "slug": "coryphaeus-championships",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/707002701_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-coryphaeus-championships"
-   },
-   "channels": [
-    "coryphaeuschampionships"
-   ],
-   "channelCount": 1,
-   "drops": [
-    {
-     "name": "C",
-     "minutes": 90,
-     "startAt": "2026-11-27T20:30:00Z",
-     "endAt": "2026-11-28T00:29:59.999Z",
-     "rewards": [
-      {
-       "name": "💰 500 C-Coins ",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/08aec75b-fc8a-4460-8929-1a9f49a0ad0c.png"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6f7ea966-b511-43b9-a468-acace48dc4c5",
-   "name": "FH tatusiu_kev Nov 27th",
-   "status": "ACTIVE",
-   "startAt": "2026-11-27T17:00:00Z",
-   "endAt": "2026-11-28T00:59:59.999Z",
-   "description": "A GUARANTEE of 1 SCAVENGER CRATE to each viewer for every 30 minutes of cumulative watching time.",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9aa0b625-80d8-4d20-91c6-6256b550b5b7.jpeg",
-   "detailsURL": "https://ubi.li/PFaDk",
-   "linkURL": "https://drops-register.ubi.com/",
-   "owner": "Ubisoft",
-   "game": {
-    "id": "490382",
-    "name": "For Honor",
-    "slug": "for-honor",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/490382-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-for-honor"
-   },
-   "channels": [
-    "forhonorgame",
-    "ubisoft",
-    "tatusiu_kev"
-   ],
-   "channelCount": 3,
-   "drops": [
-    {
-     "name": "Tier 1",
-     "minutes": 30,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 2",
-     "minutes": 60,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 3",
-     "minutes": 90,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 4",
-     "minutes": 120,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 5",
-     "minutes": 150,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 6",
-     "minutes": 180,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 7",
-     "minutes": 210,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 8",
-     "minutes": 240,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 9",
-     "minutes": 270,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    },
-    {
-     "name": "Tier 10",
-     "minutes": 300,
-     "startAt": "2026-11-27T17:00:00Z",
-     "endAt": "2026-11-28T00:59:59.999Z",
-     "rewards": [
-      {
-       "name": "Scavenger Crate",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/dfa343f3-9459-405b-a1d4-bdc5a0ccdf7a.jpeg"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "35d08416-f37d-40f1-b2d3-87dbe8059a75",
-   "name": "Off Season 1",
-   "status": "ACTIVE",
-   "startAt": "2026-11-13T05:11:00Z",
-   "endAt": "2026-11-28T05:10:59.999Z",
-   "description": "Meow",
-   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/47da874b-6801-45fa-ad47-b6472a140ab8.png",
-   "detailsURL": "https://cc42.net",
-   "linkURL": "https://cc42.net",
-   "owner": "Meowmind LLC",
-   "game": {
-    "id": "856072301",
-    "name": "Captain's Call",
-    "slug": "captains-call",
-    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/856072301_IGDB-120x160.jpg",
-    "topic": "twitchnotifier-dz7n7k-captains-call"
-   },
-   "channels": [],
-   "channelCount": 0,
-   "drops": [
-    {
-     "name": "42 Gold",
-     "minutes": 60,
-     "startAt": "2026-11-13T05:11:00Z",
-     "endAt": "2026-11-28T05:10:59.999Z",
-     "rewards": [
-      {
-       "name": "42 Gold",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/c5096ea4-abcf-46ec-8135-a4c978912e10.png"
-      }
-     ]
-    },
-    {
-     "name": "42 Potions",
-     "minutes": 270,
-     "startAt": "2026-11-13T05:11:00Z",
-     "endAt": "2026-11-28T05:10:59.999Z",
-     "rewards": [
-      {
-       "name": "42 Potions",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/9308c2c4-1eb7-4838-bba1-2580c37d0776.png"
-      }
-     ]
-    },
-    {
-     "name": "24 Catnip",
-     "minutes": 900,
-     "startAt": "2026-11-13T05:11:00Z",
-     "endAt": "2026-11-28T05:10:59.999Z",
-     "rewards": [
-      {
-       "name": "24 Catnip",
-       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/8881c47f-ee3c-4d50-bab9-e80d81680b54.png"
-      }
-     ]
-    }
-   ]
-  },
   {
    "id": "60d69594-77ea-4061-ae2d-7a3634840636",
    "name": "Dragonfire 13 - #5/7",
@@ -772,6 +494,41 @@
    ]
   },
   {
+   "id": "00d47459-49c8-42e3-a291-accc1e46e613",
+   "name": "E7WC 2026 Grand Final",
+   "status": "ACTIVE",
+   "startAt": "2026-11-28T03:00:00Z",
+   "endAt": "2026-11-28T14:59:59.999Z",
+   "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Grand Final.",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4ac4f119-e5e9-4dcd-93d0-54872cf948d1.png",
+   "detailsURL": "https://epic7.onstove.com/drops/twitch",
+   "linkURL": "https://epic7.onstove.com/drops/twitch",
+   "owner": "Smilegate",
+   "game": {
+    "id": "510056",
+    "name": "Epic Seven",
+    "slug": "epic-seven",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/510056_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-epic-seven"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "E7WC 2026 Grand Final",
+     "minutes": 15,
+     "startAt": "2026-11-28T03:00:00Z",
+     "endAt": "2026-11-28T14:59:59.999Z",
+     "rewards": [
+      {
+       "name": "E7WC 2026 Grand Final",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/073f43e8-eb50-443b-8d82-0f03ff7603e0.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "ac0193d6-d636-46fa-a024-0f2111a9b049",
    "name": "Mobile Drop 232",
    "status": "ACTIVE",
@@ -1038,6 +795,210 @@
    ]
   },
   {
+   "id": "9f268f17-1d4c-4b3a-b13d-352a2dd93287",
+   "name": "SO2 JumbleRumble Major #2",
+   "status": "ACTIVE",
+   "startAt": "2026-11-28T06:45:00Z",
+   "endAt": "2026-11-28T18:59:59.999Z",
+   "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.   \n Как получить награды:              \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        – Накопите необходимое время просмотра на официальном канале Standoff 2.          \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/31bd66d5-dbb5-472a-8620-cf5c57e3187e.png",
+   "detailsURL": "https://install.standoff2.com/ru/twitch-drops",
+   "linkURL": "https://link.standoff2.com/twitch/link/",
+   "owner": "Axlebolt",
+   "game": {
+    "id": "513501",
+    "name": "Standoff 2",
+    "slug": "standoff-2",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/513501_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-standoff-2"
+   },
+   "channels": [
+    "standoff2esports_ru",
+    "epic_standoff2",
+    "standoff2esports_br",
+    "standoff2esports_en"
+   ],
+   "channelCount": 4,
+   "drops": [
+    {
+     "name": "finals_reward_1",
+     "minutes": 60,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate+50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/f9f8b3e9-ea14-4e68-b8db-0918e1d5247d.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_2",
+     "minutes": 120,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate+50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/d452a91d-5dab-4867-8d4e-1bf85abf36c6.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_3",
+     "minutes": 180,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Esports 2026\" Event Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/891db414-3ba5-4938-ab28-44d13e98012d.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_4",
+     "minutes": 240,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate+50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/13817a18-9968-48ab-a84a-da8f578328ec.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_5",
+     "minutes": 300,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Esports 2026\" Event Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/88395f24-104a-49b7-8b37-66f85d8dcee9.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_6",
+     "minutes": 360,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Jumble Rumble\" Crate+50",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/3d32bed5-7b2c-4433-9dd6-573302251288.png"
+      }
+     ]
+    },
+    {
+     "name": "finals_reward_7",
+     "minutes": 420,
+     "startAt": "2026-11-28T06:45:00Z",
+     "endAt": "2026-11-28T18:59:59.999Z",
+     "rewards": [
+      {
+       "name": "\"Esports 2026\" Event Box",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/43c882c3-6704-4726-8fba-0a85cbc6e263.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "21d65b57-a4dc-488c-a480-0834d139ffc7",
+   "name": "WCI Drops #3",
+   "status": "ACTIVE",
+   "startAt": "2026-11-28T06:30:00Z",
+   "endAt": "2026-11-28T19:29:59.999Z",
+   "description": "WCI Drops #3",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/9c859fa4-7ecb-4092-997e-9aee80472176.jpeg",
+   "detailsURL": "https://worldoftanks.eu//news/competitive-gaming/wci-announcement-2026/",
+   "linkURL": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+   "owner": "Wargaming",
+   "game": {
+    "id": "27546",
+    "name": "World of Tanks",
+    "slug": "world-of-tanks",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-world-of-tanks"
+   },
+   "channels": [
+    "fr3ddy",
+    "dak_28",
+    "chessgenie",
+    "l4ny_",
+    "sakres_stream",
+    "dani2999_",
+    "0miki0_",
+    "dejdy_",
+    "worldoftanks",
+    "hectr888",
+    "shadow_thelonewolf",
+    "newmultishow",
+    "jxcr",
+    "skifler_wot",
+    "mrscheff",
+    "theruev",
+    "synop_s",
+    "mautz_",
+    "monsteryoo",
+    "cyganzor",
+    "iicoyote",
+    "sh0kerix",
+    "vgostiua",
+    "tankelit"
+   ],
+   "channelCount": 24,
+   "drops": [
+    {
+     "name": "Drop 1",
+     "minutes": 60,
+     "startAt": "2026-11-28T06:30:00Z",
+     "endAt": "2026-11-28T19:29:59.999Z",
+     "rewards": [
+      {
+       "name": "2 Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/021f4b69-3401-4513-af07-1c72deba8b10.png"
+      },
+      {
+       "name": "2x Personal Reserves",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/445b2aea-e3eb-4b51-8f7d-f0f011579813.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 2",
+     "minutes": 120,
+     "startAt": "2026-11-28T06:30:00Z",
+     "endAt": "2026-11-28T19:29:59.999Z",
+     "rewards": [
+      {
+       "name": "6x Decals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/eda7c039-af05-4de6-93e6-ebe5cb70f32e.png"
+      },
+      {
+       "name": "6x Decals",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/99963674-aea4-44b4-b1ab-cf8ad5a9dcd8.png"
+      }
+     ]
+    },
+    {
+     "name": "Drop 3",
+     "minutes": 240,
+     "startAt": "2026-11-28T06:30:00Z",
+     "endAt": "2026-11-28T19:29:59.999Z",
+     "rewards": [
+      {
+       "name": "1x Mystery Drop",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/20d7f99c-37bf-4b90-8d84-697036d3c971.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "ec6c5d88-fe26-4f05-8a13-3ee630a5f3fd",
    "name": "Viewer Box 1.94 - D3",
    "status": "ACTIVE",
@@ -1067,6 +1028,53 @@
       {
        "name": "Viewer Box 1.94",
        "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/16f0f3e2-cfd6-4313-a802-87dd093fb31c.png"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6373bbd8-d08b-4d72-8d2a-a5858d5bfa51",
+   "name": "November Drops",
+   "status": "ACTIVE",
+   "startAt": "2026-11-28T00:00:00Z",
+   "endAt": "2026-11-28T23:59:59.999Z",
+   "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+   "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/78c058d6-b9f5-48b0-a91a-99cdd96a1d3e.png",
+   "detailsURL": "https://www.quinfall.com/twitch-drops",
+   "linkURL": "https://www.quinfall.com/twitch-drops",
+   "owner": "Vawraek Technology",
+   "game": {
+    "id": "2128139746",
+    "name": "The Quinfall",
+    "slug": "the-quinfall",
+    "boxArt": "https://static-cdn.jtvnw.net/ttv-boxart/2128139746_IGDB-120x160.jpg",
+    "topic": "twitchnotifier-dz7n7k-the-quinfall"
+   },
+   "channels": [],
+   "channelCount": 0,
+   "drops": [
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 150,
+     "startAt": "2026-11-28T00:00:00Z",
+     "endAt": "2026-11-28T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
+      }
+     ]
+    },
+    {
+     "name": "Twitch Reward Chest",
+     "minutes": 300,
+     "startAt": "2026-11-28T00:00:00Z",
+     "endAt": "2026-11-28T23:59:59.999Z",
+     "rewards": [
+      {
+       "name": "Twitch Reward Chest",
+       "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/REWARD/ba6e111d-8838-4c14-b8a6-3e3a6bd0dad2.png"
       }
      ]
     }
